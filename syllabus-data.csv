@@ -27,7 +27,7 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 26,BIOL,1108,,2021,Spring,Barb,NA,No,NA,No,NA,0.517,0.258,0,0.224,0,
 27,BIOL,1108,,2022,Spring,Dolan,NA,Yes,27-LO.txt,No,NA,0.7,0.1,0.1,0.1,0,
 28,BIOL,1108,,2022,Fall,Farmer,Trapnell,Yes,28-LO.txt,No,NA,0.64,0,0,0.35,0.01,Professionalism
-29,,,,,,,,,,,,,,,,,
+29,BIOL ,1108,,2022,Summer, Meyers ,NA,Yes,29-LO.txt,No,NA,0.6,0.09,0.09,0.21,0,
 30,,,,,,,,,,,,,,,,,
 31,,,,,,,,,,,,,,,,,
 32,,,,,,,,,,,,,,,,,
