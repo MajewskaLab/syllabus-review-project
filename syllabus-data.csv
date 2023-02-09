@@ -32,7 +32,7 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 31,BIOL,1108,L,2021,Spring,Martin,NA,Yes,31-LO.txt,No,NA,0,0,0,1,0,,Yes,31-Grading.txt,Yes,31-Attend.txt
 32,BIOL,1108,,2020,Fall,Pucko,NA,Yes,32-LO.txt,No,NA,0.5,0.17,0,0.305,0,,Yes,32-Grading.txt,No,NA
 33,BIOL,1108,,2012,Fall,Moore,Stanger-Hall,Yes,33-LO.txt,No,NA,0.714285714,0,0.085714286,0.2,0,,No,NA,No,NA
-34,BIOL,1108,,2018,Fall,Trapnell,Farmer,,,,,0.605,0,0.061111111,415,0.006349206,Professionalism,Yes,34-Grading.txt,Yes,34-Attend.txt
+34,BIOL,1108,,2018,Fall,Trapnell,Farmer,Yes,34-LO.txt,No,NA,0.605,0,0.061111111,415,0.006349206,Professionalism,Yes,34-Grading.txt,Yes,34-Attend.txt
 35,BIOL,1108,L,2011,Fall,Miller,NA,No,NA,No,NA,0,0.303030303,0,0.590909091,0.106060606,Peer/GLA evaluation,Yes,35-Grading.txt,Yes,35-Attend.txt
 36,,,,,,,,,,,,,,,,,,,,,
 37,,,,,,,,,,,,,,,,,,,,,
