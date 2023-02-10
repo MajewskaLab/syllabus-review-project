@@ -34,15 +34,15 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 33,BIOL,1108,,2012,Fall,Moore,Stanger-Hall,Yes,33-LO.txt,No,NA,0.714285714,0,0.085714286,0.2,0,,No,NA,No,NA
 34,BIOL,1108,,2018,Fall,Trapnell,Farmer,Yes,34-LO.txt,No,NA,0.605,0,0.061111111,415,0.006349206,Professionalism,Yes,34-Grading.txt,Yes,34-Attend.txt
 35,BIOL,1108,L,2011,Fall,Miller,NA,No,NA,No,NA,0,0.303030303,0,0.590909091,0.106060606,Peer/GLA evaluation,Yes,35-Grading.txt,Yes,35-Attend.txt
-36,BIOL,1108,L,2012,Spring,Miller,NA,No,NA,No,NA,0,0.303030303030303,0,0.590909090909091,0.106060606060606,Peer/GLA evaluation,Yes,36-Grading.txt,Yes,36-Attend.txt
-37,BIOL,1108,L,2013,Spring,Miller,NA,No,NA,No,NA,0,0.303030303030303,0,0.590909090909091,0.106060606060606,Peer/GLA evaluation,Yes,37-Grading.txt,Yes,37-Attend.txt
+36,BIOL,1108,L,2012,Spring,Miller,NA,No,NA,No,NA,0,0.303030303,0,0.590909091,0.106060606,Peer/GLA evaluation,Yes,36-Grading.txt,Yes,36-Attend.txt
+37,BIOL,1108,L,2013,Spring,Miller,NA,No,NA,No,NA,0,0.303030303,0,0.590909091,0.106060606,Peer/GLA evaluation,Yes,37-Grading.txt,Yes,37-Attend.txt
 38,BIOL,1990,,2021,Spring,Farmer,NA,No,NA,No,NA,0,0,0.5,0.5,0,Both lead to a S/U? ,Yes,38-Grading.txt,Yes,38-Attend.txt
-39,ENTO,2010,,2022,Spring,Burke,NA,Yes,39-LO.txt,No,NA,0.52,0.19,0.19,0.10,0,,Yes,39-Grading.txt,No,NA
+39,ENTO,2010,,2022,Spring,Burke,NA,Yes,39-LO.txt,No,NA,0.52,0.19,0.19,0.1,0,,Yes,39-Grading.txt,No,NA
 40,ENTO,2010,,2022,Fall,Guillebeau,NA,No,NA,No,NA,0.8,0,0,0,0.2,Mandatory orders,No,NA,Yes,40-Attend.txt
-41,,,,,,,,,,,,,,,,,,,,,
-42,,,,,,,,,,,,,,,,,,,,,
-43,,,,,,,,,,,,,,,,,,,,,
-44,,,,,,,,,,,,,,,,,,,,,
+41,HONS,2070,H,2010,Fall,Dore,NA,Yes,41-LO.txt,No,NA,0.25,0.5,0,0.25,0,,Yes,41-Grading.txt,No,NA
+42,HONS,2080,H,2013,Spring,Freeman-Lynde,NA,No,NA,No,NA,0.555555556,Jan-00,0,0.222222222,0,,No,NA,Yes,42-Attend.txt
+43,BIOL,2103,H,2021,Spring,Beyette,NA,Yes,43-LO.txt,No,NA,0.4,0.1,0,0.45,0.05,Service Learning Outreach,No,NA,No,NA
+44,BIOL,2103,H,NA,Fall,Brickman,NA,No,NA,No,NA,0.35,0.15,0,0.45,0.05,Service Learning Outreach,No,NA,No,NA
 45,,,,,,,,,,,,,,,,,,,,,
 46,,,,,,,,,,,,,,,,,,,,,
 47,,,,,,,,,,,,,,,,,,,,,
