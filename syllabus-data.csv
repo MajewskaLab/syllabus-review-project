@@ -52,7 +52,7 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 51,BIOL,2108,H,2011,Spring,Lemons,NA,Yes,51-LO.txt,No,NA,0.56,0.03,0.11,0.3,0,,Yes,51-Grading.txt,Yes,51-Attend.txt,
 52,BIOL,2108,H,2020,Fall,Lukowitz,Peterson,Yes,52-LO.txt,No,NA,0.692307692,0,0,0.307692308,0,,Yes,52-Grading.txt,No,NA,
 53,BIOL,2108,H,2020,Fall,Wyatt,NA,Yes,53-LO.txt,No,NA,0.8,0.2,0,0,0,,Yes,53-Grading.txt,No,NA,
-54,,,,,,,,,,,,,,,,,,,,,,
+54,BIOL,2900,,NA,NA,Langford,Eisner,No,NA,No,NA,0,0,0,1,0,,No,NA,Yes,54-Attend.txt,No year or semester provided.
 55,,,,,,,,,,,,,,,,,,,,,,
 56,,,,,,,,,,,,,,,,,,,,,,
 57,,,,,,,,,,,,,,,,,,,,,,
