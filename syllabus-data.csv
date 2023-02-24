@@ -17,7 +17,7 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 16,BIOL,1104,L,2013,Spring,Miller,NA,No,NA,No,NA,0,0.35,0,0.65,0,,Yes,16-Grading.txt,Yes,16-Attend.txt,
 17,BIOL,1104,,2022,Spring,Meyers,NA,Yes,17-LO.txt,Yes,17-DEI.txt,0.4,0.1,0.1,0.4,0,,Yes,17-Grading.txt,Yes,17-Attend.txt,
 18,BIOL,1107,,2021,Fall,Armstrong,NA,No,NA,No ,NA,0.7,0.1,0.1,0.1,0,,Yes,18-Grading.txt,No,NA,
-19,BIOL,1107,,2010,Spring,Barstow,DerVartanian,No,NA,No,NA,0.7,0,0,0.3,0,,Yes,,Yes,19-Attend.txt,
+19,BIOL,1107,,2010,Spring,Barstow,DerVartanian,No,NA,No,NA,0.7,0,0,0.3,0,,Yes,NA,Yes,19-Attend.txt,
 20,BIOL,1107,,2021,Fall,Dees,NA,No,NA,No,NA,0.7,0,0,0.3,0,,Yes,20-Grading.txt,No,NA,
 21,BIOL,1107,,2021,Spring,McEachern,NA,No,NA,No,NA,0.72,0,0,0.28,0,,Yes,21-Grading.txt,Yes,21-Attend.txt,
 22,BIOL,1107,,2021,Spring,Moore,NA,Yes,22-LO.txt,No,NA,0,0.6,0,0.4,0,,Yes,22-Grading.txt,Yes,22-Attend.txt,
@@ -57,7 +57,7 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 56,CBIO,3000,,2018,Fall,Safer,NA,Yes,56-LO.txt,No,NA,1,0,0,0,0,,Yes,56-Grading.txt,Yes,56-Attend.txt,Lecture and Lab 
 57,CBIO,3000,,2012,Fall,Said,NA,No,NA,No,NA,0,0.55,0.07,0.08,0.3,Lab,Yes,57-Grading.txt,No,NA,Lecture and Lab 
 58,CBIO,3000,,2015,Spring,Williams,Holliday,Yes,57-LO.txt,No,NA,0.69,0.05,0.05,0,0.3,Lab,Yes,58-Grading.txt,Yes,57-Attend.txt,Lecture and Lab 
-59,GENE,3000,,2010,Fall,Anderson,Promislow,No,NA,No,NA,1,0,0,0,0,0,No,NA,No,NA,
+59,GENE,3000,,2010,Fall,Anderson,Promislow,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,
 60,GENE,3000,,2017,Fall,Andrews,NA,Yes,60-LO.txt,No,NA,0.7,0.07,0,20.05,0.025,Evaluations,Yes,60-Grading.txt,Yes,60-Attend.txt,
 61,GENE,3000,,2011,Spring,Hamrick,Arnold,No,NA,No,NA,0.75,0.25,0,0,0,,No,NA,Yes,61-Attend.txt,
 62,GENE,3000,,2012,Summer,Hall,NA,No,NA,No,NA,0.9,0,0.1,0,0,,No,NA,Yes,61-Attend.txt,
