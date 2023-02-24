@@ -63,12 +63,12 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 62,GENE,3000,,2012,Summer,Hall,NA,No,NA,No,NA,0.9,0,0.1,0,0,,No,NA,Yes,61-Attend.txt,
 63,GENE,3000,,2021,Spring,Hunt,NA,Yes,63-LO.txt,No,NA,0.7,0,0.15,0.15,0,,No,NA,No,NA,
 64,GENE,3000,,2020,Fall,Mauricio,NA,Yes,64-LO.txt,No,NA,0.22,0.49,0.1,0.19,0,,No,NA,Yes,64-Attend.txt,
-65,,,,,,,,,,,,,,,,,,,,,,
-66,,,,,,,,,,,,,,,,,,,,,,
-67,,,,,,,,,,,,,,,,,,,,,,
-68,,,,,,,,,,,,,,,,,,,,,,
-69,,,,,,,,,,,,,,,,,,,,,,
-70,,,,,,,,,,,,,,,,,,,,,,
+65,GENE,3000,,2009,Fall,Promislow,Moeller,Yes,65-LO.txt,No,NA,1,0,0,0,0,,Yes,65-Grading.txt,No,NA,
+66,GENE,3000,,2012,NA,Promislow,Wares,Yes,66-LO.txt,No,NA,1,0,0,0,0,,Yes,66-Grading.txt,No,Na,No semster provided
+67,GENE,3000,,2011,Fall,Promislow,Wares,Yes,67-LO.txt,No,NA,1,0,0,0,0,,Yes,67-Grading.txt,No,Na,
+68,PMCY,3000,,2022,Fall,Momany,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,Yes,68-Attend.txt,
+69,CBIO,3010,,2018,Fall,Nichols,NA,No,69-LO.txt,No,NA,0.55,0.15,0,0,0.3,Lab Practical Average,,NA,Yes,NA,Lecture and Lab 
+70,PATH,3010,,2021,Spring,Brewer,NA,No,NA,No,NA,0.8,0.1,0.1,0,0,,Yes,70-Grading.txt,Yes,70-Attend.txt,
 71,,,,,,,,,,,,,,,,,,,,,,
 72,,,,,,,,,,,,,,,,,,,,,,
 73,,,,,,,,,,,,,,,,,,,,,,
