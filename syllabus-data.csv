@@ -56,7 +56,7 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 55,CBIO,3000,,2010,Fall,Hesse,Holliday,Yes,55-LO.txt,No,NA,0,0.8,0,0.2,0,,Yes,55-Grading.txt,Yes,55-Attend.txt,Lecture and Lab 
 56,CBIO,3000,,2018,Fall,Safer,NA,Yes,56-LO.txt,No,NA,1,0,0,0,0,,Yes,56-Grading.txt,Yes,56-Attend.txt,Lecture and Lab 
 57,CBIO,3000,,2012,Fall,Said,NA,No,NA,No,NA,0,0.55,0.07,0.08,0.3,Lab,Yes,57-Grading.txt,No,NA,Lecture and Lab 
-58,CBIO,3000,,2015,Spring,Williams,Holliday,Yes,57-LO.txt,No,NA,0.69,0.05,0.05,0,0.3,Lab,Yes,58-Grading.txt,Yes,57-Attend.txt,Lecture and Lab 
+58,CBIO,3000,,2015,Spring,Williams,Holliday,Yes,58-LO.txt,No,NA,0.69,0.05,0.05,0,0.3,Lab,Yes,58-Grading.txt,Yes,58-Attend.txt,Lecture and Lab 
 59,GENE,3000,,2010,Fall,Anderson,Promislow,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,
 60,GENE,3000,,2017,Fall,Andrews,NA,Yes,60-LO.txt,No,NA,0.7,0.07,0,20.05,0.025,Evaluations,Yes,60-Grading.txt,Yes,60-Attend.txt,
 61,GENE,3000,,2011,Spring,Hamrick,Arnold,No,NA,No,NA,0.75,0.25,0,0,0,,No,NA,Yes,61-Attend.txt,
@@ -69,10 +69,10 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 68,PMCY,3000,,2022,Fall,Momany,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,Yes,68-Attend.txt,
 69,CBIO,3010,,2018,Fall,Nichols,NA,No,69-LO.txt,No,NA,0.55,0.15,0,0,0.3,Lab Practical Average,,NA,Yes,NA,Lecture and Lab 
 70,PATH,3010,,2021,Spring,Brewer,NA,No,NA,No,NA,0.8,0.1,0.1,0,0,,Yes,70-Grading.txt,Yes,70-Attend.txt,
-71,,,,,,,,,,,,,,,,,,,,,,
-72,,,,,,,,,,,,,,,,,,,,,,
-73,,,,,,,,,,,,,,,,,,,,,,
-74,,,,,,,,,,,,,,,,,,,,,,
+71,BCMB,3100,,2014,Spring,Anong,NA,No,NA,No,NA,0.756,0.0756,0,0.168,0,,Yes,71-Grading.txt,Yes,71-Attend.txt,
+72,BCMB,3100,,2021,Fall,Dolan,Urbanowicz,Yes,72-LO.txt,No,NA,0,0.875,0,0.125,0,,Yes,72-Grading.txt,Yes,72-Attend.txt,
+73,BCMB,3100,,2022,Fall,Lee,NA,No,NA,No,NA,0.635,0.076,0.063,0.22,0.005,Course Eval,Yes,73-Grading.txt,Yes,73-Attend.txt,
+74,BCMB,3100,,2020,Fall,Lemons,NA,No,NA,Yes,74-DEI.txt,0,0.7583,0.2167,0.025,0,,Yes,74-Grading.txt,Yes,74-Attend.txt,
 75,,,,,,,,,,,,,,,,,,,,,,
 76,,,,,,,,,,,,,,,,,,,,,,
 77,,,,,,,,,,,,,,,,,,,,,,
