@@ -1,0 +1,10 @@
+This course will help you learn how to:
+- Explain how biological macromolecules (proteins, nucleic acids, carbohydrates, lipids) are
+synthesized and metabolized.
+- Explain the relationship between biological macromolecular structure and function.
+- Explain how enzymes function, including their mechanisms and regulation.
+- Explain the energetics of biochemical reactions.
+- Explain the idea of “flux” and its relationship to the function and regulation of metabolic pathways.
+- Predict how chemical and physical parameters affect biological processes.
+- Apply the knowledge above to solve biochemical problems.
+- Apply the knowledge above to analyze, interpret, and evaluate biochemical data.
