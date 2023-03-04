@@ -1,0 +1,1 @@
+Examinations are all given on line through eLC. Absence for an examination will result in a zero for that module.
