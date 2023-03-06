@@ -1,0 +1,2 @@
+Exam scores cannot be dropped.
+In most cases, contacting an instructor after the exam has started is too late to be allowed to take a makeup exam. An unexcused missed exam will count 0 points.
