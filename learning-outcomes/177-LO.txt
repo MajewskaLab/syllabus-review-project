@@ -1,0 +1,11 @@
+Learning Objectives:
+ 
+1.	Able to read original literature and understand the biological question you address in your project
+2.	Able to design experiments to investigate gene functions, and understand relevant experimental methods 
+3.	Able to write a research proposal on your project 
+4.	Able to perform basic bioinformatics analysis for molecular cloning and phylogenetic analysis of genes
+5.	Able to perform basic molecular cloning techniques 
+6.	Able to generate transgenic Arabidopsis plants for functional studies of genes 
+7.	Able to identify gene knock-out mutants in Arabidopsis
+8.	Able to record and analyze experimental results and solve experimental problems
+9.	Able to prepare and present your research findings in a poster. 
