@@ -1,6 +1,6 @@
 Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Instructor,Other_Instructors,Learning_Outcomes_Present,Learning_Outcome_File,DEI_Statement_Present,DEI_Statement_File,Exam_Grade_Prop,Quiz_Grade_Prop,Participation_Grade_Prop,Project/Assignment_Grade_Prop,Other_Grade_Prop,Other_Grade_Description,Grading_Present,Grading_File,Attend_Present,Attend_File,Notes,AttendTone1,AttendTone1scale,AttendTone2,AttendTone2scale,GradeTone1,GradeTone1scale,GradeTone2,GradeTone2scale
-1,BIOL,1103,,2011,Spring,Armstrong,NA,Yes,1-LO.txt,No,NA,0.6,0,0.06,0.34,0,,Yes,1-Grading.txt,Yes,1-Attend.txt,,informative,5,friendly,4,,,,
-2,BIOL,1103,,2013,Fall,Barstow,NA,Yes,2-LO.txt,No,NA,1,0,0,0,0,,Yes,2-Grading.txt,Yes,2-Attend.txt,,informative,5,formal,4,,,,
+1,BIOL,1103,,2011,Spring,Armstrong,NA,Yes,1-LO.txt,No,NA,0.6,0,0.06,0.34,0,,Yes,1-Grading.txt,Yes,1-Attend.txt,,informative,5,friendly,4,confident,3,informative,2
+2,BIOL,1103,,2013,Fall,Barstow,NA,Yes,2-LO.txt,No,NA,1,0,0,0,0,,Yes,2-Grading.txt,Yes,2-Attend.txt,,informative,5,formal,4,formal,5,NA,
 3,BIOL,1103,,NA,Fall,Beyette,NA,Yes,3-LO.txt,No,NA,0.35,0.1,0.15,0.15,0,,Yes,3-Grading.txt,Yes,3-Attend.txt,,,,,,,,,
 4,BIOL,1103,,2021,Spring,Brickman,Lewis,Yes,4-LO.txt,Yes,4-DEI.txt,0.48,0,0.1,0.42,0,,No,NA,Yes,4-Attend.txt,,direct,5,confindent,4,,,,
 5,BIOL,1103,E,NA,NA,Richards,NA,Yes,5-LO.txt,No,NA,0,0.25,0.25,0.5,0,,Yes,5-Grading.txt,Yes,5-Attend.txt,,,,,,,,,
@@ -18,15 +18,15 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 17,BIOL,1104,,2022,Spring,Meyers,NA,Yes,17-LO.txt,Yes,17-DEI.txt,0.4,0.1,0.1,0.4,0,,Yes,17-Grading.txt,Yes,17-Attend.txt,,informative,5,skeptical,4,confident,3,formal,3
 18,BIOL,1107,,2021,Fall,Armstrong,NA,No,NA,No ,NA,0.7,0.1,0.1,0.1,0,,Yes,18-Grading.txt,No,NA,,,,,,,,,
 19,BIOL,1107,,2010,Spring,Barstow,DerVartanian,No,NA,No,NA,0.7,0,0,0.3,0,,Yes,NA,Yes,19-Attend.txt,,,,,,,,,
-20,BIOL,1107,,2021,Fall,Dees,NA,No,NA,No,NA,0.7,0,0,0.3,0,,Yes,20-Grading.txt,No,NA,,,,,,Assertive,5,NA,
+20,BIOL,1107,,2021,Fall,Dees,NA,No,NA,No,NA,0.7,0,0,0.3,0,,Yes,20-Grading.txt,No,NA,,,,,,assertive,5,NA,
 21,BIOL,1107,,2021,Spring,McEachern,NA,No,NA,No,NA,0.72,0,0,0.28,0,,Yes,21-Grading.txt,Yes,21-Attend.txt,,NA,,NA,,NA,,NA,
-22,BIOL,1107,,2021,Spring,Moore,NA,Yes,22-LO.txt,No,NA,0,0.6,0,0.4,0,,Yes,22-Grading.txt,Yes,22-Attend.txt,,encouraging,2,cooperative,2,Informative,4,Assertive,
+22,BIOL,1107,,2021,Spring,Moore,NA,Yes,22-LO.txt,No,NA,0,0.6,0,0.4,0,,Yes,22-Grading.txt,Yes,22-Attend.txt,,encouraging,2,cooperative,2,informative,4,Assertive,
 23,BIOL,1107,L,2021,Spring,Martin,NA,Yes,23-LO.txt,No,NA,0,0,0,1,0,,Yes,23-Grading.txt,Yes,23-Attend.txt,,,,,,,,,
 24,BIOL,1107,L,2011,Fall,Miller,NA,No,NA,No,NA,0,0,0,1,0,,Yes,24-Grading.txt,Yes,24-Attend.txt,,,,,,,,,
 25,BIOL,1107,L,2013,Spring,Miller,NA,No,NA,No,NA,0,0,0,1,0,,No,NA,Yes,25-Attend.txt,,,,,,,,,
 26,BIOL,1108,,2021,Spring,Barb,NA,No,NA,No,NA,0.517,0.258,0,0.224,0,,Yes,26-Grading.txt,No,NA,,,,,,,,,
 27,BIOL,1108,,2022,Spring,Dolan,NA,Yes,27-LO.txt,No,NA,0.7,0.1,0.1,0.1,0,,No,NA,Yes,27-Attend.txt,,,,,,,,,
-28,BIOL,1108,,2022,Fall,Farmer,Trapnell,Yes,28-LO.txt,No,NA,0.64,0,0,0.35,0.01,Professionalism,Yes,28-Grading,Yes,28-Attend.txt,,informative,5,direct,2,Direct ,5,Confindent,5
+28,BIOL,1108,,2022,Fall,Farmer,Trapnell,Yes,28-LO.txt,No,NA,0.64,0,0,0.35,0.01,Professionalism,Yes,28-Grading,Yes,28-Attend.txt,,informative,5,direct,2,direct,5,confident,5
 29,BIOL ,1108,,2022,Summer,ÊMeyersÊ,NA,Yes,29-LO.txt,No,NA,0.6,0.09,0.09,0.21,0,,Yes,29-Grading.txt,Yes,29-Attend.txt,,informative,5,Optimistic,1,informative,4,Joyful,3
 30,BIOL,1108,,2016,Fall,Dye,NA,Yes,30-LO.txt,No,NA,0.6,0.1,0,0.3,0,,Yes,30-Grading.txt,No,NA,,,,,,,,,
 31,BIOL,1108,L,2021,Spring,Martin,NA,Yes,31-LO.txt,No,NA,0,0,0,1,0,,Yes,31-Grading.txt,Yes,31-Attend.txt,,,,,,,,,
@@ -37,9 +37,9 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 36,BIOL,1108,L,2012,Spring,Miller,NA,No,NA,No,NA,0,0.303030303,0,0.590909091,0.106060606,Peer/GLA evaluation,Yes,36-Grading.txt,Yes,36-Attend.txt,,,,,,,,,
 37,BIOL,1108,L,2013,Spring,Miller,NA,No,NA,No,NA,0,0.303030303,0,0.590909091,0.106060606,Peer/GLA evaluation,Yes,37-Grading.txt,Yes,37-Attend.txt,,,,,,,,,
 38,BIOL,1990,,2021,Spring,Farmer,NA,No,NA,No,NA,0,0,0.5,0.5,0,,Yes,38-Grading.txt,Yes,38-Attend.txt,Both lead to a S/U? ,,,,,,,,
-39,ENTO,2010,,2022,Spring,Burke,NA,Yes,39-LO.txt,No,NA,0.52,0.19,0.19,0.1,0,,Yes,39-Grading.txt,No,NA,,,,,,Confindent,5,Friendly,4
+39,ENTO,2010,,2022,Spring,Burke,NA,Yes,39-LO.txt,No,NA,0.52,0.19,0.19,0.1,0,,Yes,39-Grading.txt,No,NA,,,,,,confident,5,Friendly,4
 40,ENTO,2010,,2022,Fall,Guillebeau,NA,No,NA,No,NA,0.8,0,0,0,0.2,Mandatory orders,No,NA,Yes,40-Attend.txt,,informative,2,formal,2,,,,
-41,HONS,2070,H,2010,Fall,Dore,NA,Yes,41-LO.txt,No,NA,0.25,0.5,0,0.25,0,,Yes,41-Grading.txt,No,NA,,,,,,Informative,3,formal,2
+41,HONS,2070,H,2010,Fall,Dore,NA,Yes,41-LO.txt,No,NA,0.25,0.5,0,0.25,0,,Yes,41-Grading.txt,No,NA,,,,,,informative,3,formal,2
 42,HONS,2080,H,2013,Spring,Freeman-Lynde,NA,No,NA,No,NA,0.555555556,0.222222222,0,0.222222222,0,,No,NA,Yes,42-Attend.txt,,formal,5,cooperative,5,,,,
 43,BIOL,2103,H,2021,Spring,Beyette,NA,Yes,43-LO.txt,No,NA,0.4,0.1,0,0.45,0.05,Service Learning Outreach,No,NA,No,NA,,,,,,,,,
 44,BIOL,2103,H,NA,Fall,Brickman,NA,No,NA,No,NA,0.35,0.15,0,0.45,0.05,Service Learning Outreach,No,NA,No,NA,,,,,,,,,
@@ -54,9 +54,9 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 53,BIOL,2108,H,2020,Fall,Wyatt,NA,Yes,53-LO.txt,No,NA,0.8,0.2,0,0,0,,Yes,53-Grading.txt,No,NA,,,,,,,,,
 54,BIOL,2900,,NA,NA,Langford,Eisner,No,NA,No,NA,0,0,0,1,0,,No,NA,Yes,54-Attend.txt,No year or semester provided.,formal,4,Informative,2,,,,
 55,CBIO,3000,,2010,Fall,Hesse,Holliday,Yes,55-LO.txt,No,NA,0,0.8,0,0.2,0,,Yes,55-Grading.txt,Yes,55-Attend.txt,Lecture and Lab ,,,,,,,,
-56,CBIO,3000,,2018,Fall,Safer,NA,Yes,56-LO.txt,No,NA,1,0,0,0,0,,Yes,56-Grading.txt,Yes,56-Attend.txt,Lecture and Lab ,NA,,NA,,informative,4,Formal,2
+56,CBIO,3000,,2018,Fall,Safer,NA,Yes,56-LO.txt,No,NA,1,0,0,0,0,,Yes,56-Grading.txt,Yes,56-Attend.txt,Lecture and Lab ,NA,,NA,,informative,4,formal,2
 57,CBIO,3000,,2012,Fall,Said,NA,No,NA,No,NA,0,0.55,0.07,0.08,0.3,Lab,Yes,57-Grading.txt,No,NA,Lecture and Lab ,,,,,,,,
-58,CBIO,3000,,2015,Spring,Williams,Holliday,Yes,58-LO.txt,No,NA,0.69,0.05,0.05,0,0.3,Lab,Yes,58-Grading.txt,Yes,58-Attend.txt,Lecture and Lab ,Neutral,5,NA,,formal,,NA,
+58,CBIO,3000,,2015,Spring,Williams,Holliday,Yes,58-LO.txt,No,NA,0.69,0.05,0.05,0,0.3,Lab,Yes,58-Grading.txt,Yes,58-Attend.txt,Lecture and Lab ,neutral,5,NA,,formal,,NA,
 59,GENE,3000,,2010,Fall,Anderson,Promislow,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,,,,,,,,
 60,GENE,3000,,2017,Fall,Andrews,NA,Yes,60-LO.txt,No,NA,0.7,0.07,0,20.05,0.025,Evaluations,Yes,60-Grading.txt,Yes,60-Attend.txt,,,,,,,,,
 61,GENE,3000,,2011,Spring,Hamrick,Arnold,No,NA,No,NA,0.75,0.25,0,0,0,,No,NA,Yes,61-Attend.txt,,,,,,,,,
@@ -68,27 +68,27 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 67,GENE,3000,,2011,Fall,Promislow,Wares,Yes,67-LO.txt,No,NA,1,0,0,0,0,,Yes,67-Grading.txt,No,Na,,,,,,,,,
 68,PMCY,3000,,2022,Fall,Momany,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,Yes,68-Attend.txt,,formal,5,NA,,,,,
 69,CBIO,3010,,2018,Fall,Nichols,NA,No,69-LO.txt,No,NA,0.55,0.15,0,0,0.3,Lab Practical Average,,NA,Yes,NA,Lecture and Lab ,,,,,,,,
-70,PATH,3010,,2021,Spring,Brewer,NA,No,NA,No,NA,0.8,0.1,0.1,0,0,,Yes,70-Grading.txt,Yes,70-Attend.txt,,,,,,,,,
+70,PATH,3010,,2021,Spring,Brewer,NA,No,NA,No,NA,0.8,0.1,0.1,0,0,,Yes,70-Grading.txt,Yes,70-Attend.txt,,informative,5,NA,,direct,3,informative,3
 71,BCMB,3100,,2014,Spring,Anong,NA,No,NA,No,NA,0.756,0.0756,0,0.168,0,,Yes,71-Grading.txt,Yes,71-Attend.txt,,,,,,,,,
 72,BCMB,3100,,2021,Fall,Dolan,Urbanowicz,Yes,72-LO.txt,No,NA,0,0.875,0,0.125,0,,Yes,72-Grading.txt,Yes,72-Attend.txt,,,,,,,,,
 73,BCMB,3100,,2022,Fall,Lee,NA,No,NA,No,NA,0.635,0.076,0.063,0.22,0.005,Course Eval,Yes,73-Grading.txt,Yes,73-Attend.txt,,,,,,,,,
 74,BCMB,3100,,2020,Fall,Lemons,NA,No,NA,Yes,74-DEI.txt,0,0.7583,0.2167,0.025,0,,Yes,74-Grading.txt,Yes,74-Attend.txt,,,,,,,,,
-75,BCMB,3100,,2022,Fall,Mohnen,Yin,No,NA,No,NA,0.5,0.375,0.05,0.0625,0.0125,Course Eval,Yes,75-Grading.txt,Yes,75-Attend.txt,,,,,,,,,
+75,BCMB,3100,,2022,Fall,Mohnen,Yin,No,NA,No,NA,0.5,0.375,0.05,0.0625,0.0125,Course Eval,Yes,75-Grading.txt,Yes,75-Attend.txt,,informative,4,confindent,2,informative,4,direct,2
 76,BCMB,3100,,2022,Fall,Paz,NA,No,NA,No,NA,0.9286,0.0457,0,0.0257,0,,Yes,76-Grading.txt,Yes,76-Attend.txt,,,,,,,,,
 77,BCMB,3100,,2022,Spring,Rose,Przybyla,No,NA,No,NA,0.98,0,0.02,0,0,,Yes,77-Grading.txt,Yes,77-Attend.txt,,,,,,,,,
-78,BCMB,3100,,2022,Spring,Robinson,NA,Yes,78-LO.txt,No,NA,0.79,0.07,0.07,0.07,0,,Yes,78-Grading.txt,Yes,78-Attend.txt,,,,,,,,,
+78,BCMB,3100,,2022,Spring,Robinson,NA,Yes,78-LO.txt,No,NA,0.79,0.07,0.07,0.07,0,,Yes,78-Grading.txt,Yes,78-Attend.txt,,informative,5,friendly,5,Informative,4,formal,2
 79,BCMB,3100,,2021,Spring,Schmidt,Garfinkel,Yes,79-LO.txt,No,NA,0.8,0.2,0,0,0,,Yes,79-Grading.txt,Yes,79-Attend.txt,,,,,,,,,
 80,BCMB,3100,,2021,Fall,Dolan,Urbanowicz,Yes,80-LO.txt,No,NA,0,0.875,0,0.125,0,,Yes,80-Grading.txt,No,NA,,,,,,,,,
 81,BCMB,3100,,2022,Spring,Xu,Weiss,No,NA,No,NA,0,1,0,0,0,,Yes,81-Grading.txt,Yes,81-Attend.txt,,,,,,,,,
 82,BCMB,3100,,2021,Summer,Wood,Lanzilotta,No,NA,No,NA,0,1,0,0,0,,Yes,82-Grading.txt,Yes,82-Attend.txt,,,,,,,,,
-83,ECOL,3100,,2018,Summer,Connelly,NA,Yes,83-LO.txt,No,NA,0.3,0,0.15,0.3,0.25,Practical,No,NA,Yes,83-Attend.txt,Lecture and Lab ,,,,,,,,
+83,ECOL,3100,,2018,Summer,Connelly,NA,Yes,83-LO.txt,No,NA,0.3,0,0.15,0.3,0.25,Practical,No,NA,Yes,83-Attend.txt,Lecture and Lab ,formal,5,,,,,,
 84,ECOL,3100,,2009,Fall,Lieberman,NA,Yes,84-LO.txt,No,NA,0.55,0,0.2,0.25,0,,No,NA,No,NA,Lecture and Lab ,,,,,,,,
 85,VPAT,3100,H,2019,Spring,Carmichael,Meigs,Yes,85-LO.txt,No,NA,1,0,0,0,0,,Yes,85-Grading.txt,No,NA,,,,,,,,,
 86,IDIS,3100,,NA,NA,Garg,NA,No,NA,No,NA,NA,NA,NA,NA,NA,,No,NA,No,NA,"Did not have semester, year, grading breakdown, etc",,,,,,,,
-87,IDIS,3100,H,2015,Spring,Moore,NA,No,NA,No,NA,0.3,0,0.5,0.2,0,,Yes,87-Grading.txt,Yes,87-Attend.txt,,,,,,,,,
-88,VPHY,3100,,2021,Fall,Wells,Li,No,NA,No,NA,1,0,0,0,0,,Yes,88-Grading.txt,No,NA,,,,,,,,,
+87,IDIS,3100,H,2015,Spring,Moore,NA,No,NA,No,NA,0.3,0,0.5,0.2,0,,Yes,87-Grading.txt,Yes,87-Attend.txt,,formal,5,informative,5,NA,,,
+88,VPHY,3100,,2021,Fall,Wells,Li,No,NA,No,NA,1,0,0,0,0,,Yes,88-Grading.txt,No,NA,,,,,,formal,4,informative,4
 89,VPHY,3100,,2009,Fall,McGraw,Wells,No,NA,No,NA,1,0,0,0,0,,Yes,89-Grading.txt,No,NA,,,,,,,,,
-90,VPHY,3100,,2010,Fall,McGraw,Wells,No,NA,No,NA,1,0,0,0,0,,Yes,90-Grading.txt,No,NA,,,,,,,,,
+90,VPHY,3100,,2010,Fall,McGraw,Wells,No,NA,No,NA,1,0,0,0,0,,Yes,90-Grading.txt,No,NA,,,,,,formal,5,informative,5
 91,BIOL,3110,L,2011,Spring,Eisner,NA,No,NA,No,NA,0.45,,0.09,0.45,0,,Yes,91-Grading.txt,Yes,91-Attend.txt,,,,,,,,,
 92,BIOL,3110,L,2020,Fall,O�Donnell,NA,No,NA,No,NA,0.5,0.125,0,0.375,0,,Yes,92-Grading.txt,Yes,92-Attend.txt,,,,,,,,,
 93,BIOL,3110,L,2022,Fall,Paz,NA,No,NA,No,NA,0.545,0.136,0,0.316,0,,Yes,93-Grading.txt,Yes,93-Attend.txt,,,,,,,,,
@@ -98,15 +98,15 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 97,GENE,3200,,2020,Fall,Bedell,NA,Yes,97-LO.txt,No,NA,0.769,0.1385,0.015,0.0769,0,,Yes,97-Grading.txt,No,NA,,,,,,,,,
 98,GENE,3200,,2010,Spring,Benetzen,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,Yes,98-Attend.txt,,,,,,,,,
 99,GENE,3200,,2014,Spring,Hall,Armstrong,No,NA,No,NA,1,0,0,0,0,,Yes,99-Grading.txt,No,NA,,,,,,,,,
-100,GENE,3200,,2022,Fall,Hunt,NA,Yes,100-LO.txt,No,NA,0.55,,0.15,0.27,0.03,Course Eval,No,NA,Yes,100-Attend.txt,,,,,,,,,
+100,GENE,3200,,2022,Fall,Hunt,NA,Yes,100-LO.txt,No,NA,0.55,,0.15,0.27,0.03,Course Eval,No,NA,Yes,100-Attend.txt,,informative,5,friendly,5,,,,
 101,GENE,3200,,2012,Fall,Jenkins ,Wrenn,Yes,101-LO.txt,No,NA,0.75,0.25,0,0,0,,No,NA,Yes,101-Attend.txt,,,,,,,,,
-102,GENE,3200,,2020,Fall,McEachern,NA,No,NA,No,NA,0.9,0,0,0.1,0,,Yes,102-Grading.txt,No,NA,,,,,,,,,
+102,GENE,3200,,2020,Fall,McEachern,NA,No,NA,No,NA,0.9,0,0,0.1,0,,Yes,102-Grading.txt,No,NA,,,,,,direct,5,informative,1
 103,GENE,3200,,2019,Fall,Bedell,NA,No,103-LO.txt,No,NA,0.757,0.132,0.106,0,0.0045,Course Eval,Yes,103-Grading.txt,Yes,103-Attend.txt,,,,,,,,,
 104,CBIO,3200,,2012,Summer,Said,NA,No,NA,No,NA,0.5,0,0,0,0.5,Dissection,No,NA,No,NA,,,,,,,,,
-105,GENE,3210,,2019,Fall,Kushner,NA,No,NA,No,NA,0.286,0,0,0.57,0.143,Lab Technique,No,NA,Yes,105-Attend.txt,,,,,,,,,
+105,GENE,3210,,2019,Fall,Kushner,NA,No,NA,No,NA,0.286,0,0,0.57,0.143,Lab Technique,No,NA,Yes,105-Attend.txt,,informative,5,,,,,,
 106,GENE,3210,,2009,Fall,Dawe,NA,No,NA,No,NA,0.35,0,0.25,0.4,0,,No,NA,Yes,106-Attend.txt,,,,,,,,,
 107,ECOL,3220,,2010,Summer,Richardson,NA,No,NA,No,NA,0,0.2,0.2,0.6,0,,No,NA,Yes,107-Attend.txt,,,,,,,,,
-108,PBIO,3270,,2021,Spring,Chang,Perez-Udell,No,NA,No,NA,0,0.424,0.038,0.538,0,,Yes,108-Grading.txt,Yes,108-Attend.txt,,,,,,,,,
+108,PBIO,3270,,2021,Spring,Chang,Perez-Udell,No,NA,No,NA,0,0.424,0.038,0.538,0,,Yes,108-Grading.txt,Yes,108-Attend.txt,,confident,4,informative,2,confident,5,direct,5
 109,CBIO,3300,,2014,Spring,Cai,NA,Yes,109-LO.txt,No,NA,0.85,0.15,0,0,0,,No,NA,Yes,109-Attend.txt,,,,,,,,,
 110,CBIO,3300,,2014,Spring,Schulz,NA,Yes,110-LO.txt,No,NA,1,0,0,0,0,,No,NA,Yes,110-Attend.txt,,,,,,,,,
 111,CBIO,3400,,2012,Fall,Fechheimer,Lechtreck,No,NA,No,NA,0,1,0,0,0,,Yes,111-Grading.txt,No,NA,,,,,,,,,
