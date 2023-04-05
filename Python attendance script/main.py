@@ -1,18 +1,20 @@
 
 
+import os
 from textblob import TextBlob
 
-# Read in attendance policy from file
-with open(r'C:\python 4-4 trying\text file\71-Attend.txt', 'r') as file:
-    attendance_policy = file.read()
+# Set directory path
+directory = r'C:\syllabus 4-4 python\syllabus-review-project\attendance'
 
-# Create TextBlob object for the attendance policy
-blob = TextBlob(attendance_policy)
-
-# Get sentiment and objectivity scores
-sentiment = blob.sentiment.polarity
-objectivity = blob.sentiment.subjectivity
-
-# Print out scores
-print(f"Sentiment score: {sentiment:.2f}")
-print(f"Objectivity score: {objectivity:.2f}")
+# Loop through files in directory
+for filename in os.listdir(directory):
+    # Check if file is a text file
+    if filename.endswith('.txt'):
+        # Open file and read its contents
+        with open(os.path.join(directory, filename), 'r') as file:
+            contents = file.read()
+            # Create TextBlob object
+            blob = TextBlob(contents)
+            # Print sentiment and objectivity scores
+            print(f"Sentiment for {filename}: {blob.sentiment.polarity}")
+            print(f"Objectivity for {filename}: {1 - blob.sentiment.subjectivity}")
