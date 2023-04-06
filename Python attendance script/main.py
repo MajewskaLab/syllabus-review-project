@@ -2,7 +2,7 @@ import os
 from textblob import TextBlob
 
 # Set directory path
-directory = r'C:\Syllabus Review Project\syllabus-review-project\attendance'
+directory = r'C:\Syllabus Review Project\syllabus-review-project\learning-outcomes'
 
 # Loop through files in directory
 for filename in os.listdir(directory):
@@ -15,4 +15,4 @@ for filename in os.listdir(directory):
             blob = TextBlob(contents)
             # Print sentiment and objectivity scores
             print(f"Sentiment for {filename}: {blob.sentiment.polarity}")
-            print(f"Objectivity for {filename}: {1 - blob.sentiment.subjectivity}")
+            print(f"Objectivity for {filename}: {1-blob.sentiment.subjectivity}")
