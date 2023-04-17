@@ -191,7 +191,7 @@ Index,Department_Code,Course_Number,Course_Number_Suffix,Year,Semester,Lead_Inst
 184,ECOL,3880,H,2021,Spring,Byers,Mohan,Yes,184-LO.txt,No,NA,1,0,0,0,0,,No,NA,Yes,184-Attend.txt,,,,,,,,,
 185,BIOL,3990,,NA,NA,Langford,Eisner,No,NA,No,NA,0,0,0,1,0,,No,NA,No,NA,,,,,,,,,
 186,BTEC,4000,L,2022,Spring,Champagne,Hua,No,NA,No,NA,0.6,0.2,0,0.2,0,,No,NA,Yes,186-Attend.txt,,,,,,,,,
-187,ECOL,4000/6000,,2019,Fall,Drake,Park,No,NA,No,NA,0.35,0.1,0.1,0.45,0,,No,NA,Yes,187-AttendC.txt,,,,,,,,,
+187,ECOL,4000/6000,,2019,Fall,Drake,Park,No,NA,No,NA,0.35,0.1,0.1,0.45,0,,No,NA,Yes,187-Attend.txt,,,,,,,,,
 188,ECOL,4000/6000,,2022,Fall,Drake,Park,No,NA,No,NA,0.3,0.3,0,0.6,0,,No,NA,Yes,188-Attend.txt,,,,,,,,,
 189,ECOL,4000/6000,,2021,Fall,Park,Strauss,No,NA,No,NA,0.3,0.3,0,0.6,0,,No,NA,Yes,189-Attend.txt,,,,,,,,,
 190,ENTO,4000/6000,,2020,Fall,Acebes,Joseph,Yes,190-LO.txt,No,NA,0.72,0.09,0,0,0.19,Insect collection,No,NA,Yes,190-Attend.txt,,,,,,,,,
