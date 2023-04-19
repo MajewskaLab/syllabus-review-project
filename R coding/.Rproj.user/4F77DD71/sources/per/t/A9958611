@@ -1,0 +1,26 @@
+{
+    "id": "A9958611",
+    "path": "~/Documents/GitHub/syllabus-review-project/R coding/01_import_txt.R",
+    "project_path": "01_import_txt.R",
+    "type": "r_source",
+    "hash": "3534690566",
+    "contents": "",
+    "dirty": false,
+    "created": 1681749304857.0,
+    "source_on_save": false,
+    "relative_order": 1,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "20,0",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1681750521,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1681750521074,
+    "read_only": false,
+    "read_only_alternatives": []
+}
