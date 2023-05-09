@@ -1,0 +1,10 @@
+Upon successful completion of this course, you will be able to:
+1) Describe the essential components and mechanisms of DNA replication, chromatin
+modifications, transcription, and translation.
+2) Describe eukaryotic chromosomes at different stages of the cell cycle, mitosis, and meiosis.
+3) Infer information about genes, alleles, and gene functions from analysis of genetic crosses
+and patterns of inheritance.
+4) Describe multiple levels of regulation of gene expression.
+5) Predict the phenotypic consequences of different kinds of mutations and chromosome
+abnormalities.
+6) Interpret the results of experiments using modern tools of molecular genetics and genomics

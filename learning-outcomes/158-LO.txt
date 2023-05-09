@@ -1,0 +1,8 @@
+Students who have successfully completed the course will have 
+- demonstrated their understanding of microbiology culture techniques to isolate novel environmental organisms
+- identify them using molecular methods
+- use selective and differential media to isolate and identify local aquatic pathogens
+- evaluate antibiotic resistance in bacteria
+- determine the genetic basis of this antibiotic resistance
+- observe and quantify the transfer of antibiotic resistance genes between bacteria
+- isolate novel bacteriophages from environmental sources and evaluate their host specificity 

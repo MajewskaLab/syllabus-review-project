@@ -1,0 +1,6 @@
+Specifically, this course is designed to help you:
+ Deepen your understanding of and experience implementing the scientific process, from experimental design to communication of your findings;
+ Develop effective strategies to find, organize, and synthesize peer-reviewed research;
+ Demonstrate familiarity and basic proficiency in the use of computational tools to manage, analyze, and visualize data in a reproducible way;
+ Apply team science best practices to effectively work as part of a research group;
+ Share your research findings with a scientific audience.
