@@ -1,0 +1,1 @@
+Attendance will be taken. If a student is marked absent more than 3 class periods, their grade will be reduced by 5%. If a student is more than 5 minutes late to class, this counts as an absence.
