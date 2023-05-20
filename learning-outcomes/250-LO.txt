@@ -1,0 +1,7 @@
+Class objectives:
+1. Provide an understanding of interactions between hosts and their microbes/parasites at multiple scales of biological organization
+2. Increase familiarity with quantitative approaches for studying infectious disease spread 
+3. Review current research and case studies in the field of infectious disease ecology
+4. Enhance appreciation for the biological diversity of parasitic organisms 
+5. Examine the importance of parasites in biodiversity conservation and human health
+6. Consider the role of ecology and evolution in predicting pathogen emergence and responding to epidemics

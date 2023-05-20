@@ -1,0 +1,7 @@
+Class objectives: 
+1. Provide an understanding of the biology of parasites and infectious diseases, integrating basic concepts with real-world examples 
+2. Increase familiarity with quantitative approaches for studying infectious disease dynamics at the population and community level 
+3. Review historical development and current research in the field of infectious disease ecology 
+4. Enhance appreciation for the taxonomic and biological diversity of parasitic organisms and host responses to infection 
+5. Enhance appreciation for the importance of parasites in biodiversity conservation and management and human health 
+6. Consider the role of ecology and evolution in predicting disease emergence and responding to epidemics
