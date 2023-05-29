@@ -1,0 +1,4 @@
+This course is designed for students who wish to learn what computational technologies exist to solve molecular genetic and genomics problems. 
+Students should learn what computerapplications, including resources that exist on the internet, are available, and they should also learn some of the basic algorithms and programming concepts that underlie these problems.
+Upon completion of the course, students will know how to use these technologies to analyzetheir own experimental genetic and sequence data. 
+Students will be able to understand whatcurrent research in bioinformatics is trying to accomplish, and will be able to read with comprehension some of the research literature of the area

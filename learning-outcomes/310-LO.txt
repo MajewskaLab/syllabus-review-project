@@ -1,0 +1,5 @@
+COURSE OBJECTIVES: The objective of this course is to emphasize concepts covered in lecture so that students can understand:
+• How to establish soil fertility plots and estimate optimum fertilizer rates.
+• Methods of measuring cation exchange capacity and soil pH.
+• Reactions of aluminum, nitrogen, and phosphorus in soil.
+• Software packages for soil fertility and environmental protection.
