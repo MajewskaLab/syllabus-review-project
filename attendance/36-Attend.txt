@@ -1,45 +1,34 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2639
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\froman\fcharset0 TimesNewRomanPS-BoldMT;\f1\froman\fcharset0 TimesNewRomanPSMT;\f2\froman\fcharset0 TimesNewRomanPS-ItalicMT;
-}
-{\colortbl;\red255\green255\blue255;\red0\green0\blue0;}
-{\*\expandedcolortbl;;\cssrgb\c0\c0\c0;}
-\margl1440\margr1440\vieww11520\viewh8400\viewkind0
-\deftab720
-\pard\pardeftab720\partightenfactor0
 
-\f0\b\fs20 \cf2 Students who miss \ul three\ulnone  labs at any point in the semester (this includes any combination of excused or unexcused absences), will not be given credit (i.e., will receive 0 points) for the 1108 Lab.\
+Students who miss  three\ulnone  labs at any point in the semester (this includes any combination of excused or unexcused absences), will not be given credit (i.e., will receive 0 points) for the 1108 Lab.\
 
-\f1\b0 \
 Attendance is required for this class.\'a0Missing even one class means that you have missed a significant portion of the course.\'a0DO NOT schedule any other appointments or activities during the time that you are scheduled to be in lab.\
-\
 
-\f0\b Missing labs with a valid excuse: 
-\f1\b0 A \'93valid\'94 excuse is one that is written, verifiable, and covers the date and time of your scheduled lab class. Oversleeping and job conflicts do not constitute acceptable excuses. Missing a lab with a valid excuse allows you to make-up the lab provided that you contact your lab instructor within 
-\f0\b 48 hours
-\f1\b0  of the absence. If you know in 
-\f0\b advance
-\f1\b0  that you will miss a lab with a valid excuse, contact your GLA 
-\f0\b before
-\f1\b0  the lab for reassignment to another lab period. Make-up assignments are due within a time limit agreed to between you and your GLA and may include any or all of the following: evidence that you have consulted with your team members regarding missed work and data, completing the lab with a different section, submitting assignments associated with the missed lab, making up a lab assessment and/or by completing an alternate assignment designated by the GLA or course instructor.  Students who fail to complete the make-up work within the allocated time will not receive credit for the lab exercise. 
-\f2\i You are responsible for all material and data presented and gathered in lab. 
-\f1\i0 \
-\
 
-\f0\b Missing labs without a valid excuse: 
-\f1\b0 If you do not have a valid excuse for missing a lab, you will not be allowed to make up any work and will automatically receive a 
-\f0\b minimum
-\f1\b0  of 20-point deduction from your total lab points; if a lab is worth more than 20 points for that day, you will lose the total number of points for that day\
-\
+ Missing labs with a valid excuse: 
+ A  excuse is one that is written, verifiable, and covers the date and time of your scheduled lab class. Oversleeping and job conflicts do not constitute acceptable excuses. Missing a lab with a valid excuse allows you to make-up the lab provided that you contact your lab instructor within 
+48 hours
+ of the absence. If you know in 
+advance
+ that you will miss a lab with a valid excuse, contact your GLA 
+before
+the lab for reassignment to another lab period. Make-up assignments are due within a time limit agreed to between you and your GLA and may include any or all of the following: evidence that you have consulted with your team members regarding missed work and data, completing the lab with a different section, submitting assignments associated with the missed lab, making up a lab assessment and/or by completing an alternate assignment designated by the GLA or course instructor.  Students who fail to complete the make-up work within the allocated time will not receive credit for the lab exercise. 
+ You are responsible for all material and data presented and gathered in lab. 
 
-\f0\b Tardiness and leaving lab early without permission
-\f1\b0  are not tolerated in lab. If you arrive to lab more than 15 minutes late you will be marked as absent with a valid excuse but will be allowed to hand in work for that lab as well as stay and complete the lab. If you leave lab early without permission, you will be marked as absent without a valid excuse - even if you have completed all work for that day - and will automatically receive a 20-point deduction from your total lab points for that day.\
+
+
+Missing labs without a valid excuse: 
+If you do not have a valid excuse for missing a lab, you will not be allowed to make up any work and will automatically receive a 
+ minimum
+of 20-point deduction from your total lab points; if a lab is worth more than 20 points for that day, you will lose the total number of points for that day\
+
+
+Tardiness and leaving lab early without permission
+are not tolerated in lab. If you arrive to lab more than 15 minutes late you will be marked as absent with a valid excuse but will be allowed to hand in work for that lab as well as stay and complete the lab. If you leave lab early without permission, you will be marked as absent without a valid excuse - even if you have completed all work for that day - and will automatically receive a 20-point deduction from your total lab points for that day.\
 \
 Assignments are due on the days indicated on your syllabus. Each day that an assignment is late, you will lose 20% of the assignment's total points. 
 \f0\b Note: there are certain assignments where late assignments will not be accepted at all.\
 
-\f1\b0 \
 If a student has missed three or more labs due to extenuating circumstances with valid documentation and wishes to avoid a failing grade, s/he should request an Incomplete from her/his 
-\f0\b lecture
-\f1\b0  instructor.\'a0 
-\f0\b Please note that any missed lab for a valid excuse will still be marked as an excused absence, even if you make up the lab in another lab section.\
+ instructor
+Please note that any missed lab for a valid excuse will still be marked as an excused absence, even if you make up the lab in another lab section.\
 }
