@@ -1,0 +1,54 @@
+require(tidyverse)
+
+df <- read_csv("~/OneDrive - University of Georgia/PROJECTS/CURE meta-analysis/CURE_Meta/DataSetPoster_CUREs.csv")
+
+
+dff <- df %>% 
+  summarize(n=n(), sci=sum(`scientific thinking`)/n, ct = sum(`critical thinking`)/n, pb = sum(`problem solving`)/n, ck = sum(`content knowledge`)/n,                                                                                   
+            ad = sum(`ability to design experiment`)/n, ca = sum(`conceptions about the process of science`)/n,
+            con = sum(`confidence`)/n, sf = sum(`self-efficacy`)/n, at = sum(`attitudes toward themselves as scientists`)/n, 
+            sb = sum(`sense belonging`)/n, com = sum(`comfort`)/n)
+
+library(readxl)
+forplot <- read_excel("~/OneDrive - University of Georgia/PROJECTS/CURE meta-analysis/CURE_Meta/forplot.xlsx")
+
+tiff("Fig2a.tiff",width=5,height=3,units="in",res=300)
+forplot %>% 
+  filter(type == "affective") %>% 
+  ggplot(aes(x = gains, y = proportion)) +
+geom_bar(stat="identity", width =  0.5, fill = "#3182bd")+
+  # geom_text(aes(label = Count,y = Count/10), position=position_dodge(0.9),  colour = "black")+
+  coord_flip()+
+  theme_classic()+
+  labs(y = "Proportion of studies", x = "Gains")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_blank(),
+        axis.text.x = element_text(size=12),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))+
+  scale_y_continuous(expand = c(0,0), limits = c(0,1))
+dev.off()
+
+tiff("Fig2b.tiff",width=5,height=3,units="in",res=300)
+forplot %>% 
+  filter(type == "cognitive") %>% 
+  ggplot(aes(x = gains, y = proportion)) +
+  geom_bar(stat="identity", width =  0.5, fill = "#08519c")+
+  # geom_text(aes(label = Count,y = Count/10), position=position_dodge(0.9),  colour = "black")+
+  coord_flip()+
+  theme_classic()+
+  labs(y = "Proportion of studies", x = "Gains")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_blank(),
+        axis.text.x = element_text(size=12),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))+
+  scale_y_continuous(expand = c(0,0), limits = c(0,1))
+dev.off()
+
+  #scale_fill_manual(values = c('#ffffb2','#eff3ff','#bdd7e7','#6baed6','#3182bd','#08519c'))
+  
