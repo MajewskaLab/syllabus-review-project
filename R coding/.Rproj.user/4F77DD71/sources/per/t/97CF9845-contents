@@ -1,0 +1,377 @@
+###
+require(tidyverse)
+
+
+#import data
+syl <- read_csv("syllabus-data.csv")
+wordAT<-read_csv("attendword_count.csv")
+wordGr<-read_csv("gradingword_count.csv")
+enroll<-read_csv("finalenrollment.csv") %>% 
+  select(c("Index", "Class Size", "Seats Avl", "% Filled"))
+AttendSA <- read_csv("AttendSA.csv")
+
+
+### combine files
+df<-left_join(syl, AttendSA, by = c("Attend_File" = "File"))
+
+df2<-left_join(df, enroll, by = c("Index"="Index"))
+
+df3<-left_join(df2, wordAT, by = c("Attend_File" = "File Name")) %>% 
+  rename("AttendWordCount"="Word Count")
+
+df4<-left_join(df3, wordGr, by = c("Index" = "Index")) %>% 
+  rename("GradingWordCount" = "Word Count") %>% 
+  filter(Department_Code != "PSYC") %>% 
+  mutate(SizeCategory = ifelse(`Class Size` < 30, "small", 
+                               ifelse(`Class Size` >75, "large", "medium")))
+
+df4$SizeCategory<-factor(df4$SizeCategory, levels = c("small", "medium", "large"), labels = c("small", "medium", "large"))
+
+#df2 <- df %>% distinct(courseID, .keep_all=TRUE)
+
+
+tiff("FigALL.tiff",width=8,height=4,units="in",res=300)
+df4 %>% 
+  filter(!is.na(Year)) %>% 
+  group_by(Year) %>% 
+  summarize(count = n()) %>% 
+  ggplot(aes(x = factor(Year), y = count)) +
+  geom_bar(stat="identity")+
+  theme_classic()+
+  labs(y = "Count of syllabi", x = "Year")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))+ 
+  scale_y_continuous(expand = c(0,0))
+dev.off()
+
+
+
+tiff("Fig1_div.tiff",width=8,height=4,units="in",res=300)
+df4 %>% 
+  filter(!is.na(Year)) %>% 
+  group_by(Year, DEI_Statement_Present) %>% 
+  summarize(count = n()) %>% 
+  filter(DEI_Statement_Present=="Yes") %>% 
+  ggplot(aes(x = factor(Year), y = count)) +
+  geom_bar(stat="identity")+
+  theme_classic()+
+  labs(y = "Count of syllabi with diversity statements", x = "Year")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))+ 
+  scale_y_continuous(expand = c(0,0))
+dev.off()
+  
+
+
+tiff("Fig1_all.tiff",width=7,height=3,units="in",res=300)
+df4 %>% 
+  filter(!is.na(Year)) %>% 
+  #filter(Department_Code=="BIOL") %>% 
+  ggplot(aes(x = factor(Year), y = Polarity)) +
+  geom_boxplot(fill = "#bdd7e7")+
+  geom_point()+
+   theme_classic()+
+  labs(y = "Polarity", x = "")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+dev.off()
+
+tiff("Fig2_all.tiff",width=7,height=3,units="in",res=300)
+df4 %>% 
+  filter(!is.na(Year)) %>% 
+  #filter(Department_Code=="BIOL") %>% 
+  ggplot(aes(x = factor(Year), y = Subjectivity)) +
+  geom_boxplot(fill = "#ffffb2")+
+  geom_point()+
+  theme_classic()+
+  labs(y = "Subjectivity", x = "")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+dev.off()
+####
+
+tiff("Fig1_biolpol.tiff",width=7,height=3,units="in",res=300)
+df4 %>% 
+  filter(!is.na(Year)) %>% 
+  filter(Department_Code=="BIOL") %>% 
+  ggplot(aes(x = factor(Year), y = Polarity)) +
+  geom_boxplot(fill = "#bdd7e7")+
+  geom_point()+
+  theme_classic()+
+  labs(y = "Polarity", x = "")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+dev.off()
+
+tiff("Fig2_biol.tiff",width=7,height=3,units="in",res=300)
+df4 %>% 
+  filter(!is.na(Year)) %>% 
+  filter(Department_Code=="BIOL") %>% 
+  ggplot(aes(x = factor(Year), y = Subjectivity)) +
+  geom_boxplot(fill = "#ffffb2")+
+  geom_point()+
+  theme_classic()+
+  labs(y = "Subjectivity", x = "")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+dev.off()
+
+
+tiff("Fig1_biol.tiff",width=7,height=3,units="in",res=300)
+df4 %>% 
+  filter(!is.na(Year)) %>% 
+  filter(Department_Code=="BIOL") %>% 
+  filter()
+ggplot(aes(x = factor(Year), y = Polarity)) +
+  geom_boxplot(fill = "#bdd7e7")+
+  geom_point()+
+  theme_classic()+
+  labs(y = "Polarity", x = "")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+dev.off()
+
+
+####
+df4 %>% 
+  filter(!is.na(Year)) %>% 
+  filter(AttendWordCount<300) %>% 
+ # filter(Department_Code=="BIOL") %>% 
+  ggplot(aes(x = AttendWordCount, y = `Class Size`)) +
+  geom_point()+
+ geom_smooth(method = "lm",se = F)+
+  theme_classic()+
+  labs(y = "Class Size", x = "Attendance Policy Word Count")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+
+df4 %>% 
+  #filter(!is.na(Year)) %>% 
+  filter(AttendWordCount<300) %>% 
+  # filter(Department_Code=="BIOL") %>% 
+  ggplot(aes(x = AttendWordCount, y = `Class Size`, color = Division)) +
+  geom_point()+
+  geom_smooth(method = "lm",se = F)+
+  theme_classic()+
+  labs(y = "Class Size", x = "Attendance Policy Word Count")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+
+df4 %>% 
+  #filter(!is.na(Year)) %>% 
+  filter(GradingWordCount<400) %>% 
+  # filter(Department_Code=="BIOL") %>% 
+  ggplot(aes(x = GradingWordCount, y = `Class Size`, color = Division)) +
+  geom_point()+
+  geom_smooth(method = "lm", se = F)+
+  theme_classic()+
+  labs(y = "Class Size", x = "Grading Policy Word Count")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+
+
+df4 %>% 
+  #filter(!is.na(Year)) %>% 
+  filter(GradingWordCount<400) %>% 
+  # filter(Department_Code=="BIOL") %>% 
+  ggplot(aes(x = GradingWordCount, y = `Class Size`)) +
+  geom_point()+
+  geom_smooth(method = "lm", se = F)+
+  theme_classic()+
+  labs(y = "Class Size", x = "Grading Policy Word Count")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+
+
+tiff("Fig3_pol_wordattend.tiff",width=7,height=3,units="in",res=300)
+df4 %>% 
+  #filter(!is.na(Year)) %>% 
+ # filter(GradingWordCount<400) %>% 
+  # filter(Department_Code=="BIOL") %>% 
+  ggplot(aes(x = AttendWordCount, y = `Polarity`, color = Division)) +
+  geom_point()+
+  geom_smooth(method = "lm", se = F)+
+  theme_classic()+
+  labs(x = "Class Size", y = "Polarity")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+dev.off()
+
+
+tiff("Fig3_sub_wordattend.tiff",width=7,height=3,units="in",res=300)
+df4 %>% 
+  #filter(!is.na(Year)) %>% 
+  # filter(AttendanceWordCount<400) %>% 
+  # filter(Department_Code=="BIOL") %>% 
+  ggplot(aes(x = AttendWordCount, y = `Subjectivity`, color = Division)) +
+  geom_point()+
+  geom_smooth(method = "lm", se = F)+
+  theme_classic()+
+  labs(x = "Attendance Policy Word Count", y = "Subjectivity")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+dev.off()
+
+df5<-df4 %>% 
+  filter(!is.na(AttendTone1)) %>% 
+  mutate(AttendTone1 = tolower(AttendTone1)) %>% 
+  group_by(AttendTone1) %>% 
+  summarize(n=n(), meanPol = mean(Polarity, na.rm = T), meanSub = mean(Subjectivity, na.rm = T))
+
+df6<-df4 %>% 
+  filter(!is.na(GradeTone1)) %>% 
+  mutate(GradeTone1 = tolower(GradeTone1)) %>% 
+  group_by(GradeTone1) %>% 
+  summarize(n=n())
+
+tiff("Fig3_Attendtones.tiff",width=8,height=3,units="in",res=300)
+df5 %>% 
+  ggplot(aes(x = AttendTone1, y = n, fill = AttendTone1))+
+  geom_bar(stat="identity", width =  0.5)+
+  theme_classic()+
+  labs(y = "Count", x = "Tone of Attendance Policy")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12), 
+        legend.position = "none")+
+          scale_y_continuous(expand = c(0,0))+
+  scale_fill_manual(values = c( "gray",'#a6cee3','#1f78b4','#b2df8a','#33a02c','#fb9a99','#e31a1c','#fdbf6f','#ff7f00','#cab2d6'))
+dev.off()
+
+
+tiff("Fig4_tonesgrade.tiff",width=8,height=3,units="in",res=300)
+df6 %>% 
+  #filter(!is.na(SizeCategory)) %>% 
+  ggplot(aes(x = GradeTone1, y = n, fill = GradeTone1))+
+  geom_bar(stat="identity", width =  0.5)+
+  theme_classic()+
+  labs(x = "Grading Policy Tone", y = "Count")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12),   legend.position = "none")+
+  scale_y_continuous(expand = c(0,0))+
+  scale_fill_manual(values = c("black","gray",'#a6cee3','#1f78b4','#e31a1c','#fdbf6f','#cab2d6','#ff7f00', "yellow"))
+dev.off()
+
+df7<-df4 %>% 
+  filter(!is.na(AttendTone1)) %>% 
+  mutate(AttendTone1 = tolower(AttendTone1)) %>% 
+  group_by(AttendTone1, SizeCategory) %>% 
+  summarize(n=n())
+
+df8<-df4 %>% 
+  filter(!is.na(GradeTone1)) %>% 
+  mutate(GradeTone1 = tolower(GradeTone1)) %>% 
+  group_by(GradeTone1, SizeCategory) %>% 
+  summarize(n=n())
+
+tiff("Fig4_sizeandattendTone.tiff",width=8,height=3,units="in",res=300)
+df7 %>% 
+  filter(!is.na(SizeCategory)) %>% 
+  ggplot(aes(x = SizeCategory, y = n, fill = AttendTone1))+
+  geom_bar(stat="identity", width =  0.5)+
+  theme_classic()+
+  labs(y = "Count", x = "Class size")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))+
+  scale_y_continuous(expand = c(0,0))+
+  scale_fill_manual(values = c("gray",'#a6cee3','#1f78b4','#b2df8a','#33a02c','#fb9a99','#e31a1c','#fdbf6f','#ff7f00','#cab2d6'))
+dev.off()
+
+
+
+tiff("Fig4_sizeandtonesgrade.tiff",width=8,height=3,units="in",res=300)
+df8 %>% 
+  filter(!is.na(SizeCategory)) %>% 
+  ggplot(aes(x = SizeCategory, y = n, fill = GradeTone1))+
+  geom_bar(stat="identity", width =  0.5)+
+  theme_classic()+
+  labs(y = "Count", x = "Class Size")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))+
+  scale_y_continuous(expand = c(0,0))+
+  scale_fill_manual(values = c("black","gray",'#a6cee3','#1f78b4','#e31a1c','#fdbf6f','#cab2d6','#ff7f00', "yellow"))
+dev.off()
