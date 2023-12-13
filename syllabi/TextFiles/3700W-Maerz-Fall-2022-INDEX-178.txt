@@ -1,0 +1,663 @@
+Animal Behavior WILD(BIOL) 3700W Provisional Syllabus FALL - 2022
+
+updated August 17, 2022
+
+Prerequisites: Instructor:
+Teaching Assistants
+
+BIOL 1108 & 1108L, PSYC 1030H, PSYC 1101(E), or permission of instructor
+Dr. John Maerz, Carey Distinguished Professor of Natural Resources and Josiah Meigs Distinguished Teaching Professor, Warnell School of Forestry and Natural Resources email: jcmaerz@uga.edu office: 3-323 Warnell School Drop-in office hours: in person or via Zoom most Mondays and Wednesdays, 11:15 AM - 12:00 PM. For alternative times, please contact Dr. Maerz directly.
+Ally Brown. M.Sc. student, Wildlife, Warnell School of Forestry and Natural Resources email: Ally.Brown@uga.edu office: 4-208 Warnell School Drop-in office hours: in person or [by appointment] via Zoom most Wednesdays, 1:00 PM - 2:00 PM. For alternative times, please contact Ally directly.
+
+Accessibility:
+General structure
+
+Blaise Newman. Ph.D. Student, Wildlife, Warnell School of Forestry and Natural Resources email: blaise.newman@uga.edu office: TBA Drop-in office hours: TBD
+There are multiple ways you can contact me or your TAs. If real time communication is not urgent, the best way to communicate with us is via the course email system in eLC, through the chat function in Microsoft Teams, or you can join the "Animal Behavior Fall 2022" GroupMe using this link: https://groupme.com/join_group/88027752/05JIDqdH. You are welcome to contact me or the TAs at any time for course, academic, or other related matters. The Teams app and Group me will notify us immediately. We do have many commitments, but we will do our best to respond to messages by no later than the next business day. Occasionally, we are in remote field sites without phone or internet access, which may delay a response.
+We are each available several times each week for office hours via Zoom or you can make an individual appointment.
+*As an ongoing COVID-19 precaution, masks are required for an in-person meeting in my office, or we can meet outside or via Zoom or Teams. To schedule an appointment, please email me. You do not need an appointment to join my drop-in open office hours. Groups can also schedule joint meetings with me or the TAs via Microsoft Teams.
+The structure of this course may be very different than other courses you have had. In this course, we emphasize a student-centered, active learning approach. Student-centered learning is an approach that encourages and empowers students to be more self-directed in their learning about a subject. It puts you, the student, rather than faculty at the center of "activity". Active learning is a student-centered approach. It involves the intentional use of practices that purposefully engage you, the student, in the learning process. This includes using in-class time for you to engage with course material, working with material to contemplate your level of understanding, construct your own ideas and products, and to interact with other students to make sense of the material. Active learning is also about giving you opportunities to apply what you are learning. So, if you are ready to do stuff ... real stuff ... as a way to learn a lot about animal behaviors, then I believe you will get a lot out of this class.
+Another atypical dimension to this course that we are trying this year is a form of "contract ungrading". "Contract ungrading" is an approach where we decenter numerical grades from your learning process. Instead, we create a set of clear standards for any assignment. We give you feedback on any draft of the assignment you complete and, provided you turned in a prior draft on time, you will have the opportunity to revise an assignment up until the final designated deadline. To determine your final grade, we have created a set of contract "criteria". At the end of the semester, you will tell us what criteria you met and make a case for the grade you believe you deserve. If you complete all the criteria
+
+updated August 17, 2022
+for a particular grade, you will receive that grade. If you meet criteria across different grades, then you will make a case for why you might deserve a particular grade that can include the +/- system. The goal of this grading system is to remove a focus on points and instead to focus critically on the elements of your assignments that will make them strong and then encouraging you to revise your work. This approach has been shown to improve student engagement and performance; however, some students may find it stressful. We are trying this out for the first time and we will listen to and address your concerns if you have them.
+
+What's the catch? Active learning models require that students come to class having prepared to engage with the day's materials. This will regular require you to watch short videos or read materials before you come to class. It also requires you to attend class. Class time will often be used for activities including collaborative working on Reading Inquiry Prompts, working with data and simulations for group projects, and holding peer review and reflection sessions for written assignments. These activities are structured to be highly inclusive and allow everyone to fully participate. Attendance is integral and expected for student success in this course. Students who miss class for documented illness or other reasonable matters may contact me about missed activities or material. Students with a special dispensation for COVID-19 arranged through the Disability Resource Center (DRC) might be reasonably accommodated with a remote format for this course. If you have a need for fully remote access to the course, please contact me.
+
+The course is divided into 10 modules that integrate in-person lecture, activities, and workshops for projects and essays with asynchronous readings, videos, and podcasts. The modules allow you to work through some materials such as course readings at a flexible pace with recommended and firm deadlines for completing assignments.
+
+Synchronous components
+
+Our regular scheduled class period is Mondays, Wednesdays, or Fridays from 10:20 AM - 11:10 AM in room 1-304 of the Warnell School. You can use these coordinates in Apple Maps or Google Maps to locate the room on the 3rd floor of the building (33.94401, -83.37476). Per UGA guidelines, vaccines for COVID-19 and wearing masks indoors are highly encouraged but not required. Per UGA policy, there is no accommodation for social distancing. Maximum capacity of our classroom is ~90 and enrollment in this course is typically between 50 and 75 individuals, plus two TAs and me. Per UGA policy, there will be no differentiation or segregation of students based on vaccination status or a decision to wear a mask. Again, in person participation and strong attendance habits will be integral to student success in this course.
+
+Asynchronous components
+
+Outside of the class period, you will work through your textbook and other papers to answer the "Reading Inquiry Prompts". You will also be working on three projects over the semester that will require work outside of class lecture time and involve collaboration and coordination with 3-4 other peer group members. We have allocated significant in-class time to work on group projects, but you are also expected to work with group members outside of class to complete assignments.
+
+Required text:
+
+The required text for this course is Dugatkin's Principles of Animal Behavior, Fourth Edition. Norton Publishers, Inc. The Fourth Edition is available in hard copy and for digital rental. Additional readings will be available on eLC.
+
+Technology requirements:
+
+To successfully complete this course, you will need regular access to eLC and Microsoft Teams via a web browser on a computer (desktop or laptop), Chromebook, tablet, or phone. In the event you need to participate in synchronous portions of the course via video, a device with a web camera is required. You will need access Microsoft Excel, Word, and Teams, all of which you can access and use through a web browser through your free UGA Office 365 account. For one activity this semester, you will run a simulation through the free program NetLogo, which you will need to download to a laptop or desktop. If you do not have access to a laptop or desktop, you may be able to work with a group member to use this software or you can contact your instructors and we will help you with access.
+
+Support components
+
+In addition to email and Zoom office hours, we will use Microsoft Teams to help you interact with instructors and classmates to collaborate and work on assignments. Teams will allow you to have video meetings in addition to create and work simultaneously on Word and Excel documents.
+
+Assignments:
+
+Reading Inquiry Responses: Reading Inquiry Prompts aim to help you (1) practice autonomous inquiry and (2) use structured problems to guide you through the readings. There are 18 prompts
+
+updated August 17, 2022
+distributed across the semester. All prompts and the rubric are available the first day of the course. Generally, each prompt is structured by the following questions: (1) why is the topic "important" or useful; (2) what is a working definition of relevant concepts or explanation of the concept or issue; (3) what is current evidence supporting or contradicting the concept or associated hypotheses; and (4) how can our current understanding of the topic be applied to address a contemporary problem. Each prompt instructs you on whether to use your textbook or assigned papers. Responses do not have a required length but are generally anticipated to be ~500 words. Note, we may not direct you to specific sections of the textbook but rather to the textbook generally. That is because the prompt may require you to synthesize materials from different sections of the text. If you submit a reading response by a required deadline, then you will be eligible to revise your response until it meets the capstone criteria or the last submission deadline for that question passes. We highly encourage you to collaborate with other classmates to draft responses. We will practice this collaborative approach in-class for 8 of the 18 reading prompts over the course of the semester.
+
+Projects: It is difficult to fully understand behavioral sciences without the opportunity to conduct practical exercises. Because the course does not include a laboratory period, we will conduct some projects spread over several lecture dates. After each exercise is complete, you will be asked to write a short report. Project 1 will be completed individually. Project 2 involves individual data collection, but you will complete a group analysis and submit a single, group report using your group's data and class level data that we will provide. Project 3 will involve class simulations and data that you will analyze as a group and write and submit as a single group report. Participation in live, synchronous class sessions and scheduled group meetings is expected or individuals may be removed from groups and required to complete assignments individually or receive a grade of zero for a project.
+
+Exams: There will be three "progressive" exams that cover lecture and reading material. I consider exams opportunities to practice what you are learning, which is why I use a progressive exam format. So, what is a "progressive exam" and how is it different from a cumulative exam. Rather than making you responsible for all content from prior modules on each exam, a progressive exam takes the content from an exam and incorporates many of the same or similar questions into the subsequent exam. In other words, much of Exam 1 will be repeated as part of Exam 2, and much of Exam 2 will be repeated as part of the optional final Exam 3. This format affords you the opportunity to revisit questions and correct answers, and the repetition reinforces key content we want you to retain. This approach is demonstrated to improve retention and learning. The exams are also progressive in their value, which improves student performance in the course by weighting the content more heavily on subsequent exams when you have had one or two prior exams to practice and revise your answers. You will also receive an exam study guide at least one week prior to each exam so that you know the full extent of the exam and can preview any graphs or figures before the exam. Exams are administered in person but electronically through eLC. Unless you have a DRC accommodation, you will need a laptop or compatible tablet to complete the exam. Paper copies of exams are present to address technological issues. If you do not have access to a laptop or tablet, please let your instructors know prior to the date of the exam.
+
+Applied Essay: You will be asked to write one applied essay. The process for writing the essay will involve peer review, reflection, and revision across multiple optional drafts. For the essay, you are placed in the role of an expert asked to address a set of claims at the heart of a controversy drawn from realistic scenarios. The essay is intended to develop and test your ability to synthesize and apply behavioral theories and evidence to render and defend your opinions or explanations. Your essay prompt will be available the second week of the semester but is not due until late October and we will have a prep session for the essay a few weeks before the essay is due. You will have the opportunity to review, reflect, and revise your essay including adding new material you may have learned and find relevant.
+
+Honors option
+
+This course is available as an honors option. The honors option requirements are to complete a Researcher Profile and a professional Book Review (see details below). Only profiles and book reviews that meet the "milestone" criteria are acceptable for completing the Honors Option.
+
+Researcher Profile: The purpose of the researcher profile is to expose interested honors students to the research program of a scientist at a university or affiliated with a professional organization whose work is related - broadly - to the field of animal behavior. To complete the profile, you must research and interview the scientist. You should begin by researching the scientist's stated interests,
+
+Due Dates
+
+updated August 17, 2022
+background, and research including reading at least 3 related papers published by the scientist. It is important to read the papers in advance of the main interview, but you may want to ask the scientist in advance to recommend a set of papers to read. Next, you should conduct the main interview with the scientist in person or via video chat. The interview should briefly review the scientist's background (current position, where they went to school, degrees held, professional history, etc...) and then delve deeply into their research foci [current and historic, what are major questions they address] including the papers you read, details about a current research project [objectives, questions, methods, current findings, future directions], and what the scientist feels are their major contributions to their field. You are free to cover any additional topics they desire.
+After completing the interview, you must write a profile ofhe scientist. This should introduce the scientist and give their relevant background information. Next, describe and critique the scientist's research program including describing the major questions or topics that motivate their research, examples of different research projects including those covered by the papers and discussed in the interview, and the significant contributions that person has made to their field. Drafts of profiles are submitted via eLC and you will be allowed to revise your profile draft before final submission.
+Book Review: There are a number of great books that cover the topics of this course in greater depth or relate many of the topics to other fields such as medicine or community development. You must read a book of your choosing from the list of potential titles provided on eLC. After reading your selected book, you must write a professional quality book review [not a book report] that summarizes the objective of the book, its key arguments, and critiques the arguments in the context of what you have learned in our class. If you are not familiar with professional book reviews, I advise you to look at some online or in a journal [journals often publish book reviews]; however, be careful not to plagiarize. I expect that you will read the book and that your review will be your own intellectual work. I will scrutinize book reviews heavily for evidence of plagiarism. **NOTE** - Your grade on your book review will be determined by the thoroughness and depth of your critique. I have read the book, so I already know what the author thinks. I want to know your critical and expert opinions about the content and ideas presented in the book. You are free and encouraged to express your own genuine opinion and it will be respected.
+
+Table of Assignment Due Dates Organized by Category.
+
+Assignment
+
+1st complete
+
+draft deadline
+
+Reading Inquiry Prompts Prompt Set 1, Questions 1-3 Prompt Set 2, Questions 4-7 Prompt Set 3, Questions 8-11 Prompt Set 4, Questions 12-13 Prompt Set 5, Questions 14-18
+Projects Project 1 - Ethogram Group Project 2 - Home Ranges Group Project 3 - The Foraging Game
+Exams Exam 1 Exam 2 Exam 3
+Applied Essay Reflection and Revision Plan 1 Reflection and Revision Plan 2
+Honors Options Faculty Profile Book Review
+
+August 28th September 11th September 25th November 6th November 28th
+September 19th October 21st
+November 11th
+October 17th November 30th December 12th
+8:00 - 11:00 AM
+October 30th November 4th December 6th
+October 27th December 4th
+
+Optional 2nd revision
+deadline
+
+Last date to submit optional
+revision
+
+September 11th September 30th
+October 9th
+
+September 30th October 9th
+November 6th December 13th December 13th
+
+October 27th November 21st December 13th
+
+Not Applicable Not Applicable Not Applicable
+November 30th December 13th Not Applicable Not Applicable
+
+December 13th
+
+updated August 17, 2022
+
+Table of Assignment Due Dates in Chronological Order.
+
+Assignment
+
+1st complete draft
+
+deadline
+
+Reading Inquiry Prompt Set 1, Questions 1-3 Reading Inquiry Prompt Set 2, Questions 4-7 Project 1 Report - Ethogram Reading Inquiry Prompt Set 3, Questions 8-11 Exam 1 Group Project 2 Report - Home Ranges Honors Option Faculty Profile Applied Essay Reflection and Revision Plan 1 Reading Inquiry Prompt Set 4, Questions 12-13 Group Project 3 Report - The Foraging Game Reading Inquiry Prompt Set 5, Questions 14-18 Exam 2 Honors Option Book Review Reflection and Revision Plan 2 Exam 3
+
+August 28th September 11th September 19th September 25th
+October 17th October 21st October 27th October 30th November 4th November 6th November 11th November 28th November 30th December 4th December 6th December 12th 8:00 - 11:00 AM
+
+Optional
+
+Last date to
+
+2nd revision
+
+submit optional
+
+deadline
+
+revision
+
+September 11th September 30th
+
+September 30th
+
+October 9th
+
+October 27th
+
+October 9th
+
+November 6th
+
+Not Applicable
+
+November 21st
+
+December 13th
+
+November 30th December 13th
+
+Not Applicable
+
+December 13th
+
+December 13th
+
+December 13th
+
+Not Applicable
+
+December 13th
+
+Not Applicable
+
+Not Applicable
+
+Final Grade A
+B
+C
+
+updated August 17, 2022
+Criteria Participate in all 8 in-class Reading Inquiry Response in-class collaborative reading activities. Submit a substantive "milestone" draft of all 18 Reading Inquiry Prompts and have a minimum of 14 answers meet the "capstone" criteria. Submit all three projects, at least two of which must meet the "capstone" criteria and the third must at least meet the "milestone" criteria. Meet or exceed expectations for all group projects based on self and peer evaluations. Submit all applied essay drafts on time until the essay at least meets the higher "milestone" criteria and participate fully in all peer-review and reflection activities including submitting reflection and revision plans. Score 85% or higher on the average of Exams 1 & 2 or Score 85% or higher on Exam 3.
+Honors Option Submit the Faculty Profile and the Book Review on time and revise until at least one assignment meets the "capstone" criteria and both meet at least the "milestone" criteria.
+Participate in a minimum of 6 Reading Inquiry Response in-class collaborative reading activities. Submit a substantive "milestone" draft of all 15 Reading Inquiry Prompts and have a minimum of 12 answers meet the "capstone" criteria. Submit all three projects, at least one of which must meet the "capstone" criteria and the other two must at least meet the "milestone" criteria. Based on self and peer evaluations, meet or exceed expectations for at least one group project and do not "fail to meet expectations" on any project. Submit all applied essay drafts on time until the essay at least meets the "milestone" criteria and participate fully in all peer-review and reflection activities including submitting reflection and revision plans. Score 75% or higher on the average of Exams 1 & 2 or Score 75% or higher on Exam 3.
+Honors Option Submit the Faculty Profile and the Book Review on time and revise until both meet at least the "milestone" criteria.
+Participate in a minimum of 4 Reading Inquiry Response in-class collaborative reading activities. Submit a substantive "milestone" draft of all 13 Reading Inquiry Prompts and have a minimum of 10 answers meet the "capstone" criteria. Submit all three projects, at least two of which must meet the "milestone" criteria. "Meet" or "exceed" expectations for at least one group project based on self and peer evaluations or demonstrate clear improvement towards meeting expectations from Project 2 to Project 3. Submit at least the first draft of the applied essay, that draft meets the "milestone" criteria, and fully participate in at-least one peer-review and reflection activity including submitting at least one reflection and revision plans. or Submit all applied essay drafts and fully participate in all peer-review and reflection activity including submitting both reflection and revision plan. Score 65% or higher on the average of Exams 1 & 2 or Score 65% or higher on Exam 3.
+
+updated August 17, 2022
+
+D
+
+Participate in a minimum of 2 Reading Inquiry Response in-class collaborative reading activities.
+
+Submit a substantive "milestone" draft of all 11 Reading Inquiry Prompts and have a minimum of 9 answers meet the "capstone" criteria.
+
+Submit all three projects, at least one of which meets the "milestone" criteria
+
+or
+
+Submit the two group projects, and both must meet the "milestone" criteria.
+
+Score no lower than "below expectations" on any group project
+
+or
+
+demonstrate clear improvement towards meeting expectations from Project 2 to Project 3.
+
+Submit all applied essay drafts and fully participate in all peer-review and reflection activity including submitting at least one reflection and
+
+revision plan.
+
+or
+
+Submit at least one draft of the applied essay that meets the "milestone" criteria.
+
+Score 55% or higher on the average of Exams 1 & 2
+
+or
+
+Score 55% or higher on Exam 3.
+
+F
+
+Fail to meet criteria for a grade of "D".
+
+updated August 17, 2022
+
+Attendance and assignment deadline policies
+
+Attendance Policies: Attendance is not mandatory but highly encouraged and attendance and participation in some classes is required to receive credit for some assignments. The course is structured and scaffolded under the assumption that you attend class, come prepared (e.g., having completed readings, downloaded and reviewed materials, etc...). If you have need for regular remote access due to COVID19 precautions, we ask that you register your need with the DRC. Contact us to request access to the course Zoom feed.
+
+If you arrive late, please enter the room quietly and take the nearest seat to the entrance while minimizing disturbance to your peers. If you anticipate being late regularly, please notify the instructor in advance and observe the policy for entering the room. Students who arrive late may be prevented from attending class if their late arrival is regular or disruptive.
+
+If you must leave class early, please sit close to an exit, minimize disruption when packing up your materials, and exit quietly. Again, notify your instructor in advance if you expect to leave early regularly.
+
+Late and Missed Assignment Policies: We have provided a calendar of recommended targets for completing work and firm due dates for submitting assignments. For an assignment to be eligible for revision, a complete draft must have been submitted by the prior due date. There is a coupon that you may use to extend a due date on one set of reading inquiry prompts, project, or essay. You need not provide any explanation or justification for using the coupon. We may need to adjust due dates on some assignments; however, those would only be extensions of current deadlines. We will not move up the deadline on any assignment.
+
+Missed exams may be made up only with a legitimate, documented excuse or prior rescheduling arrangement with the instructor.
+
+Submitting Unless otherwise stated...
+
+assignments:
+
+� all assignments are due by 11:59 PM on the due date.
+
+� you must submit assignments as a single pdf file with the file name
+
+"LASTNAME_FIRSTNAME_AssignmentName"
+
+(e.g.,
+
+SMITH_JANE_Exercise1).
+
+If you don't know how to make a single pdf file, we can show you in class or you can watch these quick how-to videos. � Click here for video on how to make a pdf using Word on a PC. � Click here for a video on how to merge pdf files into a single document
+on a PC. � To make a pdf on a mac, you simply need to select "Save As" from the
+"File" dropdown, then under filetype select "PDF". Name your file and select the location you want to save the file. � For instructions on how to merge pdf files into a single pdf on Mac, watch the video here starting at ~1 minute. � If you use Google Docs for you document, on a mac you can simply select print. The document will automatically be converted to a pdf and then you simply need to save the new pdf.
+
+� submit assignments as a single, properly labeled, merged pdf file (see above) to the appropriate submission folder on eLC. This ensures that the file is secure, and it identifies you correctly as the person submitting the file and the time and date you submitted the file. For group assignments, only a single copy of the document should be submitted by one member of the group.
+� In the event that you cannot submit the file to eLC for technical reasons, you can email your assignment as a merged pdf attachment to jcmaerz@uga.edu. This serves as a record that you submitted the assignment on time; however, please upload a copy to the eLC folder
+
+Course and relevant university policies:
+
+ASAP.
+
+updated August 17, 2022
+
+1. The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+2. Mental Health and Wellness Resources:
+� If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.
+� UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies).
+� If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center.
+� Additional resources can be accessed through the UGA App.
+3. In accordance with UGA FERPA policies, all course correspondence regarding FERPA protected academic matters including grades and submitted work products must use faculty and student UGA registered email addresses.
+4. A major feature of this course is the use of eLC, Microsoft Teams, and Perusall to facilitate interaction and collaboration among peers and instructors. All students are given the ability to post and modify content on the platforms. All three platforms maintain a complete record of changes, so actions are not anonymous. All course participants are expected to demonstrate respect for differences in opinion without intellectual or emotional judgment. Malicious or inappropriate activity will result in a participant's expulsion from the online platforms.
+5. All general course communications will occur via a weekly course email as well as emails or announcements posted to eLC. Students are responsible for checking updates on eLC and their UGA email on a daily basis. Issues including missed deadlines, updates, changes, or reminders related to a student's failure to respond or react to course messages and emails are not considered valid excuses for late or missed assignments or participation in course activities.
+6. UGA Student Honor Code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others." A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found at www.uga.edu/ovpi. Every course syllabus should include the instructor's expectations related to academic honesty.
+7. If you have a disability and would like to request course accommodations, please see me after class or make an appointment during office hours. If you plan to request accommodations for a disability, please register with the Disability Resource Center.
+8. Effective Fall 2014, the University of Georgia campus and all satellite facilities and campuses are completely tobacco free. The use of any tobacco products is completely prohibited and subject to fine by university police.
+9. Effective Fall 2014, the Warnell School of Forestry and Natural Resources has a mandatory laptop policy, and we highly encourage the use of laptops in class. We will require students to bring laptops for some in-class activities. However, the use of laptops and other devices for non-course related work (e.g., Facebook, Twitter, texting) diminishes the value of laptops in the classroom, and studies show can have a detrimental impact on the performance of others around those using their laptop for other purposes during course time. Therefore, we request that you refrain
+
+updated August 17, 2022
+from using laptops and other devices for non-course related activities during class periods, and we reserve the right to refuse their use if we feel it is impacting other students.
+10. Effective July 1, 2017, HB 280 permits the concealed carry of firearms in certain facilities on properties owned or leased by the state of Georgia's public colleges and universities. It is the responsibility of those license-holders who choose to carry handguns on campus to know the law and to understand where they can go while carrying. Guidelines on campus carry policies are available from the University System of Georgia (http://www.usg.edu/hb280). Questions should be submitted to the UGA Office of Legal Affairs (legal@uga.edu)
+
+Get Out of Animal Behavior Free Coupon
+
+I understand that course demands may conflict with other courses or events in your personal life. I also recognize that stuff just happens. This coupon entitles you or your group to extend the due date on a Reading Inquiry Prompt Set, Project Report, Applied Essay, or Honors Option. If you use the coupon for a group project, all members of the group must still be eligible to use the coupon. You do not need to explain yourself. You only need to "clip" this coupon, sign it, and place it as the first page in your submitted pdf. You may only use one coupon once per semester.
+
+Name(s):____________________________________________________________________________
+
+Date:__________________
+
+Assignment:______________________________________
+
+You may not apply this coupon to extend the due dates of exams, essay reflections and revision plans, or for any assignment due date after December 6th, 2022
+
+Day Wednesday
+
+= in class activity = assignment deadline = no class that day
+Date Topic 8/17/22 Module 1 - Intro
+
+WILD/BIOL 3700W - Animal Behavior - Fall 2022 Draft Calendar
+
+Prep BEFORE class time Complete elc Module 1
+
+During class time Discussion of course goals and approach
+
+Reflect AFTER class time Read chapter 1 Draft Reading Inquiry Response 1
+
+Friday Monday
+
+8/19/22 8/22/22
+
+Module 2 - Foundations of Behavior Module 2 - Foundations of Behavior
+
+Watch Module 2 videos 2.1-2.3 Watch Module 2 video 2.9 and read your assigned materials
+
+Lecture - Foundations of Behavior - Evolution 1st Reading Inquiry Response group activity
+
+(optional) review Module 2 videos 2.4-2.8 Draft Reading Inquiry Response 2
+
+Wednesday Friday Sunday Monday
+
+8/24/22 8/26/22 8/28/22 8/29/22
+
+Module 2 - Foundations of Behavior
+
+Module 2 - Foundations of Behavior
+
+DUE: Reading Inquiry Responses Prompt Set 1, Questions 1-3
+
+Module 3 - Proximate Causes of Behavior
+
+Read de Waal 2016; Caves et al. 2019
+
+Lecture - Foundations of Behavior - Evolution 2nd Reading Inquiry Response group activity
+Lecture - Proximate Causes of Behavior Project 1 - Overview and Instructions
+
+Draft Reading Inquiry Response 3
+Draft Reading Inquiry Response 4 (optional) review Module 3 videos 3.1-3.5
+
+Wednesday Friday
+
+8/31/22 9/2/22
+
+Module 3 - Proximate Causes of Behavior Module 3 - Proximate Causes of Behavior
+
+Read your assigned materials
+
+Lecture - Proximate Causes of Behavior Project 2 - part 1 instructions 3rd Reading Inquiry Response group activity
+
+Draft Reading Inquiry Response 5
+
+Monday Wednesday
+
+9/5/22 9/7/22
+
+No Classes - Labor Day Holiday Module 3 - Proximate Causes of Behavior
+
+Watch Module 3 videos 3.10 - 3.12
+
+No Classes - Labor Day Holiday Group 1: Field activity at horse arena; Group 2: Lecture - Proximate Causes of Behavior
+
+Draft Reading Inquiry Response 6
+
+Friday
+
+9/9/22 Module 3 - Proximate Causes of Behavior
+
+Group 1: Lecture - Proximate Causes of Behavior Group 2: Field activity at horse arena
+
+Draft Reading Inquiry Response 7
+
+Sunday
+
+9/11/22
+
+September 11th: Reading Inquiry Response Prompt Set 2, Questions 4-7 (optional) revisions of Response Prompt Set 1, Questions 1-3
+
+Monday Wednesday
+
+9/12/22 9/14/22
+
+Module 4 - Sensory Ecology & Communication Module 4 - Sensory Ecology & Communication
+
+Watch Module 4 videos 4.1 - 4.9 Read your assigned materials
+
+Lecture - Sensory Ecology and Communication 4th Reading Inquiry Response group activity
+
+(optional) review Module 4 videos 4.1 - 4.14 Draft Reading Inquiry Responses 8 or 9 (optional) review Module 4 videos 4.15 - 4.17
+
+Friday Monday
+
+9/16/22 9/19/22
+
+Module 4 - Sensory Ecology & Communication Module 5 - Habitat Selection, Migration, Dispersal
+
+Lecture - Sensory Ecology and Communication Lecture - Habitat Selection, Migration, Dispersal
+
+(optional) review Module 4 videos 4.18 - 4.24 (optional) Module 5 videos 5.1 - 5.6 Watch Module 5 videos 5.7 - 5.9
+
+Wednesday
+
+9/21/22
+
+DUE: Project 1 - Ethogram Report Module 5 - Habitat Selection, Migration, Dispersal
+
+Read your assigned materials Watch Module 5 videos 5.10 - 5.13
+
+5th Reading Inquiry Response group activity
+
+Draft Reading Inquiry Responses 9 or 10
+
+Friday
+
+9/23/22 Module 5 - Project 2 - Home Ranges, part 2
+
+Install Google Earth Pro on your computer. Download files from your group Teams folder to your computer.
+
+Required in-class Project 2 group activity. Please bring a laptop to class if you have one. If you don't, you can work with a partner.
+
+Work on your data outsde of class.
+
+Sunday
+
+9/25/22
+
+DUE: Reading Inquiry Responses Prompt Set 3, Questions 8-11 Submit your Home Range part 1 data on eLC
+
+Monday
+
+9/26/22 Module 5 - Project 2 - Home Ranges, part 2
+
+Required in-class Project 2 group activity. Please bring a laptop to class if you have one. If you don't, you can work with a partner.
+
+Work on your data outsde of class.
+
+Wednesday 9/28/22 Module 5 - Project 2 - Home Ranges, part 2
+
+Required in-class Project 2 group activity. Please bring a laptop to class if you have one. If you don't, you can work with a partner.
+
+Work on your data outsde of class.
+
+Friday
+
+9/30/22 Module 5 - Project 2 - Home Ranges, part 2
+
+Required in-class Project 2 group activity. Please bring a laptop to class if you have one. If you don't, you can work with a partner.
+
+Monday
+
+10/3/22
+
+(optional) DUE: revised drafts of Reading Responses 1-7 Module 6 - Foraging behaviors and theory
+
+Required in-class Project 3 group activity. Please bring a laptop to class if you have one. If you don't, you can work with a partner.
+
+Draft Reading Inquiry Response 12
+
+Wednesday 10/5/22 Module 6 - Foraging behaviors and theory
+
+Required in-class Project 3 group activity. Please bring a laptop to class if you have one. If you don't, you can work with a partner.
+
+Work on simulatons outside of class.
+
+Friday
+
+10/7/22 Module 6 - Foraging behaviors and theory
+
+Required in-class Project 3 group activity. Please bring a laptop to class if you have one. If you don't, you can work with a partner.
+
+Work on simulatons outside of class.
+
+Sunday Monday
+
+10/9/22 (optional) DUE: revised drafts of Readng Responses 4-11 10/10/22 Module 6 - Foraging behaviors and theory
+
+Required in-class Project 3 group activity. Please bring a laptop to class if you have one. If you don't, you can work with a partner.
+
+Work on simulatons outside of class.
+
+Wednesday 10/12/22 Module 6 - Foraging behaviors and theory
+
+Required in-class Project 3 group activity. Please bring a laptop to class if you have one. If you don't, you can work with a partner.
+
+Prepare for Exam 1
+
+Friday
+
+10/14/22 Module 6 - Foraging behaviors and theory
+
+Required in-class Project 3 group activity. Please bring a laptop to class if you have one. If you don't, you can work with a partner.
+
+Prepare for Exam 1
+
+Monday Wednesday Friday
+Monday
+
+10/17/22 10/19/22 10/21/22
+10/24/22
+
+Exam 1 Module 6 - Foraging behaviors and theory Applied Essay - prep session DUE: Project 2 group report due Module 7 - Reproduction
+
+Read your assigned materials Watch Module 7 videos 7.1 - 7.5
+
+6th Reading Inquiry Response group activity
+
+Draft Reading Inquiry Response 12
+
+In-class activity to prepare for writing your Applied Essay
+
+Lecture on Sexual Selecton
+
+(optional) review Module 7 videos 7.6 - 7.12 Draft Applied Essay
+
+Wednesday 10/26/22 Module 7 - Reproduction
+
+Lecture on Sexual Selecton
+
+(optional) review Module 7 videos 7.13 - 7.17 Draft Applied Essay
+
+Thursday
+
+10/27/22 (optional) last day do submit revised Project 1 - Ethogram Report DUE: Honors Option Faculty Profile
+
+Friday Sunday Monday
+
+10/28/22 10/30/22 10/31/22
+
+No Classes - Fall Break DUE: Applied Essay 1st Draft due Applied Essay - peer review
+
+No Classes - Fall Break
+
+No Classes - Fall Break
+REQUIRED ACTIVITY - Essay peer review & reflection Please bring two copies of your essay to class
+
+Draft Applied Essay Draft your Applied Essay Reflection and Revision Plan
+
+Wednesday 11/2/22 Module 7 - Reproduction
+
+Lecture on Mating Systems
+
+(optional) review Module 7 videos 7.18 - 7.25 Draft Reading Inquiry Response 13
+
+Friday Sunday
+
+11/4/22 11/6/22
+
+Module 7 - Reproduction DUE: Essay 1st Draft reflection and revision plan due November 6th: Reading Inquiry Responses Prompt Set 4, Questions 12-13 (optional) revisions of Reading Responses 8-11
+
+Lecture on Parental Care
+
+(optional) review Module 7 videos 7.26 - 7.28
+
+Monday Wednesday Friday
+Monday
+
+11/7/22 11/9/22 11/11/22
+11/14/22
+
+Module 8 - Sociobiology Module 8 - Sociobiology Module 8 - Sociobiology DUE: Project 3 group report due Module 8 - Sociobiology/Adaptive Ind. Diffs.
+
+Watch Module 8 videos 8.1 - 8.2 Watch Module 9 videos 9.1 - 9.2
+
+Lecture - Kin Selection Lecture - Kin Selection Lecture - Alternative Pathways to Cooperation
+Lecture - Shyness and Boldness in Animals
+
+(optional) review Module 8 videos 8.3 - 8.6 (optional) review Module 8 videos 8.7 - 8.9 (optional) review Module 8 videos 8.11 - 8.13
+(optional) review Module 9 videos 9.3 - 9.5 Draft Reading Inquiry Response 14
+
+Wednesday Friday Monday
+
+11/16/22 11/18/22 11/21/22
+
+Module 9 - Adaptive Individual Differences Module 9 - Adaptive Individual Differences Module 9 - Adaptive Individual Differences
+
+Watch Module 9 video 9.6 Read your assigned materials
+
+Lecture - Behavioral Syndromes 7th Reading Inquiry Response group activity
+
+(optional) review Module 9 videos 9.7 - 9.10 Draft Reading Inquiry Response 15 Draft Reading Inquiry Response 16 Draft Applied Essay
+
+Wednesday
+
+(optional) last day to submit revised Project 2 group report due
+
+11/23/22 No Classes - Thanksgiving Break
+
+No Classes - Thanksgiving Break
+
+No Classes - Thanksgiving Break
+
+Prepare for Exam 2 Draft Applied Essay
+
+Friday
+
+11/25/22 No Classes - Thanksgiving Break
+
+No Classes - Thanksgiving Break
+
+No Classes - Thanksgiving Break
+
+Prepare for Exam 2 Draft Applied Essay
+
+Monday
+
+11/28/22 Module 9 - Adaptive Individual Differences
+
+Read your assigned materials
+
+8th Reading Inquiry Response group activity
+
+Prepare for Exam 2 Draft Reading Inquiry Response 17
+
+Wednesday Friday
+
+11/30/22 12/2/22
+
+DUE: Reading Inquiry Responses Prompt Set 5, Questions 14-18 Exam 2 DUE: Last day to submit at least a second draft of Applied Essay Applied Essay - peer review
+
+REQUIRED ACTIVITY - Essay peer review & reflection Please bring two copies of your essay to class
+
+Draft Applied Essay
+Draft your Applied Essay Reflection and (optional) Revision Plan
+
+Sunday Monday Tuesday Wednesday Monday Tuesday
+Monday
+
+12/4/22 12/5/22 12/6/22 12/7/22 12/12/22 12/13/22
+12/19/22
+
+DUE: Honors Option - Book Review
+
+Module 10 - Cognition
+
+Module 10 - Cognition
+
+Last day to submit 2nd essay reflection and revision plan
+
+No Classes - Reading Day
+
+No Classes - Reading Day
+
+8-11 AM; optional Exam 3
+
+Last day to submit revisions to Reading Response Prompts 12-18
+
+Last day to submit a revised draft of Applied Essay
+
+Last day to submit revised Project 3 group report
+
+Last day to submit revised Honors Option Faculty Proflie
+
+Last day to submit revised Honors Option Book Review
+
+Final Grades Due by 12:00 PM
+
+Lecture - Cognition Lecture - Cognition
+No Classes - Reading Day
+
+

@@ -1,0 +1,79 @@
+Information Packet for Developmental Biology (CBIO/BIOL3300)
+Instructor Haini Cai
+404B Biological Sciences Building 10:10-11:00 AM MWF
+Textbook Principles of Developmental Biology
+Lewis Wolpert and others 4th ed. 2010Dec; ISBN 0-19-924939-4 Current Biology/Oxford University Press
+Teaching Assistant: TBA
+
+General Information
+Scope of the Course: Developmental Biology, a highly relevant and fast growing field in biology, seeks to understand the mechanisms multicellular animals use to construct a complex body from a fertilized zygote. We will examine the fundamental events that occur during embryonic development and pay special attention to the roles of genes in directing the fates and behavior of cells. We will emphasize the roles of signaling and regulatory molecules important for the development of organisms. There will be special emphasis on a limited number of model systems as diverse as worms, flies and humans. A diversity of techniques that are proving successful in this analysis will describe in detail.
+Course Objectives: Students will be expected to master fundamental facts, understand their experimental underpinnings, and be able to demonstrate that knowledge by constructing and evaluating previously unvisited experiments. Specifically, students will:
+� Learn how development occurs in embryos of several species of animals, primarily those with well-characterized embryology and/or genetics (Drosophila, C. elegans, zebrafish, chicken, and mouse) � Learn the experimental strategies and tools used by developmental biologists. � Analyze embryology experiments to identify common elements of the scientific process (hypothesis, experiment, result, and conclusion). Learn skills in scientific critiquing and creativity. � Learn to summarize and synthesize scientific papers, and effectively communicate their findings. � Appreciate the value of basic research in allowing leaps in our knowledge of human disease.
+Preparation: A year of introductory biology and a course in biochemistry are prerequisites and a course in genetics is a co-requisite for this course. Although listed as a co-requisite, completion of a course in genetics is highly recommended prior to taking this course in developmental biology. A firm grasp of molecular biology and genetics is essential for comprehending the material presented in this course. The amount of reading and study required to succeed in this class is higher than the classes you are used to in the past. Do not take this course if you are not prepared.
+Lectures: The lectures are the most important part of your learning experience in this course. Lecture material reflects the emphasis of the instructor among the vast information in this field of study. It includes material from the textbook, as well as from other sources such as primary literature and current research. The order of presentation may not follow that of the textbook chapters. the text. Some lecture material will be drawn from primary literature and is not found in the textbook. You will be responsible for material covered both in lectures and in the assigned readings. Research has shown that most people forget about 75-80% of what they hear in a lecture if they don't take notes and don't review the material within 24 hours. Thus, timely review following the lectures and readings on your part is critical.
+Handouts: Most of the lectures are accompanied by handouts. They provide graphics used in the lecture and outline the key points. However, due to the abbreviated fashion of the PowerPoint slides, students generally find it helpful to take brief notes on difficult concepts or additional information.
+
+The slides/handouts are available the night before each lecture for download, although further updates may be found in the version presented during class.
+
+Terminology: Science courses are said to introduce more new terms than an elementary course in a foreign language. We will do our best to define all new terms. Ask us if we fail to do this. Your text has an extensive glossary at the back. It also has a detailed index. USE THEM!
+
+Attendance: Regular class attendance is essential for success in this course; however since you are mature individuals, no formal attendance records will be kept. Nor will there be any sympathy if you do poorly on an exam because you missed important material or an important announcement given in lecture. If an unannounced pop quiz is given on the day of your absence, your grade for it will be a 0.
+
+Pop quizzes and classroom activities: Unannounced pop quizzes and other class activities will account for a total of 15% of your final grade. The format of these quizzes will be a combination of short answer questions, calculations, and drawings. These classroom activities are to help you take an active role in assimilating the material. People learn more effectively when they are actively involved in the learning instead of just sitting passively. One quiz may be dropped to accommodate for necessary absences (interviews, illnesses, and etc.)
+
+Exams There will be four one-hour exams during the semester, given on the days listed in the lecture schedule. Each exam will be worth 15% of your final grade. There will be a cumulative final exam worth 25% of final grade. In general, the Midterm 4 is given at the same time during the final exam for a total time of three hours.
+
+Grade Assignment: A: 90-100% B: 78-89%
+
+C: 60-77%
+
+D: 40-59%
+
+F: <40%
+
+Office Hours For Spring 2014, the office hour will be every Friday from 1-3 pm.
+
+Bonus points There are opportunities for earning bonus points up to 4% of final grade by writing essays on primary research papers on developmental biology. Two submissions are allowed, one for each half of the semester (deadlines: midterms 2 and 4). Each essay can earn UP TO 2% bonus points. Your essay must come from a current (year 2006-2014) issue of journals listed below. It must be based on a primary research article, or a primary research seminar on the topics of developmental biology. Please do not hesitate to consult the instructor if you are unsure whether your article or seminar topic is appropriate. Essays on inappropriate article/seminars will not receive any credit.
+
+Your essay should be 2 - 4 pages, single-spaced and must include the following six elements: 1. Complete citation: All authors, date, title of article, journal, pages, 2. Why is this research important? 3. What questions were being addressed? 4. What techniques were used to find the answers? 5. What were the results? 6. What were conclusions? 7. What do the authors (or you, specify who), suggest for further work?
+
+Or : How would you have done the study differently?
+Developmental Biology Journals Cell Dev. Cell Nature Science Proceedings of the National Academy of Sciences USA Genes and Development Development Genetics Developmental Biology Developmental Genetics
+Other Resources Primary scientific Journals including the ones emphasizing developmental biology are available at the Science Library and online: www.libs.uga.edu/science/fullalph.html Useful Web pages Zygote: A developmental biology website. http://zygote.swarthmore.edu/ The Virtual Embryo: http://www.ucalgary.ca/UofC/eduweb/virtualembryo/index.html The Society for Developmental Biology: http://sdb.bio.purdue.edu/ Basic Embryology Review Program (Overview): http://www.med.upenn.edu/meded/public/berp/ PubMed: Searching for scientific articles. http://www.ncbi.nlm.nih.gov/PubMed/ The flybase: http://flybase.bio.indiana.edu/ The Interactive Fly: Drosophila molecular genetics: http://sdb.bio.purdue.edu/fly/aimain/1aahome.htm Fly genetics simulators: http://vflylab.calstatela.edu/edesktop/VirtApps/VflyLab/IntroVflyLab.html Welcome to Sea Urchins: http://worms.zoology.wisc.edu/urchins/SUwelcome.html Frog Movies: http://www.utexas.edu/courses/zoo321/movies321.html Fish Movies: http://weber.u.washington.edu/~fishscop/zfpages/landmarks.html Zebrafish page (Fishnet): http://zebra.sc.edu/ Mouse: http://www.jax.org/ The Visible Embryo (human): http://www.visembryo.com/
+
+Class Schedule
+
+Date 1/6/14 1/8/14 1/10/14 1/13/14 1/15/14 1/17/14 1/22/14 1/24/14 1/27/14 1/29/14
+1/31/14
+2/3/14 2/5/14 2/7/14 2/10/14 2/12/14 2/14/14 2/17/14 2/19/14 2/21/14 2/24/14 2/28/14 3/3/14 73/5/14 3/7/14 3/17/14 3/19/14 3/21/14 3/24/14 3/26/14 3/28/14 3/31/14 4/2/14
+
+Topics Multicellularity, differentiation Cleavage, gastrulation and germ layers Position dependent gene regulation, enhancer function Position dependent gene regulation, enhancer function Drosophila: body axis determination and maternal gradients Drosophila: pattern formation: control gap genes Drosophila: Genetic control of segmentation: evenskipped stripe 2 Drosophila: Genetic control of segmentation: evenskipped stripe 2 Review/Discussion Midterm 1 (15%) Drosophila: Position dependent gene activation along Dorsal-ventral axis Drosophila: Position dependent gene activation along Dorsal-ventral axis Drosophila oogenesis: localization of maternal determinants Drosophila oogenesis: localization of maternal determinants Drosophila: Maintaining segment polarity by cell Drosophila: Maintaining segment polarity by cell Drosophila embryogenesis: regionalization by homeotic genes Drosophila embryogenesis: regionalization by homeotic genes Drosophila embryogenesis: regionalization by homeotic genes Review/Discussion Midterm 2 (15%) C. elegans: cell interaction during embryogenesis C. elegans Development: heterochronic mutations C. elegans Development: Introduction of Vertebrate model systems, Vertebrate body plan Vertebrate body plan, axis determination and signal centers Vertebrate: signal centers and cell fate determination Vertebrate: signal centers and cell fate determination Vertebrate: signal centers and cell fate determination Vertebrate: signal centers and cell fate determination Review/Discussion Midterm 3 (15%) Vertebrate development: somite formation and muscle
+
+Chapter 1 1 1 1 1/2 1/2 1/2
+2
+2
+2 2 2 2 2 2 2
+5 5 5 3 3 3 3 3 3
+3/4
+
+4/4/14 4/7/14 4/9/14 4/11/14 4/14/14
+4/16/14 4/18/14
+4/21/14 4/23/14 4/25/14 4/28/14
+5/5/14
+
+differentiation
+Vertebrate development: somite formation and muscle differentiation Vertebrate development: limb development
+Vertebrate development: limb development
+Vertebrate development: limb development Morphogenesis: cell surface property, affinity, attachment, cell sorting and gastrulation movement Morphogenesis: cell surface property, affinity, attachment, cell sorting and gastrulation movement Morphogenesis: cell surface property, affinity, attachment, cell sorting and gastrulation movement Stem cell, cancer, and medical applications
+Stem cell, cancer, and medical applications
+Review/Discussion
+Midterm 4 (15%)
+8:00 - 11:00 am Final Exam (25%)
+
+3/4
+3/4/9 3/4/9 3/4/9 7/8
+7/8
+7/8
+13/14 13/14
+
+

@@ -1,0 +1,202 @@
+Syllabus: GENE/BIOL 3200 Genetics, Spring 2014
+
+Instructors: Dave Hall: davehall@uga.edu. 706-583-5476. Norris Armstrong: narmstro@uga.edu. 706-542-1699.
+Please note that Dave Hall will handle all administrative matters. Teaching Assistants: Caitlin Conn: cec5158@uga.edu
+Alex Mihala: amihala@uga.edu Ranjani Namasivayam: ranjani@uga.edu Estafania Olivar tefycar@uga.edu Ashley Snouffer: asnouffe@uga.edu
+
+Date Topic (tentative)
+
+Instr. Chapter/section
+
+1/7
+
+DNA as genetic material. Structure of DNA. DH 1, 7.1, 7.2, 7.3, 7.4, 7.5
+
+1/9
+
+Central dogma I
+
+DH 8.1, 8.2, 8.3, 8.4, 9.2, 9.4, 9.5, 9.6
+
+1/14 Central dogma II
+
+DH
+
+1/16 Chromosome Structure, Mendel brief
+
+DH 11.2, 2.1, 2.2, 2.3, 2.4, 2.5, 2.6
+
+overview
+
+1/21 Chromosomal Theory, mitosis and meiosis DH 3.1, 3.2, 3.3, 3.4, 3.5, 3.6, 4.1, 4.2, 4.3,
+
+review, gene interactions
+
+4.4, 11.3
+
+1/23
+
+DH
+
+1/28 Linkage mapping I
+
+DH 5.1, 5.2, 5.3, 5.4, 5.5, 5.7
+
+1/30 Linkage mapping II
+
+DH
+
+2/4
+
+Molecular recombination
+
+NA 12.7, 12.8
+
+2/6
+
+DNA mutation & repair I
+
+NA 12.1, 12.2, 12.3, 12.4, 12.5, 12.6
+
+2/11 DNA mutation & repair II
+
+NA
+
+2/13 Chromosomal mutation I
+
+NA 13.1, 13.2, 13.3, 13.4, 13.5, 13.6, 13.7
+
+2/18 Chromosomal mutation II
+
+NA
+
+2/20 Gene regulation I
+
+NA 14.1, 14.2, 14.3, 15.1, 11.4, 15.2, 15.3
+
+2/25 Gene regulation II
+
+NA
+
+2/27 Gene regulation III
+
+NA
+
+3/4
+
+Forward genetics I
+
+NA 16.1, 16.2, 16.3, 16.4, 16.5
+
+3/6
+
+Forward genetics II
+
+NA
+
+3/11 SPRING BREAK
+
+NA
+
+3/13 SPRING BREAK
+
+NA
+
+3/18 Forward genetics III
+
+NA
+
+3/20 Recombinant DNA, reverse genetics I
+
+NA 17.1, 17.2, 17.3, 17.4, 17.5
+
+3/25 Recombinant DNA, reverse genetics II
+
+NA
+
+3/27 Genomics
+
+DH 18.1, 18.3
+
+4/1
+
+Genomics
+
+DH
+
+4/3
+
+Quantitative traits I
+
+DH 21.1, 21.2, 21.3, 21.4
+
+4/8
+
+Quantitative traits II
+
+DH
+
+4/10 Genome-wide Association Studies
+
+DH
+
+4/15 Special Topics
+
+DH
+
+4/17 Special Topics
+
+NA
+
+4/22 Special Topics
+
+DH
+
+4/24 Special Topics
+
+NA
+
+1
+
+Required texts: Genetic analysis: An integrated approach. 2012. Sanders, MF and JL Bowman. Pearson Education, Inc.
+Study Guide and Solutions Manual for Genetic Analysis: An Integrated Approach. 2012. Sanders, MF, JL Bowman and P Mirabito. Pearson Education, Inc.
+
+Lectures: All lectures are Tuesdays and Thursdays. Morning session is 11:00 - 12:15pm and afternoon session is 2:00 - 3:15 pm. Both lectures meet in Miller Learning Center room 171. Please attend your assigned lecture. Please turn off cell phones during lecture.
+
+Exam dates, times and locations:
+
+Exam 1: Thursday January 30th, 5pm.
+Exam 2: Thursday February 20th, 5pm. Exam 3: Thursday March 20th, 5pm.
+Exam 4: Thursday April 10th, 5pm. Exam 5: Monday May 5th, 7pm.
+
+The first 4 exams will be held in Miller Learning Center rooms 101 and 102. Exam 5 location(s) will be announced and posted on eLC at a later date.
+
+Please turn off cell phones during exams. Calculators are allowed.
+
+Exams: Exams are noncumulative. Each exam is worth 20% of your final grade. Exam scores cannot be dropped.
+
+Missed exams: Makeup exams will only be given in the case of a documented medical or extreme personal emergency. It is the student's responsibility to provide relevant and detailed documentation. Contact one of the instructor's as soon as possible if you will miss an exam. An unexcused missed exam will count 0 points.
+
+Regrades: All regrade requests must be submitted via Outbox (link will be provided on eLC after first exam) within one week of the exam being returned. Teaching assistants do not handle regrade requests. Submission of a regrade request will result in the entire exam being regarded. If you notice an error in the addition of points on your exam, simply notify the instructor after class or by email so that it can be corrected.
+
+Review Sessions: A review session will be held on the Tuesday evening before each of the first 4 exams and on the Tuesday afternoon before the 5th exam. Instructors will lead the review sessions.
+Please turn off cell phones during review sessions.
+
+Problems: Practice problems at the end of each chapter will be assigned during the course. Additional problems will also be posted on the eLC site. Example problems will be worked during recitation sections.
+
+MasteringGenetics: Access to MasteringGenetics, offered by the textbook publisher, is available free for students who purchased a new text, otherwise $55. This online resource (http://www.masteringgenetics.com/) includes tutorials, testing, etc. You may find it useful for clarifying the material, but its use is not required.
+
+2
+
+Recitation sections: Please attend your assigned recitation section. During each session, you will work through one or more practice problems with help from the teaching assistant. Please turn off cell phones during recitation sections.
+Office Hours: Instructors: Hall: Wednesday 1:30 - 3:30 pm, Thursday 3:30 - 5:30 pm, Life Sciences C318. Armstrong: MWF 10:00 - 11:00 am, MW 12:00 - 1:00 pm, Biosciences 409B. TAs: Conn: Monday and Friday 11:00 - noon. Life Sciences C418C. Mihala: Monday 10:00 - noon, Coverdell 256. Namasivayam: Monday 9:45-10:45. Wednesday 10:00 - 11:00 am. Coverdell 370/366. Olivar: Tuesday 11:00 - 1:00pm. Room TBA. Snouffer: Friday 1:00 - 3:00pm, Coverdell 206.
+Please attend the office hours of your section's teaching assistant. Please turn off cell phones during office hours.
+Material from Introductory Biology: We will not reteach some of the genetics that you learned in Introductory Biology. We will indicate the material that you should know and might want to review during the relevant sections of the course.
+Course withdrawal: We will follow the University's course withdrawal policy, which can be found here: http://www.reg.uga.edu/policies/withdrawals. Withdrawal deadline is March 20.
+Academic honesty: As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: www.uga.edu/honesty. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor. More detailed information about academic honesty can be found at: http://ovpi.uga.edu/academic-honesty/academic-honesty-policy.
+eLC: We will post your scores on eLC. In addition we have enabled discussions on this site. Please limit discussions to course material, or course related items, such as finding a study group. Posts are expected to maintain a respectful tone. TAs and instructors will monitor the discussion list, especially during exam weeks, and post to it as needed. Instructors will revoke posting privileges of students who misuse the list.
+Email: Please use email sparingly, and primarily for setting up appointments. Questions about the course material and other course-related issues can be directed to the discussion list on eLC. Questions concerning your grades, your standing in the course, personal issues that are affecting your performance, and so on, should be handled in person or by telephone, but NOT by email.
+Course Grade: Your final grade will be a weighted average of the 5 exams (20% each). There will also be one or two extra credit points offered during the course - stay tuned! Final grades will be based on a standard grade distribution: A: 90-100, B: 80-89, C: 70-79 and D: 60-69, with appropriate cut-offs for +/-.
+3
+
+

@@ -1,0 +1,303 @@
+GENE 3000 Evolutionary Biology (Spring 2021) T/TH 9:35 - 11:20
+Student Learning Center 116, UGA Griffin Campus
+Brendan G. Hunt, PhD Email: huntbg@uga.edu, Phone: (770) 412-4093, Zoom: huntbg, Web: www.huntlab.uga.edu
+Office hours: by appointment (Redding 125, phone, or zoom)
+Course Description (from UGA bulletin) An introduction to biological evolution, from the level of genes to populations to species.
+Course Objective The objective of this course is to foster a basic understanding of key concepts in evolutionary biology. The course provides an introduction to population genetics and evolutionary processes. We will discuss readings to better understand course topics and to gain experience digesting the primary scientific literature.
+Prerequisites Principles of Biology I-II or equivalent.
+Text Herron and Freeman. Evolutionary Analysis. 5th Ed. ISBN-10: 0321616677
+e-LearningCommons (eLC) Class materials including the syllabus, lecture slides, readings, and course announcements will be posted on the eLC course page at https://uga.view.usg.edu. Login with your UGA MyID.
+Coronavirus Information As a reminder, the University of Georgia--along with all University System of Georgia (USG) institutions--requires all faculty, staff, students, and visitors to wear an appropriate face covering while inside campus facilities/buildings. Any student with a positive COVID-19 test is required to report the test in DawgCheck and should self-isolate immediately. Students should not attend classes in-person until the isolation period is completed. Once you report the positive test through DawgCheck, UGA Student Care and Outreach will follow up with you. Effective Jan. 4, 2021, students who learn they have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 10 days (consistent with updated Department of Public Health (DPH) and Centers for Disease Control and Prevention (CDC) guidelines). Those quarantining for 10 days must have been symptom-free throughout the monitoring period. Please correspond with your instructor via email, with a cc: to Student Care & Outreach at sco@uga.edu, to coordinate continuing your coursework while self-quarantined.
+Attendance With few students, attendance is important, and regular attendance when healthy is required for a good participation grade. But please do not show up to class if exhibiting symptoms of any illness.
+Academic Honesty As a University of Georgia student, you have agreed to abide by the UGA Student Honor Code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others." A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found at https://honesty.uga.edu/.
+
+Mental Health and Wellness Resources
+
+If you or someone you know needs assistance, you are encouraged to contact Student Affairs at 770412-4096. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.
+
+UGA Griffin Campus Counseling Services serves as a resource for a student seeking mental health services, and can be contacted at 706-612-8792 or via email at griffincounseling@uga.edu.
+
+Students can schedule an appointment, here: https://bit.ly/3dAWO9d
+
+If you need help managing stress anxiety, relationships, etc., you can also contact BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center.
+
+Disability Accommodation
+
+UGA is committed to the success of all learners, and we strive to create an inclusive and accessible environment. In collaboration with the Disability Resource Center (https://drc.uga.edu/), we work with students who have documented disabilities to access reasonable accommodations and academic supports. For more information or to speak with a Disability coordinator, please call the Disability Resource Center at (706)542-8719, TTY only phone (706) 542-8778.
+
+Course Withdrawal and Key Dates
+
+The University's course withdrawal policy can be found at https://reg.uga.edu/generalinformation/policies/withdrawals/. The withdrawal deadline is March 23, 2021.
+
+Other key dates and deadlines can be found on the Registrar's Office website at https://reg.uga.edu/general-information/calendars/key-dates/.
+
+Inclement Weather
+
+Campus email is the primary means to distribute inclement weather announcements. A closure of the Griffin campus will result in class cancelation, which will be posted to eLC by the instructor and emailed to students.
+
+Participation
+
+Class discussions will facilitate active learning of evolutionary concepts and will help students become familiar with the scientific literature and presentation of data in figures. Participation in class discussions is required.
+
+Assignments
+
+Assignments will consist primarily of written summaries and responses to papers.
+
+Exams
+
+Four exams will be given that will consist primarily of short answer questions.
+
+Assessment
+
+Participation Assignments
+Exam I Exam II Exam III Final Exam
+
+15% 15% 17.5% 17.5% 17.5% 17.5%
+
+The planned grade scale for the course is as follows:
+
+A = 4.0 (92-100%) B = 3.0 (83-86%)
+
+C = 2.0 (73-76%)
+
+A- = 3.7 (90-91%) B- = 2.7 (80-82%)
+
+C- = 1.7 (70-72%)
+
+B+ = 3.3 (87-89%) C+ = 2.3 (77-79%)
+
+D = 1.0 (60-69%)
+
+F = 0.0 (<60%)
+
+2
+
+GENE 3000 Schedule, Spring 2021
+The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+
+Date
+
+Day
+
+Topic
+
+14.Jan
+
+TH
+
+Syllabus, course overview
+
+19.Jan
+
+T
+
+A case for evolutionary thinking
+
+21.Jan
+
+TH
+
+Evolution: history and evidence
+
+26.Jan
+
+T
+
+Discussion of Darwin 1859 Ch. 1, Natural selection
+
+Chapter
+1 2 3
+
+28.Jan
+
+TH
+
+Evolutionary trees
+
+4
+
+2.Feb
+
+T
+
+Discussion of Grant and Grant 2006
+
+4.Feb
+
+TH
+
+Variation among individuals
+
+5
+
+9.Feb
+
+T
+
+Discussion of Scaduto et al 2010, Exam review
+
+11.Feb
+
+TH
+
+Exam I
+
+1-5
+
+16.Feb
+
+T
+
+Selection and mutation
+
+6
+
+18.Feb
+
+TH
+
+Migration, drift, and nonrandom mating
+
+7
+
+23.Feb
+
+T
+
+Genetic drift
+
+7
+
+Discussion of Lande 1988
+
+25.Feb
+
+TH
+
+Molecular evolution
+
+2.Mar
+
+T
+
+Discussion of Enard et al 2002
+
+4.Mar
+
+TH
+
+9.Mar
+
+T
+
+11.Mar
+
+TH
+
+16.Mar
+
+T
+
+Exam review
+
+Exam II
+
+6, 7
+
+Linkage and sex
+
+8
+
+Discussion of Barton & Charlesworth 1998, Zimmer 2009
+
+18.Mar
+
+TH
+
+23.Mar
+
+T
+
+25.Mar
+
+TH
+
+30.Mar
+
+T
+
+1.Apr
+
+TH
+
+Quantitative genetics Discussion of Weber et al 2013 Social behavior Discussion of Cornwallis et al 2010, exam review Exam III
+
+9 12 8, 9, 12
+
+6.Apr
+
+T
+
+Sexual selection
+
+11
+
+8.Apr
+
+TH
+
+Instructional Break!
+
+13.Apr
+
+T
+
+Mechanisms of speciation
+
+16
+
+15.Apr
+
+TH
+
+Discussion of Seehausen et al. 2008
+
+20.Apr
+
+T
+
+Genome evolution and adaptation
+
+15
+
+22.Apr
+
+TH
+
+Discussion of Lynch & Connery 2003
+
+27.Apr
+
+T
+
+Development and evolution
+
+19
+
+29.Apr
+
+TH
+
+Discussion of Carroll 2008, Exam review
+
+11.May
+
+T
+
+Final Exam 9:00-11:00
+
+11, 15, 16, 19
+
+3
+
+

@@ -1,0 +1,68 @@
+SYLLABUS Soil Fertility Laboratory CRSS (HORT)(ECOL) 4590L/6590L
+This course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary
+INSTRUCTOR: Miguel L. Cabrera; Room 4119 Plant Sci. Bldg., 542-1242; mcabrera@uga.edu
+ASSISTANTS: John Rema, Dr. Teresita Ona.
+OFFICE HOURS: M, W 8:00-10:00 am, or email to schedule.
+DESCRIPTION: Soil conditions affecting availability of plant nutrients, software packages for managing soil fertility, fertilizers and environmental quality.
+PREREQUISITES: CHEM 1211-1211L and CRSS 3050-3050L or CRSS(FORS) 3060-3060L or permission of major
+COURSE OBJECTIVES: The objective of this course is to emphasize concepts covered in lecture so that students can understand:
+· How to establish soil fertility plots and estimate optimum fertilizer rates. · Methods of measuring cation exchange capacity and soil pH. · Reactions of aluminum, nitrogen, and phosphorus in soil. · Software packages for soil fertility and environmental protection.
+LOCATION: 3406 Miller Plant Sciences Building, Monday 4:10 - 6:10 pm
+REQUIRED TEXTBOOK: None. Laboratory handouts will be posted on website.
+REFERENCES: The following books can aid in writing the weekly report:
+Alexander, M. Introduction to soil microbiology. Brady, N. The nature and properties of soils, 10th ed.
+PROCEDURE: Laboratory sessions will be 115 minutes in length and will require the full and active participation of each student. The students in each lab session will work in groups of two or three persons. At the beginning of the laboratory period, students will discuss that day's lab, hand in the previous week's report, and take the weekly quiz. Laboratory handouts containing the procedures to be used in each laboratory practice will be available at the eLC site at least two days before the lab.
+
+Students should print the handouts and study them before lab to be able to answer quiz questions. The lab report will be due the following lab period, and will be graded and returned as soon as possible. These reports should be submitted on 8 1/2 x 11 3/4 paper. A late report without a valid excuse will result in lost points. Missed labs (with a valid excuse) can be made up at the discretion of the instructor. Excuses must be submitted to and approved by the instructor. Graduate students will have a term project.
+
+GRADING:
+
+Each lab report will be worth 100 points and each lab quiz will be worth 50 points. For undergraduate students, lab reports will account for 65% of the overall lab grade with quizzes accounting for the remaining 35%. For graduate students, lab reports will account for 55%, quizzes for 30%, and a term project for 15% of the overall grade.
+
+ETIQUETTE: If any equipment is damaged or broken, please report it to the instructor. All soil used in the experiments will be discarded into the soil traps in the sinks in the front of the classroom (plastic buckets). Please tidy up your work area before leaving the lab.
+
+ACADEMIC: All academic work must meet the standards contained in "A Culture of HONESTY: Students are responsible for informing themselves about those standards before
+performing any academic work. Please see http://www.uga.edu/honesty/
+
+LABORATORY REPORT
+
+A written report will be required of each student and should be turned in on the following lab period unless otherwise indicated by the instructor. This report will consist of four sections, unless a different format is specified in the lab handout.
+
+1) INTRODUCTION - A brief statement about the purpose of the lab exercise.
+
+2) MATERIALS and METHODS - A detailed description of the methods and materials Used in the lab (formatted in a narrative way).
+
+3) RESULTS AND DISCUSSION -The tabulated results from the laboratory using the Format suggested in the lab or one of your own. This section may include graphs, charts, etc, and should explain the results by addressing the questions provided in the handout with lab results.
+
+4) CONCLUSIONS - State the main points that you learned from the lab, both from the data and additional information.
+
+NOTE: Students are encouraged to work cooperatively in the calculation of laboratory results, BUT each laboratory report should be written individually. Reports that are not prepared individually will receive 0 points.
+
+Aug 30: Sep 13: Sep 20 : Sep 27: Oct 4, 11: Oct 18: Oct 25, Nov 1 : Nov 8: Nov 15: Nov 22: Nov 29:
+
+TENTATIVE LABORATORY SCHEDULE Lab 1: Soil Fertility Research/Demonstration plots. Lab 2: Estimating Optimum Economic N Rates Lab 3: Exchangeable Cations and Cation Exchange Capacity. Lab 4: pH and Buffering in Soils. Lab 5: Aluminum Reactions in Soils. Lab 6: Nitrogen reactions in soil. Lab 7: Ammonia Volatilization from Urea Lab 8: Phosphorus reactions in soil Lab 9: Loss of Phosphorus in Surface Runoff Lab 10: Variable Fertilizer Rates Lab 11: Software Packages for Soil Fertility/Nutrient Management
+
+CORONAVIRUS INFORMATION FOR STUDENTS
+Masks and Face Coverings For Fall Semester 2021, UGA strongly encourages that face coverings must be worn at all times when in university facilities. The Centers for Disease Control (CDC) strongly recommends the following precautions to keep you and your family safe:
+· Get vaccinated · Quarantine if you are exposed and unvaccinated · Isolate when you have symptoms · Don't come to class if you think you may be ill · Wear a mask · Social distance · Avoid crowds and poorly ventilated spaces · Wash your hands often · Cover sneezes and coughs · Monitor your health daily
+Face coverings and social distancing: Following guidance from the University System of Georgia, face coverings are no longer required inside campus facilities, including classrooms. However, unvaccinated individuals are strongly encouraged to continue wearing face coverings while inside campus facilities and socially distancing from others when possible. Best recommendations may change: Most recent at time of updating syllabus is below from the following UGA covid portal: https://coronavirus.uga.edu/ Links below are not hot.
+Campus Operations
+The University of Georgia has released several key pieces of information in preparation for the return to normal campus operations. Full details can be found on the Campus Messages page of this site.
+Recent announcements include:
+· Our campus community becomes safer and stronger with every person who is vaccinated against COVID-19. While being vaccinated against COVID-19 is not required for attendance at UGA, it is strongly encouraged. Thanks to a new statewide initiative, it is now easier than ever for current and incoming students to get their vaccines. Schedule an appointment at one of the 15 participating campuses in the University System of Georgia nearest to you. Locate additional community vaccination sites through the Centers for Disease Control and Prevention's vaccination locator. Schedule an appointment directly with the University Health Center.
+· The University Health Center has broadened vaccination eligibility to include eligible dependents of UGA faculty, staff and students; UGA retirees; spouses/partners of retirees, faculty, staff, and students; visitors to campus engaged in research, academic or non-academic summer engagement/transition opportunities; those visiting campus as part
+
+of Orientation; and active employees and (primarily) students enrolled at other USG institutions who live in the Athens vicinity. For those members of the expanded eligibility groups listed above, please submit this survey, and the UHC will reach out to you to schedule the appointment directly. Please note that the UHC will provide second doses to any student, even if they have graduated before the date of their second dose is due.
+· The Division of Marketing & Communications has updated signage templates to reflect key points from USG's recent campus guidelines. These have been uploaded to the Digital Arch portal.
+· Four University of Georgia experts answered some of the most frequently asked questions about COVID-19 vaccines in a recent virtual panel discussion held on campus. Moderated by Dr. Shelley Nuss, dean of the Augusta University/University of Georgia Medical Partnership, panelists discussed a variety of topics related to vaccine safety and efficacy. Watch the complete session to learn more about how the available COVID-19 vaccines can help keep you and your family safe.
+How can I obtain the COVID-19 vaccine? University Health Center is scheduling appointments for students through the UHC Patient Portal (https://patientportal.uhs.uga.edu/login_dualauthentication.aspx). Learn more here - https://www.uhs.uga.edu/healthtopics/covid-vaccine.
+What do I do if I have COVID-19 symptoms? Students showing COVID-19 symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see, https://www.uhs.uga.edu/info/emergencies.
+What do I do if I test positive for COVID-19?If you test positive for COVID-19 at any time, you are required to report it through the DawgCheck Test Reporting Survey.
+We encourage you to stay at home if you become ill or until you have excluded COVID-19 as the cause of your symptoms. UGA adheres to current CDC quarantine and isolation guidance and requires that it be followed.
+Guidelines for COVID-19 Quarantine Period (Revised 6/7/21) Students who are fully vaccinated do not need to quarantine upon exposure unless they have symptoms of COVID-19 themselves. All others must follow the following recommendations. Students who are not fully vaccinated and have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 10 days. Those quarantining for 10 days must have been symptom-free throughout the monitoring period and continue self-monitoring for COVID-19 symptoms for a total of 14 days. Please correspond with your instructor via email, with a cc: to Student Care & Outreach at sco@uga.edu, to coordinate continuing your coursework while self-quarantined.
+
+Fully vaccinated people who have come into close contact with someone with COVID-19 should be tested 3-5 days following the date of their exposure and wear a mask in public indoor settings for 14 days or until they receive a negative test result. They should isolate if they test positive.
+For most up to date recommendations from CDC see: Interim Public Health Recommendations for Fully Vaccinated ... https://www.cdc.gov > coronavirus > 2019-ncov > vaccines
+Monitoring conditions: Note that the guidance referenced in this syllabus is subject to change based on recommendations from the Georgia Department of Public Health, Centers for Disease Control, Governor's Office or University System of Georgia. For the latest on UGA policy, you can visit www.coronavirus.uga.edu.
+
+

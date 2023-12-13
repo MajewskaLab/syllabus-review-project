@@ -1,0 +1,290 @@
+Syllabus for BCMB 4010/6010 Biochemistry and Molecular Biology I
+Fall Semester, 2021
+
+Dr. Zachary Wood Davison Life Sciences Bldg., A426B
+Phone: 706-583-0304 Email: zaw@uga.edu
+
+Dr. Chris West Davison Life Sciences Bldg., B122
+Phone 706-542-4259 Email: westcm@uga.edu
+
+COVID-19 MODIFICATIONS: Face coverings in class are strongly recommended for all individuals, whether vaccinated or not. The current plan is to return to in-person class meetings this Fall, but in the event that one of our students has to go to quarantine or miss class due to illness, we will offer synchronous remote learning through Zoom (https://uga.zoom.us/) so that the student can keep up with lectures. Our goal is to keep everyone healthy, and to encourage those who suspect that they have been exposed or have contracted COVID to quarantine without fear of falling behind in the material.
+
+Class Time, Rooms and Online Options: Lecture Tu/Th (3:55-5:10 PM) and Breakouts on Mondays (5:40 - 6:55 pm) in Room C127 of the Davison Life Sciences Bldg. The breakout is used for quizzes (see grading below).
+
+Office Hours: Students are strongly encouraged to participate in classroom and Virtual Study Group discussions (see below). If you have a specific reason or need to meet with us one on one, please email us and we will schedule a time.
+
+Virtual Study Groups and Study Questions: BCMB 4010 is an information-rich course that challenges students. To improve student performance, we use virtual study groups. The goal is to engage students outside of class using a free, online platform to encourage group study habits without the logistic difficulties associated with actual study groups. Briefly, each lecture includes 10-15 discussion questions that are posted on a `Google Doc' that is open to the class. The entire class works on the questions simultaneously, and can post follow-up questions to the class as a whole in order to clear up misunderstandings or to delve deeper into a specific concept. We monitor the discussions daily and point the students in the correct direction by giving hints or asking leading questions. Our participation gives the students the opportunity to interact with us outside of class. This simple platform has redefined office hours. Many students have the same questions, so instead of spending time repeatedly answering the same question with individual students, we interact with the virtual study group and address the questions for the entire class. This strategy enhances the learning experience for the entire class, including those who cannot attended office hours.
+
+General: BCMB 4010/6010 (Biochemistry and Molecular Biology I) is the first semester of a twosemester sequence tailored to the needs of the major (the second semester is BCMB 4020/6020, Biochemistry and Molecular Biology II). The same textbook is used for both BCMB 4010/6010 and BCMB 4020/6020, and the sequence is intended to be a coherent, integrated year.
+The prerequisite for BCMB 4010/6010 is CHEM 2211/L (Modern Organic Chemistry I) or the equivalent. Our philosophy of biochemistry can be summarized typographically as bioCHEMISTRY, so this prerequisite should be taken seriously.
+Textbook: The book for the course is Lehninger Principles of Biochemistry, 7th edition. The book may be purchased at the bookstore or at the link below (an ebook that you own, not rent): (https://store.macmillanlearning.com/us/product/Lehninger-Principles-ofBiochemistry/p/1464126119?searchText=Lehnin ) Alternatively, you may choose a less expensive older edition (Lehninger (4th - 6th editions), but be aware that you are responsible for using the table of contents and index to find the appropriate lecture material. We test from our lecture material, and the book is the primary resource for the class. The second section (BCMB 4020/6020) uses the same text book, and will accept the same, less expensive alternates.
+
+2
+
+eLC: The eLC site for BCMB 4010/6010 includes syllabus, lecture notes, PowerPoint slides, plus the usual announcements, email, etc. The site can be reached through the UGA eLC Home Page at the following address: https://uga.view.usg.edu/. To gain access to the course, log on with your UGA MyID username and password. Information on how to use eLC is available from the UGA eLC Home Page.
+
+Email Policy: You are responsible for any class information that is disseminated through eLC email, so you should check it frequently. Be aware that with email forwarding, you can receive emails from eLC in your preferred email account, BUT you CANNOT simply reply to the message if you are not logged into the eLC email program. This because eLC is set up to prevent spam. You can use our email addresses at the top the syllabus if you need to contact us.
+
+Accommodations for Disabilities: If you plan to request accommodations for a disability, please register with the Disability Resource Center. They can be reached by visiting Clark Howell Hall, calling 706-542-8719 (voice) or 706-542-8778 (TTY), or by visiting http://drc.uga.edu.)
+
+Quizzes The grading in this course will be based on weekly quizzes, given during the Monday breakout. The quiz will last ~30-45 minutes, and consist of 6-12 questions broken down as follows:
+1) (~35 points) quiz questions based on the previous week's lecture. 2) (~15 points) 2-4 quiz questions based on any material that has been covered in the course,
+including the previous lectures (to enhance retention). Quizzes will not be returned. Answers will be discussed following the quiz. If you believe there has been a grading error on your quiz you have one week from the date the quiz grade is posted to contact us for grade changes. No grades will be changed after this date.
+
+Make-up quizzes and Optional Final: There will be no make-ups for missed quizzes. Instead, all students have the option of taking a semi-cumulative `Optional Final' at the end of the course. This optional final can also be used by any student to replace any quiz grade. If a student has a written excuse from a Doctor (or prior approval from the Professor) for missing a quiz, then that student may use the optional final to replace two quiz grades (the missed quiz and one additional).
+
+Grading:
+
+14 quizzes (50 points each)
+
+If necessary, quizzes will be scaled
+
+To calculate your grade, simply add
+
+Grade Points
+
+A
+
+644 *
+
+92%
+
+A- 623
+
+89%
+
+B+ 602
+
+86%
+
+B
+
+574
+
+82%
+
+B- 553
+
+79%
+
+C+ 518
+
+74%
+
+C
+
+420
+
+60%
+
+C- 350
+
+50%
+
+D
+
+280
+
+40%
+
+up to your
+
+700 total points yield class average of 75% exam. NO ROUNDING UP
+
+(37.5 points). on this scale.
+
+For example, if you have earned 500 points by your 12th quiz, then you need 144 points total from the 3
+remaining quizzes to earn an A. *Warning: With the scaling, it is possible to score an `A' by the 14th quiz. To discourage students from
+dropping the last quiz, you must earn at least 25 points on the last quiz to receive an A in the course.
+
+3
+Academic Honesty The instructors, course assistant(s), and students are expected to adhere to the Academic Honesty Policy of the University of Georgia (https://ovpi.uga.edu/academic-honesty). With regard to BCMB 4010/6010, you are welcome to use ANY resource to learn the material - one of us, your classmates, other professors, other textbooks, commercial outlines, anything that helps you - but you are to use only your own mind on the quizzes.
+Compact for Responsible Scholarship The instructor, course assistant(s), and students are expected to adhere to the spirit of the UGA Compact for Responsible Scholarship: A Joint Resolution for Academic Excellence endorsed by The UGA Student Government Association and The UGA Teaching Academy
+Mental Health and Wellness Resources: � If you or someone you know needs assistance, you are encouraged to contact Student Care and
+Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu/. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services. � UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies). � If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center. � Additional resources can be accessed through the UGA App.
+CORONAVIRUS INFORMATION FOR STUDENTS FOR FALL 2021 CLASSES
+Face coverings: Following guidance from the University System of Georgia, face coverings are recommended for all individuals while inside campus facilities.
+How can I obtain the COVID-19 vaccine? University Health Center is scheduling appointments for students through the UHC Patient Portal (https://patientportal.uhs.uga.edu/login_dualauthentication.aspx). Learn more here - https://www.uhs.uga.edu/healthtopics/covid-vaccine.
+The Georgia Department of Health, pharmacy chains and local providers also offer the COVID-19 vaccine at no cost to you. To find a COVID-19 vaccination location near you, please go to: https://georgia.gov/covid-vaccine.
+In addition, the University System of Georgia has made COVID-19 vaccines available at 15 campuses statewide and you can locate one here: https://www.usg.edu/vaccination
+What do I do if I have COVID-19 symptoms? Students showing COVID-19 symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see, https://www.uhs.uga.edu/info/emergencies.
+What do I do if I test positive for COVID-19?
+
+4
+If you test positive for COVID-19 at any time, you are required to report it through the DawgCheck Test Reporting Survey. We encourage you to stay at home if you become ill or until you have excluded COVID-19 as the cause of your symptoms. UGA adheres to current Georgia Department of Public Health (DPH) quarantine and isolation guidance and requires that it be followed. Follow the instructions provided to you when you report your positive test result in DawgCheck.
+Guidelines for COVID-19 Quarantine Period (As of 8/1/21; follow DawgCheck or see DPH website for most up-to-date recommendations) Students who are fully vaccinated do not need to quarantine upon exposure unless they have symptoms of COVID-19 themselves. All others should follow the Georgia Department of Public Health (DPH) recommendations:
+Students who are not fully vaccinated and have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 10 days. Those quarantining for 10 days must have been symptom-free throughout the monitoring period and continue self-monitoring for COVID-19 symptoms for a total of 14 days. You should report the need to quarantine on DawgCheck (https://dawgcheck.uga.edu/), and communicate directly with your faculty to coordinate your coursework while in quarantine. If you need additional help, reach out to Student Care and Outreach (sco@uga.edu) for assistance.
+Students, faculty and staff who have been in close contact with someone who has COVID-19 are no longer required to quarantine if they have been fully vaccinated against the disease and show no symptoms.
+Well-being, Mental Health, and Student Support If you or someone you know needs assistance, you are encouraged to contact Student Care & Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu/. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.
+UGA has several resources to support your well-being and mental health: https://well-being.uga.edu/
+Counseling and Psychiatric Services (CAPS) is your go-to, on-campus resource for emotional, social and behavioral-health support: https://caps.uga.edu/, TAO Online Support (https://caps.uga.edu/tao/), 24/7 support at 706-542-2273. For crisis support: https://healthcenter.uga.edu/emergencies/.
+The University Health Center offers FREE workshops, classes, mentoring and health coaching led by licensed clinicians or health educators: https://healthcenter.uga.edu/bewelluga/
+Monitoring conditions: Note that the guidance referenced in this syllabus is subject to change based on recommendations from the Georgia Department of Public Health, the University System of Georgia, or the Governor's Office or. For the latest on UGA policy, you can visit coronavirus.uga.edu.
+
+5
+
+Syllabus Lecture 1
+
+Date 8/19 Th
+
+2
+
+8/24 Tu
+
+3
+
+8/26 Th
+
+Quiz 1 8/30 M
+
+4
+
+8/31 Tu
+
+5
+
+9/2 Th
+
+Quiz 2 and 6
+7
+
+9/6 M 9/7 Tu
+9/9 Th
+
+Quiz 3 9/13 M
+
+8
+
+9/14 Tu
+
+9
+
+9/16 Th
+
+Quiz 4 9/20 M 10 9/21 Tu
+11 9/23 Th
+Quiz 5 9/27 M 12 9/28 Tu
+
+13 9/30 Th
+
+Quiz 6 10/4 M 14 10/5 Tu
+
+15 Quiz 7
+16
+
+10/7 Th 10/11 M 10/12 Tu
+
+17 10/14 Th
+
+Quiz 8 10/18 M 18 10/19 Tu
+
+Subject Material* Study Guide 1: Peptide bond and Thermodynamics For chemistry review: Chapter 1.3, 1.4 (chemical and physical foundations). Peptide bond Chapter 3.2, 4.1 Study Guide 1: Thermodynamics (continued), Study Guide 2: noncovalent interactions, water (Chapter 2). Worksheet: Rule of Thumb1 Study Guide 2: Hydrophobic effect, Study Guide 3: Detergents, pKa, le Chatelier's Principle, leaving groups, Bicarbonate Buffer Worksheet: HW: Binding isotherm (affinity) (50 pts) Study Guide 3: Bicarbonate Buffer, Hyperventilation. Study Guide 4: Amino Acids. Study Guide 4: Amino Acids (cont.) Study Guide 5: Primary structure of proteins, Purification
+*********Labor Day********** Quiz 2 moved to Tuesday Quiz 2 (50 pts) and Lecture 6: Study Guide 6: Protein structure: Four rules of folding, Secondary structure, Ramachandran, Pro/Gly Study Guides 6-7: Protein folding: Tertiary Structure: Motifs, Domains. Domains, Leventhal's Paradox, Anfinsen's Dogma
+(50 pts) Study Guide 7: Protein folding1: Tertiary Structure: Motifs, Nucleation-Condensation, Two-state folding, Three-state Folding Study Guide 7: Protein folding2: General Case Folding Funnels, Chaperones, Prions Study Guide 8: Binding and affinity (50 pts) Study Guide 8: Binding and affinity (Cont'd) Study Guide 9: Hemoglobin, Bohr Effect (hyperventilation) Study Guide 9: 2,3-BPG, Fetal Hemoglobin (why babies are stupid), Sickle Cell (50 pts) Study Guide 10: Kinetics: Rates (reaction order), Catalysis, Single molecule, Pre-steady state, Initial velocity analysis (pseudo-first order) Study Guide 11: Enzyme Kinetics I: Steady state, LineweaverBurk, Enzyme inhibition (50 pts) Study Guide 11: Enzyme Kinetics II: Enzyme inhibition, Allostery Study Guide 12: Enzyme Mechanisms I: Four tricks Study Guide 13: Enzyme Mechanisms II: HEWL, Serine Protease (50 pts) Study Guides 13-14: Coupled reactions. Glutamine Synthetase, GAPDH Study Guide 14: Coupled reactions. Glutamine Synthetase, GAPDH (50 pts) Carbohydrates-1 (introduction; origins; glycoconjugates; expanded central dogma; monosaccharides; nomenclature; isomers;
+
+Lecturer Wood
+Wood
+Wood
+Wood Wood Wood Wood Wood Wood Wood Wood Wood
+Wood Wood Wood Wood Wood
+Wood Wood Wood Wood Wood Wood Wood Wood West
+
+6
+
+mutarotation; reducing activity; conformation)
+
+19 10/21 Th Carbohydrates-2 (glycation; oligosaccharides/glycans; glycosidic
+
+linkages; sugar nucleotides; glycosyltransferases; milk sugars;
+
+conformation vs. configuration; N- & O-glycans on proteins; blood
+
+group antigens)
+
+Quiz 9 10/25 M (50 pts)
+
+WITHDRAWAL DEADLINE
+
+10/26 Tu Carbohydrates-3 (analytical methods; glycans in glycoprotein
+
+function; avidity; glycans and glycan receptors in
+
+compartmentalization, inflammation, HIV, influenza)
+
+21 10/28 Th Carbohydrates-4 (polysaccharides; structures of glycogen and
+
+cellulose; glycosaminoglycans)
+
+Quiz 10 11/1 M (50 pts)
+
+22 11/2 Tu Carbohydrates-5 (bacterial surfaces and antibiotics)
+
+23 11/4 Th Lipids-1 (introduction; fatty acids; triglycerides; saturation; fatty
+
+acid derivatives: prostaglandins, thromboxanes, leukotrienes,
+
+waxes; polyketides; glycerophospholipids)
+
+Quiz 11 11/8 M (50 pts)
+
+24 11/9 Tu Lipids-2 (sphingolipids; ether lipids; glycolipids; degradation;
+
+isoprenoids/terpenes: sterols, vitamin A, quinones; N-
+
+glycosylation)
+
+25 11/11 Th Lipids-3 (analytical methods; lipoproteins; serum transport;
+
+atherosclerosis)
+
+Quiz 12 11/14 M (50 pts)
+
+26 11/16 Tu Membranes-1 (introduction; self-assembly of lipids; lipid
+
+components; phase transition; lateral diffusion; lateral and
+
+transverse asymmetry)
+
+27 11/17 Th Membranes-2 (integral, peripheral & lipid-linked membrane
+
+proteins; topology; hydropathy analysis; fluid-mosaic model; -
+
+barrels; gap junctions)
+
+Quiz 13 11/22 M (50 pts)
+
+28 11/23 Tu Membranes-3 (rafts; bending, budding, fusion; channels)
+
+11/25-11/27 Thanksgiving Break
+
+No Quiz 11/29 M
+
+29 11/30 Tu Membranes-4 (passive transporters; primary & secondary active
+
+transporters; chemiosmotic mechanism; protein translocation)
+
+30 12/2 Th Membranes-5 (transmembrane signaling; structure-function of
+
+receptor tyrosine kinases; toxins; inhibitors)
+
+No Quiz 12/6 M
+
+Quiz 14 12/14 Tu Final quiz 3:30-6:30 PM (50 pts). Optional final will be given at
+
+the same time (see syllabus).
+
+* see corresponding study guide questions for specific topic areas
+
+Disclaimer: The course syllabus is a general plan for the course; deviations announced to the
+
+West
+West West
+West West West West
+West West
+West West West
+West
+West West
+West West
+West
+
+

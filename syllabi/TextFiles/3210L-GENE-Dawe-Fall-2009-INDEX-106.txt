@@ -1,0 +1,24 @@
+LAST HALF OF 3210 - COURSE OBJECTIVES. R. Kelly Dawe, Fall 2009
+This half of the course is designed to be like a real working laboratory. Instead of a series of set experiments with known outcomes we will have one broad goal with no known outcome. Ten different grass species will be made available. You will identify a new transposon sequence from a single species and make your work public by submitting the result to GenBank. The outcome is that you: A) Will have acquired first-hand experience with the ups and downs of laboratory science; B) You will learn even more about transposons than you already know; C) You will have made a tangible contribution to public knowledge and your name will be on it -- permanently. In the first few weeks we will have practice exercises that demonstrate various aspects of PCR but then you will be on your own, with, of course, in-class guidance on how you might proceed.
+Many of you will have a relatively easy time of it and will get sequence early. To keep those people busy, we may reorganize groups. Those who have been through it before will be re-paired with someone who is having trouble. And if that goes quickly too, then I will start you with a new grass species and you can generate even more sequence. Because your work will involve a lot of waiting around, we will also be covering primary papers on a regular basis. This will be carried out in a discussion format. I will lead discussions, but each of you will be expected to contribute.
+Grading: (25%) Attendance & contributions to discussion throughout the course (15%) Notebooks (25%) Lab report, which may include your GenBank listing (35%) Exam
+25% of the grade will be based on your approach to the course - that is, how seriously you take it. Attendance is a key issue since your partner will be relying on you. If you are going to be absent, you should let me know before you are absent. Finally, at least two papers will be discussed during class, and you will be expected to be familiar enough with those papers to ask and/or answer questions about them.
+15% of your grade will be based on notebooks. The grades will be based on the following criteria: 1) Introduce, in short paragraph form, the goal of the day. It is not sufficient to refer to the syllabus, which may not be available later. Use your own words. This is an important section that should stand on its own. 2) Describe what you did. Write out what your materials were, what you did with them, where you did it, and how you analyzed your data. 3) Show the data. This should be extremely clear. If you paste a picture of gel in the notebook, all lanes should be clearly labeled so that someone else can easily understand. 4) Summarize in words what happened. Only you know what really happened during your experiment. If you were pleased and the experiment was successful, say so. If only part of it worked, say which part worked and which part did not work. If it went poorly, write out why you think it went poorly.
+25% of the grade will be based on a final report. You can use this web site as a guideline http://www.ncsu.edu/labwrite/. Our lab is called a `standard lab'. This page is especially useful: http://www.ncsu.edu/labwrite/po/po-selfguide.htm.
+35% of the grade is based on your exam score. A review period and a sample exam will be provided.
+
+PROJECTED SYLLABUS (Subject to adjustment and modification)
+Week 8: INTRO, MAKE DNA Oct 10 Introduction Oct 12 Make monocot DNA (protocol)
+Week 9: PCR Oct 17 Design primers (protocol) (get sequence of CRs) Oct 19 PCR parameters (protocol)
+Week 10: PCR ON YOUR DNA Oct 24 PCR on your plant DNA Oct 26 No class Fall break
+Week 11: CHECK PCR Oct. 31 Check PCRs from your plant DNA on gels Nov. 2 New PCRs or start cloning as appropriate (protocol for ligation and transformation)
+Week 12: PLASMIDS Nov. 7 Purify plasmids from E. coli (protocol) Nov. 9 Continue as appropriate. GRADE NOTEBOOKS
+Week 13: SEND TO SEQUENCE Nov. 14 Continue as appropriate Nov. 16 First Paper: Mobile Elements: Drivers of Genome Evolution
+Week 14: ANALYZE SEQUENCE Nov. 21 Continue as appropriate. GRADE NOTEBOOKS Nov. 24 No class Thanksgiving
+Week 15: ANALYZE SEQUENCE Nov. 28 Do BLAST searches on your CR sequences (protocol for BLASTING and submitting to GenBank) Nov. 30 Continue BLAST searches on your CR sequences.
+Week 16 &17: FINISH UP Dec. 5 Second Paper: Jin et al 2004 see also example exam Dec. 12 Final Exam 3:30-6:30 Dec. 14 Paper due, follow these guidelines
+Academic Honesty All academic work must meet the standards contained in "A Culture of Honesty." It is each student's responsibility to be familiar with those standards before performing any academic work.
+Disclaimer The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+2
+
+

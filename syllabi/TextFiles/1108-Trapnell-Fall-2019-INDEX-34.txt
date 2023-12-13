@@ -1,0 +1,241 @@
+BIOL 1108 :: Principles of Biology II :: Syllabus Fall 2018
+The important thing in science is not so much to obtain new facts as to discover new ways of thinking about them. -William Lawrence Bragg
+
+Class Information
+Credit hours: 3 Location: Science Learning Center - 285 Time: TTh 11:00 - 12:15 Class website: eLC https://uga.view.usg.edu/
+
+Instructor Information
+Dr. Dorset Trapnell dorset@uga.edu
+Miller Plant Sciences, Rm 3508 Office Hours: By appointment only
+Tel: 706-542-6506
+Dr. Mark A. Farmer mfarmer@uga.edu 100 Biological Sciences Office Hours: By appointment only Tel: 706-583-8111
+
+Key Points
+· We will not respond to an email that asks a question addressed in this syllabus.
+· Keep up with your out of class assignments. All PackBack, ITN, and SimBio assignments MUST be completed in a timely manner. Late submissions will NOT be accepted except in the case of excused circumstances.
+· Do not contact us regarding any technical difficulties you might experience with Packback, Simbio or eLC. Instead contact:
+Packback (Support for issues related to PackBack Holla@packback.co )
+SimBio (Support for issues related to SimBio http://simutext.zendesk.com )
+TopHat (Support Team directly by way of email support@tophat.com the in app support button, or by calling 1-888-663-5491)
+eLC (Support for issues related to eLC can be found here: http://ctl.uga.edu/elc )
+· For questions about examining your exams please contact Ms. Mikiesha Hill (Room 403A Biological Sciences Bldg.)
+· Be aware of what is required to keep your professionalism points
+· Be aware of the Appropriate Use of Technology Policy
+
+1
+
+Welcome to BIOL 1108: Principles of Biology II:
+For the next 15 weeks you will be learning about biology. The purpose of this course is to build on knowledge you acquired in BIOL 1107 in order to explore organismal diversity and function.
+In order for you to get the most out of this course it is important for you to understand our philosophy. We will not be teaching biology to you but instead we will be helping you to understand and learn biology. You might be asking "What is the difference?" and, in a word, the difference is YOU. Learning is an active process, not a passive one. It is our job to provide you with the resources you will need to succeed; the readings, the lectures, the discussions, the out-of-class exercises, the podcasts, etc. And we will provide guidance, answering questions when you are confused and helping you make sense of the data. But ultimately it is up to you, not us, to learn the material. We will lay out a path that we feel will help you to succeed in this quest but you are the one undertaking this journey. If you choose to skip the readings, if you choose to not complete the homework exercises, if you choose to not come to class, if you choose to not work with your classmates in ways that we recommend, well then ultimately those are your choices. You are an adult and as an adult you are free to make choices about your life. But we hope that you have chosen this class because you genuinely wish to have a deeper understanding of biology and in order to achieve that understanding you will have to make the effort. We are here to assist, but it is you who must do the work. We think biology is utterly fascinating and when you understand biological principles you have a valuable framework for understanding the world around you that will serve you well for the rest of your life, regardless of your profession. We genuinely hope you enjoy the next 15 weeks of exploration.
+Laboratory: Participation in BIOL 1108 requires concurrent enrollment in both 1108 (lecture) and 1108L (lab) classes or prior completion of BIOL 1108L. Students who do not enroll in both the lecture and the lab classes (or have lab credit) without permission from the Biology Division will be administratively dropped from the lecture course.
+
+I. Course Aims and Objectives:
+
+Aims 1)
+2)
+3)
+
+Help you learn how to think like a scientist and to use science skills to address questions and problems. Develop the ability to find, read, and interpret primary literature and to critically evaluate the quality of data presented. Determine/understand morphological, physiological, and behavioral characteristics that have allowed organisms to be evolutionarily successful within their abiotic and biotic environments.
+
+Specific Learning Objectives:
+By the end of this course, you will be able to: 1) Describe how organisms are related to one another relative to their evolutionary
+traits and how to interpret phylogenetic trees 2) Analyze organism form and function relative to the environments (abiotic and biotic)
+within which organisms have adapted
+
+2
+
+3) Synthesize what you've learned about microbes, plants and animals to understand ecological interactions
+4) Apply your knowledge to formulate and answer scientific questions.
+II. Format and Procedures:
+We will meet two periods per week. During our classes, we will have interactive lessons - the goal being to help you think through the material we are covering. Shortly after each class we will make the presented materials (Powerpoints, readings & videos) available on eLC for you to use for studying. Not everything we cover in class will be included in these materials and classroom participation is an important part of your learning. We strongly recommend taking notes by hand, as the act of physically writing helps you engage with the material and improves learning. Re-writing or typing your notes when you get home is also a good study strategy, as it will help you think through what you've learned.
+To help you think through ideas and engage with your peers, we will be assigning each of you to a work group for the duration of the semester. The composition of your group will change after the second exam. Your group will provide a core of people for you to discuss ideas with during class, for homework assignments, and the group portion of exams. Because we all learn in different ways and have unique perspectives, exchanging ideas with your group members will help all of you learn. We think you will find that you learn most when sharing your understanding of a topic with others. Your group members are also a great resource to turn to when you have questions about a confusing topic in class or if you are not sure when something is due, etc. We will provide more details about groups below.
+Class Resources:
+· eLC: We will rely heavily on the class website (https://uga.view.usg.edu/). We will use this site to communicate announcements, chat with each other, discuss questions in the forum, and for submission of writing assignments. We will post additional resources for the class within the "Content" tab. Your grades / scores can be found on the site's "Grades" tab.
+· Textbook: OpenStax Biology, a free .pdf version of the text can be downloaded here: https://openstax.org/details/books/biology-2e We will not be relying on the text and you should consider it only to be a supplementary resource. Since we will be presenting materials in a more expansive manner you will be expected to find those sections of the text that best reinforce the material covered in class. A common mistake is to read and reread OpenStax hoping to master the material in our course. Do not make this mistake!
+· Posted Resources. Important class resources will be posted to the course website within the "Content" section of eLC. This includes PowerPoints, additional readings (.pdf), videos, and handouts. You are responsible for keeping up with the material posted to the eLC website.
+· E-mail: If you wish to send us an email, you MUST type "BIOL 1108 - your specific topic" in the subject line. We use a special filter that routes all course emails to a single folder and if you neglect to include "BIOL 1108" in the subject line it is likely that your email will go unanswered. We will NOT respond to questions that are covered in the syllabus. If you have a legitimate question 3
+
+or concern, we will make every effort to respond to your emails quickly (within 24-48 hours). To comply with the Family Educational Rights and Privacy Act (FERPA), we will not respond to messages that refer to individual students or student progress in the course through non-UGA accounts, phone calls, or other types of electronic media. Likewise messages sent through eLC will go to your MyID@uga.edu email address, so be certain to check this account at least once per day.
+Work Groups:
+Many studies have shown that students learn better when they work in small groups of peers to discuss issues and solve problems. By the second week of class you will be assigned to a group of 3 - 5 students. For the first half of the semester you will sit with your work group in a designated area. Following the second exam, you will be assigned to a new work group for the remainder of the semester. We encourage you to get to know your group members because you will work closely with them throughout the semester. You will also complete group exams together. Collaborating with others is an important skill in most jobs, regardless of the field. If you experience problems within your group, we are available to help you develop a solution.
+If you are experiencing conflict with your group members, the majority of the group may decide to invoke the "Survivor" option. When you work in a group, it is possible that some team members will contribute more than will others. Over time, this can be a critical problem if one person demonstrates a lack of commitment to the team (e.g., failing to contribute to group assignments or group tests). In such an instance, we reserve the right to "vote off" that member. Removal from a group involves a two-step process:
+A. The team (in consultation with one of the instructors) gives the wayward member a warning. The wayward teammate then must negotiate with the entire team about how he/she is going to improve his/her commitment to the group.
+B. If the member continues to behave inappropriately, we will remove him/her from the group. If your membership within the group is terminated, you forfeit all future team benefits associated with completing assignments and exams as a group. You will individually complete all group assignments and group exams from that point forward until the end of the semester. You will not be excused from completing group assignments. Inadequate contributors usually show their tendencies early, so it is important to let a problematic group member know early on that their behavior is not acceptable.
+Assignments (In and Out-of-Class Activities):
+The purpose of these assignments is to keep you thinking about biology both in and out of the classroom. They are not meant to be busy work. Rather, each assignment is meant to help you sharpen your written, oral, and reasoning skills to help your mind stay focused and engaged on the topics we discuss in class:
+ In The News (ITN):
+Most weeks we will explore some aspect of biology that has come up in recent news reports. On Thursday of each week we will introduce some issue that is influencing the
+4
+
+news that has a connection to biology. This could be anything from the outbreak of a disease to policy changes coming out of Washington, D.C. You will be responsible for looking into this issue, finding and reading at least two primary literature articles that are relevant to the topic, reading the papers and writing a brief synopsis of the papers or asking a question that you have and then coming to class on the following Tuesday prepared to talk about it from the perspective of a biologist.
+Articles from the popular press, blogs, or other non-peer reviewed sources are useful places to start your search for information but they are not considered primary literature. A good starting point to find primary literature is found here: http://www5.galib.uga.edu/research/ You may work with your classmates in finding, reading and discussing the papers, and you may use the same papers, but each student is responsible for submitting their own individual write-up. Submissions that are identical or nearly identical constitute plagiarism and are a violation of UGA's Academic Honesty Policy. Also, as specified in the syllabus, your write-up should not simply be a recapping of the highlight of the paper (e.g. synopsis of the abstract) but instead should address "...important points that you learned from reading the articles".
+Each write-up should include full references for two peer-reviewed papers that were used to inform you about the subject. You may use any accepted citation format but you must be consistent in which format is used. In addition to the two references, you must mention at least two important points that you learned from reading the articles (refer to the ITN grading rubric on eLC). These two references and the two important points must be uploaded as a Word document file to eLC before 11:59 PM on the Monday before class for you to be awarded points. Any missed or late assignments will receive no points. Material covered by "In the News" can be expected to be on the exams, so do not tune-out during ITN discussions. Throughout the semester students may be randomly called upon to report to the rest of the class about what you learned regarding the ITN topic and to share your thoughts with the rest of the class. There will be one practice ITN and a total of twelve (12) graded ITN assignments during the semester, each worth 15 points. You may drop your lowest score (e.g. only the highest eleven (11) ITN grades will count towards your final grade). So if you miss one week there will be no academic penalty but neither is there an opportunity for late or make-up assignments.
+ PackBack Questions:
+Participation in PackBack is a requirement for this course, and the Packback Questions platform will be used for online discussion about class topics. Packback Questions is an online curiosity community where you can be fearlessly curious and ask BIG questions about how the material we are covering relates to your life and the real world.
+Ten percent of your final grade will be based on your participation on Packback. In order to receive your points each week, you must post one [1] Question and two [2] Answers relevant to our class subject matter for each of fourteen weeks.
+Before you start posting, be sure to read the Community Guidelines found in the tutorial on Packback. If your post doesn't follow the Packback Community Guidelines, there is a chance it will be removed and you won't receive points for that post.
+5
+
+Each week, we will spend time in class highlighting discussions from Packback, encouraging feedback and recognizing top students! The deadline for submitting your questions and answers is Sunday 11:59 PM each week.
+To start posting on Packback Questions:
+1. Navigate to https://Packback.co/questions and click "Register as a new student". Note: If you already have an account on Packback you can login with your credentials.
+2. Make sure to register with your UGA email address (no gmail or other accounts) and use your real first name and last name (so that we can award credit to you).
+3. Enter our class community's access code into the "Join a new Community" module on your dashboard.
+Our Community access code: 9:30 section: 340585cc-b383-4d71-9624-f61e144e8a10 11am section: 0166eda4-39b3-401e-934a-c1098e8afff1
+4. Follow the instructions on your screen to finish your registration. For a brief introduction to Packback Questions and why we are using it in class, watch these videos: vimeo.com/packback/Welcome-to-Packback-Questions https://vimeo.com/258305114
+ SimBio Exercises & Case Studies: Throughout the semester we will be doing a set of SimBio exercises (http://simbio.com/). You will need to sign up for this service on-line (details to be provided on eLC). Exercises will be done both outside and during class. We encourage you to work with others and if you wish you may have "SimBio" submission parties where you get together to discuss the questions before submitting the answers. Even if you work with your classmates each student must submit their own final answers to receive individual grades.
+It is important that you review the information below before you subscribe to the SimUText for Intro to Organismal Biology at University of Georgia. To avoid possible problems, do not wait until the last minute.
+· CHECK YOUR TECH! Visit https://simutext.zendesk.com/hc/enus/categories/200170134-Check-Your-Tech- to confirm that the SimUText application will work on your computer, and/or to explore your options if there is a problem.
+· If you purchased a SimUText Voucher from your bookstore, be sure to have it with you when subscribing, as you will need to enter your voucher code.
+· When you are ready to subscribe and download installers, copy and paste this link into your browser to initiate the process:
+https://www.simutext.com/student/register.html#/key/UdXu-Ymcd-effY-pGyx-sEFe 6
+
+After you have completed the subscription process, if you need to download the SimUText application installers again, you will be able to access them by logging into the SimUText Student Portal (https://www.simutext.com/student).
+Save this email! Should you encounter problems, you may need your course-specific Access Key. It is: UdXu-Ymcd-effY-pGyx-sEFe
+Problems or questions? Visit SimUText Support (http://simbio.com/support/simutext)
+During the semester we may also be doing a few case studies in class. These will be done with your group during class and you will only receive credit if you are present for the case exercise. Your SimBio and Case Study exercises will account for 120 points out of the 1300 available points of your final grade. Material covered in the SimBio exercises and Case Studies will come up in your exams.
+ Professionalism Points:
+Many medical, allied health, veterinary, dental, and pharmacy schools have reported that incoming students are lacking in professionalism. Consequently, you will be encouraged to act professionally in Biology 1108. Everyone begins with eight (8) professionalism points but you can lose these over the course of the semester. To keep these points you must:
+Be courteous while in lecture and lab. It is unprofessional to talk while your professor, guest lecturer, or graduate TA is speaking. It is also inappropriate to violate the Appropriate Use of Technology Policy (see below).
+Send professional e-mails with proper subjects, greetings and closings. E-mails should have a subject that describes the reason for contacting the recipient. "Biology" is too vague, but "BIOL 1108: NY Times article on cloning" would be better. There should be a salutation. "Hey!" or "I was wondering..." is not appropriate, "Dear Dr. Farmer," would be best. There should be a closing/signature. "Betsy" is not enough, "Sincerely, Betsy Beauchamp" would be better. Because of the size of this class, please include your ID number and course number (BIOL 1108) in all e-mail correspondence and only send them from your MyID@uga.edu account.
+Read your syllabus and be responsible for all the information in it. You should be familiar with everything in this syllabus. A copy will be available all semester on eLC. It is unprofessional to ask a question whose answer is clearly stated in the syllabus. If something in the syllabus is unclear ask one of your work group members or post to the eLC message board to find out how your classmates interpret it.
+Treat everyone involved in this course with respect. You should be courteous to every member of this course: your classmates, your graduate TAs, and your instructors.
+Be dressed appropriately. You are not required to be in business professional attire, as is required by many medical schools or similar programs however, we expect certain minimum standards. Do not wear tee shirts with inappropriate language and do not come to class in pajamas or slippers. Do not wear hats in class. Girls, do not wear revealing tops or dresses, no show of underwear, no short shorts, and no wearing of large shirts that fall below your shorts. Boys, do not wear pajamas, inappropriate Tee shirts, sleeveless shirts and do not wear sagging pants that show your underwear.
+7
+
+ Appropriate Use of Technology Policy (AUTP):
+During class you are encouraged to use any form of technology (cell phone, laptop, tablet, Edison talking machine, etc.) that will a) enhance your learning experience and b) will not negatively affect the learning experience of any of the other students. What is NOT acceptable is the use of technology during class for activities that are unrelated to the course. This includes, but is not limited to, shopping, watching sports, checking social media, emailing, talking, texting, playing games, watching movies or TV, or doing work for another class. When you attend class in BIOL 1108 your attention should be focused on THIS class. Not only is it distracting to others around you, it is a waste of your time and demonstrates a disrespect for our efforts to create a productive learning environment. At this point in your life being a student is your full time job. It is not acceptable to do other things when you are employed in a job and it is not acceptable for you to do other things in our classroom when you should be focused on learning biology. If you have assignments that are due in another class and you feel the need to work on them during our class, then please go and work on them elsewhere.
+
+A violation of the Appropriate Use of Technology Policy (AUTP) will result in your receiving a Technology Citation. You will be asked to sign the citation, acknowledging that the AUTP was made clear to you both through this syllabus as well as in discussion on the first day of class. Each citation will result in the loss of three (3) points from your professionalism points total score. This is roughly the equivalent of missing one multiple choice question on an exam. It is our sincere hope that we will not have to issue a single citation this semester, so please take the AUTP seriously and ask us beforehand if you are at all unclear about our expectations.
+
+Technology Citation
+I ______________________________________________ had been informed of the appropriate use of technology policy (AUTP) for BIOL 1108. By signing this citation I confirm that I knowingly violated the AUTP and that I accept the penalty of having three (3) points deducted from my total point score for the semester. I further acknowledge that each additional violation of the AUTP will result in additional point deductions.
+
+__________________________________ ______________________________
+
+Signature
+
+Student ID #
+
+ Class Participation:
+
+To maintain class engagement we will be using the TopHat student response system. Answering questions in class via TopHat will provide you with immediate feedback on your knowledge and understanding of the lesson material and concepts. You must bring a wireless device (laptop, tablet, cell phone, clicker) with you to every class so you can respond to questions. During the semester you can earn up to 77 participation points by responding to Top Hat designated questions. We understand that there will be times when you might miss class which is why we have set it up so that you need not participate every day to receive the full 77 points. At the end of the semester, we will give you credit based on the number of attempted questions in which you participated using TopHat. If you participate on 80% or more of the of the TopHat questions then
+8
+
+you will receive full points. You do not have to have the "correct" answer to get points, but you do need to be present. These points are to be earned only by those students who attend, and participate, in class. They are not intended to be earned by students who, for whatever reason, are not able to attend class. We do not consider remotely logging in to TopHat and attempting to answer questions as meeting the definition of "Participation." The awarding of Participation Points already generously allows a student to miss up to 20% of the questions without paying an academic penalty. Students who respond to TopHat questions but are not physically present and participating in class are in violation of UGA's Academic Honesty Policy. If your device is not working on a particular day then this counts as one of your `missed' days, you will still have plenty of chances to attain full points so please do not ask for credit for a missed day due to absence or technical issues.
+Participation Points are awarded based on this formula: (% of TopHat questions answered) + 20%) X 77 = points awarded (maximum 77)
+Example: (90% questions answered + 20%) X 77 = 77 points awarded (80% questions answered + 20%) X 77 = 77 points awarded (70% questions answered + 20%) X 77 = 69 points awarded (60% questions answered + 20%) X 77 = 62 points awarded
+How to register for Top Hat:
+ We will be using the Top Hat www.tophat.com classroom response system in class. You will be able to submit answers to in-class questions using Apple or Android smartphones and tablets, laptops, or via text message (SMS).
+ You can visit http://tinyurl.com/THStudentRegistration for the Student Quick Start Guide which outlines how you will register for a Top Hat account, as well as providing a brief overview to get you up and running on the system. An email invitation will also be sent to your email account (if you don't receive this email, you can register by visiting our direct Top Hat course URL 9:30 AM Class (CRN 10322) https://app.tophat.com/e/361741 Join Code- 361741 11 AM Class (CRN 10326) https://app.tophat.com/e/312771 Join Code- 312771
+ If you ever have ANY problems with Top Hat, please email support@tophat.com They will reply within four hours.
+When purchasing a license, you will select a license term and will see the regular prices for Top Hat, but the UGA discount will be applied at check out. CTL has also included a TopHat and Academic Honesty code of conduct that states: "Sharing the daily Top Hat attendance code or other Top Hat details with a student who is not in the classroom may be a violation of the university's academic honesty policy. Be sure to protect the privacy of the code you receive." Should you require assistance with Top Hat at any time, due to the fact that they require specific user information to troubleshoot these issues, please contact their Support Team directly by way of email (support@tophat.com the in app support button, or by calling 1-888-663-5491.
+9
+
+ Exams - Group and Individual Exams:
+There will be five (5) individual unit exams one of which will be a comprehensive final exam administered during finals period. All exams are mandatory. The first four unit exams will have both an individual and a group component, the fifth and final exam will have only an individual portion. Exams will consist of multiple choice questions as well as short answer questions. You will have at least 30 minutes to complete the individual unit exam, and an additional 20 minutes to complete a portion of the exam with your group members. The purpose of a group exam is to give you an opportunity to discuss your answers with your work group-mates and together submit a single answer sheet. Each group member present must sign the exam in order to receive credit. You will be allowed to drop one (1) unit individual exam grade and one (1) unit group exam grade without any reason (no excused absences, no doctor's notes, etc.). That being said there will be no make-up exams for any reason. This means that if you do poorly on the first exam and then something happens during the semester that negatively impacts one of your later exams you will still only get to drop ONE exam score. So make every exam count. If you are satisfied with your performance on the first four individual exams the final exam is not mandatory and may count as your dropped exam score.
+Only for documented cases where two or more exams are entirely missed for reasons of illness, jury duty, University business, or family emergencies will accommodations be made. All such cases must be approved through UGA Student Support Services | 706542-8220 | 325 Tate Center (http://dos.uga.edu/studentsupport/).
+Do NOT ask Dr. Farmer or Dr. Trapnell to make a determination as to what qualifies as an excused absence. These decisions and subsequent documentation must be done through the Student Support Services office. We will then take their recommendations into consideration.
+Check your exams in a timely manner: You will have up to five working days after an exam is returned to submit a detailed, written re-grade request. Such re-grade requests should be emailed to both Dr. Farmer and Dr. Trapnell. The deadline on requesting a re-grade request is intended to avoid requests being made at the last minute late in the semester. If you feel that you were unfairly graded then you should raise the issue with us soon after getting your exam back. Re-grade requests made later five working days after exams are returned will not be considered. Keep in mind that re-grading could potentially lead to a lower rather than a higher final grade so be quite certain before you make this request. For questions about scantron issues or to see a copy of your exam please contact Ms. Mikiesha Hill, 403B Biol. Sci. Bldg.; mikiesha@uga.edu; 542-1684. You will be required to give Ms. Hill your UGA ID to retain while you look over your exam and you will be required to review your exam in her office. You are NOT permitted to make a Xerox copy. Upon returning the exam to Ms. Hill you will be given your ID back. If you fail to return the exam to Ms. Hill you will be penalized for all of the points for that exam. Exams will NOT be available for the 24 hours immediately preceding the final exam, so plan accordingly.
+10
+
+III. Grades will be based on:
+
+ASSIGNMENT In-class participation* (77 pts. max) & professionalism points (8 pts) In The News (11 assignments x 15 pts)
+PackBack Questions (13 questions/26 answers) SimBio**, (Four Exercises X 30 pts)
+Individual Exams (4*** exams x 160 pts)
+Group Exams (3*** exams x 40 pts)
+
+Points 85 165 130 120 640 120
+
+% 7% 13% 10% 9.5% 51% 9.5%
+
+Total
+
+1260
+
+100%
+
+Grade Distribution:
+
+A
+
+94-100%
+
+C+
+
+77-79 %
+
+A-
+
+90-93 %
+
+C
+
+73-76 %
+
+B+
+
+87-89 %
+
+C-
+
+70-72 %
+
+B
+
+83-86 %
+
+D
+
+60-69 %
+
+B-
+
+80-82 %
+
+F
+
+< 60 %
+
+*To earn In-class participation points you must respond to questions asked during the class period using Top Hat designated questions. You will receive points based upon the percentage of questions answered. This means you can miss a few classes with no academic penalty but it also means that there are no excused absences.
+** Points are awarded based on a percentage of correctly completed assignments over the course of the semester. There is not necessarily a one to one point correspondence.
+*** There will be five unit exams but only the top four individual exams and top three group exam scores will count towards your final grade.
+
+All grades will be posted on the course eLC website. At the end of the semester if the
+class's average score falls below 75% we will adjust grades so that the average is no lower than a letter grade of "C".
+
+11
+
+Absences:
+Although attendance will not be taken attendance is expected. Late assignments will receive a zero. If you miss an exam, you will receive a zero for that exam. Only documented cases of personal illness, University business, or family emergencies or events (e.g., death, grave illness, marriage, births) will be accommodated. For documented cases of excused absence accommodations may be reached or subsequent exams will be pro-rated (i.e. your remaining exams will count for more points). Please discuss your personal situation with one us as soon as possible!
+IV. Academic Integrity
+You are expected to complete and turn in your own work. This includes online assignments, exams, and group assignments. Yes, you are encouraged to work with study partners outside of class, but unless otherwise specified, any material that you submit must be from your own brain and in your own words. When turning in a written assignment please cite sources when using ideas and information that is not your own, or not common knowledge (follow the format used in the 1108 lab). If you are unsure when you should use a citation please ask first! UGA takes academic honesty very seriously, and so do we. There is no long-term or short-term reward for cheating.
+As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: www.uga.edu/honesty. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor.
+The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+V. Accommodations for students with disabilities
+Students with disabilities who require reasonable accommodations in order to participate in course activities or meet course requirements should contact the instructor. For those registered with the DRC we will make accommodations so that you may have extra time for the individual exams and then join your group for the group exams.
+------------------------------------------------------------------------------------------------------
+VI. How to Study and Succeed in BIOL 1108
+The one question we are most often asked is "How can I prepare for the exams?" There are two approaches to this. The first is known as passive learning, and includes things such as reviewing notes, reviewing class presentations/case studies, reading the papers that are uploaded in eLC, etc. The second approach is active learning and this includes things such as explaining things to others, applying concepts to new situations, creating exam questions for yourself and/or your classmates, etc. Just about everyone participates in passive learning but the students who perform best in BIOL 1108 also employ active learning. We hope that all of you will do both.
+12
+
+Learning takes work. Learning how to apply knowledge takes even more work and it also takes practice. Here are a few study strategies we recommend.
+· Attend class. Stay engaged with the material and actively participate in class to help you think through the concepts we are covering. Even if an example is perfectly clear to you, try to think of other examples that involve the same biological concept. How would you apply new data to match a key concept covered in class? Very little of this sort of critical thinking can be achieved just from reading a textbook, so do not rely solely on the assigned readings for all of your learning.
+· Be disciplined: You will be spending less than three hours per week in class. We expect you to spend at least an additional 10-12 hours per week outside of class reviewing material, completing assignments, reading, and most importantly thinking about how you would interpret new data based on the concepts you have learned. Use the class schedule to make a study calendar for yourself (e.g. what will you study when and for how long?).
+· Make an outline of class notes every day: One thing that worked well for us when studying was outlining the major topics and especially the new vocabulary associated with each of those topics. This helps you see how the different concepts fit together. Creating outlines for each lesson might provide a good framework for you, within which you can add details when we cover them in class.
+Additionally, consider the following questions when developing your outline: o What are the important (take-home) messages for this lesson? o What are the examples used to support/explain each important point? If these examples are experiments, what were the hypotheses and conclusions of these experiments? o Why does this lesson matter (e.g. how can the information be applied? How does it connect to, and build on, previous lessons? How did the lesson fit into the course and specific learning objectives?)? o What questions do you have (i.e. identify gaps in your understanding)?
+When studying for the Unit exams, you might develop a broader outline to think about how the main concepts from that Unit relate to one another and fit within the learning objectives.
+· Read and write every day: While some find it helpful to read the relevant materials before coming to class, do not make the mistake of over-relying on the textbook. Exam questions will mostly come from material covered in class or in one of the out-of-class activities (e.g. SimBio). And yes, the material covered in "In the News" is definitely going to be covered on exams.) Every day after class ask yourself, "Which concepts from the chapter were emphasized?" When outlining concepts, make connections between the things we covered in class and those in the materials on eLC. Try and identify any gaps in your understanding and formulate questions. Think about examples that are especially important, and why.
+13
+
+· Create your own glossary. After every class write down all those terms that are new to you or are uncertain, look up their definitions, and write out a definition of those new terms. We try to bold those words that we feel are essential to know. You cannot speak the language of biology unless you know what the words mean and then correctly use them in a sentence. "Photosynthesis" is not the same as "photosynthetic." "Metabolism" is not the same as "metabolic." If you and your workgroup members share your glossaries with each other this becomes an excellent study tool to share, quiz each other with, and help you prepare for exams.
+· Practice: Once you have completed the assigned readings/viewings and revised your notes, practice using your knowledge by creating your own multiple choice questions and then sharing them with other students. Many of the points in this course will come from correctly answering multiple choice questions. Writing a good multiple choice exam question is harder than it seems and requires a deep understanding of the material. Sharing and answering sample questions that you develop with your work group is an excellent way to prepare for the exams. This can be done in person or simply emailing each other the questions you came up. The simple act of writing out questions will help you learn the material more deeply. As an incentive at least some of the questions used on our exams will come from you the students. For each exam we will invite your workgroup to submit a single multiple-choice exam question that you wrote (do not copy from the internet). We will choose the best question from those submitted and use it on the exam. If your group submitted the `winning' question you almost certainly will get it correct! In other words quiz each other as if you were taking one of our exams. This will help you gauge if you have a firm understanding of the broader concepts. Treat the practice questions like exam questions, to help you see if you are prepared for the exam. Be certain to follow up with the person who wrote the sample question for those questions that you got wrong. It is possible that you know the material so well that you thought of an exception that the question writer did not consider. BOTH of you will learn something from the exchange. Plan to write and answer a few practice questions every week! Do not wait until the night before the exam to attempt the practice questions.
+· Be Organized: The best way to stay organized is to have a plan and execute it. You will generate a lot of paper in this class (lesson notes, vocabulary lists, practice questions, reading notes, etc.). During the first week of class figure out a way to keep all of your documents together in one place in order to reference them quickly. We find 3-ring binders helpful for organizing, however, there are many other ways to organize information - just choose a system that works for you!
+· Get Help: Finally if you are having trouble please ask for help; we are happy to set up a time to meet with you. Please e-mail us at least 24 hours before you want to set up an appointment. Before meeting with one of us ask yourself "Have I tried the techniques suggested in the syllabus? Have I talked to my group and sought their advice?" We will typically ask that you bring your class notes, your study outlines, the practice questions you have written and your personal glossary to the meeting so that we can review these things with you.
+14
+
+You may also seek out assistance from the Division of Academic Enhancement dae.uga.edu · If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu/. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services. · If you are experiencing a mental health crisis, please contact Counseling and Psychiatric Services at the University Health Center, 24/7, 365 days a year, at 706-542-2273 or 706-542-2200 (after-hours via UGAPD). · If you would like tools to manage stress, anxiety, relationships, etc., visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of free workshops/classes/coaching lead by licensed clinicians or health educators in the University Health Center.
+15
+
+

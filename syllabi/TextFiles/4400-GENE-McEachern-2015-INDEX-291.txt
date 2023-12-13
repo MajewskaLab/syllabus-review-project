@@ -1,0 +1,81 @@
+GENE 4400/6400 Tu/Th 11:00-12:15
+
+Spring 2015
+
+Life Sciences B118
+
+Epigenetics & Genetic instability Instructors: Mike McEachern and Rich Meagher
+
+Tu Jan. 6
+
+Genetic instability in cancer 1: Introduction to cancer and its hallmark characteristics
+
+Th Jan. 8
+
+Genetic instability in cancer 2: Cancer genomes. Basic forms of genetic instability in cancer. Increased mutation rates from alterations in DNA polymerases, nucleotide excision repair (NER) and base excision repair (BER).
+
+Tu Jan. 13
+
+Genetic instability in cancer 3: Cancer and mismatch repair (MMR), double strand break repair and interstrand crosslink repair.
+
+Th Jan. 15
+
+Genetic instability in cancer 4: Telomeres and replicative senescence in cancer. Sources of chromosomal instability (CIN) in cancer.
+
+Tu Jan. 20
+
+Genetic instability in cancer 5: Tetraploidy and CIN. Chromosome shattering (Chromothripsis). Chromosome fragile sites.
+
+Th Jan. 22
+
+Genetic instability in cancer 6: Immune system function including activation induced deaminases (AID) and cancer. Localized hypermutation (Kataegis). Somatic mosaicism.
+
+Tu Jan. 27
+
+Exam 1 (MM)
+
+Th Jan. 29 Tu Feb. 3 Th Feb. 5 Tu Feb. 10
+
+Introduction to Epigenetics and this class- Intro PPT. Meagher 2010, Zovkick, 2012
+Genotype predisposes epitype for multigenerationally inherited phenotypes -Meagher 2012, Lecture PPT
+Genotype predisposes epitype for multigenerationally inherited phenotypes - continued. Meagher, 2012
+Epigenetic reprogramming of somatic cells and somatic cell inheritance of epigenetic information - Cropley, 2012
+
+Th Feb. 12 Tu Feb. 17
+Th Feb. 19
+
+Guest speaker
+A six months exercise intervention influences the genomewide DNA methylation pattern in human adipose tissue. Ronn 2013.
+Exam 2 (RM)
+
+Tu Feb. 24 Th Feb. 26 Tu Mar. 3
+Th Mar. 5
+Tu Mar. 10 Th Mar. 12 Tu Mar. 17 Th Mar. 19
+Tu Mar. 24
+
+Prions and amyloids 1: Human and animal PrP prion diseases. Fungal prions and their unusual genetics.
+Prions and amyloids 2: Amyloids and amyloid diseases, and their relationship to prions.
+Rapid genetic change in bacteria 1: Bacterial diseases and genomes. Overview of horizontal gene transfer (HGT). Roles of phage and site-specific recombinases in HGT. Antibiotic resistance. Gene transfer agents.
+Rapid genetic change in bacteria 2: Acquisition of pathogenicity through HGT (Cholera, E. coli, S. aureus). Secretion systems. Bacterial toxins and toxin/antidote systems and their connection to HGT.
+Spring Break
+Spring Break
+Rapid genetic change in bacteria 3: Plasmids, integrative conjugative elements, and self transfer. Natural competence and its functions. Integrons.
+Rapid genetic change in bacteria 4: Phase variation. Simple sequence repeats and rapid genetic switching.Gene amplification. CRSPR/CAS systems of bacterial immunity. Genetic noise, phenotypic bistability and persisters.
+Exam 3 (MM)
+
+Th Mar. 26
+Tu Mar. 31
+Th Apr. 2 Tu Apr. 7
+Th Apr. 9 Tu Apr. 14 Th Apr. 16 Tu Apr. 21 Th Apr. 23
+
+Cell type specific epigenetics: The seven leukocyte cell types differ dramatically in their epigenetic profiles. Reinius, 2012
+The advantage of cell type specific epigenetic profiling to study Lupus disease. Whole blood in Javierre, 2010 vs CD4+ T cells in Jefferies, 2011.
+INTACT: (isolation of nuclei tagged in specific cell types) to perform cell type specific epigenetic analysis. Deal, 2012
+Epigenetic programming of neurogenesis, neural plasticity, learning and memory, and defects in Alzheimer's Disease. Zovkick, 2012 & Graff, 2012
+Molecular Turnover Rates of Seemingly Stable Epigenetic Information. Meagher, 2015.
+Exam 4 (RM)
+Student presentations
+Student presentations
+Student presentations
+
+

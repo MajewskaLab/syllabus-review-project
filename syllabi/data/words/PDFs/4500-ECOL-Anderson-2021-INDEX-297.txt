@@ -1,0 +1,447 @@
+EVOLUTIONARY ECOLOGY ECOL 4500 / 6500
+Lecture: TR 12:45-2:00 PM January 14 - March 9: https://zoom.us/j/5269168702 March 11 - April 29: https://zoom.us/j/93053233152?pwd=dUhyRW1VdExnV3U2SnVBL05iZStqdz09 and Odum School of Ecology, 117
+Discussion: W 11:30 AM-12:20 PM January 13 - March 10: https://zoom.us/j/5269168702 March 17 - April 28: https://zoom.us/j/93053233152?pwd=dUhyRW1VdExnV3U2SnVBL05iZStqdz09 and Odum School of Ecology, 12
+Instructors: Dr. Jill Anderson Odum School of Ecology and Department of Genetics Davison C314A (inside lab C312) Phone: 706-542-0853 jta24@uga.edu
+Dr. Takao Sasaki Odum School of Ecology Room 194D takao.sasaki@uga.edu
+Office hours: Anderson: Wednesdays 10:00 - 11:00 AM, or by appointment: https://zoom.us/j/5269168702 Sasaki: Thursday 2:00 - 3:00 PM, or by appointment: https://zoom.us/j/93053233152?pwd=dUhyRW1VdExnV3U2SnVBL05iZStqdz09.
+Objectives: Evolutionary ecology examines how the abiotic and biotic environment shapes evolutionary dynamics. This class will explore the fundamental concepts and techniques used in evolutionary ecology. We will examine general themes that cover a diversity of organisms in terrestrial, aquatic and marine ecosystems to highlight interactions among evolutionary and ecological processes. We will cover theory and applications, including examples in conservation and global change biology, phylogenetics, and community ecology.
+This course is divided into three main sections: (1) Microevolution (agents and targets of selection, quantitative genetics, life history evolution, and population dynamics), (2) Macroevolution (phylogenetics, speciation, and coevolution), and (3) Community Ecology (evolutionary consequences of biotic interactions: competition, predation, disease and mutualisms). The last section draws on micro- and macro-evolutionary concepts.
+Course Requirements: Students taking this course need to understand the basics of evolution and population ecology. Coursework equivalent to GENE 3000 and/or ECOL 3500 should provide this background. The course will consist of a combination of lectures, classroom activities, and discussions. Students will write weekly response papers to the readings and a research proposal on a topic of their choosing. In addition, students will take a mid-term and a final exam.
+1
+
+Materials: There is no textbook for this seminar. We will distribute readings on ELC.
+Values Statement: We are committed to helping you continue to develop as scholars and scientists by creating an inclusive space and equitable learning environment in our class. Please use speech and actions that communicate respect for diversity and honor each individual's uniqueness. Diversity of race, skin color, ethnicity, sexual orientation, country of origin, physical ability, and religion enriches our community.
+Accessibility Statement: We are committed to helping every student succeed in this course. Your performance depends on active participation in classroom discussions and activities and excellent written work. If there are circumstances that may affect your ability to succeed, please speak with us at the beginning of the semester so that we can develop strategies to meet both your needs and the requirements of the course. We are happy to make accommodations for students with a documented disability. If you have a disability and need accommodations to participate fully in this class, contact the UGA Disability Resource Center, 114 Clark Howell Hall, Athens, GA 30602. Phone: 706.542.8719 Fax: 706.542.7719 Email: dsinfo@uga.edu; https://drc.uga.edu. All accommodations must be approved through the UGA Disability Resource Center. Please note that accommodations cannot be provided retroactively.
+COVID-19 Accommodations: This class will be synchronous and entirely virtual during the first half of the semester and will transition to a hybrid model if deemed safe during the second half. The zoom link for the first half of the semester is: https://zoom.us/j/5269168702 and the second half is: https://zoom.us/j/93053233152?pwd=dUhyRW1VdExnV3U2SnVBL05iZStqdz09. We will video all Tuesday and Thursday lectures and post the recording and the powerpoint file to eLC. We will not record Wednesday discussion sections. We do not require a note from your doctor if you miss a class, but we will require a note if you miss an exam. If possible, we prefer for you to turn your video on during class time, as it helps us to assess comprehension.
+Student responsibilities
+Readings, attendance and participation: To succeed in this course, you will need to attend, complete all readings, and participate in discussions. It is your responsibility to read assignments before class, prepare the response paper, and bring specific questions about the readings to class. We do not use a standard textbook for this course. We will provide ample opportunity for both introverts and extraverts to actively participate in class, through written work, collaborations with other students, and group discussions.
+Graduate student-led discussions: During the semester, students enrolled in ECOL 6500 will lead one discussion section. We ask students to meet with us prior to class to go over the strategy for the discussion. Student discussion leaders will be graded on preparedness and quality of discussion.
+Writing projects: You will complete several writing projects for this course. The write-up for each assignment should be submitted electronically. Please see the relevant handouts for more information on these assignments.
+Response papers: You will prepare short reports (1-2 page) on weekly readings. In summaries of empirical papers, please: 1) identify the research question, 2) briefly describe the methods, 3) relate the main results, 4) explain what is important about the paper, 5) briefly discuss what could have been improved, and 6) list 2-3 questions that you had about the study. In summaries of review articles, list questions that you had about the paper, or
+2
+
+aspects that you found confusing. Response papers will be due before class on the indicated day, generally Tuesday of each week (see "Class schedule" on pp. 4-8). Response papers will not be accepted after 12:00 PM (noon) on the due date. Each response paper is worth 3 points. There are 14 response papers over the course of the semester, but you only need to complete 12 to get full credit for this activity. If you submit all 14 response papers, you can earn a maximum of 42 points (i.e., 6 bonus points).
+Grant proposal: You will complete a grant proposal on a topic of your choosing relating to evolutionary ecology. The purpose of this activity is to identify a topic and research question in need of further study, pose alternative hypotheses, identify predictions, and design an experiment. Over the course of the semester, you will turn in the topic for your proposal, a summary including hypotheses (which will be peer-reviewed), and a final draft. Assume your budget is not a concern.
+Peer review: The peer review process is central to the dissemination of new concepts, ideas, hypotheses, and results in science. During this semester, I will ask you to critique the grant proposal outline of one of your classmates. The objective of this assignment is twofold: 1) to acquaint you with the peer review process, and 2) to help you improve your own understanding of evolutionary ecology. The peer review of the grant outline will be done during class time.
+Late Policy: Late assignments will be penalized 5% per day of the total available points. We will not accept late response papers or final papers (grant proposals). A paper will be considered "on time" if we receive an uncorrupted electronic version submitted on or before the deadline.
+Make-up exams: There will be no makeup exams. Athletes and students who have an excused absence during the time of an exam need to arrange to take the exam in advance. If you fall ill before the exam, contact us as soon as possible and bring a doctor's note explaining that you were unable to take the exam. In the case of an excused illness, we will arrange an alternative time for the exam.
+University Honor Code & Academic Honesty: Students are expected to follow the University of Georgia Student Honor Code and should understand that every instance of a suspected violation will be reported. UGA Student Honor code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others." A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found at https://honesty.uga.edu/
+You are responsible for informing yourself about the university's standards before performing any academic work. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Please ask if you have questions related to course assignments and the academic honesty policy. Any form of possible academic dishonesty will be reported to the UGA Office of the Vice President for Instruction.
+*A note on plagiarism: We encourage you to discuss ideas, concepts, and assignments with your peers. However, we expect that all work that you submit to be your own. Please ensure you are familiar with rules of conduct regarding plagiarism, of other student's work and of sources such as the primary literature and web sites. Any student found plagiarizing will receive an F in the course. We suggest that you consult this website for more information on what constitutes plagiarism: http://plagiarism.arts.cornell.edu/tutorial/index.cfm.
+3
+
+Classroom Behavior: Please be respectful, arrive on time, put away cell phones during class, and refrain from web browsing, etc.
+
+Grading:
+
+Active participation in class (lectures and discussions) Response papers Midterm Grant proposal outline Peer review of proposal Final grant proposal Final exam
+Student-led discussions
+Total across all assignments
+
+ECOL 4500
+24 points
+36 points 100 points 20 points 20 points 100 points 100 points Not assigned 400 points
+
+ECOL 6500
+24 points
+36 points 100 points 20 points 20 points 100 points 100 points
+25 points
+425 points
+
+Grading scale: Final point totals will be rounded
+
+A: 93.0-100%
+
+C+: 77.0-79.9%
+
+A-: 90-92.9%
+
+C: 73.0-76.9%
+
+B+: 87.0-89.9%
+
+C-: 70-72.9%
+
+B: 83.0-86.9%
+
+D: 60-69.9%
+
+B-: 80-82.9%
+
+F: below 60%
+
+Class Structure: Classes on Tuesdays and Thursdays will be a combination of lectures, activities, and discussions. In our weekly 50-minute discussion section on Wednesdays, we will focus on readings from the primary literature. We expect students to participate actively. Students enrolled in ECOL6500 will lead one discussion.
+
+Mental Health and Wellness Resources: If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-5427774 or visit https://sco.uga.edu. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services. UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies). If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center. Additional resources can be accessed through the UGA App.
+
+FERPA Notice: The Federal Family Educational Rights and Privacy Act (FERPA) grants students certain information privacy rights. To comply with FERPA, all communication that refers to individual students must be through a secure medium (UGAMail or eLC) or in person.
+
+4
+
+Instructors are not allowed to respond to messages that refer to individual students or student progress in the course through non-UGA accounts, phone calls, or other types of electronic media. For details, please visit https://apps.reg.uga.edu/FERPA.
+
+Cell phones and laptops: Acceptable uses of technology include taking notes, following along on presentation slides, as well as working on assigned in-class activities that require personal device use. Please refrain from instant messaging, e-mailing, surfing the Internet, playing games, writing papers, doing homework or other activities during class time, which may distract your peers.
+
+Academic Coaching - The Office of Academic Enhancement can provide assistance with time management, test and performance anxiety, notetaking, motivation, text comprehension, test preparation, and other barriers to success at UGA.
+
+Religious observances: The University of Georgia recognizes students' rights to engage in religious practice. Students who will miss class to observe religious activities must contact the instructor prior to the observance and make arrangements to complete missing assignments or assessments.
+
+Class Schedule: The class schedule is subject to modification due to availability of guest speakers, publication of new and relevant articles, etc. Readings are posted on ELC, but may be updated as the semester proceeds. Citations for the readings are listed below the class schedule. Please read the required papers before class on the indicated date. Response papers are due for required readings only. We have also listed recommended readings if you would like additional information, but you do not need to complete response papers for the recommended readings.
+
+Date Topic/Activity Readings
+
+Discussion leader Assignment
+
+W, 1/13 Introduction to Evolutionary Ecology
+
+TH, 1/14
+T, 1/19
+
+Microevolution: Natural selection and adaptive evolution
+Microevolution: Estimating selection in nature.
+
+Required for response paper: [1, 2]
+
+W, 1/20
+TH, 1/21
+
+Discussion prompts: What is fitness? Why do studies often quantify components of fitness? What would be the ideal metric of fitness? Why manipulate traits in field studies? How do researchers estimate selection in nature?
+Microevolution: Agents of selection, part I
+
+Anderson Anderson Anderson Anderson
+Anderson
+
+Assigned: (1) Grant proposal (2) Response papers
+Due: Response paper 1
+
+5
+
+T, 1/26
+W, 1/27
+TH, 1/28 T, 2/2
+
+Microevolution: Required for response
+
+Agents of
+
+paper: [3, 4]
+
+selection, part II
+
+Recommended: [5, 6]
+
+Discussion prompts: Why is it important to
+
+understand agents and targets of selection? Is
+
+evolution fast enough to affect ecological
+
+dynamics?
+
+Microevolution:
+
+Targets of
+
+selection.
+
+Microevolution: Required for response
+
+Local adaptation paper: [7, 8]
+
+Anderson Anderson Anderson Anderson
+
+W, 2/3
+TH, 2/4 T, 2/9
+W, 2/10 TH, 2/11 T, 2/16
+
+Discussion prompts: What is local
+
+adaptation? When might local adaptation
+
+evolve? What factors restrict the evolution of
+
+local adaptation?
+
+Microevolution:
+
+Gene flow
+
+Microevolution: Required for response
+
+Migration-selection paper: empirical [9] and
+
+balance and
+
+review: read pp. 787-788
+
+source-sink
+
+of [10]
+
+dynamics
+
+Recommended: [11]
+
+Discussion prompts: When does gene flow
+
+promote vs. constrain adaptive evolution?
+
+Microevolution:
+
+Quantitative
+
+genetics
+
+Microevolution: Required for response
+
+Phenotypic
+
+paper: empirical [12]
+
+plasticity
+
+and review [13]
+
+Anderson
+Anderson Anderson
+Anderson Anderson Anderson
+
+Recommended: [14, 15] W, 2/17 UGA-wide Instructional Break: No Classes Anderson
+
+TH, 2/18
+T, 2/23
+
+Life history evolution: Fitness tradeoffs and senescence
+Life history: Demography and population dynamics
+
+Recommended readings: Anderson [16-19]
+
+Required for response paper: [20, 21]
+
+Anderson
+
+Due: Response paper 2
+Due: Response paper 3
+Due: Response paper 4
+Due: Topic for grant proposal Due: Response paper 5
+Due: Response paper 6
+
+6
+
+W, 2/24 Discussion prompts: How does demography Anderson link ecology and evolutionary biology?
+
+TH, 2/25 T, 3/2 W, 3/3
+TH, 3/4 T, 3/9
+
+Global Change: Eco-Evolutionary consequences
+Global change II Required for response paper: [22-24] Recommended: [25-27]
+Discussion prompts: What are the major biological responses to global change? How do anthropogenic pressures like habitat fragmentation and climate change interact to influence extinction risk?
+Review for midterm: Please bring your questions to class
+Midterm
+
+Anderson Anderson Anderson
+Anderson
+
+W, 3/10 Writing workshop: In class peer review of grant outline (research questions and hypotheses). Useful readings: [28, 29]
+TH, Macroevolution: [30, 31] 3/11 Phylogenetics
+
+Stephens
+
+T, 3/16 W, 3/17
+
+Macroevolution: Recommended readings:
+
+Speciation
+
+[32, 33]
+
+Discussion prompts: Why are phylogenies
+
+central to evolutionary biology? Be sure you
+
+understand how to read a tree.
+
+Sasaki Sasaki
+
+7
+
+Due: Response paper 7
+Due: Grant outline: Research question and hypotheses Due: Response paper 8 This assignment has a different format than the other response papers. You only need to complete Tree Thinking Quizzes I and II in the supplementary materials at the bottom of Baum et al. (2005). These quizzes are on pp. 4-18. We will not deduct points for incorrect answers. This is an opportunity for you to test your knowledge of reading phylogenetic trees.
+
+TH, Individual 3/18 variation
+
+Recommended reading: Sasaki [32, 33]
+
+T, 3/23
+W, 3/24
+TH, 3/25 T, 3/30
+W, 3/31
+
+Communication Required for response
+
+and signals
+
+paper: [29]
+
+Discussion prompts: Individual variation
+
+within a group
+
+Foraging behavior Recommended reading:
+
+[32, 33]
+
+Mating systems Required for response
+
+paper: [31]
+
+Discussion prompts: Foraging theory
+
+Sasaki Sasaki Sasaki
+Sasaki
+
+TH, 4/1 T, 4/6
+W, 4/7 TH, 4/8
+
+Evolution of
+
+parasite virulence
+
+Behavior:
+
+Required for response
+
+cooperation and paper: [32]
+
+altruism
+
+Discussion prompts: Game theory of
+
+cooperation and altruism
+
+UGA-wide Instructional Break: No Classes
+
+Park Sasaki
+Sasaki
+
+T, 4/13
+W, 4/14
+TH, 4/15 T, 4/20
+W, 4/21
+TH, 4/22 T, 4/27
+
+Group behavior Required for response
+
+paper: [33]
+
+Discussion prompts: How do animal groups
+
+reach consensus decisions?
+
+Benefits and costs Recommended reading:
+
+of sociality I
+
+[34]
+
+Benefits and costs Required for response
+
+of sociality II
+
+paper: [35]
+
+Discussion prompts: Why do animals live
+
+together?
+
+Collective decision Recommended reading:
+
+making
+
+[36]
+
+Effects of
+
+Required for response
+
+anthropogenic
+
+paper: [37]
+
+change
+
+W, 4/28
+TH, 4/29 TH, 5/8
+
+Discussion prompts: Anthropogenic effects
+
+and animal behavior
+
+Review for final
+
+exam
+
+Final exam
+
+12:00-1:15 PM,
+
+Ecology 117
+
+Sasaki
+Sasaki Sasaki Sasaki Sasaki Sasaki
+Sasaki
+
+8
+
+Due: Peer review of grant outline Due: Response paper 9
+Due: Response paper 10
+Due: Response paper 11
+Due: Response paper 12
+Due: Response paper 13
+Due: Response paper 14 Due: Grant proposal
+
+Assigned (and recommended) readings:
+1. Brodie, E.D., A.J. Moore, and F.J. Janzen, Visualizing and quantifying natural selection. Trends in Ecology & Evolution, 1995. 10(8): p. 313-318.
+2. Santangelo, J.S., K.A. Thompson, and M.T.J. Johnson, Herbivores and plant defences affect selection on plant reproductive traits more strongly than pollinators. Journal of Evolutionary Biology, 2019. 32(1): p. 4-18.
+3. Calsbeek, R. and D.R. Cox, Experimentally assessing the relative importance of predation and competition as agents of selection. Nature, 2010. 465: p. 613-616.
+4. Campbell-Staton, S.C., et al., Winter storms drive rapid phenotypic, regulatory, and genomic shifts in the green anole lizard. Science, 2017. 357(6350): p. 495.
+5. Linnen, C.R., et al., Adaptive evolution of multiple traits through multiple mutations at a single gene. Science, 2013. 339(1312-1316).
+6. Weber, J.N., B.K. Peterson, and H. Hoekstra, Discrete genetic modules are responsible for the evolution of complex burrowing behaviour in deer mice. Nature, 2013. 493: p. 402-405.
+7. Hereford, J. and A.A. Winn, Limits to local adaptation in six populations of the annual plant Diodia teres. New Phytologist, 2008. 178(4): p. 888-896.
+8. Hereford, J., A quantitative survey of local adaptation and fitness trade-offs. American Naturalist, 2009. 173: p. 579-588.
+9. Saccheri, I., et al., Selection and gene flow on a diminishing cline of melanic peppered moths. Proceedings of the National Academy of Sciences, 2008. 105: p. 16212-16217.
+10. Slatkin, M., Gene flow and the geographic structure of natural populations. Science, 1987. 236: p. 787-792.
+11. Farkas, T.E., et al., Evolution of camouflage drives rapid ecological change in an insect community. Current Biology, 2013. 23: p. 1835-1843.
+12. Agrawal, A.A., Induced Responses to Herbivory and Increased Plant Performance. Science, 1998. 279(5354): p. 1201.
+13. Miner, B.G., et al., Ecological consequences of phenotypic plasticity. Trends in Ecology & Evolution, 2005. 20(12): p. 685-692.
+14. Spitze, K. and T. Sadler, Evolution of a generalist genotype: Multivariate analysis of the adaptiveness of phenotypic plasticity. The American Naturalist, 1996. 148: p. S108S123.
+15. DeWitt, T.J., A. Sih, and D.S. Wilson, Costs and limits of phenotypic plasticity. Trends in Ecology & Evolution, 1998. 13(2): p. 77-81.
+16. Keller, L.F. and M. Genoud, Extraordinary lifespans in ants: a test of evolutionary theories of aging. Nature, 1997. 389: p. 958-960.
+17. Roach, D., C.E. Ridley, and J. Dudycha, Longitudinal analysis of Plantago: Age-byenvironment interactions reveal aging. Ecology, 2009. 90(6): p. 1427-1433.
+18. Rose, M., et al., What is Aging? Frontiers in Genetics, 2012. 3: p. 134. 19. Velando, A., H. Drummond, and R. Torres, Senescent birds redouble reproductive effort
+when ill: confirmation of the terminal investment hypothesis. Proceedings of the Royal Society B, 2006. 273: p. 1443-1448. 20. Metcalf, C.J. and S. Pavard, Why evolutionary biologists should be demographers. Trends in Ecology & Evolution, 2007. 22: p. 205-212.
+9
+
+21. Sheth, S.N. and A.L. Angert, Demographic compensation does not rescue populations at a trailing range edge. Proceedings of the National Academy of Sciences, 2018. 115(10): p. 2413-2418.
+22. Piao, S., et al., Plant phenology and global climate change: Current progresses and challenges. Global Change Biology, 2019. 25(6): p. 1922-1940.
+23. Champion, C., et al., Rapid shifts in distribution and high-latitude persistence of oceanographic habitat revealed using citizen science data from a climate change hotspot. Global Change Biology, 2018. 24(11): p. 5440-5453.
+24. Campbell-Staton, S.C., et al., Parallel selection on thermal physiology facilitates repeated adaptation of city lizards to urban heat islands. Nature Ecology & Evolution, 2020. 4(4): p. 652-658.
+25. Carlson, S., C.J. Cunningham, and P. Westley, Evolutionary rescue in a changing world. Trends in Ecology & Evolution, 2014. 29(9): p. 521-530.
+26. Smith, T.B., et al., Prescriptive evolution to conserve and manage biodiversity. Annual Review of Ecology, Evolution and Systematics, 2014. 45: p. 1-22.
+27. Bell, G. and A. Gonzalez, Adaptation and Evolutionary Rescue in Metapopulations Experiencing Environmental Deterioration. Science, 2011. 332: p. 1327-1330.
+28. Gopen, G.D. and J.A. Swan, The science of scientific writing. American Scientist, 1990. 78: p. 550-558.
+29. Carraway, L., Improve scientific writing and avoid perishing. American Midland Naturalist, 2006. 155: p. 383-394.
+30. Baum, D.A., S. Smith, and S. Donovan, The Tree-thinking challenge. Science, 2005. 310: p. 979-980.
+31. Ward, P., The phylogeny and evolution of ants. Annual Review of Ecology, Evolution and Systematics, 2014. 45: p. 23-43.
+32. Schluter, D., Evidence for Ecological Speciation and Its Alternative. Science, 2009. 323(5915): p. 737-741.
+33. Seehausen, O., J.J.M. van Alpen, and F. Witte, Ciclid fish diversity threatened by eutrophication that curbs sexual selection. Science, 1997. 277: p. 1808-1811.
+Rowe C. 2013. Receiver psychology: a receiver's perspective. Anim Behav. 85(3):517-523. 29. Sih A, Bell A, Johnson JC. 2004. Behavioral syndromes: an ecological and evolutionary
+overview. Trends Ecol Evol. 19(7):372-378. 30. Harcourt AH, Purvis A, Liles L. 1995. Sperm Competition: Mating System, Not Breeding
+Season, Affects Testes Size of Primates. Funct Ecol. 9(3):468. 31. Stephen DW, Krebs JR. 1986. Foraging Theory. Princeton: Princeton University Press. 32. Nowak M, Highfield R. 2011. SuperCooperators: Altruism, Evolution, and Why We
+Need Each Other to Succeed. Free Press. 33. Strandburg-Peshkin A, Farine DR, Couzin ID, Crofoot MC. 2015. Shared decision-
+making drives collective movement in wild baboons. Science (80- ). 348(6241):1358- 1361. 34. Faria JJ, Krause S, Krause J. 2010. Collective behavior in road crossing pedestrians: the role of social information. Behav Ecol. 21(6):1236-1242. 35. Lima SL. 1995. Back to the basics of anti-predatory vigilance: the group-size effect. Anim Behav. 49(1):11-20. 36. Visscher PK, Camazine S. 1999. Collective decisions and cognition in bees. Nature. 397(6718):400. 37. Popper AN, Hastings MC. 2009. The effects of anthropogenic sources of sound on
+10
+
+fishes. J Fish Biol. 75(3):455-489. 11
+
+

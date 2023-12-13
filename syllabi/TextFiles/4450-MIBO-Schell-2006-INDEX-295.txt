@@ -1,0 +1,141 @@
+IDIS(MIBO) 4450/6450-4450L/6450L MICROBIAL GENETICS: 4 Credit Hours (Microbial Genetics and Genomics)
+Course Description: Molecular basis of gene regulation in microorganisms with emphasis on systems pertaining to pathogenesis, evolution, and ecology. Computer lab examines evolutionary relatedness, sequence comparisons, database searches and reconstruction of metabolic pathways.
+Expected Learning Outcomes: Students will develop an understanding of bacterial genetic systems and how they relate to important bacterial processes. Students will also develop an understanding for genomic and proteonomic approaches for studying diverse microbial species.
+
+Additional Requirements for Graduate Students: Graduate students must write a term paper pertaining to topic(s) covered in class.
+
+No excused absences from 1abs. Each missed lab results in loss of 50 pts from final grade.
+
+Grades: A-F
+
+Honor Code and Academic Honesty Policy As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty", and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: www.uga.edu/honesty <http://www.uga.edu/honesty>. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to the course assignments and the academic honesty policy should be directed to the instructor.
+
+The link to more detailed information about academic honesty can be found at: http://www.uga.edu/ovpi/honesty/acadhon.htm
+
+The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+
+Prerequisites: Undergraduates- MIBO 3500; Graduate MIBO 3500 or permission of department. Textbook: Molecular Genetics of the Bacterial Cell, 2nd Edition, ASM Press, Washington, D.C.
+
+Topical Outline: (Labs are highlighted in bold)
+
+Aug. 16
+
+Lecture 1: Laboratory Notebook, Literature Search and Presentations
+
+MAURER
+
+Aug. 18
+
+Lecture 2: Organization of the Bacterial Cell
+
+MAURER
+
+Aug. 21
+
+Lecture 3: Control of Cell Growth
+
+MAURER
+
+Aug. 23.
+
+Lecture 4: Introduction to Genetics
+
+MAURER
+
+Aug. 23 Aug. 25 Aug. 28 Aug. 30 Aug. 30 Sept. 1 Sept. 4 Sept. 6 Sept. 8 Sept. 11 Sept. 13 Sept. 13 Sept. 15 Sept. 18 Sept. 20 Sept. 20 Sept. 22 Sept. 25 Sept. 27 Sept. 27 Sept. 29 Oct. 2 Oct. 4 Oct. 6 Oct. 9 Oct. 11 Oct. 11. Oct. 13 Oct. 16 Oct. 18 Oct. 18 Oct. 20 Oct. 23 Oct. 25 Oct. 27 Oct. 30 Nov. 1 Nov. 1 Nov. 3 Nov. 6 Nov. 8 Nov. 8 Nov. 10 Nov. 13
+
+Lab 1: Literature Search Lecture 5: Cell Fractionation Lecture 6: Microbial Taxonomy Lecture 7: Molecular Approaches to Classification Lab 2: RDP Phylogeny Lecture 8: Metabolism I Labor Day (No Class) Lecture 9: Metabolism II Open Exam I Lecture 11: Recombinant DNA Technology I Lab 3: PCR Design and Cloning Strategies I Lecture 12: Recombinant DNA Technology II Lecture 13: Recombinant DNA Technology III Lecture 14: Phage Lab 4: PCR Design and Cloning Strategies II Lecture 15: Plasmids and drug resistance Lecture 16: Transposons Lecture 17: Genes to Genomes I Lab 5: DNA Sequence Analysis Lecture 18: Genes to Genomes II Lecture 19: Genes to Genomes III Lecture 20: Review Exam II Lecture 21: Transcriptional Control I Lecture 22: Transcriptional Control II Lab 6: Sequence Comparisons I Lecture 23: Transcriptional Control III Lecture 24: Student Presentations-Reviews; 15 min Lecture 25: RNA Processing and Stability Lab 7: Sequence Comparisons II Lecture 26: Translation Lecture 27: Translational Control Lecture 28: Stress Response Fall Break Lecture 29: Protein Export Lecture 30: Review Lab 8: Proteonomics and protein sequence analysis Exam III Lecture 31: Bacterial Pathogenesis: Salmonella Lecture 32: Bacterial Pathogenesis: Vibrio Lab 9: Comparative Genomics Lecture 33: Student Presentations Lecture 34: Biofilms
+
+MAURER MAURER MAURER MAURER SCHELL
+MAURER
+MAURER MAURER MAURER MAURER MAURER MAURER SCHELL SCHELL SCHELL SCHELL SCHELL SCHELL SCHELL
+HOOVER HOOVER SCHELL HOOVER
+HOOVER SCHELL HOOVER HOOVER HOOVER
+SCHELL
+SCHELL
+MAURER HOOVER SCHELL
+HOOVER
+
+Nov. 15
+
+Lecture 35: Student Presentations
+
+Nov. 15
+
+Lab 10: Comparative Genomics (Continued)
+
+SCHELL
+
+Nov. 17
+
+Lecture 38: Genetics of Microbial Development I
+
+MAURER
+
+Nov. 20
+
+Lecture 39: Genetics of Microbial Development II
+
+MAURER
+
+Nov. 22-24 Thanksgiving
+
+Nov. 27
+
+Lecture 40: Genetics of Microbial Development III
+
+MAURER
+
+Nov. 29
+
+Lecture 41: Student Presentations
+
+Dec. 1
+
+Lecture 42: Student Presentations
+
+Dec. 4
+
+Lecture 43: Student Presentations
+
+Dec. 6
+
+Review
+
+Dec. 8, 11-14 Final Exams Week: Exam IV
+
+Grades
+
+There are 1,000 total, possible grades for this course. Here is the following breakdown:
+
+-Exams: 100 pts; 4 exams.
+
+-Labs: 50 pts; 10 total labs.
+
+-Student presentations: 100 pts.
+
+Exams I-IV: 40%
+
+LAB/ Student Presentations: 60%
+
+A: 940-1000 pts.
+
+A-: 900-939 pts.
+
+B+: 870-899 pts.
+
+B: 840-869 pts.
+
+B-: 800-839 pts.
+
+C+: 770-799 pts.
+
+C: 740-769 pts.
+
+C-: 700-739 pts.
+
+D: 600-699 pts.
+
+F: <599 pts.
+
+

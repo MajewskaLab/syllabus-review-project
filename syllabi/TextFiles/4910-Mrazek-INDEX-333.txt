@@ -1,0 +1,16 @@
+Course Title: Topics in Biology
+Section Title: Introductory Bioinformatics Laboratory
+Instructor: Jan Mrázek (mrazek@uga.edu)
+Class meets: Mondays 2:30 (two-hour lecture/computer lab, room 217 Biological Sciences. There will be eight 2-hour meetings between August 12 and October 7 (skipping Labor Day)
+Textbook: No textbook will be used in this course. Relevant materials will be distributed by the instructor.
+Grading will be based on a point system: 40 points for attending classes, 50 points for final assignment, 10 points for activity in the classes.
+Tentative plan (will be adjusted as needed): August 12: Introduction; expectations for this course; overview of bioinformatics and
+computational biology and how they can help biologists; overview of most relevant online resources August 19: Formulation of hypotheses how microbial genomes adapt to life in extreme environments and plans for testing the hypotheses using the data available online. August 26: Collection of data (genome nucleotide composition, protein amino acid composition) for microbes living in environments characterized by low, normal, or high temperatures (psychrophiles, mesophiles, thermophiles, and hyperthermophiles) using on-line resources (genomesonline.org, img.jgi.doe.gov) September 2: No class - Labor Day September 9: Data collection - continued September 16: Data analysis: Investigations of differences in genome and proteome composition of organisms adapted to growth at low, normal or high temperatures; assessments of statistical significance of the observed differences September 23: Alternative approach to testing the hypothesis by investigating amino acid substitutions in pairs of homologous genes from mesophilic and thermophilic microbes; sequence alignments using BLAST and NCBI web site September 30: Conclusions, discussion of the results, caveats and possible sources of errors. October 7: Last class - assignment of the final take-home project; expectations for the written report; guidance to presenting data and writing a scientific report. November 1: Final project due
+PLEASE NOTE:
+As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty", and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: http://www.uga.edu/honesty. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation.
+
+Questions related to the course assignments and the academic honesty policy should be directed to the instructor. The link to more detailed information about academic honesty can be found at: http://www.uga.edu/ovpi/honesty/acadhon.htm
+The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+Additional office hours may be arranged with the instructor as needed. Please use email to set up appointment times.
+
+

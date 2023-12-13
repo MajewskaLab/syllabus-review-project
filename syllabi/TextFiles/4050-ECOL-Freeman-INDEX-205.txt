@@ -1,0 +1,273 @@
+ICHTHYOLOGY (ECOL 4050/6050-4050L/6050L Fall 2022
+Course Description: Taxonomy, distribution, ecology, evolution, and conservation of the marine and freshwater fishes
+
+Instructor: Name Byron J. Freeman Email: budfree@uga.edu Phone: 706-201-9814 Office: Museum of Natural History Computing Services Rm 0011 Office hours: By appointment; please e-mail to schedule
+
+When & Where?  Lecture 1110-1225 hrs, T/Th
+ Laboratory 1350-1700 hrs, T/Th
+
+Course Details
+Credit 4 credit hours
+Pre-/Co-requisites BIOL 1108-1108L
+Required materials Fishes of the World-UGA Library PDF download; Fishes-A Guide to their Diversity, Rental/Purchase GA Bookstore
+Four Fish-- class reading Course format Lecture and Laboratory. Face-to-Face Individual meetings
+
+Course Learning Objectives: The overarching goals of this course include an emphasis on the diversity, adaptation, evolutionary relationships, taxonomy, ecology and conservation of world fishes.
+By the end of this course you will be able to answer these questions: Why are there so many fish species? Why is fish diversity concentrated in certain regions? How are fishes adapted to solve the major physiological and ecological challenges of aquatic environments? What trends exist in these adaptations across different groups of fishes? How are human activities influencing fish diversity, distribution and abundance? Why are some fishes more vulnerable than other?
+
+COURSE POLICIES
+Attendance Attendance is strongly encouraged and will be recorded. Students are still responsible for all materials missed because of absences. If you want to do well in this class you must attend lecture and laboratory sessions.
+Grading Grades will be based on these percentages 11% (First Exam), 11% (Second Exam), 24% (Final Exam), 10% (Class Participation), 10% (Book Reading), 34% (Laboratory). There may be some opportunity for extra-credit points pending availability of fish related lectures.
+
+The plus/minus grading system will be used, according to UGA policy. Grades will not be rounded, and assigned following this plus/minus grading scale: A = 93-100, A- = 90-92.9, B+ = 87-89.9, B = 83-86.9, B- = 80-82.9, C+ = 77-79.9, C = 73-76.9, C-= 70-72.9, D = 60-69.9, F = <60
+Make-up Policy Late submission of exams must be accompanied with an excused medical justification.
+University Honor Code & Academic Honesty As a University of Georgia student, you have agreed to abide by the UGA academic honesty policy. UGA Student Honor code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others". A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found at https:// honesty.uga.edu/
+You are responsible for informing yourself about the university's standards before performing any academic work. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Please ask if you have questions related to course assignments and the academic honesty policy. Any form of possible academic dishonesty will be reported to the UGA Office of the Vice President for Instruction.
+Accommodations for Disabilities If you require a disability-required accommodation, it is essential that you register with the Disability Resource Center (Clark Howell Hall; https://drc.uga.edu; 706-542-8719 [voice]; 706-542-8778 [TTY]) and notify me of your eligibility for reasonable accommodations. We can then plan how best to coordinate your accommodations. Please note that accommodations cannot be provided retroactively.
+Mental Health and Wellness Resources  If you or someone you know needs assistance, you are encouraged to contact Student Care
+and Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.
+ UGA has several resources for a student seeking mental health services (https:// www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/ emergencies).
+ If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https:// www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring,
+
+and health coaching led by licensed clinicians and health educators in the University Health Center.
+ Additional resources can be accessed through the UGA App.
+FERPA Notice: The Federal Family Educational Rights and Privacy Act (FERPA) grants students certain information privacy rights. To comply with FERPA, all communication that refers to individual students must be through a secure medium (UGAMail or eLC) or in person. Instructors are not allowed to respond to messages that refer to individual students or student progress in the course through non-UGA accounts, phone calls, or other types of electronic media. For details, please visit https://apps.reg.uga.edu/FERPA.
+Syllabus Disclaimer: The course syllabus is a general plan for the course and is subject to revision; deviations announced to the class by the instructor may be necessary.
+eLearning Commons: eLearning Commons (eLC) is an online course environment where you can download digital versions of course materials. Your name and email will be automatically added to the eLC course site. You can access eLearningCommons by signing in with your UGA MyID and password.
+Cell phones and laptops and tablets: Access to digital technology is required to participate in this class. Acceptable uses of technology include taking notes, following along on presentation slides, as well as working on assigned in-class activities that require personal device use. Please refrain from instant messaging, e-mailing, surfing the Internet, playing games, writing papers, doing homework etc. during class time, which may distract your peers. Academic Coaching - assistance with time management, test and performance anxiety, notetaking, motivation, text comprehension, test preparation, and other barriers to success at UGA. Link for the Office of Academic Enhancement.
+Religious observances: The University of Georgia recognizes students' rights to engage in religious practice. Students who will miss class to observe religious activities must contact the instructor prior to the observance and make arrangements to complete missing assignments or assessments.
+
+CORONAVIRUS INFORMATION
+Face coverings: Face coverings are encouraged for all individuals while inside campus facilities, especially if community levels are high in Athens-Clarke County. Wastewater surveillance information for Athens-Clarke is updated weekly on this web site (https://www.covid19.uga.edu/wastewaterathens.html). Current and reported values of SARSCoV-2 over the pandemic can be compared.
+CDC RECOMMENDATIONS (August 11, 2022)
+IF YOU TEST POSITIVE FOR COVID-19 (regardless of vaccination status) · No symptoms · Isolate for 5-days, from date of positive test · Wear a face covering when around others for an additional 5-days · You may `test out' of this with 2 negative antigen tests 48-hours apart · With symptoms · Mild illness · Isolate for 5-days, from the date symptoms rst appeared · Symptoms must be resolving and no fever for past 24-hours without fever reducing medication · Continue to wear a face covering around others for an additional 5days · You may `test out' of this with 2 negative antigen tests 48hours apart
+· Moderate (shortness of breath/dif culty breathing) or severe illness (hospitalized) · Isolate for 10-days and consult physician before ending isolation
+See CDC website for additional information: https://www.cdc.gov/coronavirus/2019ncov/your-health/isolation.html
+IF YOU ARE EXPOSED (regardless of vaccination status) · Wear face covering for 10-days · Get tested on day 6 · If you become symptomatic, isolate as indicated above and get tested
+See CDC website for additional information: https://www.cdc.gov/coronavirus/2019ncov/your-health/if-you-were-exposed.html
+Well-being, Mental Health, and Student Support If you or someone you know needs assistance, you are encouraged to contact Student Care & Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu/. They
+fi fi
+
+will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.
+UGA has several resources to support your well-being and mental health: https://wellbeing.uga.edu/
+Counseling and Psychiatric Services (CAPS) is your go-to, on-campus resource for emotional, social and behavioral-health support: https://caps.uga.edu/, TAO Online Support (https:// caps.uga.edu/tao/), 24/7 support at 706-542-2273. For crisis support: https://healthcenter.uga.edu/ emergencies/.
+The University Health Center offers FREE workshops, classes, mentoring and health coaching led by licensed clinicians or health educators: https://healthcenter.uga.edu/bewelluga/
+Monitoring conditions: Note that the guidance referenced in this syllabus is subject to change based on recommendations from the Georgia Department of Public Health, the University System of Georgia, or the Governor's Office or. For the latest on UGA policy, you can visit coronavirus.uga.edu.
+
+Mtg # 1 2
+
+Date AUG
+
+FALL 2022, ICHTHYOLOGY LECTURE SCHEDULE ECOL 4050/6050
+Byron J. Freeman (budfree@uga.edu) Jared Bennett (ich4050@gmail.com)
+Lecture: Ecology Auditorium, 11:10-12:25, Tue/Thu; Lab: Museum of Natural History Rm8 Tue/Th 1:50-5:00pm
+
+Topic (Chapters in Diversity of Fishes, 2nd Edition) Optional and Recommended.
+
+18
+
+Course mechanics, diversity and distribution of world fishes (1)
+
+23
+
+Georgia Fishes and Streams
+
+UNDERGRAD/GRAD DROP/ ADD DEADLINE 23rd
+
+3
+
+25
+
+Systematics, taxonomy and classification schemes (2)
+
+4
+
+30
+
+Cephalochordates and Agnathans (13) (3,4 for Lab)
+
+5
+
+SEP
+
+1
+
+Chondrichthyes I: Shark Diversity (12)
+
+6
+
+6
+
+Chondrichthyes II: White Shark and Shark Conservation (12)
+
+7
+
+8
+
+Sarcopterygii: Lungfishes and Coelacanths (13)
+
+8
+
+13
+
+Sturgeons through Bowfin (13)
+
+9
+
+15
+
+Fish Evolution (11)
+
+10
+
+20
+
+Teleosts at last: Elopomorpha (14)
+
+11
+
+22
+
+Osteoglossomorpha and Ostarioclupeomorpha (Otocephala) (14)
+
+12
+
+27
+
+Ostariophysi I: rulers of Freshwater (14,16)
+
+13
+
+29
+
+Ostariophysi II: rulers of Freshwater (14)
+
+30
+
+EXAM I, through meeting 11 DUE
+
+14
+
+OCT
+
+4
+
+Protacanthopterygii: Salmon, Smelt, Pike, etc. (14)
+
+15
+
+6
+
+Weird deep-sea fishes and convergence (14,18)
+
+16
+
+11
+
+Acanthopterygii I (15,21)
+
+17
+
+13
+
+Acanthopterygii II (15,21)
+
+18
+
+18
+
+Explosive speciation: homage to Santa Tanganyika (15)
+
+19
+
+20
+
+Convergence in shallow water (18,19)
+
+20
+
+25
+
+Twilight - the night shift (20,23)
+
+21
+
+27
+
+Physiology of vision and behavioral ecology of coloration (6,19,20)
+
+WITHDRAWAL DEADLINE: Oct 24th----
+
+FALL BREAK OCT 28
+
+22
+
+NOV
+
+1
+
+Group mentalities: why fishes school (22)
+
+23
+
+3
+
+The electric fishman (6,22)
+
+4
+
+EXAM II, through meeting 22 DUE
+
+24
+
+8
+
+Diadromous fisheries conservation: move, spawn or get out of the way (23,24,26)
+
+25
+
+10
+
+Fishes out of water
+
+26
+
+15
+
+Marine fisheries conservation (26)
+
+27
+
+17
+
+Nullum gratuitum prandium
+
+28
+
+22
+
+BOOK DISCUSSION Four-Fish
+
+THANKSGIVING BREAK (23-25)
+
+29
+
+29
+
+Southeastern Fishes Biodiversity
+
+30
+
+DEC 1
+
+Ichthyology Review and Fish Jeopardy
+
+7
+
+READING DAY
+
+Cumulative FINAL EXAM: Tuesday December 13th, 12:00-3:00 PM
+
+Syllabus is Subject To Revision
+
+

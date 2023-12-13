@@ -1,0 +1,97 @@
+ECOL 4000/6000 Population and Community Ecology Fall 2019
+Time: Tu Th 2.00 - 3.15 pm. (3 credit hours) Place: Science Learning Center, Room 345
+Instructors: John Drake, Ph.D. & Andrew Park, Ph.D. Email: jdrake@uga.edu, awpark@uga.edu
+Office hours: By appointment
+Overview Population and community ecology are active fields of research with important applications for management and conservation. This course links conceptual issues and basic models with data and field approaches relevant for understanding population dynamics in time and space. The first third of the course focuses on the birth, death, and movement of organisms, with particular reference to the population dynamics of single-species; the middle third of the course focuses on interactions among species, including competition and predation; the final third of the course focuses on the causes and consequences of diversity (the co-occurrence of multiple species).
+Format The course format includes lectures, demonstrations, exercises, discussions, group activities and homework assignments. Throughout the semester, students will work on group projects (typically in one class period per week).
+Text Readings (in the form of chapters) will be uploaded to the course website (http://courses.ecology.uga.edu/ecol4000-fall2019) approximately one week before the associated lecture topic, along with occasional readings from the primary literature. Reading of posted material prior to coming to class is essential, and short quizzes will be given at the beginning of class.
+Group work Students will be assigned to small groups and will work together through the semester developing and answering research questions related to the population and community ecology of natural systems. Students will work with real data sets and, in consultation with instructors, will develop written reports detailing student contributions. In addition, a summary of findings will be presented to the class towards the end of the semester.
+Prerequisites This course assumes you are familiar with general ecology and biology, and have taken ECOL 3500.
+
+Attendance Attendance is essential. If you miss a class, you are responsible for contacting fellow students for lecture notes. More than 4 unexcused absences will result in a lowering of your final score by one letter grade. An excused absence is constituted by the student notifying the instructor in advance and producing proof for reason of absence immediately upon return to the class.
+
+Evaluation Short quizzes (which cannot be made up) will be given at the beginning of each class period for which there is a reading assignment. Additionally, there will be approximately 12 homework assignments. There will be two exams during class periods (September 17th & October 24th) and a final exam on December 12th  (3:30-6:30pm).
+
+Grade calculation 10% Quizzes 10% Exam 1 10% Exam 2 15% Final exam
+
+15% Homework 10% Participation 15% Written report of group project 1 15% Presentation of group project 2
+
+Accommodations Please contact the instructor if you require special accommodations due to learning disabilities, religious practices, physical or medical needs, or for any other reason.
+
+General Notes (i) All academic work must meet the standards contained in "A Culture of Honesty." Students are responsible for informing themselves about those standards before performing any academic work. The link to more detailed information about academic honesty can be found at: http://www.uga.edu/honesty/ (ii) The course syllabus is a general plan for the course; deviations announced to the class by the instructors may be necessary.
+
+Outline of Topics
+
+Date
+
+Topic (short lecture topic in parentheses)
+
+Aug 15 Introduction / Scientific computing I
+
+Aug 20 Scientific computing II
+
+Aug 22 Population growth and decline
+
+Aug 27 Group project work: Population dynamics (Density dependence)
+
+Aug 29 Complex dynamics
+
+Sep 3 Group project work: Population dynamics (Extinction)
+
+Sep 5 Age structure
+
+Sep 10 Group project work: Population dynamics (Metapopulations)
+
+Sep 12 Group project work: Population dynamics (Ecosystem engineering)
+
+Sep 17 Exam 1
+
+Sep 19 Lotka-Volterra competition
+
+Sep 24 Group project work: Population dynamics (Host-parasitoid interactions)
+
+Sep 26 R* theory
+
+Oct 1 Group project work: Population dynamics (Mutualisms)
+
+Oct 3 Predator-prey dynamics
+
+Oct 8 Group project work: Biodiversity (Host-parasite interactions)
+
+Oct 10 Paper discussion: Hare-Lynx interactions
+
+Oct 15 Group project work: Biodiversity (Indirect interactions)
+
+Oct 17 Trophic cascades
+
+Oct 22 Group project work: Biodiversity (Niche theory)
+
+Oct 24 Exam 2
+
+Oct 29 Group project work: Biodiversity (Latitudinal diversity gradients)
+
+Oct 31 Measuring biodiversity
+
+Nov 5 Group project work: Biodiversity (Species area curves)
+
+Nov 7 Island biogeography
+
+Nov 12 Group project work: Biodiversity (Succession)
+
+Nov 14 Neutral theory of biodiversity and metacommunities
+
+Nov 19 Diversity-function-stability relationships
+
+Nov 21 Macroevolution and community assembly/function
+
+Nov 26 Macroecology
+
+Nov 28 Thanksgiving
+
+Dec 3 Group presentations
+
+Dec 12 Final exam 3:30pm-6:30pm
+
+Theme
+
+

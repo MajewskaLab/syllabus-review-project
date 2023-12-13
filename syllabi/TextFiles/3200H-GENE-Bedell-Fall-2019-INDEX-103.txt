@@ -1,0 +1,328 @@
+GENE 3200 (Genetics) - Bedell - Fall 2019 Course syllabus
+
+Disclaimer: The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+
+FERPA Notice: The Family Educational Rights and Privacy Act (FERPA) grants students certain information privacy rights. See the registrar's explanation at https://reg.uga.edu/generalinformation/ferpa/.
+
+Instructor: Dr. Mary Bedell, Associate Professor
+
+C110 Davison Life Sciences
+
+706-542-0288
+
+bedell@uga.edu
+
+Office hours:
+
+Tue and Wed, 1:30pm - 3:00pm
+
+If you cannot make it to the regular office hours, or wish to have a one-on-one meeting, please don't hesitate to contact me by email or before/after class to set up another time to meet.
+
+Graduate teaching assistants: Office hours are by appointment only
+
+Katie Duval
+
+kduval@uga.edu
+
+Seung Woo (Sam) Kang
+
+sk28897@uga.edu
+
+Alice Naftaly
+
+alice.shanfelter@uga.edu
+
+Please use your regular UGA email to communicate with me and the TAs. Because of FERPA, we cannot reply to you through email sent via any other platform (such as gmail).
+
+Prerequisites. BIOL 1103 or BIOL 1103E or BIOL 1103H or BIOL 2103H or BIOL 1104 or BIOL 1104H or BIOL 1107 or BIOL 1107E or BIOL 1107H or BIOL 2107H or BIOL 1108 or BIOL 1108H or BIOL 2108H or PBIO 1210
+
+Required course materials
+
+� Genetics: A Conceptual Approach (B. A. Pierce, 6th edition, W. H. Freeman and Co., 2016) ISBN-10: 1319050964, ISBN-13: 978-1319050962
+
+� Solutions and Problem-Solving Manual to Accompany Genetics: A Conceptual Approach (J. H. Choi and M. E. McCallum, 6th edition, W. H. Freeman and Co., 2016). ISBN-10: 1319088708, ISBN-13: 978-1319088705
+
+- Note: You should NOT use the 5th edition of the book or Solutions Manual. There are enough changes to the new edition that the older edition will not be suitable for this semester.
+
+� Access to Top Hat: There will be some short, ungraded quizzes and exercises during class and discussion sessions. Responses will be recorded using the Top Hat (www.tophat.com) classroom response system, which can be accessed using Apple or Android smartphones and
+
+1
+
+GENE 3200 - Bedell - Fall 2019 Course syllabus
+tablets, laptops, or through text message. During the first week of classes, you will be emailed a code to join Top Hat for this course. Once you have the code, you will need to purchase a Top Hat license; the discounted price for UGA students is $22 for one semester and $34 for one year (https://ctl.uga.edu/learning-technologies/student-response-systems/top-hat-forstudents/). When you are purchasing your license, you'll select your license term and see the regular prices for Top Hat. The UGA discount will applied when you check out.
+- Instructions for registering for a Top Hat account and a brief overview to get you up and running on the system are available at https://success.tophat.com/s/article/Student-TopHat-Overview-and-Getting-Started-Guide within the Top Hat Success Center.
+- Although these in-class exercises will not be graded, your participation will be recorded and will count towards your grade in the course. If you don't have a web-enabled device or have a technical problem (e.g. your device needs to be charged up), you may turn in your answers on paper. Your score will be determined based on the percentage of total responses, with 95%-100% response earning 60 points (see below).
+- Sharing the daily Top Hat attendance code or other Top Hat details with a student who is not in the classroom may be a violation of the university's academic honesty policy. Be sure to protect the privacy of the code you receive.
+- Should you require assistance with Top Hat at any time, please contact their Support Team directly by way of email (support@tophat.com), the in app support button, or by calling 1-888-663-5491.
+Course description. Genetics is an amazing field of science that is at the core of all biological systems. Not only does genetics explain and predict how traits are passed from one generation to the next, it provides the tools for understanding complex molecular, cellular, and biological interactions. In addition, genetics is a rapidly advancing scientific discipline and new genomic tools are being developed for analysis and manipulation of genomes of a multitude of organisms. Because these tools are used in biomedical and pharmaceutical applications, in development and maintenance of food crops and animals, and for human health, modern genetics also has important economic and ethical implications. In this course, you will learn concepts and mechanisms about transmission genetics, molecular genetics, and genomics that will be applicable to other courses and to your future careers. And, you will learn and apply problem-solving skills that will be helpful to you in the future.
+Learning objectives. Upon successful completion of this course, you will be able to:
+1) Describe the essential components and mechanisms of DNA replication, chromatin modifications, transcription, and translation.
+2) Describe multiple levels of regulation of gene expression.
+3) Predict the phenotypic consequences of different kinds of mutations and chromosome abnormalities.
+4) Interpret the results of experiments using modern tools of molecular genetics and genomics.
+2
+
+GENE 3200 - Bedell - Fall 2019 Course syllabus
+5) Describe eukaryotic chromosomes at different stages of the cell cycle, mitosis, and meiosis.
+6) Infer information about genes, alleles, and gene functions from analysis of genetic crosses and patterns of inheritance.
+Class sessions (MWF). GENE 3200-A (CRN 24556) is 10:10am - 11:00am in room 100 of Forest Resources-2 and GENE 3200-B (CRN 24555) is 12:20pm - 1:10pm in room 171 of the MLC. The two sections will have identical content, so you don't have to always attend the session that you're registered for. Class attendance will be recorded through Top Hat, and your total attendance for the semester will count towards your grade (see below).
+
+You should complete reading assignments prior to the class session for which they are assigned (see class schedule). Slides (as Power Point presentations) will be posted on eLC and you are encouraged to download these slides and bring them to class either as printouts or on laptops. The slides are not intended to be a substitute for reading the book; they should be used as supplements to help you understand the material in the book.
+
+As a courtesy to me and your classmates, you should not use your electronic devices (i.e. laptop, tablet, or phone) for anything other than for class-related activities.
+
+Discussion sessions (GENE 3200D). All the discussion sessions will be held in room C120 of Davison Life Sciences. These sessions are designed to help you master concepts, practice and develop problem-solving skills, and improve your critical thinking skills.
+
+Session GENE 3200D-A1 GENE 3200D-A2 GENE 3200D-A3 GENE 3200D-A5 GENE 3200D-A4 GENE 3200D-A6 GENE 3200D-B1 GENE 3200D-B2
+
+CRN 25084 25085 25086 25099 25098 25100 25081 25082
+
+Day Monday Monday Monday Monday Tuesday Tuesday Tuesday Tuesday
+
+Time 1:25 pm - 2:15 pm 2:30 pm - 3:20 pm 3:35 pm - 4:25 pm 4:40 pm - 5:30 pm 9:30 am - 10:20 am
+11:00 am - 11:50 am 12:30 pm - 1:20 pm
+2:00 pm - 2:50 pm
+
+Your TAs will answer questions about the content covered in class, review basic concepts, and explain solutions to assigned problems. At each discussion session, you will have the opportunity to do short practice problems that relate to the assigned problems. You will earn 1 point for each week you attend a session, with a maximum of 10 points toward your course total (see below).
+
+There will be no discussion sessions the weeks of 9/2 (Labor Day) and 11/25 (the week of Thanksgiving)
+
+End-of-chapter problems in the textbook and additional problems. A set of problems will be assigned for each chapter. These problems will not be graded, but many of the exam questions will be based on these problems. Solutions to all the problems from the textbook are provided in the Solutions and Problem-Solving Manual and I will explain selected problems during class sessions. It is important that you make serious attempts to work the problem BEFORE looking at the
+
+3
+
+GENE 3200 - Bedell - Fall 2019 Course syllabus
+solution. By doing these problems, you will develop a deeper understanding of concepts and refine your problem-solving skills, both of which will help you do well on the exams.
+If you need help with the problems outside of the discussion sessions, the TAs and I are very willing to meet with you during regular office hours or by appointment.
+Syllabus quiz. To encourage you to read the syllabus, there will be an open-book quiz on eLC that during the first week of class. This quiz will contain questions about the course policies and will be worth 5 points towards your course total (see below). The quiz will be available until Monday 8/19 and you will have 60 minutes to complete the quiz once you start.
+Quizzes on course material. There will be 10 open-book quizzes on eLC that will be available on the following dates: 8/22, 8/29, 9/5, 9/19, 9/26, 10/10, 10/17, 10/30, 11/7, and 11/14. Each quiz will be worth 10 points, and will have multiple choice and true or false questions. The quizzes will be available for 42 hours each and you will have 30 minutes to complete the quiz once you start. There will NOT be a quiz during the week of exams. Scores from your top eight quizzes (80 pts maximum) will be used to calculate your course total (see below).
+Regular exams. Four regular (non-cumulative) exams will be given on 9/12, 10/3, 10/24, and 11/21. These exams are all on Thursdays and will be from 5:00pm - 7:00pm. Each of the regular exams is worth 100 pts. Scores from your top three regular exams will be used to calculate your course total (see below).
+Each of the regular exams will be in two parts: part I will have multiple choice questions and part II will have free response problems and a few true/false questions. Depending on the topics covered, individual exams may weighted toward one part or the other. For example, one exam may have 66 points on part I and 34 points on part II, while another exam may have 34 points on part I and 66 points on part II. Once all four exams have been completed, about half of the total points will be from multiple choice questions and about half of the total points will be from free response problems.
+Exam conflicts. If a regular exam time conflicts with your work schedule, your participation in an officially scheduled UGA event, or your travel to an out-of-town event related to academics (e.g. a professional school interview or participation in a research symposium), you may be given permission take the exam at a different time. The alternate exam time will be determined based on your class or work schedule, but if possible will take place earlier the same day or the evening before the exam.
+To request an alternate exam time, you should speak to me (either in person or via email to bedell@uga.edu) at least one week prior to the exam. You will need to provide documentation to support your request. This documentation could be a copy of an email or letter from your work supervisor or a UGA faculty member, or a copy of an email or letter that confirms your participation in the out-of-town event.
+Missed exams. If you miss a regular exam for other reasons, such as illness, death in the immediate family, or car accidents, you may request an excused absence. To obtain an excused absence, you must provide written documentation for your absence to me by the Monday following the exam. If
+4
+
+GENE 3200 - Bedell - Fall 2019 Course syllabus
+you obtain an excused absence for a regular exam but take the other three regular exams, scores from the top two exams will be used to calculate your total course points (see below).
+
+No make-ups for the regular exams will be given! If you don't obtain an excused absence, the missed exam will be scored as a zero. Don't forget, only your top three scores from the four exams will be used to determine your grade.
+
+Optional review sessions. I will have review sessions on Thursdays during weeks in which there is not an exam. These reviews are distinct from the GENE 3200D sessions and will be held from 5:00pm - 7:00pm. The last review session will be on Reading Day (Thursday 12/5, time and location TBA). There will be no points earned for attending these review sessions.
+
+Comprehensive final exam. A MANDATORY final exam will be Monday12/9 at 7:00pm - 10:00 pm and will include material covered in the entire course. If you miss the final exam due to health or family emergency, you must provide a valid, written and verifiable excuse (for example, from your physician) to me by noon on Wednesday, 12/11. If you obtain an excused absence for the final, you will be given an opportunity to take a make-up exam.
+
+All exams. Graded exams will be scanned and PDFs will be returned electronically. Requests for re-grades must be made to me within 48 hours of the exam PDFs being released. With your request, you must give a brief explanation of the reason for the request (e.g. points were not totaled correctly, and why you think your answer(s) should be considered correct). At my discretion, the entire exam, not just the requested question(s), may be re-graded.
+
+Course grade will be determined from a total maximum of 660 pts. Total of top three regular exam scores (100 pts each)* Score on cumulative final (200 pts) Syllabus quiz Total of top eight quiz scores (10 pts each) Discussion session attendance (1 pt each week, maximum of 10 pts) Class attendance (based on percentage of all possible)** Pre-test assessment Post-test assessment Course and instructor evaluation TA evaluation (for the TA in your discussion session)
+
+300 pts 200 pts
+5 pts 80 pts 10 pts 60 pts 1 pt 1 pt 2 pt 1 pt
+
+Scores will be totaled and then divided by 660 pts to calculate the course percentage.
+
+*If an excused absence is received for a regular exam, scores from your top two exams will be used and your course grade will be determined from a total maximum of 560 pts.
+
+**Points earned for class attendance are based on percent of all possible: 95% - 100%, 60 pts; 90% - 94.9%, 55 pts; 85% - 89.9%, 50 pts; 80% - 84.9%, 45 pts; 75% - 79.9%, 40 pts; 70% - 74.9%, 35 pts; 65% - 69.9%, 30 pts; 60% - 64.9%, 25 pts; 55% - 59.9%, 20 pts; 50% - 54.9%, 15 pts; 45% 49.9%, 10 pts; 40% - 44.9%, 5 pts; < 40%, 0 pts.
+
+5
+
+GENE 3200 - Bedell - Fall 2019 Course syllabus
+Tentative grading scale. If class averages are lower than expected, the lower limit of each grade may be lowered, but it will not be raised. Examples: regardless of class average, you will receive an A if you get at least 93%, but depending on class average, the lowest A might be a 92.5; regardless of class average, you will receive a B if you get at least 83%, but depending on class average, the lowest B might be a 82.5.
+
+Grade A AB+ B BC+ C D F
+
+Course percentage 93 - 100 90 - 92.9 87 - 89.9 83 - 86.9 80 - 82.9 75 - 79.9 70 - 74.9 60 - 69.9 < 60
+
+Course withdrawal. Detailed information about course withdrawal policies and procedures is available at www.reg.uga.edu/policies/withdrawals. It is your responsibility to initiate the drop or withdrawal process through ATHENA. You may drop one, some, or all of your classes during the drop/add period, which ends Tuesday, 8/20. Courses dropped in this manner do not appear on your transcript and are not considered as hours attempted for financial aid purposes. No grade is assigned for such courses.
+
+After the drop period, the deadline for withdrawals is Monday, 10/21. If you withdraw from this course before the withdrawal deadline, you will receive a grade of W. Withdrawals from courses will not be permitted after the withdrawal deadline except in cases of hardship as determined by the Office of Student Services (see below).
+
+If you experience a significant personal hardship (e.g., medical or family emergency, prolonged illness) you should inform me and contact Student Support Services (706-542-7774; 325 Tate Student Center, dos.uga.edu/studentsupport/) in the Office of Student Services. This office can guide you towards many useful campus resources that can help you deal with the situation. If necessary, this office can approve a hardship withdrawal from all courses in the term for you are currently registered and grades of W for all those classes will be assigned. The deadline for final approval of a hardship withdrawal is the last day of classes for the semester. If the hardship withdrawal process is not complete by the last day of classes, you must appeal for a retroactive hardship withdrawal from the Educational Affairs Committee.
+
+No refund is available for a reduction in hours due to individual course withdrawals that occur after the drop/add period. You should be aware that a reduction in your hours might result in the loss of full-time student status and thus affect your financial aid, scholarships, athletic and ticket eligibility, University housing accommodations, use of University resources and access to University facilities, immigration status for international students, Veterans Educational Benefits.
+
+If you have questions about the potential the impact of a course withdrawal, you should contact the appropriate office and your academic advisor.
+
+6
+
+GENE 3200 - Bedell - Fall 2019 Course syllabus
+Use of eLC. You should check the home page of the eLC site for this course before each class. Important class announcements (such as quiz information, exam keys, change in office hours, changes to class schedule, etc) will be posted here. In addition, all scores and grades will be posted on eLC. Discussions on eLC should be used only for class-related matters, such as seeking out study groups, exchanging course-related information, asking questions/posting answers on material covered in the course. These postings are not to be used for any matters that are unrelated to the course. If you misuse the eLC site, you will have access to all course material revoked for the remainder of the semester. Student athletes. If you will be absent on exam days due to UGA athletic competition, you should inform me of your travel dates at the beginning of the semester. You will have the opportunity to take your exam early or have it administered by UGA personnel accompanying the team to the event. Disabilities. The TAs and I are committed to full inclusion of all students. If you seek special accommodations due to a disability, you should contact me during the first week of the semester or as soon as the need for accommodation is discovered. I will work with the Disability Resource Center (706-542-8719, drc.uga.edu/) to discuss the process for requesting accommodations. UGA Honor Code and academic honesty. As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards contained in "A Culture of Honesty" found at https://honesty.uga.edu/Academic-Honesty-Policy/. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to me.
+� For the quizzes on eLC, you are expected to work alone and are NOT allowed to ask questions or receive answers from other students. This prohibition includes any use of email or social media (including GroupMe, Google Docs, Facebook, Twitter, Snapchat, etc). You ARE allowed (and encouraged) to form study groups or to use email or social media to discuss and review class material, work problems, and prepare for/review exams.
+7
+
+GENE 3200 - Bedell - Fall 2019 Course syllabus
+My teaching philosophy My goal is for you to be successful in this course, and I will make great efforts to put you in the position to be successful. You will need to work hard, but I will let you know what my expectations are, and I will try to give you the tools needed to master the course material. Lectures and classroom activities will be designed to increase your engagement, to help you master the details, and to develop your problem-solving skills. In the classroom, I try to present the material in a way to facilitate learning and to spark your enthusiasm for learning. During lectures there will be exercises designed to address key concepts and to teach you some problem-solving strategies. Your performance on these exercises will not be graded but active participation should help prepare you for exams. Outside the classroom, I devote a great deal of time preparing my lecture slides, which are posted online before each class so that you can bring the slides to class for note-taking and to use as study guides. To allow you to practice and refine your problem-solving skills, there are assigned problems in the book as well as my own problems from previous exams that you should work. For many of these problems, I have prepared and posted problem-solving videos. I also give numerous opportunities for you to meet with me individually, I hold extra review sessions, and I give you tips on how to study more effectively. I sincerely want to help you identify ways that can be used to improve your understanding of the material and your performance in this course.
+Go DAWGs!
+8
+
+Date
+8/14 8/16 8/19 8/21, 8/23 8/26
+8/28, 8/30 9/2
+9/4, 9/6 9/9 9/11 9/12
+9/13
+9/16 9/18 9/20, 9/23, 9/25 9/27, 9/30, 10/2 10/3 10/4, 10/7
+
+GENE 3200 - Fall 2019 - Bedell Class schedule - Aug 21, 2019 This is a tentative schedule and is subject to change - revisions will be dated and in red text Power Point slides will be posted the day before the first class on the topic
+
+Topic
+
+Chapter
+
+Sections/pages in book
+
+3200D
+
+Syllabus and Intro to genetics DNA structure Chromosome structure DNA replication and recombination Transcription
+
+1 10 2; 11 12 13
+
+All All 2.1; all of Ch. 11 All All
+
+8/19 and 8/20
+
+RNAs and RNA processing
+
+14 14.1 - 14.4
+
+Labor Day - no class and no GENE 3200D on 9/2 and 9/3
+
+Genetic code and translation
+
+15 All
+
+Transcriptional regulation in prokaryotes
+
+16 16.1, 16.2, 16.4
+
+Transcriptional regulation in eukaryotes
+
+17; 20 17.1 - 17.3; (20) p. 622
+
+Exam 1: 5:00pm - 7:00pm - location TBD - new material in 9/11 lecture will not be on this exam
+
+Transcriptional regulation in eukaryotes (cont)
+
+17; 20 17.1 - 17.3; (20) p. 622
+
+Epigenetics
+
+21 All
+
+Posttranscriptional regulation in eukaryotes
+
+14; 17 14.5, 14.6; 17.4 - 17.6
+
+Molecular genetic techniques
+
+19 19.1, p. 562-565, 567-574, 582-586
+
+Cellular reproduction
+
+2
+
+2.2 - 2.3
+
+Exam 2: 5:00pm - 7:00pm - location TBD - new material in 10/2 lecture will not be on this exam
+
+Mendelian inheritance
+
+3
+
+All
+
+1
+
+GENE 3200 - Fall 2019 Class schedule
+
+10/9, 10/11 10/14
+10/16, 10/18, 10/21 10/23 10/24 10/25
+10/28, 10/30
+11/1 11/4, 11/6 11/8, 11/11,
+11/13 11/15
+11/18
+11/20 11/21 11/22
+11/25
+11/27- 11/29
+12/2
+12/4 12/5 12/9
+
+Sex determination and sex-linked inheritance Sex influenced traits
+
+4
+
+All
+
+5
+
+5.3
+
+Extensions and modifications
+
+5
+
+5.1, 5.2, 5.4, 5.5
+
+Pedigree analysis and genetic testing
+
+6
+
+All
+
+Exam 3: 5:00pm - 7:00pm - location TBD - new material in 10/23 lecture will not be on this exam
+
+Pedigree analysis and genetic testing (cont)
+
+6
+
+All
+
+Mutations and DNA repair Fall Break - no class - Go Dawgs! Chromosome variation
+
+18 All
+
+8
+
+All
+
+Linkage & recombination frequencies
+
+7
+
+7.1 - 7.3 through p. 198
+
+Molecular markers Genetic mapping, GWAS Quantitative genetics
+
+19; 20 7; 20 24
+
+(19) p. 586-589; (20) p. 613 (7) p. 198-200; (20) p. 607-610, p. 613-615 24.1 - 24.3
+
+Exam 4: 5:00pm - 7:00pm - location TBD - new material in 11/20 lecture will not be on this exam
+
+Quantitative genetics (cont)
+
+24 24.1 - 24.3
+
+Genetic manipulation of organisms and cells
+
+14; 19; 20
+
+(14) p. 420-421; (19) p. 564-567, 575-576, 19.6, 19.7; (20) p.623-624
+
+Thanksgiving break - no GENE 3200D on 11/25 and 11/26
+
+Genetic manipulation of organisms and cells (cont) Genomics
+
+14; 19; 20 20
+
+See above p. 605-613, 615-622, 20.3, 20.4
+
+Reading Day - optional review - time and location TBD
+
+Final Exam - cumulative for entire course - 7:00pm-10:00pm - location TBD
+
+* Withdrawal deadline
+
+2
+
+

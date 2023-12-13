@@ -1,0 +1,281 @@
+BIOL1104 Organismal Biology
+3 hours Spring Semester 2022
+Section 1 (20270): T/Th from 9:35am to 10:50am, 0285 Science Learning Center Section 2 (59993): T/Th from 12:45 to 2pm, 0285 Science Learning Center
+Course Overview
+In this general biology course, you will study organisms from an ecological and evolutionary perspective. We emphasize structure and function, pathways and transformation of energy and matter, and the importance of biodiversity. We will apply core biological concepts to contemporary challenges, emphasizing interactions between humans and their environment.
+Learning Goals
+· Be able to think critically about scientific information, and the relevance of scientific information to your career path.
+· Develop scientific literacy and the ability to acquire and assess new knowledge and present this to others.
+· Build confidence in your ability to understand and make decisions about biology in your daily life. · Make connections among different topics in biology and connections between human behavior
+and the many biological challenges we face. · Understand core biological concepts including ecology, evolution, biodiversity, transformations of
+energy and matter, human body systems, and interactions between humans and their environment.
+The Basics
+Your Instructor
+Dr. Morgan Meyers Office: C120B Davison Life Sciences Complex Phone: 706 542 3188 Email: morgan.meyers@uga.edu I will respond to emails within 24-48 hours Mon-Fri. If you email over the weekend, I will respond by the end of the day on Monday.
+
+You Belong Here
+I am excited to learn with each and every one of you, and I am here to support your success. I invite you to bring your whole self into our biology learning community. Each of you brings cultural assets and personal perspectives that will allow you to form unique appreciations and relevant applications of science in your careers and daily lives to help make the world a better place. Please be confident that you can come to me with your questions, concerns, challenges, confusions, victories, and requests for help.
+Student Hours
+Student Hours (you may know them as "office hours") are a great way to interact with your instructor, chat about course content, and get help with any confusions. I strongly encourage ALL students to attend Student Hours at least once during the semester. Student Hours are available on Zoom during the following times, so feel pop by (you don't need to email ahead of time):
+Mondays and Thursdays 3-4pm https://zoom.us/j/99549320096?pwd=TkFKMHVueFlKejN5YjR3RmYvY1NQZz09
+If those times don't work for you, you can make an appointment, so just send me an email if that's the case.
+COVID-19 Information (updated Jan. 5, 2022)
+CORONAVIRUS INFORMATION FOR STUDENTS
+UGA adheres to guidance from the University System of Georgia and the recommendations from Georgia Department of Public Health (DPH) related to quarantine and isolation. Since this may be updated periodically, we encourage you to review the latest guidance here. The following information is based on guidance last updated on December 29, 2021.
+Face coverings: Following guidance from the University System of Georgia, face coverings are recommended for all individuals while inside campus facilities.
+How can I obtain the COVID-19 vaccine? University Health Center is scheduling appointments for students through the UHC Patient Portal (https://patientportal.uhs.uga.edu/login_dualauthentication.aspx). Learn more here - https://www.uhs.uga.edu/healthtopics/covid-vaccine.
+The Georgia Department of Health, pharmacy chains and local providers also offer the COVID-19 vaccine at no cost to you. To find a COVID-19 vaccination location near you, please go to: https://georgia.gov/covid-vaccine.
+
+In addition, the University System of Georgia has made COVID-19 vaccines available at 15 campuses statewide and you can locate one here: https://www.usg.edu/vaccination
+What do I do if I have COVID-19 symptoms? Students showing COVID-19 symptoms should self-isolate and get tested. You can schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see https://www.uhs.uga.edu/info/emergencies.
+What do I do if I test positive for COVID-19? (Isolation guidance) If you test positive for COVID-19 at any time, either through a PCR test, an Antigen test, or a home test kit, you are required to report it through the DawgCheck Test Reporting Survey. Follow the instructions provided to you when you report your positive test result in DawgCheck.
+As of December 29, 2021, when an individual receive a positive COVID-19 test: Everyone, regardless of vaccination status, should:
+· Stay home for 5 days. · If you do not have symptoms or your symptoms are resolving after 5 days, you can leave your
+house and return to class. · Continue to wear a mask around others for 5 additional days.
+What do I do if I have been exposed to COVID-19? (Quarantine guidance) If you have been exposed (within 6 feet for a cumulative total of 15 minutes or more over a 24-hour period - unmasked**) to someone with COVID-19 or to someone with a positive COVID-19 test and you are:
+· Boosted, or have become fully vaccinated within the last 6 months (Moderna or Pfizer vaccine) or within the last 2 months (J&J vaccine) o You do not need to quarantine at home and may come to class. o You should wear a mask around others for 10 days. o If possible, get tested on day 5. o If you develop symptoms, get tested and isolate at home until test results are received, then proceed in accordance with the test results.
+· Unvaccinated, or became fully vaccinated more than 6 months ago (Moderna or Pfizer vaccine) or more than 2 months ago (J&J vaccine) and have not received a booster: o You must quarantine at home for 5 days. After that you may return to class but continue to wear a mask around others for 5 additional days. o If possible, get tested on day 5. o If you develop symptoms, get tested and isolate at home until test results are received, then proceed in accordance with the test results.
+** "Masked-to-masked" encounters are not currently considered an exposure; this type of interaction would not warrant quarantine.
+
+You should report the need to quarantine on DawgCheck (https://dawgcheck.uga.edu/), and communicate directly with your faculty to coordinate your coursework while in quarantine. If you need additional help, reach out to Student Care and Outreach (sco@uga.edu) for assistance.
+Well-being, mental health, and student support If you or someone you know needs assistance, you are encouraged to contact Student Care & Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu/. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services. UGA has several resources to support your well-being and mental health: https://wellbeing.uga.edu/
+Counseling and Psychiatric Services (CAPS) is your go-to, on-campus resource for emotional, social and behavioral-health support: https://caps.uga.edu/, TAO Online Support (https://caps.uga.edu/tao/), 24/7 support at 706-542-2273. For crisis support: https://healthcenter.uga.edu/emergencies/.
+The University Health Center offers FREE workshops, classes, mentoring and health coaching led by licensed clinicians or health educators: https://healthcenter.uga.edu/bewelluga/
+Monitoring conditions: Note that the guidance referenced in this syllabus is subject to change based on recommendations from the Georgia Department of Public Health, the University System of Georgia, or the Governor's Office. For the latest on UGA policy, you can visit coronavirus.uga.edu.
+Required Learning Tools
+Computer, internet, and UGAmail access
+Computers and internet will be important for taking quizzes and exams, submitting assignments, and communicating about the course. If you don't have your own computer, you can access public computers at many of the UGA libraries. I will be communicating with you through UGAmail and eLC, so make sure you check both frequently.
+eLC
+We will be using eLC extensively in this course, so make sure you have access! If you have tech problems related to eLC, you can find help here: http://www.ctl.uga.edu/elc/student
+Pre-class preparation work
+There will be assigned pre-class preparation prior to each class, including reading, videos, and podcasts (see Unit Calendars in eLC). All of these materials will be posted on eLC. Some readings will come from a FREE textbook that is posted as a PDF on eLC. There are no books you need to purchase for this class.
+
+Notecards
+Please purchase one pack (~100 count) of 3x5 notecards/index cards (any color), and bring a few with you to class each day.
+Top Hat
+We will be using the Top Hat (www.tophat.com) classroom response system in class. You will be able to submit answers to in-class questions using Apple or Android smartphones, or by texting your answers from any type of phone. STARTING THURSDAY JANUARY 13, I WILL EXPECT EVERYONE TO HAVE AN ACTIVE TOP HAT ACCOUNT. You will use your cell phone to respond to in-class questions most class periods. You need to have it and be able to use it every class period.
+For instructions on how to create a Top Hat account and enroll in our Top Hat Pro course, please refer to the invitation sent to your school email address or consult Top Hat's Getting Started Guide (https://bit.ly/31TGMlw).
+Note, our Course Join Code is: Section 1 (T/Th morning): 419270 Section 2 (T/Th afternoon): 713564
+If you already have a Top Hat account, go to https://app.tophat.com/e/419270 to be taken directly to our course. If you are new to Top Hat, follow the link in the email invitation you received or...
+· Go to https://app.tophat.com/register/student · Click "Search by school" and input the name of our school · Search for our course with the following join code: 419270 (section 1) or 713564 (section 2)
+If a paid subscription is required, it will be listed at checkout when you enroll in our Top Hat Pro course.
+Should you require assistance with Top Hat at any time please contact their Support Team directly by way of email (support@tophat.com), the in-app support button, or by calling 1-888-663-5491. Specific user information may be required by their technical support team when troubleshooting issues.
+If financial hardship prevents you from being able to register for a Top Hat account, please email me (morgan.meyers@uga.edu) as there are solutions to this that we can discuss!
+
+Course Schedule
+
+Unit Ecosystems & Biodiversity
+Transformations of Energy & Matter
+
+Dates Tues Jan 11 - Thurs Feb 3
+Tues Feb 8 - Thurs March 3
+
+Human Reproduction Tues March 15 - Thurs April 7
+
+Human-Environment Interactions
+
+Tues April 14 - Thurs April 28
+
+Exam Dates Exam 1 opens class time Thurs Feb 3 Exam 1 closes midnight Sun Feb 6
+Exam 2 opens class time Thurs March 3 Exam 2 closes midnight Sun March 6
+Exam 3 opens class time Thurs April 7 Exam 3 closes midnight Sun April 10
+Exam 4 opens class time Thurs April 28 Exam 4 closes midnight Sun May 1
+
+Other Important Dates
+Drop/Add period: Jan 10 - 14 MLK Day (no class): Jan 17 Withdrawal deadline: March 24 Spring Break (no class): March 7-14 Final Exam Period: May 5-11
+Your attendance at the final project showcase is required! This will happen during our scheduled final exam day, which is Thursday May 5th. So put it on your calendar now!
+
+The Details
+What YOU will be doing to support your learning in and out of class Preparing Before Class!
+Pre-class preparation is required in this class. I expect you to learn the basics outside of class so we can work together to understand material more deeply in class. The unit calendars list the preparation required before each class meeting. Preparation will include reading sections of the textbook, reading articles and stories, listening to podcasts, and watching videos. All material you will need to prepare (e.g., readings, videos, etc.) will be available on eLC.
+
+Coming To Class! Attendance in class is essential for your learning in this course. Showing up for class (and being on time) is part of your responsibility as a self-regulated learner. However, I am well aware there may be times you will have to miss class due to an emergency, illness, or other commitment. Since there is no way to make up in-class participation points if you are absent, I have structured the grading to minimize the impact of missing a class for a legitimate reason: you are allowed to miss up to 10% of in-class questions and notecard activities and still earn full credit for your In-Class Participation grade.
+If you miss class, use the slides and other resources posted to eLC to learn about what you missed. I will NOT respond to emails with the question "What did I miss in class?" It is your responsibility to figure out what you missed in class using the resources on eLC and talking with your classmates. However, remember you can always come to Student Hours to chat about any course material you have confusions about, as long as you have put in a good effort trying to understand it on your own first (with the help of eLC and your classmates of course).
+Participating During Class! You will be asked and expected to participate in class in various ways. This is not to make you uncomfortable or add unnecessary pressure - it is simply because being actively engaged with course material through participation is how we learn best! The ways in which you will be expected to participate include talking with your peers, answering questions, and turning in various notecard activities. It is important to remember that ANY participation in class will be done in a very low-stakes, safe learning environment where you are encouraged to TRY OUT your understanding of the material. Your participation will never be graded on correctness or scientific accuracy, but rather the EFFORT you put into practicing your understanding of the material and responding to any prompts you were given.
+Using Personal Electronic Devices Responsibly and Respectfully! If you MUST use a laptop or tablet in class for CLASS WORK, please be mindful of the people sitting around you. Laptop use in lecture halls can be extremely distracting to people next to you and behind you, so please try to keep use to a minimum. Phones will be used to answer in-class questions using Top Hat. If you are observed using your phone or other device for off-task activities, you may be asked to leave class because this can be extremely disruptive to others' learning. In that case, you will earn zeros on any in-class assignments and in-class questions.
+Taking Good Notes! Powerpoint presentations will be posted on eLC the night after they are presented in class. Because you will have access to lecture slides, I suggest that the notes you take in class are focused on the bigger picture, including any questions or confusions you have, NOT details of the content. The exams will require you to do more than memorize information, so you should use your notes to think actively about the lecture material.
+Try to ask yourself the following questions during class:
+
+a. Why is this important? What is the context? What is the big idea? b. How does this connect to what I've previously learned? c. Is there evidence that would support this? Is there evidence against it? You should also write down any questions that the instructor is asking (rhetorically or directed towards students) and try to answer them, and write down other students' questions and the answers given. If you miss class, use the slides to learn about what you missed. I will NOT respond to emails with the question "What did I miss in class?" It is your responsibility to figure out what you missed in class using the resources on eLC and talking with your classmates.
+Completing Weekly eLC Quizzes! Most weeks you will be responsible for completing a quiz in eLC. These quizzes will be open all week from Monday morning until the time class starts on Thursdays. The purpose of the quizzes is to hold you accountable for learning from the assigned preparation and for studying throughout the unit. You will have unlimited attempts for each quiz and the best score you earn will be kept.
+You will learn the most if you complete the assigned preparation and study for at least 30 minutes after each class (see guides about how to study), take the weekly quiz to gauge your understanding, study more, and then take the quiz again. You should be prepared to answer questions about anything that has been addressed in class and anything covered in the required preparation throughout the week.
+Writing Weekly eLC Reflections! For you to turn knowledge into something you can use, it is important to reflect on what you know and what issues are still confusing to you. At the end of every week, you will submit a Reflection on eLC. I will provide prompts for you to write about or respond to. You should spend at least 30 minutes considering the prompt and responding in writing. These reflections are not meant to be formal essays, or finely polished documents for public view. They should show your own ideas and thought processes, and should be as much for your own benefit as ours. Grades will be assigned for turning these journals in on time, exceeding the word count requirement, and writing thoughtfully on topic.
+Applying Your Learning through Various Assignments! Assignment details will be posted to eLC and due dates will be listed on unit calendars.
+Demonstrating Your Knowledge on Exams! The unit exams will take place following the review and practice exam. The exams will be available online, and will be open from the time class starts on Thursday until midnight on Sunday. These exams ARE opennote, and ARE timed! You will have 75 minutes to take the exam once you begin, and only one attempt is allowed. Each unit exam is worth 100 points.
+
+This will be one of the main opportunities you have to show what YOU as an individual have learned during each unit of the course. Unit exams will be a combination of multiple choice, matching, multiselect, and true-false questions.
+If you miss an exam due to a verifiable, unplanned emergency, you MUST 1) notify me (your instructor) of your problem by phone or email PRIOR to the exam, and 2) provide documentation. You will then be required to schedule a make-up exam within one week of the missed exam.
+Practice Communicating Biology for the Final Project You will work (remotely or in-person) with a group to complete a final project. The focus of this project is communicating about science to the public. As a group, you will have the freedom to make some decisions about the topic of your project. More details on the project will be available later in the semester. You will have some in-class time to work on this project, but you will also need to work on it outside of class. During the final exam period, we will showcase some of the final projects. Attendance at the final project showcase is required, so plan to attend the full 3-hour final exam period.
+Getting Your Questions Answered! There are multiple ways to find an answer to your questions about BIOL1104. If you have a question, please follow these steps, in order:
+1. Read this syllabus carefully. It answers many common questions. 2. Check eLC. This is where I will post the most up-to-date announcements and information. 3. Post your question on a discussion board. There is a discussion board called "Questions about
+BIOL 1104" for general questions about the course and a discussion board for questions about a specific unit. You may find that your question has already been answered on the discussion board or that you are able to answer other students' questions. 4. If your question concerns your grade or something else personal, please email me at my UGA email addresses (morgan.meyers@uga.edu). I DO NOT check email in eLC.
+If you find yourself struggling in this course, please visit the "Survival kit for succeeding in Biol 1104" in eLC. I have put together some resources that previous students have found helpful. Students who are not doing as well as they would like generally need to change their study strategies. I am always happy to meet with you in student hours to discuss your performance, but I do expect you to first put in the effort use the resources available to you. :-)
+
+Course Assessment
+
+You will be assessed on your performance on course activities as follows:
+
+Assessment
+
+Percentage of final grade
+
+Description
+
+Unit Exams
+
+40%
+
+The four unit exams will be taken on eLC. They will be open from the time class starts on Thursday until midnight Sunday. Each is worth 100 points, for a total of 400 points possible.
+
+Final Project
+
+15%
+
+eLC quizzes
+
+10%
+
+Class participation 10%
+
+You will work on this with your group throughout the semester, and present your project during the final project showcase, which will happen during our final exam slot. The final project is worth 150 points.
+You will complete weekly quizzes on eLC, where they will be open from Monday morning until class starts on Thursday. You can take the quiz as many times as you want, and your highest score will count. Each is worth 10 points for a total of 100 points possible.
+Includes participating via notecard writes, TopHat, and other forms of participation. There are 100 total points possible for participation.
+
+Assignments
+
+10%
+
+Weekly Reflections 10%
+
+Various assignments for a total of 100 points possible.
+You will complete weekly reflections on eLC, where they will be open from 2pm Thursday to midnight Sunday. Each is worth 10 points, for a total of 100 points possible.
+
+Final Reflection
+
+5%
+
+You will complete a final reflection towards the end of the semester. It will be worth 50 points.
+
+Points Summary
+
+Unit Exams
+
+400
+
+Final Project
+
+150
+
+eLC Quizzes
+
+100
+
+Class Participation
+
+100
+
+Assignments
+
+100
+
+Weekly Reflections
+
+100
+
+Final Reflection
+
+50
+
+TOTAL POINTS
+
+1000
+
+Letter Grade Scale
+
+A
+
+94-100%
+
+A-
+
+90-93%
+
+B+
+
+87-89%
+
+B
+
+84-86%
+
+B-
+
+80-83%
+
+C+
+
+77-79%
+
+C
+
+74-76%
+
+C-
+
+70-73%
+
+D
+
+60-69%
+
+F
+
+<60%
+
+How is my grade determined?
+Your letter grade for the course will be calculated at the end of the semester and will be based on your final percentage.
+Your final percentage will be determined by: 1. Adding up the total number of points you have earned 2. Dividing it by the total number of points you could have earned (1000 points) 3. Multiplying by 100% The letter corresponding to your final percentage will be your final grade.
+Have a grading grievance?
+If you feel that there has been a mistake in your grade on an exam or another assignment, please email me immediately. Franklin also has a list of all appeal options for students. See: http://www.franklin.uga.edu/students/student_appeal_guidelines.php Important things to consider regarding grading grievances:
+· I will not consider grading appeals beyond one week after we post assignment or exam scores. · You may feel that you are just a point or two away from earning a higher grade, but I cannot with
+fairness add points to your score without affecting the grades of everyone else in the class. · Changing your grade simply because you need a higher score is in violation of the Culture of
+Honesty guidelines of the University. · You have many opportunities to earn points by completing course activities throughout the
+semester. Take advantage of those opportunities. · If you have general questions about withdrawals versus dropped classes, final exam conflicts,
+missed classes for illness, or the Hope scholarship you can visit the Student Affairs Website and view the FAQ page: http://studentaffairs.uga.edu/students.htm
+Student Responsibilities
+Education is a two-way street. Both teachers and students have responsibilities to create the best possible learning experience for everyone. Here is what is expected of YOU:
+
+· Be aware of all University rules and regulations pertaining to your rights as a student, and your responsibilities to the degree program in which you are enrolled.
+· Be aware that you shall be deemed to have received any and all information that is: o provided in scheduled class, regardless of attendance. o sent to your student email address. o made available via eLC or other University-approved learning management systems.
+· Be aware of all information related to this class that is made available to you, and (in a timely manner) raise with staff any questions or concerns related to this information.
+· Be aware of, and act in accordance with, the UGA's Academic Honesty Policy.
+In other words:
+Know your rights! Read your email! Check eLC! Ask questions! Play by the rules!
+Academic Honesty
+What does Academic Honesty mean?
+Academic Honesty means performing all academic work without cheating, lying, stealing, or receiving help from another person during solo work, or using any source of information not appropriately authorized or attributed (i.e. plagiarism). UGA's Culture of Honesty is vital to the very fabric and integrity of the university.
+Academic dishonesty, such as plagiarism or cheating, is a breach of the Academic Honesty Policy and is taken very seriously by the university.
+It is your responsibility to be aware of and use acceptable academic practices when completing this course. If you have any questions or would like to learn more about Academic Honesty ask your Lecturer or visit UGA's Academic Honesty webpage: https://honesty.uga.edu/
+Click here to read UGA's academic honesty policy.
+https://honesty.uga.edu/_resources/documents/academic_honesty_policy_2017.pdf
+Click here to read UGA's academic dishonesty procedures.
+https://honesty.uga.edu/Academic-HonestyPolicy/Procedures_for_Resolving_Matters_of_Alleged_Academic_Dishonesty/
+
+Student support services
+Need some help making sure you maintain academic honesty and live up to your responsibilities outlined above? No stress! Take advantage of the wealth of resources and services available to you as a student at UGA!
+Division of Academic Enhancement https://dae.uga.edu/
+Located in Milledge Hall (103 Hooper St) Wide range of services and resources including:
+o Academic coaching o Peer Learning Assistants o Peer Tutoring o Help with presentations and public speaking o Student Success Workshops o First-Gen student resources
+LGBT Resource Center https://lgbtcenter.uga.edu/
+Located at 221 Memorial Hall Wide range of resources including:
+o 6 LGBTRC Listservs to stay up to date on events and resources o LGBTRC Library to find and use various resources o Ambassador Link to chat with someone
+Disability Resource Center (DRC) https://drc.uga.edu/
+Located at 114 Clark Howell Hall Provides services and support to students who have a physical, cognitive or mental impairment which substantially limits major life activities. If you plan to request accommodations for a disability, please register with the Disability Resource Center (DRC). Call 706-542-8719 (voice) Call 706-542-8778 (tty) Email drc@uga.edu
+Health & Well-being
+o University Health Center is here for YOU! Located at 55 Carleton St. Call 706-542-1162 to make an appointment Suicide Prevention 706-542-2200 Sexual Assault 24h hotline 706-542-SAFE
+https://uhcdev.uga.edu/
+
+o Mental Health & Wellbeing #BeWell provides FREE programs, events, and services to promote wellbeing Counseling and psychiatric services
+https://uhcdev.uga.edu/bewelluga/
+
+

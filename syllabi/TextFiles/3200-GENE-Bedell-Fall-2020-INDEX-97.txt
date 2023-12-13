@@ -1,0 +1,373 @@
+GENE 3200 (Genetics) - Bedell - Fall 2020
+Course syllabus
+Disclaimer: The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+FERPA Notice: The Family Educational Rights and Privacy Act (FERPA) grants students certain information privacy rights. See the registrar's explanation at https://reg.uga.edu/generalinformation/ferpa/.
+
+Adjustments made because of COVID-19: The course will be COMPLETELY ONLINE - lectures will be asynchronous with prerecorded videos available online, discussion sessions (GENE 3200D) will be synchronous via Zoom, quizzes and exams will be on eLC with remote, online proctoring. Details of each aspect of the course are described below.
+
+Please read the important information about COVID and COVID-related UGA resources at the end of this document.
+
+Instructor: Dr. Mary Bedell, Associate Professor, C110 Davison Life Sciences Email address: bedell@uga.edu Office hours: Monday, 10:00am-noon; via Zoom, https://zoom.us/j/96211973173 Wednesday, 12:30pm-2:30pm; via Zoom, https://zoom.us/j/97200314166
+
+A passcode for the Zoom meetings will be posted on eLC. For office hours, I am happy to have multiple students on the Zoom meetings at the same time. Often times, it's helpful for you to hear questions other students are asking. If you prefer a one-onone Zoom meeting with me, please don't hesitate to email me and we can set up a time.
+
+If you need to reach me by telephone, please call 706-542-0288 and leave a voice message for me.
+
+Graduate teaching assistants: Office hours are by appointment only and will take place via Zoom.
+
+Yitang Sun
+
+yitang.sun@uga.edu
+
+Makenzie Whitener makenzie.whitener@uga.edu
+
+Shuang Yang
+
+shuang.yang@uga.edu
+
+Please use your regular UGA email to communicate with me and with the TAs. Because of FERPA, we cannot reply to you through email sent via any other platform (such as gmail).
+
+Prerequisites. BIOL 1103 or BIOL 1103E or BIOL 1103H or BIOL 2103H or BIOL 1104 or BIOL 1104H or BIOL 1107 or BIOL 1107E or BIOL 1107H or BIOL 2107H or BIOL 1108 or BIOL 1108H or BIOL 2108H or PBIO 1210
+
+Required course materials
+
+Textbook: Genetics: A Conceptual Approach (B. A. Pierce, 7th edition, W. H. Freeman and Co., 2020) ISBN:9781319216801
+
+1
+
+GENE 3200 - Bedell - Fall 2020 Course syllabus
+- Note: You should NOT use the 6th edition of the book. There are enough changes to the new edition that the older edition will not be suitable for this semester.
+- You are NOT required to purchase Sapling, the online resource available from the textbook publishing company.
+- You are NOT required to purchase a separate Study Guide and Solutions Manual - that will be provided as PDFs on eLC.
+Course description. Genetics is an amazing field of science that is at the core of all biological systems. Not only does genetics explain and predict how traits are passed from one generation to the next, it provides the tools for understanding complex molecular, cellular, and biological interactions. In addition, genetics is a rapidly advancing scientific discipline and new genomic tools are being developed for analysis and manipulation of genomes of a multitude of organisms. Because these tools are used in biomedical and pharmaceutical applications, in development and maintenance of food crops and animals, and for human health, modern genetics also has important economic and ethical implications. In this course, you will learn concepts and mechanisms about transmission genetics, molecular genetics, and genomics that will be applicable to other courses and to your future careers. And, you will learn and apply problem-solving skills that will be helpful to you in the future.
+Learning objectives. Upon successful completion of this course, you will be able to: 1) Describe the essential components and mechanisms of DNA replication, chromatin modifications, transcription, and translation. 2) Describe eukaryotic chromosomes at different stages of the cell cycle, mitosis, and meiosis. 3) Infer information about genes, alleles, and gene functions from analysis of genetic crosses and patterns of inheritance. 4) Describe multiple levels of regulation of gene expression. 5) Predict the phenotypic consequences of different kinds of mutations and chromosome abnormalities. 6) Interpret the results of experiments using modern tools of molecular genetics and genomics.
+Asynchronous lectures. All lectures for GENE 3200-A (CRN 24556) and GENE 3200-B (CRN 24555) will be available on eLC as prerecorded, captioned videos that you will be able to view at any time. To encourage you to keep up with the course material, you will earn points that count towards your grade (see below) if you view each video by a certain deadline. The deadlines will be posted on eLC with the videos.
+You should complete reading assignments prior to viewing the lecture videos (see class schedule). Slides (as Power Point presentations) will be posted on eLC and you are encouraged to download these slides and take notes on them as you watch the videos. The slides are not intended to be a substitute for reading the book; they should be used as supplements to help you understand the material in the book.
+After watching the videos, go back and read the appropriate sections of the book in more detail. A good way to do this is to go back and forth between the slides (with your notes) and the book: thinking and processing the information, integrating new information with previously learned information, and applying the new information to problem solving. Unless you are told otherwise for specific situations, you will NOT be tested on any topics or details that are in the assigned reading but are NOT on the slides.
+2
+
+GENE 3200 - Bedell - Fall 2020 Course syllabus
+Synchronous discussion sessions (GENE 3200D). All the discussion sessions will be held via Zoom meetings with the TAs at the scheduled class times (see below). These sessions are designed to help you master concepts, practice and develop problem-solving skills, and improve your critical thinking skills.
+
+Time (previous Time (class times
+
+Section
+
+CRN Day class times)
+
+for Fall 2020)*
+
+GENE 3200D-A1 25086 M 12:20pm - 1:10pm 12:40pm - 1:30pm
+
+GENE 3200D-A3 25084 M 1:25pm - 2:15pm 1:50pm - 2:40pm
+
+GENE 3200D-A4 25085 M 2:30pm - 3:20pm 3:00pm - 3:50pm
+
+GENE 3200D-B4 25098 M 3:35pm - 4:25pm 4:10pm - 5:00pm
+
+GENE 3200D-B3
+
+25100 T
+
+9:30am - 10:20am 9:35am - 10:25am 11:00am -
+
+GENE 3200D-A2 25099 T 11:50am
+
+11:10am - 12:00pm
+
+GENE 3200D-B2 25082 T 12:30pm - 1:45pm 12:45pm - 1:35pm
+
+GENE 3200D-B1 25081 T 2:00pm - 2:50pm 2:20pm - 3:10pm
+
+*The class times were revised this semester by increasing the amount of time between class periods
+
+- instead of 15 minutes, there is now 20 minutes between class periods.
+
+Your TAs will answer questions about the content covered in lecture videos, review basic concepts, and explain solutions to assigned problems. At each discussion session, you will have the opportunity to do practice problem sets, and worksheets for these problems will be posted on eLC. You will earn 1 point for each week you attend a Zoom session, with a maximum of 10 points toward your course total (see below). The keys to the practice problem sets will be posted on eLC on Tuesday afternoon, after the last GENE 3200D section has met.
+
+Because of Labor Day, there will be no GENE 3200D sessions on Sept. 7 and Sept 8.
+
+End-of-chapter problems in the textbook and additional problems. A set of problems will be assigned for each chapter in the textbook. These problems will not be graded. However, many of the exam questions will be based on these problems, so you are likely to do better on the exams if you do these problems. Solutions to all the problems from the textbook are provided in the PDFs of the Solutions and Problem-Solving Manual, which will be posted on eLC. It is important that you make a serious attempt to work a problem BEFORE looking at the solution. By doing these problems, you will develop a deeper understanding of concepts and refine your problem-solving skills, both of which will help you do well on the exams.
+
+If you need help with the problems outside of the GENE 3200D sessions, the TAs and I are very willing to meet with you via Zoom during regular office hours or by appointment.
+
+Optional review sessions. I will have review sessions on Thursdays during weeks in which there is not an exam. These reviews are distinct from the GENE 3200D sessions and will be held from 5:00pm - 6:00pm via Zoom meetings. The last review session will be on Reading Day (Thursday 12/10, 12:00pm - 2:00pm). The review sessions will be recorded and the videos posted on eLC. There will be no points earned for attending these review sessions or viewing the recordings.
+
+Syllabus quiz. To encourage you to read the syllabus, there will be an open-book quiz on eLC that will be available until Aug 31. This quiz will contain questions about the course policies and will be
+
+3
+
+GENE 3200 - Bedell - Fall 2020 Course syllabus
+worth 6 points towards your course total (see below). Once you start the quiz, you will have 60 minutes to complete it.
+Pre-test and post-test assessments. Each semester the Genetics Department uses a standardized pre-test/post-test assessment for all sections of GENE 3200. You will be asked to take the same assessment at the beginning of the semester (pre-test), and then to re-take it (with the exact same questions) at the end of the semester (post-test). Both tests will be given online, and all details of the tests will be posted on eLC.
+For each assessment, it is very important that you do NOT make random guesses - if you don't know an answer, just leave it blank and move on to the next question. Your scores on these assessments will NOT count towards your grade. Regardless of how many questions you answer correctly or incorrectly, you will receive 2 points for each assessment. However, you will not receive any credit if it appears that many of the answers are random guesses or are left blank.
+Quizzes. There will be 10 open-book quizzes on eLC that will become available on the following dates: 8/28, 9/4, 9/11, 9/25, 10/2, 10/16, 10/23, 11/6, 11/13, and 12/4. The main topics for each quiz will be announced on the Monday prior to the quiz. Each quiz will be worth 10 points, and questions will be a mixture of multiple choice, true or false, and free response (mainly math equations). The quizzes will be available from 6:00pm on Fridays until 8:00pm on Sundays. Once you start a quiz, you will have 30 minutes to complete it. Scores from your top eight quizzes (80 pts maximum) will be used to calculate your course total (see below).
+Exams. Five exams will be given on 9/17, 10/8, 10/29, 11/19, and 12/16 and will be available on eLC. Each exam will be non-cumulative and worth 100 pts. The first four exams are all on Thursdays and will be from 5:00pm - 8:00pm, while the fifth exam is on a Wednesday and will be from 7:00pm - 10:00pm.
+Like the quizzes, exam questions will be a mixture of multiple choice, true or false, and free response (mainly math equations). However, exams will NOT be open-book. Once you have logged into eLC, you will need to use the Respondus Lockdown Browser and the Respondus Monitor. With the Lockdown Browser, you will not be able to access anything on your computer (including email, the internet, or other parts of eLC) except the exam on eLC. Respondus Monitor is a tool for online exam proctoring and you will need to have a microphone and camera or webcam with your computer. More information will be provided before the first exam, and you will be given several opportunities to try out these tools before the first exam.
+As you know, instructors and students have had to make many adjustments because of COVID-19 and because of online instruction. The use of Respondus Monitor is one example of such an adjustment. Although all students are expected to follow the UGA Honor Code (see below), unfortunately there may be a small number of students that will make unauthorized use of resources (also known as cheating). Respondus Monitor uses a webcam to record video and audio of your exam sessions, and the TAs and I will be able to view you and hear what's happening around you as you take each exam. This online monitoring is necessary in order to be fair to the large majority of students who do not cheat.
+To request a re-grade, you should email me (bedell@uga.edu) within 48 hours of the exam scores being released. With your request, you should give a brief explanation of the reason for the request (e.g. points were not totaled correctly, and why you think your answer(s) should be considered correct). At my discretion, the entire exam, not just the requested question(s), may be re-graded.
+4
+
+GENE 3200 - Bedell - Fall 2020 Course syllabus
+Exam conflicts. If an exam time conflicts with your work schedule, your participation in an officially scheduled UGA event, or your travel to an out-of-town event related to academics (e.g. a professional school interview or participation in a research symposium), you may be given permission take the exam at a different time. The alternate exam time will be determined based on your class, work, or travel schedule, but if possible, it will take place the evening before the exam or earlier the same day of the exam.
+
+To request an alternate exam time, you should email me (bedell@uga.edu) at least one week prior to the exam. You will need to provide documentation to support your request. This documentation could be a copy of an email or letter from your work supervisor or a UGA faculty member, or a copy of an email or letter that confirms your participation in the out-of-town event.
+
+Missed exams. If you miss a regular exam for other reasons, such as illness, death in the immediate family, or car accidents, you may request an excused absence. To obtain an excused absence, you must provide written documentation for your absence to me by the Monday following the exam. If you obtain an excused absence for an exam, your course total will be adjusted accordingly (see below for details).
+
+In the event that you have technical difficulties with an exam (e.g. your computer breaks down or your internet access becomes unavailable), you should contact me right away, either by email (bedell@uga.edu) or leaving a voice message at 706-542-0288. Rather than telling me about such a progproblem after the exam is over, it will be much better for you if inform me of the problem just after it happens.
+
+If you miss an exam but do not receive an excused absence, you will receive a score of zero for that exam. There will be no make-up exams.
+
+Student athletes. If you will be absent on exam days due to UGA athletic competition, you should inform me of your travel dates at the beginning of the semester. You will have the opportunity to take your exam early or have it administered by UGA personnel accompanying the team.
+
+Course grade will be determined from a total maximum of 650 pts. Total of five exams (100 pts each)* Syllabus quiz Total of top eight quiz scores (10 pts each) Discussion session attendance (1 pt each week, maximum of 10 pts) Viewing lecture videos (based on percentage of all possible) Pre-test assessment Post-test assessment
+
+500 pts 6 pts 80 pts 10 pts 50 pts 2 pts 2 pts
+
+Bonus for course and instructor evaluation
+
+2 pts
+
+Bonus for TA evaluation (for the TA in your discussion session)
+
+1 pt
+
+Scores will be totaled and then divided by 650 to calculate the course percentage.
+*If an excused absence is received for an exam, scores from the four exams you completed will be used and your course grade will be determined from a total maximum of 550 pts.
+
+5
+
+Tentative grading scale.
+
+GENE 3200 - Bedell - Fall 2020 Course syllabus
+
+Grade A AB+ B BC+ C D F
+
+Course percentage 93 - 100 90 - 92.9 87 - 89.9 83 - 86.9 80 - 82.9 75 - 79.9 70 - 74.9 60 - 69.9 < 60
+
+Will there be a curve? I anticipate that the class average of each exam will be in the mid-70s. If the class average is lower than 70%, I will examine the summary of scores for the entire class - this includes the distribution (histogram) of scores and the percentage of correct/incorrect answers for each problem. By doing this evaluation, I can determine if the whole exam or individual questions were too difficult. If so, I may discard certain questions or curve the scores by adding points to exam scores for all students. Generally, if these adjustments are made, the class average will be raised to the mid-70s, even if this means that some students receive >100 pts after the curve.
+
+In addition to applying a curve to the scores for individual exams, I will determine the actual grade cutoffs based on the distribution of course percentages (see above). Depending on the class distribution, the lower limit of each grade shown above may be lowered. Examples: you will receive an A if you get at least 93%, but depending on the class average, the lowest A might be 92.5%; you will receive a B if you get at least 83%, but depending on the class average, the lowest B might be 82%; you will receive a C if you get at least 70%, but depending on class average, the lowest C might be 68%. Note that even if the class average is 85%, the cutoffs for each grade will NOT be raised.
+
+Course withdrawal. Detailed information about course withdrawal policies and procedures is available at www.reg.uga.edu/policies/withdrawals. It is your responsibility to initiate the drop or withdrawal process through ATHENA. You may drop one, some, or all of your classes during the drop/add period, which ends Wednesday, 8/26. Courses dropped in this manner do not appear on your transcript and are not considered as hours attempted for financial aid purposes. No grade is assigned for such courses.
+
+After the drop period, the deadline for withdrawals is Tuesday, 10/27. If you withdraw from this course before the withdrawal deadline, you will receive a grade of W. Withdrawals from courses will not be permitted after the withdrawal deadline except in cases of hardship as determined by the Office of Student Services (see below).
+
+If you experience a significant personal hardship (e.g., medical or family emergency, prolonged illness) you should inform me and contact Student Support Services (706-542-7774; 325 Tate Student Center, dos.uga.edu/studentsupport/) in the Office of Student Services. This office will guide you towards many useful campus resources that will help you deal with the situation. If necessary, this office can approve a hardship withdrawal from all courses in the term for which you are currently registered, and grades of W for all those classes will be assigned. The deadline for final approval of a hardship withdrawal is the last day of classes for the semester. If the hardship
+
+6
+
+GENE 3200 - Bedell - Fall 2020 Course syllabus
+withdrawal process is not complete by the last day of classes, you must appeal for a retroactive hardship withdrawal from the Educational Affairs Committee. If you have questions about the potential the impact of a course withdrawal, you should contact the the Office of the Registrar (reg.uga.edu/enrollment-and-registration/schedule-adjustments/) and/or your academic advisor. Use of eLC. You should check the home page of the eLC site for this course multiple times each week. Important class announcements (such as quiz information, exam keys, change in office hours, changes to class schedule, etc) will be posted there. In addition, all scores and grades will be posted on eLC. Discussions on eLC should be used only for class-related matters, such as seeking out study groups, exchanging course-related information, asking questions/posting answers on material covered in the course. These postings are not to be used for any matters that are unrelated to the course. Disabilities. The TAs and I are committed to full inclusion of all students. If you seek special accommodations due to a disability, you should contact me during the first week of the semester or as soon as the need for accommodation is discovered. I will work with the Disability Resource Center (706-542-8719, drc.uga.edu/) to discuss the process for requesting accommodations. UGA Honor Code and academic honesty. As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards contained in "A Culture of Honesty" found at https://honesty.uga.edu/Academic-Honesty-Policy/. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to me.
+· For quizzes and exams on eLC, you are expected to work alone and are NOT allowed to ask questions or receive answers from other students. This prohibition includes any use of email or social media (including GroupMe, Google Docs, Facebook, Twitter, Snapchat, etc). You ARE allowed (and encouraged) to form study groups or to use email or social media to discuss and review class material, work problems, and prepare for/review exams.
+7
+
+GENE 3200 - Bedell - Fall 2020 Course syllabus
+My teaching philosophy
+My goal is for you to be successful in this course, and I will make great efforts to put you in the position to be successful. You'll need to work hard, but I will let you know what my expectations are, and I will try to give you the tools needed to master the course material. Lectures and problem sets will be designed to increase your engagement, to help you master the details, and to develop your problem-solving skills. I have taught this course for many years, but I really do LOVE GENETICS and I hope that some of my enthusiasm for this field rubs off on you.
+Online instruction is not something that most of us have a lot of experience with. Please be assured that I am working hard to present the online material in a way to facilitate your learning and to spark your enthusiasm for learning, just like I try to do during regular classroom lectures. During lecture videos there will be exercises designed to address key concepts and to teach you some problem-solving strategies. Your performance on these exercises will not be graded but active participation should help prepare you for exams. And, there may be some fun things scattered throughout the videos! If there is any aspect of the lecture videos or Zoom meetings that could be improved, please let me know. I sincerely want to make this semester of online instruction at least equal to, or perhaps even better than, inperson classroom instruction.
+I place a lot of information on my lecture slides and post the slides on eLC. I do this for two reasons: you can use the slides as study guides and you can add notes to the slides while you're viewing the lecture videos. To allow you to practice and refine your problem-solving skills, there are assigned problems in the book as well as my own problems from previous exams that you should work. For many of these problems, I have prepared and posted problem-solving videos, which are available on eLC.
+I sincerely want to help you identify ways that can be used to improve your understanding of the material and your performance in this course. To do this, I encourage you to utilize my office hours (either the regular office hours, or one-on-one meetings). In addition to answering your questions, I should be able to give you tips on how to study more effectively. And, you are encouraged to attend or view the recordings of the review sessions.
+I care deeply about how my students are faring. This semester is particularly challenging for students because of COVID-19 and all the related stress and anxiety. If you have any issues (such as your own health or the health of a family member, financial worries, limitations of internet access, computer capability, etc), please let me know. For issues that affect your ability to study or your exam performance, I will try to make accommodations for you. If there is something that I can't help you with, I may be able to point you in the direction of someone who can help you.
+8
+
+GENE 3200 - Bedell - Fall 2020 Course syllabus
+Class schedule - this is a tentative schedule and is subject to change
+
+Date 8/21 8/24 8/26 8/28, 8/31 9/2, 9/4 9/7 9/9 9/11, 9/14 9/16
+9/17 9/18
+9/21, 9/23 9/25, 9/28 9/30, 10/2 10/5 10/7 10/8a 10/9, 10/12 10/14, 10/16 10/19, 10/21 10/23
+10/26
+10/28 10/29 a 10/30 11/2 11/4, 11/6, 11/9 11/11, 11/13 11/16
+11/18 11/19 a 11/20
+11/23 11/25-11/27 11/30, 12/2 12/4 12/7
+12/8 b, 12/9
+
+Topic
+
+Chapter and pages
+
+Syllabus and Introduction to genetics
+
+1
+
+DNA: The chemical nature of the gene
+
+10 (all)
+
+Chromosome structure and organelle DNA
+
+11 (all)
+
+DNA replication and recombination
+
+12 (all)
+
+Transcription
+
+13 (all)
+
+Labor Day - no classes
+
+RNA molecules and RNA processing
+
+14.1-14.4
+
+The genetic code and translation
+
+15 (all)
+
+Molecular genetic analysis and biotechnology - part 1: 19.1, 19.2 (p. 572-573, p.
+
+restriction enzymes, separating and viewing DNA
+
+578-579),19.3 (p.582-585)
+
+fragments, gene cloning
+
+EXAM 1 - new material from 9/16 will NOT be on this exam
+
+Molecular genetic analysis and biotechnology - part 2: 19.3 (p.579-582),19.5 (p.590-
+
+PCR and DNA sequencing
+
+594)
+
+Chromosomes and cellular reproduction
+
+2 (all)
+
+Basic principles of heredity
+
+3 (all)
+
+Sex determination and sex-linked characteristics
+
+4 (all)
+
+Sex-influenced traits and gene expression
+
+5.3
+
+Extensions and modifications of basic principles
+
+5.1, 5.2, 5.4, 5.5
+
+EXAM 2 - new material from 10/7 will NOT be on this exam
+
+Extensions and modifications of basic principles (cont) see above
+
+Pedigree analysis, applications, and genetic testing
+
+6 (all)
+
+Linkage, recombination, and eukaryotic gene mapping 7.1, 7.2, 7.3 (p. 195-204)
+
+Use of molecular markers in pedigree analysis, genetic 7.3 (p. 205-206), 19.5 (p.
+
+mapping, and experimental crosses
+
+594-596), 20 (p. 623-624)
+
+Genetic and physical mapping, genome wide
+
+7.3 (p. 204-206), 20.1 (p.
+
+association studies (GWAS)
+
+617-618, 624-625)
+
+Quantitative genetics
+
+24 (all)
+
+EXAM 3 - new material from 10/28 will NOT be on this exam
+
+Fall break
+
+Quantitative genetics (cont)
+
+24 (all)
+
+Chromosome variation
+
+8 (all)
+
+Control of gene expression in bacteria
+
+16.1, 16.2, 16.4
+
+Control of gene expression in eukaryotes - part 1:
+
+17.1-17.3, 14.6
+
+regulation of transcription initiation
+
+Epigenetics
+
+21 (all)
+
+EXAM 4 - new material from 11/18 will NOT be on this exam
+
+Control of gene expression in eukaryotes - part 2:
+
+17.4-17.6, 14.5
+
+posttranscriptional regulation
+
+Bacterial defense systems and eukaryotic viruses
+
+9.4, 9.5 (p. 279-283 only)
+
+Thanksgiving break - no class
+
+Gene mutations and DNA repair
+
+18.1, 18.2, 18.5
+
+Transposable elements
+
+18.4
+
+Molecular genetic analysis and biotechnology - part 3: 19.2 (p. 573-578, 585- 586)
+
+genome editing, forward and reverse genetics,
+
+19.6, 19.7
+
+biotechnology
+
+Genomics and proteomics
+
+20 (all except p. 623-625)
+
+9
+
+12/10 12/16 c
+12/21
+
+GENE 3200 - Bedell - Fall 2020 Course syllabus
+Reading day - Optional Review, 12:00pm - 2:00pm Exam 5, 7:00pm - 10:00pm Grades Due
+
+aExams 1 - 4 are all on Thursday and will be 5:00pm - 8:00pm bFriday class schedule cMass exam schedule
+
+Coronavirus Information for Students
+
+Face Coverings: Effective July 15, 2020, the University of Georgia--along with all University System of Georgia (USG) institutions--requires all faculty, staff, students and visitors to wear an appropriate face covering while inside campus facilities/buildings where six feet social distancing may not always be possible. Face covering use is in addition to and is not a substitute for social distancing. Anyone not using a face covering when required will be asked to wear one or must leave the area. Reasonable accommodations may be made for those who are unable to wear a face covering for documented health reasons. Students seeking an accommodation related to face coverings should contact Disability Services at https://drc.uga.edu/.
+
+DawgCheck: Please perform a quick symptom check each weekday on DawgCheck--on the UGA app or website--whether you feel sick or not. It will help health providers monitor the health situation on campus: https://dawgcheck.uga.edu/
+
+What do I do if I have symptoms? Students showing symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5 p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see https://www.uhs.uga.edu/info/emergencies.
+
+What do I do if I am notified that I have been exposed? Students who learn they have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 14 days consistent with Department of Public Health (DPH) and Centers for Disease Control and Prevention (CDC) guidelines. Please correspond with your instructor via email, with a cc: to Student Care & Outreach at sco@uga.edu, to coordinate continuing your coursework while self-quarantined. If you develop symptoms, you should contact the University Health Center to make an appointment to be tested. You should continue to monitor your symptoms daily on DawgCheck.
+
+How do I get a test? Students who are demonstrating symptoms of COVID-19 should call the University Health Center. UHC is offering testing by appointment for students; appointments may be booked by calling 706-542-1162.
+
+UGA will also be recruiting asymptomatic students to participate in surveillance tests. Students living in residence halls, Greek housing and off-campus apartment complexes are encouraged to participate.
+
+What do I do if I test positive? Any student with a positive COVID-19 test is required to report the test in DawgCheck and should self-isolate immediately. Students should not attend classes inperson until the isolation period is completed. Once you report the positive test through DawgCheck, UGA Student Care and Outreach will follow up with you.
+
+10
+
+

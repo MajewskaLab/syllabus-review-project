@@ -1,0 +1,287 @@
+ECOL/BIOL 3500 - ECOLOGY
+
+Spring Semester 2011 ______________________________________________________________________________
+
+Professor:
+
+Gary W. Barrett Eugene P. Odum Chair in Ecology
+
+gbarrett@uga.edu
+
+706.542.6065
+
+Office:
+
+194A Ecology Building
+
+Office hours: By appointment ______________________________________________________________________________
+
+Teaching Assistants:
+
+William McDowell Head Teaching Assistant wgmcdowell@gmail.com
+
+James Moree moree.james@gmail.com
+
+Shafkat Khan shafkat1@uga.edu ______________________________________________________________________________
+
+Text: Fundamentals of Ecology, Fifth Edition, Eugene P. Odum and Gary W. Barrett
+
+Exercise book: Ecology Exercise Book: An Ecosystem Approach, Gary W. Barrett, Terry L. Barrett, Scott J. Connelly, Andrew S. Mehring, and James O. Moree
+______________________________________________________________________________
+
+Information:
+
+In addition to assignments from the text, you are responsible for information encompassing lecture notes, handouts, DVDs, additional reading assignments, and class discussions. Therefore, attendance is mandatory if you are to maximize your understanding of principles, concepts, mechanisms, and natural laws that are presented in this course. All academic work must meet the standards contained in "a culture of honesty." Students are responsible for informing themselves about those standards before performing any academic work (f.i., Academic Honesty Statement http://www.uga.edu/~vpaa).
+
+It is important to understand that a possible grade for withdrawal both before and after the midpoint of the semester is a WF, which carries the same numerical grade as an F (0 points). A WF will be given 2 school days following the midpoint withdrawal deadline (24 March 2011) to those students who have stopped attending class, failed to take test #2, and consequently are failing the course at that time.
+
+It is your responsibility to make certain that all laboratory assignments are turned in on time, and that you know your grade regarding these assignments. Once the final laboratory grade is turned in to Dr. Barrett, there will be no consideration regarding changing this grade.
+
+2
+
+SYLLABUS ECOL/BIOL 3500 - ECOLOGY - Spring Semester 2011 - G. W. Barrett
+
+The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+THE SCIENCE OF ECOLOGY
+
+DATE JANUARY 19 (W)
+JANUARY 21 (F) JANUARY 24 (M)
+
+TOPIC Introduction: Course objectives; Grading
+The Scope of Ecology: History; Ecology versus Economics Teaching philosophy Hierarchy Theory: Holism versus Reductionism
+DVD: Eugene P. Odum: An Ecologist's Life: History of ecosystem ecology
+
+CONCEPTS Learning Pyramid
+Emergent property principle
+Levels of organization concept; Transcending processes Study of "oikos"
+
+ASSIGNMENT Foreword, Preface, and Handout materials Chapter 1
+Chapter 1
+Chapter 1
+
+DATE JANUARY 26 (W) JANUARY 28 (F) *
+JANUARY 29 (S) **
+JANUARY 31 (M) FEBRUARY 2 (W) FEBRUARY 4 (F) FEBRUARY 7 (M)
+
+ECOSYSTEM ECOLOGY
+
+TOPIC Ecosystem Structure: Trophic structure; Temporal/spatial scale Ecosystem Regulation: Models; Cybernetics; P/R ratios
+Ecosystem Types and Scales: Micro-, Meso-, and Macrocosms
+Ecosystem Function: Energetics; Definitions and Language; Trophic levels
+The Science of Limnology: Formation of lakes; Lotic versus Lentic systems Energy Flow Models: Grazing versus Detritus Food Chains; Net Primary Production TEST 1 Biogeochemical Cycles: Types of cycles; Open versus Closed
+
+CONCEPTS Ecosystem concept; Biotic diversity Homeostasis versus Homeorhesis
+Concept of sustainability; Concept of carrying capacity Laws of thermodynamics; Subsidy-stress gradient Thermal and oxygen stratification; Lake zonation; Life forms Concept of net energy; Concept of (eMergy)
+Nitrogen cycling; Watershed concept
+
+ASSIGNMENT Chapter 2 Chapter 2 Chapter 2
+Chapter 3
+Chapter 3 Chapter 3
+Chapter 4
+
+3
+
+FEBRUARY 9 (W) Alan P. Covich FEBRUARY 11 (F)
+FEBRUARY 14 (M)
+FEBRUARY 16 (W) Alan P. Covich FEBRUARY 18 (F)
+
+cycles Nitrogen, Phosphorus and Carbon Cycles: Gaseous versus Sedimentary cycles DVD: Chemistry of a Forest; Hydrologic cycle; Nutrient budgets Limiting and Regulatory Factors: Factor compensation and Ecotypes Soil: Organizing component for terrestrial ecosystems Fire Ecology: Wildfires versus Surface fires
+
+Greenhouse effect; Global climate change Watershed concept; Buried seed strategy
+Liebig law of the minimum; Shelford law of tolerance Concept of biological magnification Fire-adapted systems; Concept of prescribed burning
+
+Chapter 4 Chapter 4 Chapter 5 Chapter 5 Chapter 5
+
+* Please note that the Friday, 28 January lecture is scheduled to take place at a site to be announced. ** Please note that Saturday, 29 January lecture is scheduled to take place at a site to be announced.
+
+DATE FEBRUARY 21 (M) FEBRUARY 23 (W) FEBRUARY 25 (F)
+FEBRUARY 28 (M) MARCH 2 (W)
+DATE MARCH 4 (F) MARCH 7 (M) MARCH 9 (W) MARCH 11 (F) MARCH 14-18 (M-F)
+
+POPULATION ECOLOGY
+
+TOPIC Properties of Populations: Natality versus Mortality
+Exponential versus Sigmoid growth curves: Rates of natural increase Population Regulation: Intrinsic versus Extrinsic theories
+Patterns of Dispersal: Home range versus Territory TEST 2
+
+CONCEPTS Population survivorship; Age pyramids Concept of carrying capacity (K)
+Density-dependent versus Density independent population regulation The Allee principle of aggregation
+
+ASSIGNMENT Chapter 6 Chapter 6 Chapter 6
+Chapter 6
+
+COMMUNITY ECOLOGY
+
+TOPIC Community Ecology: Types of interaction Positive/negative Interactions: Predation, Herbivory, and Parasitism Positive Interactions: Commensalism and Mutualism Habitat, Niche, and Guild: Types of Niches; Niche breadth versus Niche overlap SPRINGBREAK
+
+CONCEPTS Concept of Coevolution Role of Secondary chemistry
+Bottom up versus Top down processes Diversity-stability hypothesis; Role of biotic diversity
+
+ASSIGNMENT Chapter 7 Chapter 7
+Chapter 7 Chapter 7
+
+DATE MARCH 21 (M) MARCH 23 (W)
+MARCH 25 (F)
+DATE MARCH 28 (M) MARCH 30 (W) APRIL 1 (F) APRIL 4 (M) APRIL 6 (W)
+
+4
+
+ECOSYSTEM DEVELOPMENT
+
+TOPIC Strategy of Ecosystem Development: Autogenic versus Allogenic succession Trends in Ecological Development: Youth to maturity
+Relevance of Ecosystem Development to Society: Microversus Macroevolution
+
+CONCEPTS Primary versus Secondary succession
+Concept of climax community; Perturbationdependent systems Concept of heterotrophic succession; Integrating natural and economic capital
+
+ASSIGNMENT Chapter 8 Chapter 8
+Chapter 8
+
+LANDSCAPE ECOLOGY
+
+TOPIC Landscape Ecology: Landscape elements
+Island Biogeography: DVD: Landscape Linkages Temporal/Spatial Scale: Alpha, Beta, and Gamma diversity Agroecosystem Ecology: Domesticated landscapes TEST 3
+
+CONCEPTS Source/sink dynamics; Connectivity Role of landscape corridors Concept of scale; Landscape geometry Concepts of LISA and IPM
+
+ASSIGNMENT Chapter 9
+Chapter 9 Chapter 9 Chapter 9
+
+5
+
+REGIONAL AND GLOBAL ECOLOGY
+
+DATE APRIL 8 (F) Terry L. Barrett APRIL 11 (M)
+APRIL 13 (W)
+APRIL 15 (F)
+APRIL 18 (M) Alan P. Covich APRIL 20 (W)
+APRIL 22 (F) Terry L. Barrett
+APRIL 25 (M)
+APRIL 27 (W) R. Cary Tuckfield APRIL 29 (F)
+MAY 2 (M)
+MAY 6 (F)
+
+TOPIC Technoecosystem: Virtual and Real system DVD: Rachel Carson: Silent Spring Regional Ecology: Biome types Terrestrial Biomes: Types of Classification
+Marine Systems: Oceans and Estuaries Global Ecology: Transition from Youth to Maturity Ecological-Societal Gaps: Culture-sustained vitality and Ecological sustainability Restoration Ecology: Scenarios Statistical Thinking: Research design Problem-solving Algorithm: Problem identification Overview Comments: Planning for a sustainable future FINAL EXAM: 8:00 AM-11:00 AM
+
+CONCEPTS Noösphere concept; Ecological footprint Concept of biological magnification Biome concept; Life zone concept Relationship of precipitation to temperature Upwellings; Deep sea hydrothermal vents Concept of a sustainable society Market and nonmarket capital; Concept of aesthetics as economy Concept of integrative science The ecological study unit Weight of evidence
+Course evaluation
+
+ASSIGNMENT Chapter 9 Chapter 10 Chapter 10
+Chapter 10 Chapter 10 Chapter 11 Chapter 11
+Chapter 11 Chapter 12 Chapter 12
+
+COURSE INFORMATION
+Description: Lecture, discussions, laboratory sessions, and field trips about the science of ecology mainly focus on the following levels of organization: organism, population, community, ecosystem, landscape, biome, and global.
+We will meet for lectures from 9:05-9:55 a.m. On Mondays, Wednesdays, and Fridays in the auditorium (Room 201) in the Ecology Building.
+Lectures: As summarized in the lecture syllabus, a broad range of topics related to the science of ecology will be covered. The lecture material will assume that you have a basic knowledge of general biology (BIOL 1108 is a prerequisite for this course). This course is also to prepare you for more advanced courses in limnology, population and community ecology, behavioral ecology, and ecosystem ecology.
+Textbook: The text Fundamentals of Ecology, Fifth Edition, by Eugene P. Odum and Gary W. Barrett can be purchased from the University bookstore or from other local bookstores. You are expected to read the appropriate assigned chapters before each lecture is presented. Additional readings may be used as complementary material for lecture, and will be included in exams.
+
+6
+
+Examinations/Grading: There will be three major tests and a final exam. The final exam (3 hours) is scheduled for 8:00 AM-11:00 AM on Friday, 6 May 2011. Grades will be based on the following criteria:
+
+Test 1 Test 2 Test 3 Lab Final
+
+15% 15% 15% 30% 25%
+
+90 - 100% A 80 - 89% B 70 - 79% C 60 - 69% D
+< 60% F
+
+Example: 87% - 89% B+ 83% - 86% B 80% - 82% B-
+
+The final exam will cover material presented in lectures from 10 January through 2 May. (i.e., Final exam will be comprehensive).
+Overview comments: I will periodically provide you with the opportunity to receive "Bonus Points." You must follow instructions to receive bonus points. These points will be added to the next scheduled exam. You will not be permitted to do special projects (e.g., term papers) to improve your grade later in the semester. Attend each lecture and laboratory session, understand course material on a daily basis, and you will perform well in the course. We will make a sincere effort to enrich your learning experience.
+Gary W. Barrett
+
+LABORATORY EXERCISES FOR ECOL/BIOL 3500L
+You are required to purchase Ecology Exercise Book: An Ecosystem Approach, Gary W. Barrett, Terry L. Barrett, Scott J. Connelly, Andrew S. Mehring, and James O. Moree.
+Laboratory expectations: Actively participate in your assigned laboratory section. We will be providing learning exercises in the laboratory and in the field to deepen your understanding of the science of ecology. Two major objectives are; (1) to provide hands-on-experience to help you connect the real world with the ecological principles that you learn in lecture, and (2) to teach you to communicate your knowledge through writing. Focus will be on data collecting and writing in scientific format.
+In order to maximize your experience in this course, full participation in the exercises, including interaction with other students, and instructor is essential. TAs may have unannounced quizzes at the beginning of the sessions to evaluate your familiarity with the exercises scheduled for that day.
+Attendance is mandatory. Tardiness is disrespectful of the other students in class. Driving yourself to laboratory sessions, without prior permission, will be considered evidence of tardiness. If you miss a session, you must have a written documentation of your absence in order to make up the session. A valid excuse is one that is written, verifiable, and covers the date and time of your scheduled laboratory session. In the case of a valid excuse, please contact your TA as soon as possible to see about being assigned to another laboratory section later in the week. If you know in advance that you must miss a session, please inform your assigned TA know as soon as possible, so that s/he may re-assign you to another lab section.
+Cellular phone policy: Please turnoff your cellular phone during sessions.
+Allergies, athletics, and leaning disabilities: Please keep TAs informed. Most laboratory periods are conducted in the field. If you suffer from allergies, tell TAs so that they can inform you of any possible exposure to allergens. If
+
+7
+
+you are a member of a university athletic team (varsity, not intramural), please let TAs know when you will be outof-town to participate in these competitions. So that TAs can accommodate your needs, please provide documentation and information about a learning disability. Field trips -- On field days you must:
+· Dress appropriately for the trip and weather; we will go rain or shine.
+· Read each ecology exercise prior to attending that specific laboratory session.
+· Get to Room 306 5 minutes early; we leave on time.
+
+LABORATORY SCHEDULE (As of 18 January 2011)
+
+DAY Monday Monday Tuesday Tuesday Wednesday Wednesday Thursday Thursday
+
+TIME 10:10 AM-12:55 PM
+1:25 PM-4:10 PM 8:00 AM-10:45 AM 11:00 AM-1:45 PM 10:10 AM-12:55 PM 1:25 PM-4:10 PM 11:00 AM-1:45 PM 2:00 PM-4:45 PM
+
+TEACHING ASSISTANT William McDowell William McDowell Shafkat Khan Shafkat Khan James Moree James Moree James Moree Shafkat Khan
+
+Location: Laboratory sessions are held in the Biological Sciences Building, Room 306 (BioSci 306). The TA will take you to the laboratory location from BioSci 306. It is important that you meet with your laboratory group in BioSci 306, otherwise you may miss important announcements or schedule changes, which the TA is under no obligation to repeat. Vans will leave precisely on time. The van will return to the Ecology Building on time as well.
+Laboratory Grading: Laboratories depend on experimental learning. Your laboratory grade is accrued out of 450 total points and is worth 30 percent of the course grade. 390 of the 450 points is based on assignments while the other 60 points are TA discretionary points, which are awarded based on your participation in field and laboratory exercises. Homework will not be accepted by email unless arranged ahead of time with your TA. If an assignment is late, the grade will be lowered 10 percent for each day it is late. If you have any problems with the grading of an assignment, please speak with your assigned TA about your concerns within one week after the assignment is returned.
+
+8
+
+LABORATORY SYLLABUS (As of 18 January 2011)
+NOTE: All laboratory sessions meet in the Biological Sciences Building (BSB) Room 306. Along with your TA, where appropriate you will then proceed to an assigned destination.
+
+DATE Week of JANUARY 10
+
+ECOLOGY EXERCISES Chapter numbers in ( ) Orientation
+
+DESTINATION BSB Room 306
+
+ASSIGNMENT Date due; Points in ( )
+
+* JANUARY 17
+JANUARY 24
+JANUARY 31 FEBRUARY 7 FEBRUARY 14
+FEBRUARY 21
+
+Introduction to scientific writing (1) Experimental design and statistical analysis (2) Adaptation (3) Lake ecosystem (13, 14, 15) Forest ecosystem (5)
+Forest ecosystem (6)
+
+BSB Room 306
+BSB Room 306
+Botany Greenhouses Lake Herrick HorseShoe Bend Experimental Site (HSB) HSB
+
+Analysis of results (30) Adaptation (15) Science of limnology (15) Population ecology (15)
+
+FEBRUARY 28 MARCH 7 MARCH 14 MARCH 21 MARCH 28 APRIL 4 APRIL 11 APRIL 18
+APRIL 25
+
+Forest ecosystem (4) Agroecosystem (16, 17, 18) SPRINGBREAK Stream ecosystem (10, 11, 12) Stream ecosystem (11, 12) Old field ecosystem (7, 8, 9) Old field ecosystem (8, 9) Urban system (19, 20, 21)
+Landscape and Watershed systems (Closing)
+
+The State Botanical Garden of Georgia Jordan Organic Farm; HSB
+
+Ecosystem structure (30) Secondary succession (15)
+
+McNutt Creek
+
+Organic farming (15)
+
+Tanyard Branch
+
+Stream ecology (30)
+
+HSB
+
+HSB
+
+** Stream ecology
+
+final draft (100)
+
+Center for Remote Sensing and Mapping Science; University of Georgia (UGA) Campus; City of Athens Urban Gardens
+
+BSB Room 306
+
+Urban ecosystem (15) ** Old-field ecology final draft (100)
+
+TOTAL POINTS (380 + 70 TA discretionary points) = 450
+
+* Monday, 17 January, Martin Luther King Jr. Day (no laboratory sessions), therefore students attending Monday sessions please choose one of the other laboratory sections during this week. ** Note: An extra week is allowed for completion of the stream ecology final draft (due during the week of 11 April), and old-field ecology final draft (due during the week of 25 April).
+
+

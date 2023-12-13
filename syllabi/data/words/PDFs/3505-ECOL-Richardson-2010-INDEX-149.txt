@@ -1,0 +1,171 @@
+Introduction to Honors Ecology: ECOL3505/L-201002
+Ecology is an analytical science built upon a strong foundation of experimental analysis in the scientific tradition. The professional mission of ecology is to understand and predict the distribution and abundance of organisms throughout the biosphere. Needless to say, we are still far short of that lofty goal. Ecology is not synonymous with conservation, and we will not have much time to deal with questions of conservation. (I recommend Conservation Biology (ECOL3530/D) for an introduction to environmental conservation.) Ecology is to conservation as anatomy is to orthopedic surgery. An environmental management specialist cannot diagnose and treat an environmental illness without understanding how the environment works. ECOL3505/L will provide you with an introduction to the structure and function of natural living systems. It is, in effect, an introduction to the "anatomy and physiology" of the biosphere at the organism level.
+Ecology has expanded into a diverse array of specialties, including physiological ecology, theoretical systems ecology, behavioral ecology, marine benthic ecology, and a host of other investigative areas. ECOL3505/L is an introductory survey course. As such, we will follow closely our text, The Economy of Nature, 6th edition. Author Robert E. Ricklefs has invested significant effort in selecting the topics and supporting research adjusted to fit within a single text designed for a single semester course. Exam questions are taken almost entirely from text material, so do not fail to purchase this essential study guide, used or new, available from UGA and surrounding textbook stores. Remember: 6th edition!
+HONORS: This is the first time that Introductory Ecology has been offered as an honors class. The Honors Program is excited, the Odum School of Ecology is excited, and I am excited. I count on the fact that you also will be excited to participate in a new adventure. You are strongly encouraged to be involved in the shaping of this class for the future, so share your ideas, flexibility is built into the syllabus for that purpose. I do not consider an honors class to be measured by more work; I consider an honors class to reflect more critical thinking, more emphasis on quality writing, and greater individual participation in class and outside of the classroom. As I said before, greater quality of work does not imply a greater quantity of work.
+GRADES: There are no artificial quotas established for grades in ECOL3505/L. In fact, it is my assumption and most fond wish that everyone will earn an A in this course. Apply yourself to participation in class and learning the material, and you should earn that A for your effort. Take your laboratory seriously; it is worth a third of your grade. Develop a positive, professional relationship with your laboratory instructor, for he/she will determine your laboratory grade. Before final grades are submitted, I provide my TAs with the opportunity to petition for a borderline student to be bumped to a higher grade, if they are convinced that one of their students has committed fully to the laboratory experience
+
+and deserves recognition for that fact. UGA mandates the +/- grading; be aware of the point distribution for the +/- system of grading.
+EXTRA CREDIT: I traditionally provide the opportunity for extra credit when teaching ECOL3500/L, but your participation in ECOL3505/L and my assumption that you can and will earn an A in the class obviates the need for extra credit. It is also true that extra credit requires/assumes more busy work, and I want all of your available time for class. Participation in and preparation for class will be our "extra credit," equal to a letter grade in value.
+ATTENDANCE: Attendance at lectures is a university rule, and this will also provide a measure of your participation commitment mentioned above. Whereas nearly all examination material is covered in the text, lectures do stress the details required for answering SCANTRON multiple choice questions. Proposed exam questions are often identified in class, especially if the question is not covered in the text, such as the latitude and longitude of Athens, GA. For all of these reasons, I strongly recommend your attendance at lectures. Laboratory attendance is absolutely mandatory; a significant portion of your lab grade depends on this participation. Attendance at scheduled exams is very important; make-up exams are usually oral exams, requiring three or more hours of intensive two-directional discussion with me on ecological issues.
+HONOR CODE: Just a reminder that all of us, ...faculty, graduate TAs, and undergrads, ...have signed on to the UGA academic honor code. All academic work must meet the standards contained in "A Culture of Honesty." Students are responsible for informing themselves about these standards before performing academic work, including violations such as plagiarism, falsifying medical absences, and other breaches of the honor code, but you already know all of this; you are honors students. We will be involved in peer review of essay drafts, and this is not a violation of the UGA honor code. Incidentally, failure to report a violation of the honor code by another individual is itself a violation of the honor code, and this responsibility applies to graduate teaching assistants and faculty instructors as well as undergraduates. Simply stated, upholding the UGA honor code requires honesty with self.
+I wish you the very best of success for this Spring 2010 semester.
+
+ECOL3505H - Honors Ecology Syllabus Spring Semester 2010
+Dr. James I. Richardson, Odum School of Ecology Lectures in Room 12 Ecology Building (Conference Room)
+Second Period: MWF 9:05 - 9:55 AM
+
+Schedule of Lectures and Examinations:
+
+Date
+
+Day
+
+Topic
+
+Reading
+
+Jan. 08 F
+
+1. What is Ecology?
+
+Ricklefs 01
+
+Jan. 11 M 13 W 15 F
+
+2. Water and Nutrients 3. Light, Energy, and Heat 4. Catch-up
+
+Ricklefs 02 Ricklefs 03
+
+Jan. 18 M 20 W 22 F
+
+Martin Luther King Day - no class 5. Climate, Water, and Soil 6. Catch-up
+
+Ricklefs 04
+
+Jan. 25 M 27 W 29 F
+
+7. Evolution and Adaptation 8. Life Histories and Fitness 9. Catch-up
+
+Ricklefs 06 Ricklefs 07
+
+Feb. 01 M 10. Sex and Evolution 03 W 11. Catch-up 05 F 12. Family, Society, and Evolution
+
+Ricklefs 08 Ricklefs 09
+
+Feb. 08 M 13. Catch-up
+
+10 W 14. Macroecology
+
+(Special lecture)
+
+12 F 15. Exam #1 (Chapters 1-4 and 6-9)
+
+Feb. 15 M 16. Energy in the Ecosystem 17 W 17. Catch-up
+Feb. 19 F 18. Pathways of Elements
+
+Ricklefs 22 Ricklefs 23
+
+Feb. 22 M 19. Catch-up 24 W 20. Nutrient Regeneration 26 F 21. Catch-up
+
+Ricklefs 24
+
+March 01 M 22. Spatial Structure of Populations
+
+Ricklefs 10
+
+03 W 23. Population Growth and Regulation
+
+Ricklefs 11
+
+05 F 24. Exam #2 (Chap. 22-24 and Macroecology)
+
+Date
+
+Day
+
+Topic
+
+Reading
+
+March 08 M 10 W 12 F
+
+Spring Break Spring Break Spring Break
+
+March 15 M 25. Catch-up 17 W 26. Termporal and Spatial Dynamics 19 F 27. Population Genetics
+
+Ricklefs 12 Ricklefs 13
+
+March 22 M 28. Catch-up 24 W 29. Species Interactions 26 F 30. Predator-Prey
+
+Ricklefs 14 Ricklefs 15
+
+March 29 M 31. Catch-up 31 W 32. Competition
+April 02 F 33. Catch-up
+
+Ricklefs 16
+
+April 05 M 34. Evolution of Species Interactions 07 W 35. Exam #3 (Chap. 10-15) 09 F 36. Catch-up
+
+Ricklefs 17
+
+April 12 M 37. Community Structure 14 W 38. Succession 16 F 39. Catch-up
+
+Ricklefs 18 Ricklefs 19
+
+April 19 M 40. Biodiversity 21 W 41. Catch-up 23 F 42. Landscape Ecology
+
+Ricklefs 20 Ricklefs 25
+
+April 26 M 43. Catch-up 28 W 44. Catch-up 29 R 45. Wrap-up
+
+Deadline for course withdrawal (WP) is Tuesday, 23 March. A withdrawal with failure (WF) is mandated by the University for an unexcused withdrawal after 5:00 PM on 23 March for any University of Georgia course. You will receive an estimated midterm grade on March 19, well before the withdrawal deadline at 5:00 PM on 23 March, to assess your progress, including your first exam on February 12, your second exam on March 05, and laboratory.
+
+Dr. James I. Richardson 155A Ecology Building 542-6036 (office phone) e-mail: jamesir@uga.edu office hours by arrangement
+
+Class text Robert E. Ricklefs The Economy of Nature (6th ed.)
+W. H. Freeman and Company
+New York, NY
+
+Grading schedule (1200pts; 100%)
+
+1. Lecture (800pts, 67%)
+
+Item Exam #1 Exam #2 Exam #3 Take-home Essays Term Paper Feedback notes Participation total
+
+Points 120 120 120 120 160 40 120 800
+
+Percent 15% 15% 15% 15% (3 @ 5%) 20% 5% 15% 100%
+
+Date
+
+Time
+
+February 12 (9:05-9:55 AM)
+
+March 5
+
+(9:05-9:55 AM)
+
+April 7
+
+(9:05-9:55 AM)
+
+(TBA)
+
+April 29
+
+(due in class)
+
+(TBA)
+
+2. Laboratory (400pts, 33%)
+
+Grading details:
+
+Exams (three of them) will be a combination of multiple choice, short answer (one sentence), and longer answer (paragraph) format. We will identify a list of longer-answer questions during class, from which a subset will be chosen for each exam.
+Take-home essays (three of them) will allow us to continue practice with WIP (Writing Intensive Program) guidelines now being implemented campus-wide. This exercise will provide experience and confidence for your final term paper. Brevity is virtue; you should discuss a topic with clarity and completeness, and do so in the fewest words necessary. We will discuss the details of WIP guidelines in class. You will be graded on the first draft of your essay, your ability to provide positive criticism of another's draft, and evidence that you considered peer review comments with objectivity in your final draft.
+Final term paper topic and design will be discussed in detail during class. A probable theme could be global warming as it may affect the structure and function of one or several hierarchical units of ecological organization (individuals, populations, communities, ecosystems); your choice. Quality of writing is essential, thus the practice with take-home essays. Graded drafts and peer reviews are not required for the final term paper, but peer review is always encouraged. The final term paper effectively replaces a final exam.
+Feedback notes are mini observations (hard copy or email) requested periodically on clarity and understanding of class material, also called "clear and muddy" statements.
+Participation (your "extra credit") will recognize your preparedness and participation in class. Coming to class is very important but not the whole story. We must all be prepared for meaningful discussion in class, or the value of class participation is largely wasted. Read ahead! We may take turns describing an example of research presented in the text. One or several students may choose to deliver a lecture, using my power point presentation or a modified presentation of their own. Come up with your own ideas. We can do anything we want to make this experience fun, but participation is key. The difference between an honors class with twenty students and a standard class with 180 students cn be enormous; let's not waste the opportunity.
+
+

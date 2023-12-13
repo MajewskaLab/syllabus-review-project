@@ -1,0 +1,325 @@
+Course Syllabus Freshwater Ecosystems: Resilience and Responses to Global Change
+
+ECOL/FISH/WASR 4310(L)/6310(L) or ECOL 3480 or ECOL 8990 Fall 2021
+
+Professor: Dr. Amy Rosemond (she/her/hers) Office: Ecology 189 Office Hours: email, ZOOM, or by appointment Email: rosemond@uga.edu Phone: 706-255-1677 (cell)
+
+Professor: Dr. Alex Strauss (he/him/his) Office: Ecology 194A Office Hours: email, ZOOM, or by appointment Email: atstrauss@uga.edu Phone: 812-391-4103 (cell)
+
+Teaching Assistant: Laura Rack (she/her/hers) Office Hours: By appointment, zoom or in-person Email: laura.rack@uga.edu
+
+Credit Hours: 4 if you are enrolled in lab; 3 if you are not Prerequisites: ECOL/BIOL 3500(L) or ECOL 3505(L) or FANR 3200 Grading: UGA plus/minus A-F grading system
+
+Meeting Times and places: Lectures are in person in Geography/Geology 200B. Labs will be held in Science Learning Center 302 unless otherwise noted (e.g., field trip to Lake Herrick).
+Course materials will be posted to eLC.
+Lecture: M, W, F; 9:10 -10:00 AM, Geography/Geology 200B Lab (if you are enrolled): M; 1:50 - 4:50 PM, Science Learning Center 302. First lab is Aug 23. Student hours: The instructors encourage you to meet with us outside of class. We are happy to explain lecture or lab material in more detail or talk about freshwater topics, career goals, etc.
+You can make an appointment with any of us via email and we will response within 48 hours.
+We also hope to facilitate some small group get-togethers during the semester. Stay tuned!
+
+A culture of safety, inclusion, and honesty. Covid & Safety: We are still in the midst of the covid-19 pandemic, and we realize that it has created more challenges for some of us than others. We will do our best to make this course manageable and accessible for everyone. We, the instructors, plan to wear masks to help protect those around us, and we strongly encourage you all to do the same. Please let us know if you need assistance or accommodations. Inclusion: The instructors, teaching assistant, and all students are asked to commit to an inclusive classroom culture, in which the contributions of all students, their families/extended families, and communities feel valued. This inclusive culture recognizes that every learner is unique and builds on our diversity of languages, cultures, and interests, and seeks to identify and remove any barriers to achievement. Honestly: As a University of Georgia student, you agreed to abide by the UGA academic honesty policy. UGA Student Honor code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others". Academic honesty means performing all academic work without plagiarism, cheating, lying, tampering, stealing, receiving illegitimate or unauthorized assistance from any other person, or using any source of information that is not common knowledge without providing proper documentation. Turning in academic work that is not your own is the highest academic violation. A Culture of Honesty, the University's policy and procedures for handling cases of dishonesty, can be found at: https://honesty.uga.edu/
+
+1
+
+More Covid Guidelines: Please see detailed instructions at the end of the syllabus for what to do if you feel sick, if you have an encounter with someone who has tested positive, or if you test positive yourself. Anyone with a positive test is required to submit their result to DawgCheck and begin isolation. If this happens, the instructors will be notified, and we will work with you to help you not fall behind with course content. We (the instructors) will be wearing masks at all times while indoors to help keep each other safe. We ask that you all please do the same. If you are able and have not yet done so, we highly encourage you to get vaccinated. UGA is now providing incentives to try to achieve 100% vaccination status within the University community. (https://coronavirus.uga.edu/2021/08/10/new-incentive-program-to-promote-vaccines/).
+Course Access: eLearning Commons. The eLearning Commons (eLC) is an online course environment where you can download digital course materials. Your name and email has been added to the eLC course site. Regardless of which course number you are registered for, we will use the eLC page for 4310 to streamline communications and grading. You can access eLearningCommons by signing in with your UGA MyID and password.
+Course description: This course explores freshwater ecosystems (lakes and streams), their biota, physical and chemical properties, linkages between terrestrial and aquatic ecosystems, and the effects of global change. Students will learn the key research methods in aquatic ecology including sampling techniques, water chemistry analysis, identification of biota, experimental design, data analyses, and written and oral communication skills as part of the laboratory portion of the course.
+Course objectives: � To increase student understanding of the ecological structure and function of freshwater
+systems. We will accomplish this goal by studying the basic physics, chemistry, and biology of lakes and streams and becoming familiar with many of the techniques used in aquatic ecological research. � To increase student understanding of current threats to freshwater ecosystems. We will accomplish this goal by studying the ways in which freshwater ecosystems are potentially degraded using the assigned readings in the text and the peer-reviewed literature (see below). � To learn the skills needed to become a proficient scientific writer and communicator. The expectation is that when finished with the course, students will be confident in conducting and analyzing freshwater ecological research and be capable of communicating the results of their work.
+Course Format: � Book readings & Quizzes (Q1-13): Readings and quizzes are focused on a theme for each
+week. Book readings will cover core topics and should be completed before class. Quizzes will be embedded in eLC. Quizzes will typically be due Wednesday before class and will test content from the book readings or the previous lecture. � Lectures: Lectures and in-class activities will reinforce core topics and themes from assigned readings. Lecture slides (L's) and Handouts (H's) for active note taking will be posted to eLC prior to class. � Paper discussions & Reading responses (RR1-10): Discussions of the primary literature will typically occur on Fridays. Guided reading responses for the assigned literature (detailed
+2
+
+guidelines below) will be due before class to facilitate a more engaged discussion. We will use these discussions to critically evaluate the methods, results, and implications of the studies as they relate to weekly themes.
+� Exams: Exams will be closed-book & closed-notes, in person. Questions will include a variety of multiple choice, true/false, definitions, and short answer.
+� Lab: Students who are enrolled in lab will learn techniques used in aquatic ecological research. In addition, lab time will be used to prepare and execute class studies, with corresponding data analysis and presentation of results. Graded lab content will include activities, quizzes, and two lab reports. All lab reports must be written individually, not in groups. Your stream study (identifying a question, analyzing data, etc. will be a group endeavor), but the paper you write will be your own. More details for grading of lab activities can be found in the lab manual ($14.74 at Bel Jean).
+� 8990: Students who are enrolled in 8990 will additionally write a term paper, with a topic determined jointly with the instructors.
+
+Participation policy: Attendance and participation in class is expected as long as you are well. If you are sick or need
+to quarantine, please do not come to class. In that scenario, we will work with you to ensure that
+you don't fall behind on course content.
+
+Evaluation Criteria (lecture content) Percent
+
+I. Quizzes (13X)
+
+25
+
+II. Reading Responses (10x)
+
+30
+
+III. Mid-Term Exam I
+
+15
+
+IV. Mid-Term Exam II
+
+15
+
+V. Final Exam
+
+15
+
+100*
+
+*For students enrolled in lab, this lecture content (3 credit hours) will be weighted at
+
+75% of your final grade, with the remaining 25% coming from lab (1 credit hour)
+
+*For students enrolled in 8990, this lecture content will be weighted at 90% of your final
+
+grade, with the remaining 10% coming from the term paper.
+
+Readings: 1. Text: Walter Dodds and Matt Whiles. 2020 Freshwater Ecology: Concepts and Environmental Applications, 3rd Edition. Paperback ISBN: 9780128132555. eBook ISBN: 9780128132562. Academic Press. Used copies of the 2nd edition may be available and are likely similar to the 3rd edition.
+2. Primary literature: PDFs of assigned papers will be posted on eLC. We will aim to post all content at least one week before it is due.
+3. Reading responses: Reading responses for primary literature will be due before class on discussion days (typically Fridays). Specific guiding questions will be posted for each article. In general, reading responses will be two paragraphs, following by a list of 3-5 points for discussion.
+
+3
+
+ Paragraph #1: Describe what the paper was about. What was the hypothesis the authors tested? What conclusions were reached?
+ Paragraph #2: Describe your response to the paper. What did you think? Was this a worthwhile study? What did it illuminate for you? How could the approach have been improved? What did it make you more curious about? What did it make you think about in terms of your own experience?
+ Points for discussion: Finally, list 3-5 points for potential discussion. We will suggest potential themes along with the guidelines posted for each reading. Here are some ideas to get you going:  How widespread is this issue?  I have personally seen/have experience with this - have others?  I have some ideas on a potential solution to this  These are barriers to the solution to this  This concept also relates to some of these other concepts  There are these specific terms I don't understand; I have questions about the ___ method to measure ___.  I think other people's awareness could be increased in this way  This framework is useful or could be improved in this way
+Make-Up Policy: If you have a known conflict with potential assignment, please inform the instructors in writing during the first week of class and an alternative due date will be determined, as appropriate. Otherwise, assignments turned in after the due date will be penalized by 10% per day, and will not be accepted more than 7 days overdue.
+Land and Labor Acknowledgement: The instructors recognize that much of what we experience today at the University of Georgia comes from resources and work from people who came before us. In many cases, those resources were taking forcibly and/or without due compensation or respect. Therefore, we would like to share this statement of land and labor acknowledgement developed by Dr. Ginny Boss in the UGA College of Education (with direct quotes by Z. Morris and T.J. Stewart).
+"As we gather together, we would like to acknowledge the land we live and work on by naming the Muscogee-Creek, Cherokee, and Chickasaw Peoples upon whose territory the University of Georgia stands. We further acknowledge the enslaved peoples, primarily of African descent, whose labor built much of the University of Georgia." (Morris, n.d.) Labor Acknowledgement: "We must acknowledge that much of what we know of this country today, including its culture, economic growth, and development throughout history and across time, has been made possible by the labor of enslaved Africans and their ascendants who suffered the horror of the transatlantic trafficking of their people, chattel slavery, and Jim Crow. We are indebted to their labor and their sacrifice, and we must acknowledge the tremors of that violence throughout the generations and the resulting impact that can still be felt and witnessed today." (Stewart, 2021)
+Morris, Z. (n.d.). Land acknowledgement. UGA Center for Teaching and Learning. Stewart, T. J. (2021, February 24). On labor acknowledgements and honoring the sacrifice of Black Americans. Diverse Issue in Higher Education. https://diverseeducation.com/article/206161/
+4
+
+Week & Day
+
+Lectures (L's) & Discussion (D's) Readings
+
+Quizzes & Responses
+
+Introduction & Water Physics
+
+1 Aug 18 W L1: Introduction
+
+Baron et al. & Sullivan et al.
+
+Aug 20 F L2: Water Properties 2 Aug 23 M L3: Stratification
+
+Ch1 & Ch2 Ch3
+
+Aug 25 W L4: Lake & Reservoir Morphology Ch7
+
+Q1
+
+Aug 27 F
+
+D1: Lake Oglethorpe Water Chemistry
+
+3 Aug 30 M L5: Oxygen
+
+Porter et al. RR1 Ch12
+
+Sep 1 W L6: Carbon
+
+Ch13
+
+Q2
+
+Sep 3 F D2: Lake Colors 4 Sep 6 M LABOR DAY
+
+Leech et al. RR2
+
+Sep 8 W L7: Nutrients
+
+Ch14
+
+Q3
+
+guest lecture Dr. Krista Capps
+
+Sep 10 F
+
+D3: Global Change Aquatic Biota
+
+5 Sep 13 M L8: Primary Producers
+
+Moore et al. RR3 Ch8
+
+Sep 15 W L9: Bacteria & Fungi
+
+Ch9
+
+Q4
+
+Sep 17 F D4: Cyanobacteria 6 Sep 20 M L10: Invertebrate Consumers
+
+Pearl et al. RR4 Ch10
+
+Sep 22 W L11: Invertebrate Predators
+
+Ch20
+
+Q5
+
+Sep 24 F D5: Parasites
+
+Hall et al.
+
+RR5
+
+Aquatic Biodiversity
+
+7 Sep 27 M L12: Biodiversity guest lecture Dr. Alan Covich
+
+Ch11
+
+5
+
+Sep 29 W L13: Fish & Food Webs
+
+Ch23
+
+Q6
+
+Oct 1 F D6: Biodiversity Loss 8 Oct 4 M L14: Community Ecology
+
+Tickner et al. RR6 Ch22
+
+Oct 6 W Review & Transition to Streams
+
+Oct 8 F EXAM 1 Hydrology and Nutrients
+
+9 Oct 11 M L15: Stream and river hydrology
+
+Ch 6
+
+Oct 13 W L16: Stream macroinvertebrates
+
+Ch 10
+
+Q7
+
+Oct 15 F L17: Forms of carbon, RCC 10 Oct 18 M L19: Nutrient stoichiometry
+
+Ch 13, 19, 24 Ch 17
+
+Oct 20 W L20: Eutrophication in streams
+
+Ch 18
+
+Q8
+
+Oct 22 F D7: Flow alteration and river health Kennedy et RR7 al.
+
+Ecosystems and Food Webs
+
+11 Oct 25 M L21: Supporting stream life
+
+Patrick et al.
+
+Oct 27 W L22: Ecology of fishes
+
+guest lecture by Dr. Mary Freeman
+
+Q9
+
+Oct 29 F
+
+FALL BREAK
+
+12 Nov 1 M L23: Organic pollutants
+
+Ch 16
+
+Nov 3 W L24: Metal pollution, mercury
+
+Ch 16
+
+Q10
+
+Nov 5 F D8: Contaminants in food webs
+
+Walters et al. RR8
+
+Global Change and Species Traits
+
+13 Nov 8 M L25: Thermal effects in streams
+
+Ch 16
+
+Nov 10 W L26: Biotic interactions & global
+
+Ch 22
+
+Q11
+
+change
+
+Nov 12 F D9: Increased temperature effects Nelson et al. RR9
+
+on stream structure and function
+
+6
+
+14 Nov 15 M L27: Urbanization effects on
+
+Wenger et al.
+
+streams
+
+Nov 17 W L28: Freshwater salinization
+
+Kaushal et al. Q12
+
+syndrome
+
+Nov 19 F D10: Urbanization and Athens, GA Sterling et al. RR10
+
+streams
+
+15 Nov 22 M EXAM 2
+
+Nov 24 W THANKSGIVING
+
+Nov 26 F THANKSGIVING
+
+16 Nov 29 M L29: Terrestrial-aquatic connections Riverwebs Q13
+
+video
+
+Dec 1 W L30: Stream carbon ecosystem
+
+Ch 24
+
+functions
+
+Dec 3 F L31: Stream nutrient ecosystem
+
+Ch 24
+
+functions
+
+17 Dec 6 M REVIEW
+
+FINAL EXAM: Monday, Dec 13 8-11 a.m.
+
+Syllabus Disclaimer:
+The course syllabus is a general plan for the course; deviations may be necessary. In the event that the schedule or assignments change, the instructors will announce the changes on the eLC.
+
+END OF COURSE CONTENT
+
+UGA Information
+Academic Coaching
+You can obtain assistance with time management, test and performance anxiety, note taking, motivation, text comprehension, test preparation, and other barriers to success at UGA. Link for the Office of Academic Enhancement.
+FERPA Notice The Federal Family Educational Rights and Privacy Act (FERPA) grants students certain information privacy rights. To comply with FERPA, all communication that refers to individual
+7
+
+students must be through a secure medium (UGAMail or eLC) or in person. Instructors are not allowed to respond to messages that refer to individual students or student progress in the course through non-UGA accounts, phone calls, or other types of electronic media. For details, please visit https://apps.reg.uga.edu/FERPA.
+Accommodations for Disabilities If you require a disability-required accommodation, it is essential that you register with the Disability Resource Center (Clark Howell Hall; https://drc.uga.edu; 706-542-8719 [voice]; 706542-8778 [TTY]) and notify us of your eligibility for accommodations. We can then plan how best to coordinate your accommodations. Please note that accommodations cannot be provided retroactively.
+Mental Health and Wellness Resources  If you, or someone you know, needs assistance, please contact Student Care and Outreach
+in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.  UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies).  If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center.
+CORONAVIRUS INFORMATION FOR STUDENTS FOR FALL 2021 CLASSES
+Face coverings: Following guidance from the University System of Georgia, face coverings are recommended for all individuals while inside campus facilities.
+How can I obtain the COVID-19 vaccine? University Health Center is scheduling appointments for students through the UHC Patient Portal: https://patientportal.uhs.uga.edu/login_dualauthentication.aspx. Learn more here - https://www.uhs.uga.edu/healthtopics/covid-vaccine. The Georgia Department of Health, pharmacy chains and local providers also offer the COVID19 vaccine at no cost to you. To find a COVID-19 vaccination location near you, please go to: https://georgia.gov/covid-vaccine. In addition, the University System of Georgia has made COVID-19 vaccines available at 15 campuses statewide and you can locate one here: https://www.usg.edu/vaccination
+What do I do if I have COVID-19 symptoms? Students showing COVID-19 symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-5421162 (Monday-Friday, 8 a.m.-5p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see, https://www.uhs.uga.edu/info/emergencies
+What do I do if I test positive for COVID-19? If you test positive for COVID-19 at any time, you are required to report it through the DawgCheck Test Reporting Survey. We encourage you to stay at home if you become ill or until you have excluded COVID-19 as the cause of your
+8
+
+symptoms. UGA adheres to current Georgia Department of Public Health (DPH) quarantine and isolation guidance and requires that it be followed. Follow the instructions provided to you when you report your positive test result in DawgCheck. Guidelines for COVID-19 Quarantine Period (As of 8/1/21; follow DawgCheck or see DPH website for most up-to-date recommendations) Students who are fully vaccinated do not need to quarantine upon exposure unless they have symptoms of COVID-19 themselves. All others should follow the Georgia Department of Public Health (DPH) recommendations: Students who are not fully vaccinated and have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 10 days. Those quarantining for 10 days must have been symptom-free throughout the monitoring period and continue self-monitoring for COVID-19 symptoms for a total of 14 days. You should report the need to quarantine on DawgCheck (https://dawgcheck.uga.edu/), and communicate directly with your faculty to coordinate your coursework while in quarantine. If you need additional help, reach out to Student Care and Outreach (sco@uga.edu) for assistance. Students, faculty and staff who have been in close contact with someone who has COVID-19 are no longer required to quarantine if they have been fully vaccinated against the disease and show no symptoms. Well-being, Mental Health, and Student Support: If you or someone you know needs assistance, you are encouraged to contact Student Care & Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu/. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services. UGA has several resources to support your well-being and mental health: https://wellbeing.uga.edu/ Counseling and Psychiatric Services (CAPS) is your go-to, on-campus resource for emotional, social and behavioral-health support: https://caps.uga.edu/, TAO Online Support (https://caps.uga.edu/tao/), 24/7 support at 706-542-2273. For crisis support: https://healthcenter.uga.edu/emergencies/. The University Health Center offers FREE workshops, classes, mentoring and health coaching led by licensed clinicians or health educators: https://healthcenter.uga.edu/bewelluga/ Monitoring conditions: Note that the guidance referenced in this syllabus is subject to change based on recommendations from the Georgia Department of Public Health, the University System of Georgia, or the Governor's Office or. For the latest on UGA policy, you can visit https://coronavirus.uga.edu
+9
+
+

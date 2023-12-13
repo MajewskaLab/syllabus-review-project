@@ -1,0 +1,71 @@
+PSYC 5850; Psychopharmacology Fall 2021 T/TH: 9:35-10:50 MLC 350
+Vaccination and face-coverings in class are expected of all students.
+Instructor: Philip Holmes, Ph.D.; Psychology, Room 616; email: pvholmes@uga.edu Office hours: Mon. 9:30-10:30 AM or by appointment Teaching assistant: Jaeseon Song; email: Jaeseon.Song@uga.edu
+Required Text: Meyer and Quenzer; Psychopharmacology, 3rd ed.
+Required Technologies: This course will use the Top Hat student participation system (see: https://www.ctl.uga.edu/learning-technologies/student-response-systems/ . Top Hat basic is free and should suffice. A small fee may be required to register for other versions, depending on functionality (options range from free to $24 per semester). Any web-enabled device may be used to interface with Top Hat.
+Class Format: The USG Board of Regents has mandated that all classes this semester be conducted in person (with the exception of previously established online courses). This course is therefore delivered in-person only and without an online component.
+Course description from bulletin: The effects of psychoactive drugs on consciousness and behavior. The mechanisms of drug action on neurotransmitter systems are emphasized. Topics include the relationship between behavior and endogenous neurochemical activity, therapeutic agents in psychopathology, and drugs of abuse.
+Attendance Policy: Attendance is expected for all lectures and quizzes with the exception of excusable absences such as illness, urgent family care and leave, medical or graduate school interviews, etc.
+Prerequisite: PSYC 4130 or BIOL 1108
+Objectives: Upon successful completion of the course, students should understand: 1) basic neurophysiology with an emphasis on synaptic transmission, 2) principles of pharmacology, 3) behavioral and molecular methods commonly employed in psychopharmacology research, and 4) the function and neuroanatomy of the major neurotransmitter systems. With this background, students should understand the effects of all major psychoactive drugs on consciousness and behavior through their specific actions on neurotransmitter systems. Students should also be able to comprehend and critically evaluate original research reports from the psychopharmacology literature.
+Grading and assignments: 6 Exams (biweekly quizzes): 60%; Final Exam: 20%; Summaries of two original research reports from the psychopharmacology literature (2 abstracts in your own words): 20%.
+Academic Honesty Policy: All academic work must meet the standards contained in "A Culture of Honesty" https://honesty.uga.edu/Academic-Honesty-Policy/ . All students are responsible to inform themselves about those standards before performing any academic work.
+
+Topical Outline: The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary. I. Introduction (Aug 19-26)
+A. Definitions 1. Psychopharmacology/neuropharmacology 2. Drugs
+B. Alternative medicine and the magic theory of pharmacology C. What is science? Impact of scientific illiteracy on public health II. Principles of pharmacology (Aug 31); Text: Chapter 1 A. Pharmacokinetics
+1. Routes of administration and absorption (getting the drug into bloodstream) 2. Distribution and diffusion (getting the drug through membranes and into tissues) 3. Excretion B. Pharmacodynamics 1. Potency 2. Efficacy 3. Ligand and receptor 4. Agonist 5. Antagonist 6. Tolerance
+a. pharmacokinetic or drug disposition b. pharmacodynamic c. "dependence" 7. Placebo effects III. Structure and function of neurons (Sep 2); Text: Chapter 2 A. Morphology of a typical neuron B. Molecular constituents of a neuron C. Conduction of nerve impulses 1. Membrane potentials 2. Action potentials IV. Introduction to the nervous system (Sep 7-9); Text: Chapter 2 A. Gross anatomy of the CNS 1. Orientation/planes of section 2. Anatomical subdivisions a. forebrain
+i. telencephalon (neocortex, hippocampus, amygdala, striatum) ii. diencephalon (hypothalamus) b. midbrain (mesencephalon) c. hindbrain i. metencephalon (pons and cerebellum) ii. myelencephalon (medulla) d. spinal cord i. dorsal horn ii. ventral horn B. Autonomic nervous system 1. sympathetic 2. parasympathetic
+Quiz 1: Sept 14
+
+V. Synaptic transmission (Sep 16); Text: Chapter 3 1. Synthesis and secretion of neurotransmitter substance 2. Transduction a. receptors i. ligand-gated ion channels ii. G-protein-coupled receptors b. autoreceptors and transporters
+VI. Biochemical/physiological methods (Sep 16) Text: Chapter 4, p. 134-157 A. Biochemical techniques for measuring neurotransmitter systems; 1. Radioligand binding and autoradiography 2. Immunohistochemistry 3. in situ hybridization 4. Microdialysis B. Physiological/anatomical techniques 1. Electrophysiology 2. Human neuroimaging C. Criteria for establishing a neurotransmitter
+VII. Neurotransmitter systems: biosynthesis, receptors, and anatomy (Sep 21-Oct 12) A. Small molecule or "classic" neurotransmitters 1. Acetylcholine; Text: Chapter 7 a. biosynthesis b. cholinergic receptors i. nicotinic ii. muscarinic c. anatomy 2. Dopamine; Text: Chapter 5 a. biosynthesis b. dopamine receptors c. anatomy
+Quiz 2: Sept. 28
+3. Norepinephrine and epinephrine; Text: Chapter 5 a. biosynthesis b. adrenergic receptors c. anatomy
+4. 5-hydroxytryptamine (serotonin, 5-HT); Text: Chapter 6 a. biosynthesis b. serotonergic receptors c. anatomy
+5. Excitatory amino acids (glutamate); Text: Chapter 8 a. biosynthesis b. N-methyl-D-aspartate (NMDA) receptors c. anatomy
+6. Gamma-amino-butyric acid (GABA); Text: Chapter 8 a. biosynthesis b. GABA receptors i. Benzodiazepine/GABAA/chloride ionophore ii. GABAB c. anatomy
+
+Quiz 3: Oct. 12 Abstracts for first research article due Oct 12
+
+B. 107-112.
+
+Peptides and other neurotransmitters Text: Chapter 11; review Chapter 3, p. 90-91 and
+1. Peptides a. Opioid peptides b. Galanin c. Neuropeptide-Y d. Corticotropin-releasing factor
+2. Cannabinoids, NO, Neurosteroids, and others 3. Neurotrophic factors
+a. BDNF b. Galanin
+
+VIII. Psychoactive drug classification (Oct 19) A. Psychoactivity B. Therapeutic action C. Schedule-controlled drugs
+
+IX. Behavioral methods in psychopharmacology research: Text: Chapter 4, p. 118-134. (Oct 21) A. Identifying and characterizing novel drugs 1. Spontaneous activity (open field) 2. Sensory effects (tail flick) 3. Learning a. Pavlovian (fear conditioning) b. Operant (Skinner box, Morris water maze) 4. Motivation and emotion (fear conditioning, feeding, progressive ratio) B. Animal models of psychopathology C. Criteria for addictive or abuse potential
+
+Quiz 4: Oct 26
+
+X. Drug classes, pharmacotherapies, and mechanisms of action of specific drugs
+A. Ethanol, anxiolytics, and CNS depressants Text: Chapters 10, 17 (Oct 28) B. Depression and antidepressants Text: Chapter 18 (Nov 2-4)
+
+Quiz 5: Nov 9
+
+C. Stimulants: Cocaine, amphetamine, nicotine and caffeine; Text: Chapter 12, 13 (Nov 9) D. Opioids, cannabinoids, and pain Text: Chapter 11, 14 (Nov 11-16)
+
+Abstracts for second research article due Nov 23
+
+Quiz 6: Nov 30
+
+XI. Drug abuse (and catch up/complete previous topics; Nov 30-Dec 2); Text: Chapter 9 A. Why do we take drugs? B. The nature of addiction 1. Neurobiological mechanisms/Neuroplasticity 2. Environmental cues and learning C. Models for understanding drug abuse
+
+1. The moral model 2. The disease model 3. The physical dependence model 4. The hedonic allostasis model 5. The incentive sensitization model
+
+Final Exam: Tues., Dec. 14; 8:00 - 11:00 am
+
+Drug and Neurotoxin list (Underlined items represent general categories of drug). Know the pharmacology and major effects of each drug (BE CAREFUL IF YOU "GOOGLE" FOR THIS INFORMATION, MAKE SURE YOU FIND A RELIABLE SOURCE. . . BETTER TO USE TEXT, LECTURES, AND SCIENTIFIC REFERENCES ONLY).
+
+ACh esterase inhibitors amphetamine antipsychotics atropine barbiturates benzodiazepines clozapine codeine diazepam disulfiram
+
+escitalopram fluoxetine haloperidol ketamine l-dopa 6-OHDA MDMA methadone methylphenidate midazolam
+
+MAO inhibitors naloxone oxycontin paroxetine propranolol psilocybin scopolamine SSRIs tricyclic antidepressants venlafaxine
+
+

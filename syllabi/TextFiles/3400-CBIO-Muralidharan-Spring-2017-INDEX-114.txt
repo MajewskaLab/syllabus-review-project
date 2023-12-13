@@ -1,0 +1,410 @@
+BIOL3400/CBIO3400 Cell Biology Spring 2017
+
+Dr. Wolfgang Lukowitz Dr. Vasant Muralidharan James Anderson
+
+Associate Professor
+
+Assistant Professor
+
+Graduate Teaching Assistant
+
+lukowitz@uga.edu
+
+vasant@uga.edu
+
+anders22@uga.edu
+
+542-9252
+
+542-8947
+
+542-2586
+
+4609 Miller Plant Sciences
+
+345A Coverdell
+
+626 Biological Sciences
+
+By appointment
+
+By appointment
+
+By appointment
+
+The instructors want to meet with you as needed to promote your success in this class. Please contact us by email to make an appointment. We will make time for you!
+Course Information Credit Hours: 4.0 General Information Lecture: Monday, Wednesday, Friday, 10:10-11:00 a.m., 404D Biological Sciences Building Breakout Session: Thursday 2:00-3:15 pm or Thursday 3:30-4:45 pm in 326 Biological Sciences Building, please check your schedule for your assigned time. Pre-requisites: Biochemistry (BCMB/BIOL 3100) is a prerequisite for this course. In addition, Genetics (GENE/BIOL 3200) is a pre- or co-requisite. It is assumed that you have fulfilled these requirements.
+
+Required Course Materials Molecular Biology of the Cell by Alberts et al, 6th edition, Garland Publishing, 2015. BIOL3400/CBIO3400 eLC page: https://uga.view.usg.edu/
+Course Description This course will help students to learn about cellular structure and function, cell growth and reproduction, and pathways that regulate these events. We will explore experimental methods that are used to study cells. These efforts and activities are designed to enhance development of skills that will be essential for success in future degree programs.
+
+Course Goals
+To learn key cellular structures, processes and mechanisms and to obtain the background knowledge necessary to understand current research in cell biology. To appreciate that cell biology is a dynamic discipline in which knowledge is based on experimental findings and concepts can change in light of new information. To learn how new information is obtained in cell biology and to survey methods for answering new questions about cells.
+
+Breakout Sessions (100 points)
+Breakout sessions are an opportunity for students to enhance their understanding of the material covered in lecture. Students will work on group problem sets, review difficult concepts, practice problem solving, and engage in other learning activities.
+
+Students will earn up to 100 points by participating in the weekly breakout sessions. Each breakout session on a topic (see schedule) is worth 10 points. Review sessions are not worth points. There will not be any makeups for missed breakout sessions. There are 11 breakout sessions on a topic, so if an emergency arises, one of these could be missed without penalty.
+Summary of Point Distribution Assessment Breakout session points = 100 points Lecture participation = 40 points 4 lecture quizzes x 125 = 500 points Total Points = 640 points
+You may see your grades at any time on eLC: https://uga.view.usg.edu/ You will also have the opportunity to complete an optional assignment (relative weight 0.03), which is simply added to the average of the quiz grades. The optional assignment is described on page 3.
+Participation (40 points) General Information: To acknowledge your engagement in learning, you will have the opportunity to earn points by participating in lecture-related activities. Format: Points will be earned from two types of activities: 1) exam self-evaluation assignments, and 2) in-class questions. In-class questions will be related to that day's material. Written responses will be collected, and papers from randomly chosen dates will be used to assign points.
+Quizzes (125 points each) General information: Exams will focus on concepts and mechanisms highlighted in lecture and covered in the accompanying textbook readings for that section. Students are expected not only to recall, but to also be able to synthesize, apply and evaluate the information. All quizzes will take place in 404D Biological Sciences, our regular classroom. Format: Quizzes will consist of long answer and short essay questions. Dates: Note that the dates of the quizzes are set, and will not be changed.
+Make-up Quizzes Special arrangements must be made in advance and in writing, if a pressing obligation prevents you from taking one of the quizzes.
+Academic Honesty It is expected that all students in this course will work in accordance with University guidelines regarding academic honesty, and the Student Honor Code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others." Issues related to academic honesty will be handled strictly according to policies and procedures available at: http://ovpi.uga.edu/academichonesty/academic-honesty-policy. Accessing notes of any kind and/or ANY use of cell phones during tests are violations that will be reported. The Honor Code states that students must report cheating by other students on any assignment, quiz, or exam in this course.
+Honor's Option Students may sign up for an Honor's option in this class. Forms are available at the Honor's office. The assignment is to write three papers of the type described for extra credit (see page 3) These three papers will be for Honor's credit and an additional paper may be prepared for extra credit if so desired. The deadlines for receipt of the three Honor's papers are at the beginning of class on February 1st, February 24th and March 24th. Late papers will not be accepted.
+
+Optional Assignment for Extra Credit Critical appraisal of primary literature plays a fundamental role in scientific inquiry. Experimental techniques and interpretation of experimental results are discussed both in the text and in the lectures. You have the opportunity to begin the development of your own analytical skills by reviewing an original report from the scientific literature (maximum 3/student).
+Select any paper meeting the following criteria: 1. Published in Journal of Cell Biology, Nature Cell Biology, or Molecular Biology of the Cell in 2016 or
+2017. Papers from other journals will not be accepted. 2. Not a review; the paper must report original research results.
+Write a one-page report (8.5 x 11 inch paper). Attach a printed copy of the complete paper to your report.
+Your report should state: 1) the title, authors, and source of the paper; 2) the main questions or hypotheses addressed in the paper; 3) specific sub-questions, the experimental approach(es) utilized, and the results; 4) repeat #3 as needed to cover different parts of the study; 5) the major conclusions of the paper; 6) significant criticism(s) of the experimental design, and conclusions.
+Clear reasoning, concise writing, and your own judgments are required. The following questions may guide your thinking: Why is the problem addressed in the study significant? Are the approaches suited to answering the question posed? Are important control experiments performed? Do the results of the paper support the conclusions stated?
+Your report will be scored from 0 to 3 points. This score will be added to the weighted average of your regular quiz and final quiz grades calculated as described above. Papers must be submitted by the beginning of class on April 17th. Late papers will not be accepted.
+Thoughtful evaluation of cell biology concepts Students who distinguish themselves with thoughtful and pertinent questions and responses during class will be recognized for their achievements. Critical thinking is treasured in this class.
+
+Week Class
+
+1
+
+L1
+
+L2
+
+L3 BO-1
+
+2
+
+L4
+
+L5 BO-2
+
+L6
+
+3
+
+L7
+
+L8
+
+BO-3
+
+L9
+
+4
+
+L10
+
+L11
+
+BO-4
+
+L12
+
+5
+
+L13
+
+BO-5
+
+L14
+
+6
+
+L15
+
+Date
+Fri 01/06/17
+Mon 01/09/17
+Wed 01/11/17 Thu 01/12/17
+Fri 01/13/17 MLK DAY 01/16/17 Wed 01/18/17 Thu 01/19/17
+Fri 01/20/17 Mon 01/23/17 Wed 01/25/17 Thu 01/26/17
+Fri 01/27/17 Mon 01/30/17 Wed 02/01/17 Thu 02/02/17
+Fri 02/03/17 Mon 02/06/17 Wed 02/08/17 Thu 02/09/17 Fri 02/10/17 Mon 02/13/17
+
+Class Topic
+Introduction: Cells, eukaryotes, eubacteria, and archae Biological energy, Organelles and Compartments Lipids and biological membranes
+Techniques for studying proteins Permeability and Transport, Transporters
+Channels and Membrane Potential
+Transport across membranes Channels and neural activity Nucleus: structure and organization Nucleocytoplasmic transport
+Analysis of nuclear import Nucleocytoplasmic transport Chromatin and Genome Organization Mitochondria: structure and genome
+Preparation for Exam 1 Topology & protein targeting
+EXAM 1 (LECTURES 1 to 11) Membrane translocation
+Exam 1 Discussion
+Membrane insertion Protein folding & maturation
+
+Instructor
+VM
+VM
+VM VM
+VM
+VM VM
+VM VM VM VM
+VM VM VM VM
+WL
+WL VM WL WL
+
+Chapters
+1,2 2,3 10
+11
+11 11 11 4,12 12 12 12 4 12,14
+12: 641-649
+12: 669-691
+12: 669-691 12: 669-691
+
+L16 Wed 02/15/17 Transport vesicles
+
+BO-6
+
+Thu 02/16/17 ER import assay
+
+L17
+
+Fri 02/17/17 Membrane fusion
+
+7
+
+L18 Mon 02/20/17 Protein export
+
+L19 Wed 02/22/17 Import into the cell
+
+BO-7
+
+Thu 02/23/17 Analysis of vesicular transport
+
+L20
+
+Fri 02/24/17 The ESCRT system
+
+8
+
+L21 Mon 02/27/17 Cellular polarity
+
+L22 Wed 03/01/17 Review
+
+BO-8
+
+Thu 03/02/17 Preparation for Exam 2
+
+Fri 03/03/17
+
+EXAM 2 (LECTURES 12 to 20)
+
+SPRING BREAK
+
+9
+
+L23 Mon 03/13/17 Actin & treadmilling
+
+L24 Wed 03/15/17 Microtubules
+
+BO-9
+
+Thu 03/16/17 Exam 2 Discussion
+
+L25
+
+Fri 03/17/17 Generating mechanical force
+
+10
+
+L26
+
+Mon 03/20/17 Cell cycle
+
+L27 Wed 03/22/17 S-phase entry and exit
+
+BO-10
+
+Thu 03/23/17 Techniques to study the cell cycle
+
+L28
+
+Fri 03/24/17 M-phase entry and exit
+
+11
+
+L29 Mon 03/27/17 Cell Cycle & Cancer
+
+L30 Wed 03/29/17 Stem Cells
+
+BO-11
+
+Thu 03/30/17 Techniques to study cancer
+
+WL
+
+13: 695-722
+
+WL
+
+13
+
+WL
+
+13: 695-722
+
+WL
+
+13: 722-729 & 741-
+
+750
+
+WL
+
+13: 722-740
+
+WL
+
+WL
+
+13: 722-740
+
+WL
+
+16: 951-960
+
+WL
+
+WL
+
+WL
+
+16: 898-925
+
+WL
+
+16: 925-943
+
+WL
+
+WL
+
+16: 889-898 & 944-
+
+950
+
+WL
+
+17: 963-974
+
+WL
+
+17: 974-1004
+
+WL
+
+WL
+
+17: 978-1004
+
+WL
+
+17, 20
+
+WL
+
+22
+
+WL
+
+L31
+
+Fri 03/31/17 Multi-cellularity
+
+WL
+
+21
+
+12
+
+L32 Mon 04/03/17 Cells junctions, extracellular matrix
+
+VM
+
+19
+
+L33 Wed 04/05/17 Muscle structure and function
+
+VM
+
+16
+
+BO-12 Thu 04/06/17
+
+WL
+
+Preparation for Exam3
+
+Fri 04/07/17
+
+EXAM 3 (LECTURES 21 to 31)
+
+13
+
+L34 Mon 04/10/17 Muscle: Ca-regulation, Myosin motors
+
+VM
+
+16
+
+L35 Wed 04/12/17 Overview: signaling
+
+VM
+
+15
+
+BO-13 Thu 04/13/17
+
+VM
+
+Exam3 discussion
+
+L36
+
+Fri 04/14/17 Classical signaling pathways
+
+VM
+
+15
+
+14
+
+L37 Mon 04/17/17 G protein coupled receptors
+
+VM
+
+15
+
+L38 Wed 04/19/17 Receptor Tyrosine Kinases
+
+VM
+
+15
+
+BO-14 Thu 04/20/17
+
+VM
+
+Signal transduction
+
+L39
+
+Fri 04/21/17 Phosphoinositides
+
+VM
+
+15
+
+15
+
+L40 Mon 04/24/17
+
+VM
+
+Preparation for Exam4
+
+Wed 04/26/17
+
+EXAM 4 (LECTURES 32 to 39)
+
+

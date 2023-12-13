@@ -1,0 +1,174 @@
+MIBO 4090/6090 Prokaryotic Biology Fall 2020: MF 11:30am -12:20pm; W 11:30-1:10pm
+Room 326 Biological Sciences
+
+Instructor:
+
+Dr. Vincent Starai 828 Biological Sciences (706) 542-5755 vjstarai@uga.edu
+
+Teaching Assistant: Michael Mills kobie93@uga.edu
+
+Fall 2021 Preface: 2020 brought a significant number of new challenges to not only the education process, but to life in general. This pandemic has affected all of us in a number of ways, and I appreciate the fact that some will struggle more than others, either in life or in the classroom as we get back to something that resembles "normal" in the Fall of 2021. I also understand that we may face some new struggles as the semester proceeds due to new viral outbreaks, so it is my goal to try to be flexible with scheduling throughout the semester. Nevertheless, it is my intent to hold this class in-person for the duration of the semester, with the ability to join a Zoom lecture when needed. Never hesitate to contact me with concerns, ideas, advice, or general feedback that could enhance your ability to learn from me; I'll always be there to listen: especially if it's about food, video games, anime, or Chicago Cubs baseball!
+
+MIBO 4090 Prokaryotic Biology Course Structure
+
+In this course, I generally strive to teach things at the molecular level. After presenting the classroom information, I expect students to be able to predict either molecular or phenotypic outcomes of a particular system when presented with a particular situation (for example, how might a cell lacking cheY be expected to move in a given environment). Questions on exams are typically multiple choice, but are generally not simple "recall" questions. Other sections will include short answer and longer answer sections. Students find this exam format a bit difficult and tricky at first, but most students agree (I hope) that the exams are fair and force them to think quite a bit! At present, I am planning to hold all exams in a written format, which could change as the semester drags moves on. All classroom sessions will be recorded and each lecture should (theoretically) be made available to the class via eLC.
+
+Unit I: Bacterial Structure and Growth
+
+By the end of Unit I, students should show proficiency in understanding how prokaryotic cells generally grow, divide, and communicate: both intracellularly and with each other.
+
+Students will learn the ultrastructural differences between Gram-negative, Grampositive, and archaea at the molecular level.
+
+· Membrane structure and function
+
+· Peptidoglycan synthesis · Flagellar biosynthesis · Nutrient acquisition pathways (transport)
+Dissect typical and atypical cell division pathways and understand bacterial community structure.
+· MinCDE/FtsZ functions · Cell wall remodeling · Bacillus sporulation pathways, Caulobacter asymmetric division · Biofilm structure and formation pathways
+Students will know different mechanisms of bacterial cell:cell communication and signaling pathways.
+· Molecular dissection of chemotaxis (signaling via methylation and phosphorylation)
+· Two component regulators (PhoPQ, EnvZ/OmpR, integrated pathways) · DNA uptake systems/conjugation · Toxin-antitoxin systems
+Unit II: Central Dogma at the molecular level
+By the end of Unit II, students should understand the molecular systems that drive replication, transcription, and translation; the ability to understand how these systems are regulated should allow each student to understand the phenotypic outcome of a given signaling condition.
+Students will understand the processes which initiate, drive, and terminate genomic replication.
+· DnaA function, DNA polymerase complex formation and subunit activities · Ter-dependent termination of replication
+Students will understand the processes which initiate, drive, regulate, and terminate transcription.
+· RNAP subunit makeup, individual activities, functions of sigma factor · Rho-dependent and -independent transcriptional termination · Transcription is regulated by a number of transcriptional regulators (LacI,
+AraC, TrpR), transcriptional pausing (NusA, NusG, RNA stem-loop functions), and small RNA molecules · Riboswitches
+
+Students will understand the processes which initiate, drive, regulate, and terminate translation.
+· General ribosome structure, function, and biochemical activity · Translational regulation via attenuation, stringent response, and small RNAs
+Students will be able to understand the post-translational fates of some proteins in the cell.
+· Protein folding pathways, degradation pathways, and chaperone activity (GroEL/ES, DnaJ/K/GrpE, ClpXP, tmRNA)
+· Protein secretion (SecYEG, Tat, numbered secretion system highlights (1-7)).
+Students will be able to dissect the lifecycle and lytic/lysogenic decision-making process of bacteriophage  by using all of the information given above.
+Unit III: Bacterial diversity
+By the end of this unit, students should understand about the phylogenetic and taxonomic classification of bacteria and archaea, and students should be able to recall some of the distinct characteristics of specific prokaryotic organisms highlighted in this section and match them accordingly.
+Various representative bacteria and archaea are highlighted throughout this section and identified via its appropriate phylogenetic group. Specific molecular, biochemical and physiological attributes of a particular organism is highlighted. Molecular biology and physiology of archaea are directly compared/contrasted to "typical" bacterial pathways.
+Overarching topic: Primary literature
+Students will begin to effectively interpret published data and understand how the outcomes of experiments support or disprove stated hypotheses. Furthermore, some basic knowledge of scientific techniques used will be examined.
+In a typical semester, nine papers are read by students on their own. In the classroom, the paper is presented by the instructor "journal club" style, and salient points of the work are highlighted, with a specific focus on helping students identify the hypothesis and conclusions of the work. Specific experimental techniques used in the work are presented to the class, and students will be assessed on their knowledge of the applications of those techniques to address a biological problem. Importantly, this course seeks to enhance a student's ability to read the scientific literature with a critical eye and to feel comfortable with using published data to enhance their own scientific knowledge base.
+
+Office Hours: Talk to me or send me an email, and we'll get something set up! These meetings can be held in either an in-person or Zoom format.
+Suggested Text: Microbiology: An Evolving Science, 4th ed. by Slonczewski and Foster, W. W. Norton Publishing. (5th ed. also works)
+Supplements: Information will be presented from outside the required text, and will be provided on eLC, either separately, or contained within the lecture slides. This course syllabus is a general plan for the course; deviations announced to the class by the instructor may (and probably will) be necessary.
+Academic Honesty: As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty", and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty:" https://honesty.uga.edu/_resources/documents/academic_honesty_policy_2017.pdf. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to the course assignments and the academic honesty policy should be directed to the instructor.
+A website for more detailed information about academic honesty can be found at: http://honesty.uga.edu/
+Exams: There will be four 50 pt. exams for this class (200 total points); one of these exams will be a required, non-cumulative final exam (December 15th, 2021 at noon). All exams will consist of a mixture of short answer, fill-in-the-blank, and multiple choice. Previous exams will not be passed out as study guides. While I intend to have exams taken in-person, the status of the SARS-CoV-2 pandemic may change this policy; I will inform you of any changes to our exam schedule.
+In addition, every Wednesday, I will provide an online/email assignment that contains a few short answer questions to work on throughout the week, as well as containing questions on the paper assigned on that Wednesday. These are worth a total of 10 points each, and 9 assignments will be available throughout the semester (possible 90 points total). These problem sets must be returned by the following Tuesday for full credit.
+Exam Re-grades: I am always willing to look at graded exams and adjust scores, if warranted. However, I will only re-grade exams for up to one week after being returned to the student.
+
+Grading scale:
+
+A = (4.0) = 93.0-100% A- = (3.7) = 90.0 - 92.9% B+ = (3.3) = 87.0 - 89.9% B = (3.0) = 83.0 - 86.9% B- = (2.7) = 80.0 - 82.9%
+
+C+ = (2.3) = 77.0 - 79.9% C = (2.0) = 70.0 - 76.9% D = (1.0) = 60.0 - 69.9% F = (0.0) = 59.9% or below
+
+Rounding will be done to the nearest 0.1%. For example, if you score an 82.95%, that will be rounded to 83.0% (B). If you score exactly 82.9%, that's a B-. In the past, I have *not* graded on a curve, as final grades did not warrant it. Nevertheless, that is always an option should the course average be lower than expected. Do not depend on the presence of a curve in grading!
+
+Scientific Literature: This semester, we will be reading research papers from the primary literature, and my primary goal is to familiarize you with scientific reading, dissecting and analyzing data, and to better understand the broad techniques that are used in the study of microbes (and higher-order organisms!). These papers -with topics relevant to the current classroom study -- will be assigned every week, according to the schedule on a Wednesday. You will be asked to read the paper over the following week, work on a provided take-home assignment, and then we will devote half of the following Wednesday identifying the hypotheses, deconstructing the figures, and analyzing the data as a group. You will encounter exam questions that test your comprehension of these papers and techniques.
+
+Wednesday format: Each Wednesday, we will be meeting from 11:30am-1:10pm (double class period). For the first ~50 minutes, we will engage in standard lecturing on course material. After a short break, we will transition to group/class discussion of the paper assigned the previous week.
+
+"Extra credit:" Throughout the semester, the Microbiology Department hosts speakers from outside UGA to present a seminar on topics involving current microbiological research, and this semester will present our seminars via Zoom meetings. These lectures are generally Thursday at 11 am, and I will announce the speaker, the topic, and the Zoom link on the Wednesday before the seminar. To obtain extra credit, you may attend up to three of these lectures, and write a onepage, single-spaced summary of this lecture, to be handed to me (directly or by email), no later than 5pm of the Monday following the lecture. In this summary, be sure to highlight the hypothesis and conclusions of the research, and discuss the techniques used to come to those conclusions. Each acceptable summary will be worth 2 pts, for a total of 6 extra points.
+
+Students registered for MIBO6090: In addition to following the above, graduate students enrolled in this course are required to write a 15-page review paper (not including references) on a topic encompassing some aspect of microbial physiology, and present a 20-min seminar on this topic at the end of the semester. The format
+
+will be similar to that presented for the Undergraduate Honors Option (separate file). This paper will be worth 80 points, and 6090 students will have a total possible point total of 370.
+eLC use: Slides used for each lecture will try to be placed on eLC before each lecture. I will do my best to maintain communication in eLC, but if you submit a question to me via eLC, please email me directly - just to remind me. Supplemental notes and texts will be provided here, when necessary.
+Attendance: Attendance to these sessions comprises an important part of our classroom experience and I urge you all to attend class in-person. Given that we are still dealing with the possibility of isolation and quarantines, however, I will *not* take attendance for the Fall 2021 semester.
+Mental Health and Wellness Resources:
+· If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.
+· UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies).
+· If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center.
+· Additional resources can be accessed through the UGA App.
+Coronavirus Information for Students
+Face Coverings:
+At the time this syllabus was written, Athens-Clarke county has requested that all individuals wear face coverings/masks indoors, regardless of vaccination status. While the University System of Georgia has not mandated masks in the classroom, they do recommend wearing a face covering while indoors.
+How can I obtain the COVID-19 vaccine? University Health Center is scheduling appointments for students through the UHC Patient Portal (https://patientportal.uhs.uga.edu/login_dualauthentication.aspx). Learn more here - https://www.uhs.uga.edu/healthtopics/covid-vaccine.
+
+The Georgia Department of Health, pharmacy chains and local providers also offer the COVID- 19 vaccine at no cost to you. To find a COVID-19 vaccination location near you, please go to: https://georgia.gov/covid-vaccine.
+In addition, the University System of Georgia has made COVID-19 vaccines available at 15 campuses statewide and you can locate one here: https://www.usg.edu/vaccination
+DawgCheck:
+You will no longer receive daily emails regarding COVID symptom checks(yay!). However, positive viral tests MUST still be reported through Dawg Check : https://dawgcheck.uga.edu/
+What do I do if I have symptoms?
+Students showing symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5 p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see https://www.uhs.uga.edu/info/emergencies.
+What do I do if I am notified that I have been exposed?
+Students who learn they have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 14 days consistent with Department of Public Health (DPH) and Centers for Disease Control and Prevention (CDC) guidelines. Please correspond with your instructor via email, with a cc: to Student Care & Outreach at sco@uga.edu, to coordinate continuing your coursework while self-quarantined. If you develop symptoms, you should contact the University Health Center to make an appointment to be tested. You should continue to monitor your symptoms daily on DawgCheck.
+How do I get a test?
+Students who are demonstrating symptoms of COVID-19 should call the University Health Center. UHC is offering testing by appointment for students; appointments may be booked by calling 706-542-1162.
+UGA will also be recruiting asymptomatic students to participate in surveillance tests. Students living in residence halls, Greek housing and off-campus apartment complexes are encouraged to participate.
+What do I do if I test positive?
+
+Any student with a positive COVID-19 test is required to report the test in DawgCheck and should self-isolate immediately. Unvaccinated students should not attend classes in-person until the isolation period is completed (10-14 days, as per current CDC and DPH guidelines). Once you report the positive test through DawgCheck, UGA Student Care and Outreach will follow up with you.
+Students who are fully vaccinated do not need to quarantine upon exposure unless they have symptoms of COVID-19 themselves. All others should follow the Georgia Department of Public Health (DPH) recommendations:
+Students, faculty and staff who have been in close contact with someone who has COVID-19 are no longer required to quarantine if they have been fully vaccinated against the disease and show no symptoms.
+Monitoring conditions:
+Note that the guidance referenced in this syllabus is subject to change based on recommendations from the Georgia Department of Public Health, the University System of Georgia, or the Governor's Office. For the latest on UGA policy, you can visit coronavirus.uga.edu.
+Privacy Concerns: If you become aware of another individual at UGA (either student, faculty, or staff) who tests positive for COVID-19, but that individual has not reported (or will not report) the positive test via DawgCheck, you may report that test for the individual via DawgCheck. Other than that, medical privacy concerns prevent you from disclosing the identity of anyone who tests positive for COVID-19. If you become aware of any individual on campus who tests positive and proceeds through the required reporting process, you may not identify this individual to others.
+
+DATE W 8-18
+F 8-20 M 8-23
+W 8-25
+F 8-27 M 8-30 W 9-1
+
+Fall 2021 Outline
+Topic / Source Introduction, bacterial cell structure, Ch. 3 Nobody likes a long lecture on the first day
+Cell structure continued, Ch. 3 motility Chs. 3 and 13
+motility, continued
+Discussion regarding Wednesday formats, Paper I and handout Transport mechanisms, cell cycle, Ch. 6 and 7 Cell cycle and division, Ch.7
+Bacterial development, Chs. 3, 13, 20.1, and supplements Paper I discussion, Paper II, and next handout
+
+F 9-3 M 9-6
+W 9-8
+F 9-10 M 9-13
+W 9-15
+F 9-17 M 9-20
+W 9-22
+F 9-24 M 9-27
+W 9-29
+F 10-1 M 10-4
+W 10-6
+F 10-8 M 10-11
+W 10-13
+F 10-15 M 10-18 W 10-20
+
+"Amidase Activity of AmiC Controls Cell Separation and Stem Peptide Release and is Enhanced my NlpD in Neisseria gonorrhoeae" JD Lenz et
+al. Bacterial development, part II
+No Class (Labor Day)
+Two-component regulators, Ch 13.2
+Paper II discussion, Paper III and next handout "MinC and FtsZ mutant analysis provides insight into MinC/MinD-
+mediated Z ring assembly" K-T Park et al. Extracellular matrices, biofilms, and function Cell-cell communication: gene transfer systems
+Cell-cell combat: toxin-antitoxin systems Paper III discussion, NO PAPER OR HANDOUT SO YOU CAN STUDY "A Vibrio cholerae autoinducer-receptor pair that controls biofilm
+formation" K Papenfort et al. Exam 1
+Central dogma, DNA replication, Ch. 12 Replication and termination
+Caulobacter paper discussion (me), Paper IV and handout "A New Essential Cell Division Protein in Caulobacter crescentus" A
+Osorio et al. Transcription, Ch. 12
+Transcriptional termination Gene regulation I, Ch. 13
+Paper IV discussion, Paper V and handout "DnaC, the Indispensable companion of DnaB helicase, controls the
+accessibility of DnaB helicase by primase" MM Felczak et al. More gene regulation
+Gene regulation II, Ch. 13 RNA regulation (ncRNA)
+Paper V discussion, Paper VI and handout "A bipartite iron-dependent transcriptional regulation of the tryptophan salvage pathway in Chlamydia trachomatis" ND
+Pokorzynski et al. Basics of Translation Translational regulation: attenuation, stringent response Protein folding, chaperones, tmRNA Paper VI discussion, NO PAPER OR HANDOUT SO YOU CAN STUDY "The anti-Shine-Dalgarno sequence drives translational pausing and codon choice in bacteria" G-W Li, et al. Protein Secretion pathways
+Exam 2 Bacteriophages, and intro to phage , Ch. 9 and supplementation
+No extended Wednesday section
+
+F 10-22 M 10-25
+W 10-26
+F 10-29 M 11-1
+W 11-3
+F 11-5 M 11-8 W 11-10
+F 11-12 M 11-15 W 11-17 F 11-19 M 11-22 W 11-24 F 11-26 M 11-29 W 12-1 F 12-3 M 12-6
+Tu 12-7 W 12-15
+
+Lambda lifecycle and lifecycle regulation, outside supplement More lambda lifecycle regulation, outside supplement Withdrawal Deadline Redox, energy generation, biogeochemical cycling Bacterial 2-hybrid paper (me), Paper VII and handout
+"The Anti-Anti-Sigma Factor BldG Is Involved in Activation of the Stress Response Sigma Factor H in Streptomyces coelicolor A3(2)" B
+Sevcikova et al. No Class (Fall Break) Carbon and Nitrogen cycles Sulfur and Iron cycles Paper VII discussion, Paper VIII and handout "Thirty-thousand-year-old distant relative of giant icosahedral DNA viruses with a pandoravirus morphology" M Legendre et al. Microbial communities Symbioses/plant:microbe interactions, Paper VIII discussion, NO PAPER OR HANDOUT SO YOU CAN STUDY "Isolation of an archaeon at the prokaryote-eukaryote interface" H
+Imachi et al. Microbe:microbe interactions Diversity eLC Module presentation/section review
+Exam 3
+Microbial diversity / Gram negative family: the proteobacteria, Ch. 20 Gram negative family: nonproteobacteria, Ch. 19, No Class: Thanksgiving No Class: Thanksgiving
+Gram positive family: High G + C, Ch. 22; Archaea paper handout Archaea, Ch 18
+Career panel Q&A
+Archaea Archaea paper review "Classification of methanogenic bacteria by 16S ribosomal RNA characterization" GE Fox et al.
+Course review Final Exam (Exam 4) 12:00 pm
+
+

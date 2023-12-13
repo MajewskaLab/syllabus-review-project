@@ -1,0 +1,255 @@
+MIBO3500 Spring 2022 Downs
+
+MWF 9:10-10:00 Biol. Sci. 404E
+
+Microbiology 3500
+Welcome to Microbiology 3500. This is a course designed to expose you to both the history of, and current questions in, the field of microbiology. There are three motivating factors that drive what is presented in this course. First there is the marvel of the microbial world. Microbes are amazing, they were the first forms of life to evolve and they are the most important organisms on Earth from both a population and total biomass perspective. Examining the types of microbes and their capabilities is not only educational, but interesting. Second, the course aims to teach you about science and how it is done. Although we will not be performing real experiments in class, we will present thought experiments to help you learn the material and we will discuss landmark experiments that have contributed to progress in this scientific discipline. We will emphasize how fundamental concepts in biology were defined by studying microbes. Finally, this and all science classes have a moral imperative to foster an informed, scientifically literate citizenry. We want you to leave this class better able to analyze data and make decisions based on facts.
+You will learn about
+* The importance of microbes to the natural world and to your life.
+* The fundamentals of the discipline: microbial form and function, bacterial physiology, microbial ecology, virology, bacterial genetics, immunology and pathogenic microbiology.
+* The applications of microbial concepts to the fields of nutrition, biotechnology, medicine, agronomy and bioremediation.
+* The diversity of the microbial world
+
+The course is divided into three modules. In module 1, "Microbes Rule", we will explore global aspects of microbiology and demonstrate the impact that microbes have on the natural and the human world. In the second module, "Microbes Breathe", we will explore the specifics of microbes, learning what they are made of, how they are put together and the diverse metabolic capabilities they have. In the third module, "Microbes Adapt", we will examine the genetic make-up of microbes, how information in their genetic material is translated into needed functions, how these processes are controlled and how scientists have used an understanding of genes and gene expression to develop applications beneficial to society. One guest lecturer in each section will expose you to a few current research areas at UGA and illustrate the role fundamentals (like those in this course) play in cutting edge microbial research.
+Instructors
+Dr. Diana Downs, Professor, Department of Microbiology (dmdowns@uga.edu) PH: 706-542-9573. Dr. Jennifer Walker, Senior Lecturer, Department of Microbiology (jrswalk@uga.edu ) PH: 706-542-0947
+Additional faculty in or associated with the Department of Microbiology will present lectures as indicated on the syllabus. There are two Graduate Teaching Assistants for the course. Lahiru Malalasekara (Lahiru@uga.edu ) will be running the special sessions on Friday that bring in concept reviews and literature analysis. Kailey Ezekiel (Ka.Ezekiel@uga.edu) will be your contact for questions with lecture material, preparation for the exams, and review of the exam material. She will be responsible for monitoring the Google Docs described below and responding to any unanswered questions. Each TA will have office hours, the times will be posted on the eLC early in the semester. Both Lahiru and Kailey are PhD students and are carrying out full time laboratory research, so please be respectful of their time and schedule. I encourage you to use the Google Docs as a virtual study group, and the professor who is lecturing as a resource to clarify central concepts that are unclear. The best way to contact the instructor is to use email to set up a meeting time to discuss questions and concepts.
+
+1
+
+MIBO3500 Spring 2022 Downs
+
+MWF 9:10-10:00 Biol. Sci. 404E
+
+Learning Materials
+eLC. Relevant material will be posted on the eLC in the course homepage. Please check the course homepage often. The lecture slides and other material will be posted under Content and other timely information and announcements will be on the homepage. A Google Doc will be set up to provide a forum for communication with your classmates, where you can post questions and engage in the active communications that are beneficial to learning. Kailey Ezekiel will be monitoring the page and will provide/clarify answers, make comments, etc. within 48 hours (quicker as the tests approach). If you have specific questions that are not being addressed, please email the faculty instructor to set up a meeting. This Google Doc will be a valuable resource in studying for the exams, especially after the review/study slides have been posted. NOTE: No answers will be posted by the instructor or TA after 5 pm the day before the exam- so please plan you studying accordingly.
+Textbook: The recommended textbook for the course is Microbiology; an Evolving Science, by Slonczewski & Foster. (Although the chapter reading listed in the syllabus are from the Fourth Edition, earlier editions or Edition Five can also be used) Figures, ideas and concepts from the textbook will be used extensively. If you have any intent of pursuing further study or research in microbiology, I encourage you to purchase the book. Other purchase options, including an eBook for the fifth edition are available on the publisher's website: https://wwnorton.com/books/9780393419962
+Expectations
+This is not a lecture course that simply presents facts you will be asked to memorize-so don't approach it as such. This course was designed for the large class size of introductory courses in a way that seeks to help you learn microbiology and develop critical thinking skills as an intellectually active and engaged participant. For this class you will be expected to
+* Review the general points in the chapters and on slides ahead of the lecture. * Attend and mentally engage in each lecture-THIS IS CRITICAL FOR DOING WELL IN THE COURSE. * Participate in the special session class periods led by the Teaching Assistant. Simply memorizing material a couple days before the exam is unlikely to produce success, since the exams will demand incorporation and extrapolation of the material presented in lecture.
+Special sessions
+Roughly once a week, there will be a class meeting that is not the typical lecture format and has diverse content meant to inform you about the role that science, and microbiology in particular, has in our world. These sessions will expose you to microbiology in a variety of ways. In some of these sessions the TA will lead discussions of potential test questions or concepts that are central to the course. Additionally, you will read, discuss and analyze primary scientific literature- a central component of the research enterprise. Finally, there will be three guest lectures from faculty on campus. Your understanding of the material covered in these weekly sessions will be evaluated by three in-class quizzes as noted on the syllabus.
+Exams and Grading
+Student understanding and ability to extrapolate from the course material will be evaluated with three exams during class time and a cumulative final, each of which is worth 100 points. In addition, there will be three quizzes described above (each worth 20 points) making the course consist of 460 total points. To facilitate grading and feedback, all questions on the quizzes and exams will be multiple choice. In total the questions are designed to assess two things: i) your recollection of fundamental concepts in microbiology, and ii) your ability to integrate fundamental concepts to solve problems. To relieve some stress about the latter, and allow
+2
+
+MIBO3500 Spring 2022 Downs
+
+MWF 9:10-10:00 Biol. Sci. 404E
+
+you time to think, a few in-depth concepts and potential scenarios or case studies, will be posted online a few days before each exam. Your understanding of these specific concept areas will be queried in depth on the exam with multiple-choice questions.
+Grading for the course will follow the approximate scale of >90%=A; >80%=B; >60%=C; >40%=D;<40%=F. Grades for individual exams will not be assigned, rather the point total at the end of the semester will determine the final grade. I anticipate the average in the course will be a B-/C+. The +/- system will be used sparingly.
+Exams will not be available for viewing. After each exam, a post-exam review will be held to address and clarify the most frequently missed concepts. This strategy is meant to solidify understanding of the material rather than encourage memorization of a specific question.
+There will be NO make-up exams or quizzes. If you have an excused absence for one of the exams, the final exam score will be counted twice.
+
+DAE Peer Tutoring
+The Division of Academic Enhancement (DAE) offers free peer tutoring in over 200 of UGA's most rigorous courses including writing tutoring. To engage with a Peer Tutor, download the Penji app, available on iOS and Android, and sign in through SSO using your MyID. Need help? Visit our website for more information on how to engage with a Peer Tutor or email us at tutor@uga.edu. In addition to peer tutoring, the DAE also provides Academic Coaching, Student Success Workshops and more. The DAE is committed to the success of all students at the University of Georgia. For more on these and other resources, please visit dae.uga.edu.
+
+Letters of Recommendation
+Strong letters of recommendation come from referring students who the instructor knows well. Students who are considering requesting letters of recommendation should have discussions with instructor and /or TA regularly throughout the entire semester or in the several months preceding a letter request. Decisions on letters of recommendation take into consideration a student's overall course grade, how well the instructor knows the student, and number of students requesting letters.
+
+3
+
+MIBO3500 Spring 2022 Downs
+
+MWF 9:10-10:00 Biol. Sci. 404E
+
+Date Lec Topic
+
+SECTION ONE: MICROBES RULE
+
+(Dr. Diana Downs)
+
+M 1/10 1 Why microbes are important, historical perspective
+
+W 1/12 2 Origins and molecular phylogeny
+
+F
+
+1/14
+
+1A Evaluating news sources, the scientific process and introduction to the
+
+scientific literature
+
+M 1/17
+
+Martin Luther King Day -NO CLASS
+
+W 1/19 3 Microbial evolution
+
+F
+
+1/21
+
+1B Discussion and analysis of primary literature (manuscript #1)
+
+M 1/24 4 Overview of Microbial diversity (book for reference only)
+
+W 1/26 5 Microbes and the global environment
+
+F
+
+1/28
+
+1C Guest lecture (Dr. Claire de La Serre, Department of Nutritional Sciences)
+
+M 1/31 6 Microbial ecology
+
+W 2/2
+
+7 Microbial interactions I (and co-evolution)
+
+F
+
+2/4
+
+1D Finish analysis of paper, discussion of guest lecture. QUIZ (20 min).
+
+M 2/7
+
+8 Microbes and Man I
+
+W 2/9
+
+9 Microbes and Man II
+
+F
+
+2/11
+
+E1 EXAM for Microbes Rule (Lects 1-9)
+
+SECTION TWO: MICROBES BREATHE (Dr. Jennifer Walker)
+
+M 2/14 10 Observing the Microbial Cell
+
+W 2/16 11 Cell structure and function, Part I
+
+F
+
+2/18
+
+2A Introduction to manuscript # 2
+
+M 2/21 12 Cell structure and function II
+
+W 2/23 13 Bacterial growth and culturing
+
+F
+
+2/25
+
+2B Guest Lecture (Dr. Stephen Trent, Department of Infectious Disease)
+
+M 2/28 14 Environmental influences and control over microbes
+
+W 3/1
+
+15 Bacterial energetics and catabolism
+
+F
+
+3/4
+
+2C Discussion and analysis of primary literature (manuscript #2)
+
+3/7 - 3/11
+
+SPRING BREAK-NO CLASS
+
+M 3/14 16 Bacterial energetics and catabolism, part II
+
+W 3/16 17 Electron flow in organotrophy
+
+F
+
+3/18
+
+2D Finish analysis of paper, discussion of guest lecture. QUIZ last 20 min.
+
+M 3/21 18 Electron flow in lithotrophy
+
+W 3/23 19 Bacterial biosynthesis
+
+F
+
+3/25
+
+E2 EXAM for Microbes Breathe (Lects 10-19)
+
+SECTION THREE: MICROBES ADAPT (Dr. Diana Downs)
+
+M 3/28 20 The Central Dogma I
+
+W 3/30 21 The Central Dogma II
+
+F
+
+4/1
+
+3A Applications of the Central Dogma, Introduction to manuscript #3
+
+M 4/4
+
+22 The Central Dogma III
+
+W 4/6
+
+23 Heritable information can be changed by mutation I
+
+F
+
+4/8
+
+3B Guest Lecture (Dr. Ellen Neidle, Dept. of Microbiology)
+
+M 4/11 24 Heritable information can be changed by mutation II
+
+W 4/13 25 Heritable information can be changed by horizontal transfer
+
+F
+
+4/15
+
+3C Discussion and analysis of primary literature (manuscript #3)
+
+M 4/18 26 Bacteriophage and viruses can be vectors of heritable change
+
+W 4/20 27 Microbes need to respond to stimuli to adapt
+
+F
+
+4/22
+
+3D Finish analysis of paper, discussion of guest lecture. QUIZ last 20 min.
+
+M 4/26 28 Global regulation strategies, methods and rationale
+
+W 4/28 29 Microbes and microbiology facilitate biotechnology
+
+F
+
+4/29
+
+E3 EXAM for Microbes Adapt (Lects 20-29)
+
+M 5/2
+
+Final Summary, Review and Discussion
+
+W 5/11 F
+
+FINAL EXAM 8:00AM-11:00AM
+
+Relevant text chapters
+Chapter 1 Chapter 17
+Chapter 17
+Chapter 18-20 Chapter 22
+Chapter 21 Chapter 21/17.6 Chapters 23, 24, 25
+Chapter 2 Chapter 3 Chapter 3 Chapters 4 Chapters 5 Chapter 13
+Chapter 13 Chapter 14 Chapter 14 Chapter 15
+Chapter 7, 8 Chapter 7, 8 Chapter 7, 8 Chapter 9 Chapter 9 Chapter 9 Chapter 6, 11 Chapter 10 Chapter 10 Chapter 12
+4
+
+

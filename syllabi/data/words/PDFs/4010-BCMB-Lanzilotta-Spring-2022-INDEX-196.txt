@@ -1,0 +1,203 @@
+Syllabus for BCMB 4010/6010 Biochemistry and Molecular Biology I
+Spring Semester, 2022 Life Sciences C127
+Meets Tu/Th (3:55 - 5:10 PM) with a breakout on Tuesdays at 5:30 - 6:20 pm
+
+Instructors Dr. William N. Lanzilotta
+Davison Life Sciences Bldg., A220B Phone: 706-542-1324
+Email: wlanzilo@uga.edu
+
+Dr. Belen Cassera Email: maria.cassera@uga.edu Use this email (NOT eLC email) for any communication during the remaining of the
+semester
+
+Office Hours: There are no set office hours for this class. Students are strongly encouraged to participate in classroom discussion. We have learned that many students tend to have the same questions, so an open discussion helps the entire class. If you have a specific reason or need to meet with us, use email and we will schedule a time for a zoom meeting.
+
+General: BCMB 4010/6010 (Biochemistry and Molecular Biology I) is the first semester of a twosemester sequence in biochemistry and molecular biology (the second semester is BCMB 4020/6020, Biochemistry and Molecular Biology II). BCMB 4010/6010 is currently taught in the Fall by Drs. Zac Wood and Chris West as well as in the Spring by Drs. Bill Lanzilotta and Belen Cassera. The second semester (BCMB 4020/6020) is taught in the Spring by Drs. Michael Adams and Alan Przybyla. The same textbook is used for both BCMB 4010/6010 and BCMB 4020/6020, and the sequence is intended to be a coherent, integrated year.
+The prerequisite for BCMB 4010/6010 is CHEM 2211/L (Modern Organic Chemistry I) or the equivalent. Our philosophy of biochemistry can be summarized typographically as bioCHEMISTRY, so this prerequisite should be taken seriously.
+
+Textbook: The book for the course is Lehninger Principles of Biochemistry, 7th edition. The book may be purchased at the bookstore or at the link below: (https://store.macmillanlearning.com/us/product/Lehninger-Principles-ofBiochemistry/p/1464126119?searchText=Lehnin ) Alternatively, you may choose a less expensive older edition (Lehninger 4th - 6th editions), but be aware that you are responsible for using the table of contents and index to find the appropriate lecture material. We test from our lecture material, and the book is the primary resource for the class.
+
+eLC: The eLC site for BCMB 4010/6010 includes syllabus, lecture notes, PowerPoint slides, plus the usual announcements, DO NOT communicate through eLC, the e-mail service is not reliable. You can access eLC through the UGA eLC Home Page at the following address: https://uga.view.usg.edu/. To gain access to the course, log on with your UGA MyID username and password. Information on how to use eLC is available from the UGA eLC Home Page.
+
+Email Policy: We will communicate with the class through eLC email. You are responsible for any class information that is disseminated through email, so you should check it frequently. Be aware that with email forwarding, you can receive emails from eLC in your preferred email account, BUT replying directly via eLC is notoriously unreliable. Please use our email addresses at the top the syllabus if you need to communicate with us.
+
+Grading First part of the semester - Dr. Lanzilotta: Quizzes will be online using eLC The grading in this course will be based on weekly or as indicated in the schedule. Quizzes will last ~45 minutes, and consist of 6-10 questions broken down as follows:
+1) (60 %) quiz questions based on the previous week's lecture.
+
+2
+2) (40 %) 2-4 quiz questions based on any material that has been covered in the course, including the previous lectures (to enhance retention).
+3) 2.5 point bonus question.
+7 bonus questions/homework (2.5 points each, total 17.5 bonus points). Each quiz will be scaled up to class average of 75% (37.5 points). No scale-down if average >75%
+
+Second part of the semester - Dr. Cassera: The grading in this part of course will be:
+Quizzes will be online using eLC Quiz 9: 130 pts., 5 bonus Quiz 10: 130 pts., 5 bonus Quiz 11: 140 pts., 5 bonus
+There is no scaling in Dr. Cassera's part. Quiz questions will be based on the lectures of the topic addressed on that section of the class (carbohydrates, lipids, membranes) and questions based on any material that has been covered in the course.
+
+NOTE: Quizzes will not be returned. Answers will be discussed immediately following the quiz. If you believe there has been a grading error on your quiz you have one week (except for the last Quiz) from the date the quiz grade is posted to contact us for grade changes. No grades will be changed after this
+date.
+
+Make-up quizzes: A written excuse (email) from a Doctor or prior approval from the Professor is required for a make-up quiz. If you miss a quiz due to illness you have 24 hrs from the time of the missed quiz to notify the Professor.
+
+Grading: 8 quizzes (50 points each) 400 pts total. 3 quizzes (Q9: 130, Q10: 130, Q11: 140) = 400 pts. 800 total points
+
+To calculate your grade, simply add your exam and bonus points. NO ROUNDING UP on this scale. Grade Points
+
+A
+
+736
+
+92%
+
+A-
+
+720
+
+90%
+
+B+
+
+696
+
+87%
+
+B
+
+648
+
+81%
+
+B-
+
+632
+
+79%
+
+C+
+
+600
+
+75%
+
+C
+
+480
+
+60%
+
+C-
+
+400
+
+50%
+
+D
+
+320
+
+40%
+
+Academic Honesty The instructor, course assistant(s), and students are expected to adhere to the Academic Honesty Policy of the University of Georgia (https://ovpi.uga.edu/academic-honesty). With regard to BCMB 4010/6010, you are welcome to use ANY resource to learn the material - me, your classmates, other professors, other textbooks, commercial outlines, anything that helps you - but you are to use only your own mind
+
+3
+(and a scientific calculator) on the tests and the final. Similar reasoning applies to the project: you may use any resource to learn how to use PyMol, Chimera, PDB, and NLM, but the actual project should be yours alone, including the choice of protein, the writing of the paper, the design of the PyMol/Chimera figures, etc.
+Compact for Responsible Scholarship The instructor, course assistant(s), and students are expected to adhere to the spirit of the UGA Compact for Responsible Scholarship: A Joint Resolution for Academic Excellence endorsed by The UGA Student Government Association and The UGA Teaching Academy (http://teachingacademy.uga.edu/).
+
+4
+
+CALENDAR *For Dr. Lanzilotta's section, see corresponding study guide questions for specific topic areas
+
+Lecture
+
+Date
+
+1
+
+01/11/2022
+
+2
+
+01/11/2022
+
+3
+
+01/13/2022
+
+Quiz 1 3
+
+01/18/2022 01/18/2022
+
+4
+
+01/20/2022
+
+Quiz 2 6
+
+01/25/2022 01/25/2022
+
+7
+Quiz 3 8
+
+01/27/2022
+02/01/2022 02/01/2022
+
+9
+
+02/03/2022
+
+Quiz 4 10
+
+02/08/2022 02/08/2022
+
+11
+Quiz 5 12
+
+02/10/2022
+02/15/2022 02/15/2022
+
+13
+Quiz 6 14
+
+02/17/2022
+02/22/2022 02/22/2022
+
+Subject Material* Study Guide 1: Peptide bond and Thermodynamics For chemistry review: Chapter 1.3, 1.4 (chemical and physical foundations). Peptide bond Chapter 3.2, 4.1 ***First Breakout Session*** - Review of Key concepts in Chemistry and Introduction to the Virtual Study Group. Study Guide 1: Thermodynamics (continued), Study Guide 2-3 (3-9): noncovalent interactions, water as a "universal solvent" (Chapter 2). Worksheet: Rule of Thumb
+Study Guide 2-3: Hydrophobic effect, Detergents, pKa, le Chatelier's Principle, leaving groups, intro to Bicarbonate Buffer in blood. Study Guide 2-3: Bicarbonate Buffer, Hyperventilation. Study Guide 4: Amino Acids.
+Study Guide 4: Protein structure: Four rules of protein folding, Secondary structure, Ramachandran, Significance of proline and glycine Study Guide 4: Protein folding1: Tertiary Structure: Motifs, Domains.
+Study Guide 5: Leventhal's Paradox, Anfinsen's Dogma, Nucleation-Condensation, Folding Landscapes Study Guide 5: Protein folding part 1, General Case Folding Funnels, Chaperones, Prions Study Guide 6: Binding and affinity
+Study Guide 6: Binding and affinity (Cont'd) Study Guide 7: Hemoglobin, Bohr Effect (hyperventilation) Study Guide 7: 2,3-BPG, Fetal Hemoglobin, Sickle Cell, the First "Molecular Disease"
+Study Guide 8: Kinetics: Rates (reaction order), Catalysis, Single molecule, Pre-steady state, Initial velocity analysis (pseudo-first order) Study Guide 9: Enzyme Kinetics: The steady-state, Enzyme inhibition, and allostery.
+Study Guide 9: Enzyme mechanisms: Four Tricks used by Enzymes to facilitate catalysis
+
+Lecturer Lanzilotta
+Lanzilotta
+Lanzilotta
+Lanzilotta Lanzilotta
+Lanzilotta
+Lanzilotta Lanzilotta
+Lanzilotta Lanzilotta Lanzilotta
+Lanzilotta
+Lanzilotta Lanzilotta
+Lanzilotta Lanzilotta Lanzilotta
+Lanzilotta Lanzilotta Lanzilotta
+
+Quiz
+1 2 3 4 5 6
+
+15 Quiz 7
+Quiz 8 Quiz 9 Quiz 10 Quiz 11
+
+02/24/2022
+03/01/2022
+03/03/2022
+03/07-11 03/15/2022 03/15 T 03/17 Th 03/22 T 03/24 Th 03/29 T 03/31 Th 04/05 T 04/07 Th 04/12 T 04/14 Th 04/19 T 04/21 Th 04/26 T 04/28 Th 05/03 T
+
+Study Guide 10: Enzyme Mechanisms II: HEWL, Serine Protease Study Guide 10: Enzyme Mechanisms II: HEWL, Serine Protease
+Study Guide 11: Enzyme Mechanisms III: Coupled Reactions Glutamine Synthetase, GAPDH Study Guide 12: Metalloenzymes and the role of metals in essential reactions. Spring Break
+Carbohydrates Carbohydrates Carbohydrates Carbohydrates: in class problem solving Quiz 9 - 130 pts Lipids Lipids Lipids: in class problem solving Quiz 10 - 130 pts Membranes Membranes Membranes: in class problem solving Quiz 11 - 140 pts Overview of all quizzes
+
+5
+Lanzilotta
+Lanzilotta 7 Lanzilotta
+Lanzilotta
+Lanzilotta 8 Cassera Cassera Cassera Cassera Cassera Cassera Cassera Cassera Cassera Cassera Cassera Cassera Cassera Cassera Cassera
+
+

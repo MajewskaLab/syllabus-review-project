@@ -1,0 +1,157 @@
+GENE 3200-3200D Genetics (Fall 2022) T/TH 12:45 - 2:30 PM
+SLC 116, UGA Griffin Campus Bio & Ag Eng -Main 103, UGA Tifton Campus
+
+Brendan G. Hunt, PhD "Dr. Hunt", he/him
+Email: huntbg@uga.edu, Phone: (770) 412-4093, Office: 125 Redding, Web: www.huntlab.uga.edu Email is checked frequently. Office hours: by appointment.
+
+Prerequisite BIOL 1107 or BIOL 1107E or BIOL 2107H
+
+Course description (from UGA bulletin) Genetic mechanisms in viruses, bacteria, and eukaryotic cells in a comparative sense. Topics include molecular genetics and gene action, transfer systems and mapping, cytological, quantitative, and population genetics.
+
+Course overview Genetics is central to the study of biology and plays important roles in both agriculture and medicine. Genetic variation also makes up the foundation for evolution. The objective of this course is to foster a basic understanding of key concepts in modern genetics, including fundamental principles underlying the transmission of genetic information, gene regulation, and population genetics. In order to better understand such concepts, we will discuss readings from the scientific literature.
+
+Student learning outcomes · Students will be able to discuss and apply core concepts in transmission genetics, molecular
+genetics, and population genetics · Students will be able to find, discuss, and summarize peer-reviewed research articles in genetics
+
+Required text Pierce BA. Genetics: A Conceptual Approach. 6th Ed. W.H. Freeman and Co., NY.
+ISBN-10: 1319050964 Note: 6th edition is available used for around $20 online
+
+eLearningCommons (eLC) Class materials including the syllabus, recordings of class meetings, lecture notes, readings, course announcements, and discussion boards are found on the eLC course page at https://uga.view.usg.edu. Log in with your UGA MyID.
+
+Course grade tabulation Exams
+Discussion board posts In-class participation and work Homework assignments and problems Online pre- and post- course knowledge assessments
+and teaching evaluation
+
+55% 20% 15% 7% 3%
+
+The planned grade scale for the course is as follows: A = 4.0 (92-100%) B- = 2.7 (80-82%) D = 1.0 (60-69%) A- = 3.7 (90-91%) C+ = 2.3 (77-79%) F = 0.0 (<60%) B+ = 3.3 (87-89%) C = 2.0 (73-76%) B = 3.0 (83-86%) C- = 1.7 (70-72%)
+Exams (55% of course grade) Five take-home exams will be assigned (weighted as 11% of course grade each). For these exams, you may consult the textbook and any other available resources. However, you are expected to answer questions yourself and, where applicable, answer using your own words, in paragraph form, incorporating your original thought. Do not communicate with classmates or anyone else directly about the specific exam questions (exams should be completed independently). Exam deadlines will be provided when each exam is made available on eLC.
+Discussion board posts (20% of course grade) 1. "Peer-reviewed articles in genetics" eLC discussion board posts (10% of course grade):
+Each student is required to start two new threads in which they post a link to a peer-reviewed manuscript with your reasoning for choosing the article to share. One article should be shared before the middle of the term - October 10 - and one article should be shared after midterm. Each student must also post responses to at least 2 articles posted by others - post at least one response before and after midterm (Oct 10). 2. "Genetics in the news" eLC discussion board posts (10% of course grade) Each student is required to post two new threads with a link to a recent article, video, or other media involving genetics in the news from 2022. One thread should be posted before the midterm - October 10 - and one should be posted after the midterm. Each student is also required to post responses to 2 threads posted by others - one before and one after midterm (Oct 10).
+In-class participation and work (15% of course grade) Class time will involve discussion of course material and problem solving. Students are also responsible for reading papers in advance of discussion dates, and for having a copy of the relevant paper and their notes (in paper or electronic form) to reference during group discussion. Active participation in class work and discussions will be expected and required to obtain an `A' grade in participation. Any quizzes given will also contribute to this grade category.
+Homework assignments and problems (7% of course grade) Assigned homework, including problem sets from the text, make up this grade category.
+Completion of online pre- and post- course knowledge assessments and teaching evaluation (3% of course grade) One pre-course knowledge assessment and one post-course knowledge assessment will be given to assess departmental learning outcomes, and one teaching evaluation will be used to assess the instructor and improve the course. Completion of all three earns full credit for this grade category.
+Academic honesty · UGA Student Honor Code: "I will be academically honest in all of my academic work and will not
+tolerate academic dishonesty of others." · The University's policy and procedures for handling cases of suspected dishonesty can be found at
+https://honesty.uga.edu/. · In this course, you are expected to complete take home exams without the assistance of others and
+to bring original thought into your writing.
+2
+
+Accommodations for disabilities If you plan to request accommodations for a disability, please register with the Disability Resource Center. They can be reached by calling 706-542-8719 (voice) or 706-542-8778 (TTY), or by visiting https://drc.uga.edu.
+Attendance policy Please make every effort to attend all class meetings. If you have symptoms of an illness, please rest, attend by zoom, or wear a mask to class as you deem appropriate. If you are unable to attend class, please let me know by email. Poor attendance may negatively impact your participation grade. Zoom Meeting ID: 975 0646 1378
+Mental health and wellness resources · If you or someone you know needs assistance, you are encouraged to contact Student Care and
+Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu/. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services. · UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies). · If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center. · Additional resources can be accessed through the UGA App.
+Disclaimer The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+
+Course Plan Date Day 18.Aug TH 23.Aug T 25.Aug TH
+30.Aug T
+1.Sep TH 6.Sep T
+8.Sep TH 13.Sep T 15.Sep TH
+20.Sep T
+
+Topic Syllabus, Intro Chromosomes and cellular reproduction Paper discussion: To err (meiotically) is human: the genesis of human aneuploidy
+Heredity Obtain copy of textbook by this date
+Heredity problems Paper discussion: Gregor Johann Mendel and the development of modern evolutionary biology
+Sex determination and sex-linked traits Extensions of basic heredity Paper discussion: Behavioral genetics and genomics: Mendel's peas, mice, and bees
+Pedigree analysis & heritability
+
+Chapter 1 2 2
+
+Exam 1 1 1
+
+3
+
+1
+
+3
+
+1
+
+1
+
+4
+
+2
+
+5
+
+2
+
+2
+
+6
+
+2
+
+3
+
+Date Day Topic
+
+22.Sep TH
+
+Paper discussion: Identity inference of genomic data using long-range familial searches
+
+27.Sep T Linkage, recombination, mapping
+
+29.Sep TH Linkage, recombination, mapping
+
+4.Oct T DNA, Chromosome structure, Organelle DNA
+
+6.Oct TH DNA replication
+
+11.Oct T Documentary: Decoding Watson
+
+13.Oct TH Transcription, RNA processing
+
+18.Oct T Genetic code and translation
+
+20.Oct TH Bacterial and viral genetics
+
+25.Oct T Control of gene expression
+
+27.Oct TH Chromosomes and gene expression
+
+1.Nov T
+
+Paper discussion: Molecular and evolutionary processes generating variation in gene expression
+
+3.Nov TH Gene mutations, chromosome variation
+
+8.Nov T
+
+Paper discussion: A chromosomal inversion contributes to divergence in multiple traits between deer mouse ecotypes
+
+10.Nov TH Quantitative genetics
+
+15.Nov T
+
+Paper discussion: Coat variation in the domestic dog is governed by variants in three genes
+
+17.Nov TH Reverse genetics & genetic engineering
+
+22.Nov T
+
+Paper discussion: CRISPR/Cas genome editing and precision plant breeding in agriculture
+
+24.Nov TH No class (Thanksgiving)
+
+29.Nov T Population genetics I
+
+1.Dec TH Population genetics II
+
+Chapter
+7 7 10,11 12 13, 14 15 9 16, 17 17, 21
+18, 8
+24
+25 25
+
+Exam 2
+3 3 3 3 3 4 4 4 4 4 4
+5 5
+5 5
+5 5
+5 5
+
+4
+
+

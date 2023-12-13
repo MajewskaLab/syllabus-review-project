@@ -1,0 +1,58 @@
+GENE4220L
+Bioinformatics and modeling laboratory Spring 2010
+Course description: A hands-on look at the role of bioinformatics in genetic and genomic analyses. This combination lecture/laboratory course will cover genomics and database searching, and will introduce students to genomics, RNA expression, proteomics, metabolomic and regulatory modeling approaches to the understanding of genetics and disease.
+Class Time & Location: Tuesday and Thursday, 2:00 PM to 4:30 PM, Life Sciences C128
+Prerequisites: GENE3200
+Grading: This course is will be graded A-F with a total of 400 points (200 points per instructor). This is a laboratory class with ~2 hours of lecture/demonstration per week by the instructors and ~3 hours of "hands on" laboratory exercises supervised by the course assistant and/or instructor. Grades in the first half (Kissinger) will be based upon performance on lab and reading exercises (70%), quizzes (20%) and class participation (10%). Grades in the second half (Arnold) will be based upon weekly laboratory reports (90%) and class participation (10%).
+In the first of the course half assignments are due when assigned, usually at the end of each lab period. In the second half laboratory reports are due one week from their day of assignment (usually a Tuesday) on the following Tuesday. Late assignments will only be accepted if the delay or absence is cleared with the instructor prior to the occurrence except in cases of emergency.
+Text Book: The text is Discovering Genomics, Proteomics and Bioinformatics, Second Edition by Campbell and Heyer, Benjamin Cummings, 2007. It is available from the campus bookstore. NOTE: A textbook is required for class. You will use it each day for lab exercises.
+Instructors: (Office hours will be arranged for each instructor)
+Dr. Jonathan Arnold Life Sciences C308B 542-1449 arnold@uga.edu
+Dr. Jessica Kissinger Coverdell, 370 542-6562 jkissing@uga.edu
+Course Assistants: TBD
+Laboratory Schedule:
+Week 1
+
+Jan 7
+Week 2 Jan 12 Jan 14
+Week 3 Jan 19 Jan 21
+Week 4 Jan 26 Jan 28
+Week 5 Feb 2 Feb 4
+Week 6 Feb 9 Feb 11
+Week 7 Feb 16 Feb 18
+Week 8 Feb 23 Feb 25
+Week 9 Mar 2 Mar 4
+
+Introduction, how to use your computer and the text book Background on Bioinformatics/Genomics Section 1.1 Introduction to NCBI OMIM, NCBI BLAST Section 1.2
+Section 2.1 Introduction to Gene Cards, review of BLAST, Tour of NCBI resources (Entrez, TaxBrowser, Genome, Pubmed, RefSeq)
+Section 2.2 Section 2.3
+Section 3.1 Section 3.2
+Section 3.3 Discuss a paper from the literature (To Be Assigned based on interests)
+Sections 4.1-4.2 Sections 4.3-4.4
+Section 5 Bioinformatics Olympiad
+Prade et al. (1997), building a map of a chromosome Build a map of linkage group VII in N. crassa
+
+Mar 9 Mar 11
+Week 10 Mar 16 Mar 18
+Week 11 Mar 23 Mar 25
+
+Spring Break Spring Break
+Section 11.1, Introduction to genetic networks Arnold et al. (2004), qa gene cluster and its simulation
+Laboratory to build your own network Section 11.2, build the toggle switch and study its behavior
+
+Week 12 Mar 30 Apr 1
+Week 13 Apr 6 Apr 8
+Week 14 Apr 13 Apr 15
+Week 15 Apr 20 Apr 22
+Week 16 Apr 27 -
+
+Section 11.2, repressilator Get the repressilator to oscillate
+Battogtokh et al. (2002), identifying genetic networks Identify the clock network as a laboratory
+Section 6.1, microaray analysis Section 6.2, laboratory to identify all circadian genes
+Human Longevity Georgia Centenarian Database
+review
+
+UNIVERSITY HONOR CODE AND ACADEMIC HONESTY POLICY
+UGA Student Honor Code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others." A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found at www.uga.edu/ovpi.
+
+

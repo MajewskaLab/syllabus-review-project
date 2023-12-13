@@ -1,0 +1,148 @@
+ECOL 3505H (07-494) - Honors Ecology Spring Semester 2013
+
+Professor:
+
+Gary W. Barrett Eugene P. Odum Chair in Ecology
+
+gbarrett@uga.edu
+
+706.542.6065
+
+Office:
+
+194/194A Ecology Building
+
+Office hours: By appointment
+
+_____________________________________________________________________________________________
+
+Head Teaching Assistant ECOL 3505L:
+
+Kristy Segal
+
+kristy.segal@hotmail.com
+
+_____________________________________________________________________________________________
+
+Text: Fundamentals of Ecology, Fifth Edition, Eugene P. Odum and Gary W. Barrett
+
+Exercise book: Ecology Exercise Book: An Ecosystem Approach, Gary W. Barrett, Terry L. Barrett, Scott J. Connelly, Andrew S. Mehring, and James O. Moree
+_____________________________________________________________________________________________
+
+Information:
+
+In addition to assignments from the text, you are responsible for information encompassing lecture notes, handouts, DVDs, additional reading assignments, and class discussions. Therefore, attendance is mandatory if you are to maximize your understanding of principles, concepts, mechanisms, and natural laws that are presented during this course. All academic work must meet the standards contained in "a culture of honesty." Students are responsible for informing themselves about those standards before performing any academic work (http://honesty.uga.edu/ahpd/culture_honesty.htm).
+
+It is important to understand that a possible grade for withdrawal after the midpoint of the semester is a WF, which carries the same numerical grade as an F (0 points). A WF will be given 2 school days following the midpoint withdrawal deadline (21 March 2013) to those students who have stopped attending class, failed to take test #1, and consequently are failing the course at that time.
+
+It is your responsibility to make certain that all laboratory assignments are turned in on time, and that you know your grade regarding these assignments. Once the final laboratory grade is turned in to Dr. Barrett, there will be no consideration regarding changing this grade.
+
+2
+
+SYLLABUS ECOL 3505H (07-494) Honors Ecology Spring Semester 2013 - G. W. Barrett
+
+The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+THE SCIENCE OF ECOLOGY
+
+DATE JANUARY 8 (T) JANUARY 10 (R)
+JANUARY 15 (T)
+
+TOPIC Introduction: Course Objectives; Grading; Handout Materials; Learning Pyramid The Scope of Ecology: History; Ecology versus Economics; DVD: Eugene P. Odum: An Ecologist's Life Levels of Organization: Transcending Processes; Hierarchy Theory; Holism versus Reductionism
+
+ASSIGNMENT Foreword; Preface Chapter 1
+Chapter 1
+
+ECOSYSTEM ECOLOGY
+
+DATE JANUARY 17 (R)
+JANUARY 22 (T)
+JANUARY 24 (R)
+JANUARY 29 (T)
+JANUARY 31 (R)
+FEBRUARY 5 (T) FEBRUARY 7 (R)
+FEBRUARY 12 (T) FEBRUARY 14 (R) FEBRUARY 19 (T) FEBRUARY 21 (R)
+
+TOPIC Ecosystem Structure: Trophic levels; Laws of Thermodynamics; Definitions of Energetics; Ecosystem Regulation Definitions and Energy Language: Cybernetics; P/R ratios; Concept of Sustainability; Maximum Power Principle; The Ecosystem Concept The Science of Limnology: Formation of Lakes; Lotic versus Lentic Systems; Thermal Stratification; Lake Zonation Net Primary Productivity: Concept of Net Energy (Emergy); Grazing versus Detritus Food Chains; Energy Flow Models DVD: Aldo Leopold: His Life and Thoughts; Discussion on Transcending Processes and Levels of Organization Concept TEST 1 Biogeochemical Cycles: Open versus Closed Cycles; Nitrogen versus Phosphorus Cycles; Carbon Cycle (global climate change) The Watershed Concept: Nutrient Budgets; DVD: Chemistry of a Forest; Buried Seed Strategy Limiting and Regulatory Factors: Liebig Law of the Minimum; Shelford's Law of Tolerance Concept of Biological Magnification: Fire Ecology; Fire-adapted Systems DVD: Rachel Carson: Silent Spring
+
+ASSIGNMENT Chapter 2 Chapter 2 Chapter 10 (pp. 424-428) Chapter 3 Chapter 3
+Chapter 4 Chapter 4 Chapter 5 Chapter 5 Chapter 5
+
+3
+
+POPULATION ECOLOGY
+
+DATE FEBRUARY 26 (T)
+FEBRUARY 28 (R) MARCH 4 (T) MARCH 6 (R) MARCH 11-15
+
+TOPIC Properties of Populations: Age Pyramids; Concept of Carrying Capacity (K); Growth Curves Population Regulation: Patterns of Dispersal; Allee's Principle of Aggregation Metapopulation Dynamics: Home Range versus Territory; Population Regulation Test 2 Spring Break
+
+COMMUNITY ECOLOGY
+
+DATE MARCH 19 (T)
+MARCH 21 (R)
+MARCH 26 (T)
+
+TOPIC Types of Interactions: Concept of Coevolution; Positive/Negative Interactions; Role of Secondary Chemistry Habitat, Niche, and Guild: Diversity/Stability Hypothesis; Bottom Up versus Top Down Processes DVD: Strange Disappearance: The Bees
+
+ECOSYSTEM DEVELOPMENT
+
+DATE MARCH 28 (R)
+APRIL 2 (T)
+
+TOPIC Strategy of Ecosystem Development: Autogenic versus Allogenic Succession Trends in Ecological Development: Perturbation-Development Systems
+
+LANDSCAPE ECOLOGY
+
+DATE APRIL 4 (R)
+APRIL 9 (T)
+APRIL 11 (R)
+
+TOPIC Landscape Elements: Source/Sink Dynamics; Alpha, Beta, and Gamma Diversity Role of Landscape Corridors: DVD: Landscape Linkages; Island Biogeography Landscape Geometry: Agroecosystem Ecology; Concepts of LISA and IPM
+
+REGIONAL AND BIOME ECOLOGY
+
+DATE APRIL 16 (T)
+
+TOPIC The Biome Concept: Terrestrial Biomes
+
+APRIL 18 (R)
+
+The Noosphere Concept: Relationship of Precipitation and Temperature; Problem-Solving Algorithm
+
+ASSIGNMENT Chapter 6 Chapter 6 Chapter 6
+ASSIGNMENT Chapter 7 Chapter 7 Chapter 7
+ASSIGNMENT Chapter 8 Chapter 8
+ASSIGNMENT Chapter 9 Chapter 9 Chapter 9
+ASSIGNMENT Chapter 10 Chapter 10
+
+4
+
+GLOBAL AND APPLIED ECOLOGY
+
+DATE APRIL 23 (T)
+APRIL 25 (R) MAY 7 (T)
+
+TOPIC Market and Nonmarket Capital: Ecological/Societal Gaps; Concept of Aesthetics as Economy (Terry L. Barrett) Statistical Thinking: Importance of Research Design (R. Cary Tuckfield) FINAL EXAM (8:00 - 11:00 a.m.)
+
+ASSIGNMENT Chapter 11
+Chapter 12
+
+COURSE INFORMATION
+Description: Lecture, discussions, laboratory sessions, and field trips about the science of ecology mainly focus on the following levels of organization: organism, population, community, ecosystem, landscape, biome, and global. As summarized in the lecture syllabus, a broad range of topics related to the science of ecology will be covered. The lecture material will assume that you have a basic knowledge of general biology (BIOL 1108 or equivalent is a prerequisite for this course). This course also prepares you for advanced courses in limnology, population and community ecology, behavioral ecology, and ecosystem ecology.
+Textbook: The text Fundamentals of Ecology, Fifth Edition, by Eugene P. Odum and Gary W. Barrett can be purchased from the University bookstore. You are expected to read the appropriate assigned chapters before each lecture is presented. Additional readings will be used as complementary material for lecture.
+Examinations/Grading: There will be two major tests and a final exam. The final exam (3 hours) is scheduled for 8:00 -11:00 a.m. on Tuesday, 7 May 2013. Grades will be based on the following criteria:
+
+Test 1 Test 2 Discussion Lab Final Exam
+
+20% 20% 15% 25% 20%
+
+90 - 100% A 80 - 89% B 70 - 79% C 60 - 69% D
+< 60% F
+
+Example: 87% - 89% B+ 83% - 86% B 80% - 82% B-
+
+The final exam will cover material presented in lectures from 19 March through 25 April.
+Overview comments: I will periodically provide you with the opportunity to receive "Bonus Points." You must follow instructions to receive bonus points. These points will be added to the next scheduled exam. You will not be permitted to do special projects (e.g., term papers) to improve your grade later in the semester. Attend each lecture and laboratory session, understand course material on a daily basis, and you will perform well in the course. We will make a sincere effort to enrich your learning experience.
+Gary W. Barrett
+
+

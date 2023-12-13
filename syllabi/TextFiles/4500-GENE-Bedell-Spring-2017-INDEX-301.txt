@@ -1,0 +1,350 @@
+GENE4500/6500 - Human genetics - Spring 2017 Syllabus - Jan 5, 2017
+
+The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+
+Instructor:
+
+Dr. Mary Bedell 706-542-0288
+
+C110 Davison Life Sciences bedell@uga.edu Office hours by appointment
+
+Class time and location: 9:30 - 10:45 TR, 145 Science Learning Center.
+
+Prerequisite: GENE3200. Knowledge of the basic principles of classical, molecular, and population genetics is expected. Although these topics will be reviewed, you are expected to know these principles and apply them in your readings of the research papers.
+
+Course objectives: Students will gain an understanding of the following concepts relating to human genetics: the human genome; patterns of inheritance and pedigree analysis; mapping and identification of disease genes; molecular, biochemical, and cellular mechanisms of genetic disease; animal models of human genetic disorders; genetic basis for phenotypic variation, and ethical issues. Students will gain on understanding of methods and experimental approaches used to dissect molecular processes involved in human disease and phenotypic variation. Successful students will have developed a strong foundation for continued medical studies and/or research in biomedical sciences at the graduate level.
+
+Course material: A textbook is not required but reference textbooks are available from the instructor. In addition, links to general information will be provided for some topics.
+
+� All assigned readings (book chapter, primary research papers, and research review articles) as well as optional (supplemental) papers, will be available on eLC. Lecture slides, which will contain both background information and specific information that relates to the assigned readings, and study guides will be available on eLC.
+
+Class format: The assigned review articles contain important background information for the primary research paper. For each assigned primary research paper, you will be expected to understand the overarching theme of the research, the hypothesis (or hypotheses) being tested, the experimental approach(es), and the main conclusions of the research. In addition, you should be able to interpret and critically evaluate the experimental results, and formulate additional hypotheses/questions that need to be addressed.
+
+Attendance and class participation: Attendance at each class will be recorded and will count toward your grade (see next page). Students are expected to read the assigned papers before class and should be prepared to answer questions from the instructor. You are NOT expected to understand all aspects of the papers on your own. Class times (lecture and discussions) are designed to help you understand the concepts and experimental approaches. In addition, there will be multiple in-class activities where students will work in small groups to critically assess and discuss the research papers.
+
+� In-class, students will be asked questions on basic concepts, the rationale and experimental approach, and interpretation of results and conclusions in the papers. You are not expected to know all the answers! The questions are designed to encourage critical thinking and to help you apply concepts, not to embarrass you. Don't be shy during class or embarrassed that you don't know something!
+
+Quizzes: There will be 10 quizzes that will be given either in class or at home through eLC. These quizzes are designed to encourage you to read the assigned papers before class, as well as to develop your critical thinking skills and improve understanding of key concepts and experimental approaches. The top 8 quiz scores will be used to calculate your grade (see next page).
+
+1
+
+GENE4500 - Spring 2017
+
+Exams: There will be three 100-pt exams that will be based on material in assigned readings (book chapters, research, and review papers) and lecture slides. Although the exams will be noncumulative and will test primarily on topics since the preceding exam, much of the knowledge needed for these exams is cumulative.
+
+� If a student has an excused absence, a make-up exam will be given at a day and time to be arranged and within one week of the original exam. Questions and problems on the make-up exam will NOT be the same as the original test. Requests for an excused absence will be considered on a case-by-case basis by Dr. Bedell. In order to obtain an excused absence, you will have to provide written documentation for your absence. If you don't obtain an excused absence, you will not be allowed to take a make-up exam and the missed exam will be scored as a zero.
+
+Grades. The total course score will be calculated based on the following distribution:
+
+Three exams Top 8 quizzes Class participation and quizzes Course/instructor evaluations
+
+300 pts 80 pts 20 pts 2 bonus pts
+
+Scores will be totaled and then divided by 400 pts to calculate course percentage
+GENE4500H students: In addition to exams, quizzes, etc (see above), a term paper (8-to-10 pages) that provides a review and critique of a recent research paper is required for GENE4500H credit. The first part of the term paper should be written in a style like a "Preview" or "News and Views" or "Perspective". For the second part of the term paper, you will propose a hypothesis and experimental approach to follow up on experiments in the published research paper. The research paper will be chosen in consultation with Dr. Bedell and should relate to a topic in human genetics that we've discussed in this course. More details about the research proposal will be provided.
+
+� Your choice of research paper must be approved by Dr. Bedell by Friday April 14.
+
+� Your term paper must be uploaded to eLC by 5:00 pm on Friday April 28.
+
+� In addition to the scores above, the term paper will count 100 pts out of a total of 500 pts.
+
+Tentative grading scale. The course percentages shown below should be used a rough guide, actual grades will be curved relative to the performance of the entire class.
+
+Grade A AB+ B BC+ C D F
+
+Course percentage 93 - 100 90 - 92.9 87 - 89.9 83 - 86.9 80 - 82.9 77 - 79.9 70 - 76.9 60 - 69.9 < 60
+
+Academic honesty: As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: https://ovpi.uga.edu/academichonesty/academic-honesty-policy. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the Dr. Bedell.
+
+2
+
+GENE4500/6500 - Spring 2017 - Bedell
+Class schedule, assigned readings, lecture slides, and study guides
+This is a tentative schedule for assigned readings and lecture topics. Changes in assigned readings will be announced in class and posted on eLC. However, it is very unlikely that the dates for the three exams will be changed.
+All assigned readings and supplemental material are available on eLC. Lectures slides will be posted AFTER each lecture.
+
+Date 1/5 1/10 1/12
+1/17
+1/19, 1/24
+1/26
+
+Topic
+
+Assigned reading/viewing
+
+The human genome
+
+Gibson, G. (2015). A primer of human genetics (Sinauer Associates). Chapter 2 - The human genome.
+
+Human genomics
+
+Green, E. (2016) The genomic landscape circa 2016. (video)
+
+Functional Bickmore, W. A. (2013) The spatial organization of the organization of human genome. Annu Rev Genomics Hum Genet 14: 67.
+
+the nuclear genome
+
+(Review)
+
+Carlson, B. M. (2014) Human Embryology and Developmental Biology, 5th ed. (Elsevier Saunders): Gametogenesis, Chapter 1, p. 2-14 meiosis, and fertilization Clift, D. and M. Schuh (2013) Restarting life: fertilization and the transition from meiosis to mitosis. Nat Rev Mol Cell Biol 14: 549 (Review)
+
+Meiotic nondisjunction and meiotic recombination
+
+Nagaoka, S. I. et al (2012) Human aneuploidy: mechanisms and new insights into an age-old problem. Nat Rev Genet 13: 493. (Review)
+Baudat, F. (2013) Meiotic recombination in mammals: localization and regulation. Nat Rev Genet 14: 794 (Review)
+
+The early embryo: cleavage stages,
+
+Schoenwolf, G. C. et al (2015) Larsen's Human Embryology, 5th ed. (Churchill Livingstone). Intro, p. 1-12
+
+Supplemental reading or viewing Trask, B. J. (2002) Human cytogenetics: 46 chromosomes, 46 years and counting. Nat Rev Genet 3: 768 (Review)
+Handel, M. A. and J. C. Schimenti (2010) Genetics of mammalian meiosis: regulation dynamics and impact on fertility. Nat Rev Genet. 11: 124
+Schoenwolf, G. C. et al (2015) Larsen's Human Embryology, 5th ed. (Churchill Livingstone). Chapter 3, p. 57-71.
+
+GENE4500/6500 - Spring 2017 - Bedell
+
+implantation, and gastrulation
+
+Niakan, K. K. et al (2012) Human pre-implantation embryo development. Development 139: 829-841 (Review)
+
+Carlson, B. M. (2014) Human Embryology and Developmental Biology, 5th ed. (Elsevier Saunders): Chapter 3
+
+Schoenwolf, G. C. et al (2015) Larsen's Human Embryology, 5th ed. (Churchill Livingstone). Chapter 1, p. 35-42
+1/31 and 2/2 classes cancelled because of illness
+The first 2/7 ldienceiasgioen in the Cleosscoknbsurfnro, mK.thanedmJo.uRsoe.ssJaCntli(n20In1v0e)sMt 1a2k0in: g99th5e blastocyst:
+early embryo
+
+Introduction to Jaenisch, R. and R. Young (2008) Stem cells, the
+
+2/9 pluripotent molecular circuitry of pluripotency and nuclear
+
+stem cells
+
+reprogramming. Cell 132: 567
+
+2/14
+2/16, 2/21
+2/23, 2/28
+
+Exam 1
+Molecular mechanisms in differentiation of pluripotent stem cells epigenetic regulation
+Molecular mechanisms in differentiation of pluripotent stem cells alternative splicing
+
+Lee, T. I. et al (2006) Control of developmental regulators by polycomb in human embryonic stem cells. Cell 125: 301
+Part I of video of introduction to this paper - you should watch this before class on 2/16 (approx 19 min)
+Part II of video of introduction to this paper - you should watch this before class on 2/16 (approx 30 min) Gabut, M. et al (2011) An alternative splicing switch regulates embryonic stem cell pluripotency and reprogramming. Cell 147: 132
+Gravely, B. R. (2011) Splicing up pluripotency. Cell 147: 22 (Preview of Gabut et al)
+
+Frum, T. and A. Ralston (2015) Cell signaling and transcription factors regulating cell fate during formation of the mouse blastocyst. Trends Genet 31: 402. Spagnoli, F. M. and A. Hemmati-Brivanlou (2006) Guiding embryonic stem cells towards differentiation: lessons from molecular embryology. Curr Opin Genet Dev 16: 469
+Keenen, B. and I. L. De La Serna (2008) Chromatin remodeling in embryonic stem cells: Regulating the balance between pluripotency and differentiation. J Cell Physiol 219 :1-7.
+Fu, X.-D. and M. Ares. (2014) Contextdependent control of alternative splicing by RNA-binding proteins. Nat Rev Genet. 15: 689.
+Jangi, M. and P.A. Sharp (2014) Building robust transcriptomes with master splicing factors. Cell 159: 487.
+
+2
+
+GENE4500/6500 - Spring 2017 - Bedell
+
+Part I of video of introduction to this paper - you should watch this before class on 2/23 (approx 30 min)
+
+Part II of video of introduction to this paper - you should watch this before class on 2/23 (approx 30 min)
+
+Musunuru, K (2013) Genome editing of human induced
+
+pluripotent stem cells to generate human cellular disease
+
+models. Dis Models Mech 6: 896. (Review) Introduction to
+
+induced pluripotent
+
+Note that the paper by Musunuru includes a nice summary Apostolou, E. and K Hochedlinger (2013)
+
+of the paper by Reinhardt et al (2013) - see below
+
+Chromatin dynamics during cellular
+
+3/2 stem cells
+
+reprogramming. Nature 502: 462
+
+(iPSCs) and
+
+genome editing Shi, Y. et al (2017) Induced pluripotent stem cell
+
+technology: a decade of progress. Nat Rev Drug Discov
+
+16: 115 (Review) (note that you should read the parts
+
+marked in red)
+
+Review of mutations and modes of inheritance, genetic mapping
+
+Video will be posted online - the video represents two days of lecture
+The video is in three parts -
+Part I - Mutations and modes of inheritance (posted 3/13)
+Part II - Mendelian traits (posted 3/19)
+
+Alkuraya, F. S. (2013) The application of nextgeneration sequencing in the autoygosity mapping of human recessive diseases. Hum Genet. 132: 1197
+Bamshad, M.J. et al (2011) Exome sequencing as tool for Mendelian disease gene discovery. Nat Rev Genet 12: 745 (Review)
+
+Part III - Complex traits (posted 3/19)
+
+33//610- Spring Break
+
+Using induced Reinhardt, P. et al (2013) Genetic correction of a LRRK2 pluripotent mutation in human iPSCs links Parkinsonian 3/14 stem cells to neurodegeneration to ERK-dependent changes in gene model genetic expression. Cell Stem Cell 12: 354 disorders
+
+Schiesling, C. et al (2008) Review: Familial Parkinsons' disease - genetics, clinical phenotype and neuropathology in relation to the common sporadic form of the disease. Neuropath Appl Neuro 34: 255.
+
+Using induced Young, C. S. et al (2016) A single CRISPR-Cas9 deletion Guiraud, S. et al (2015) The pathogenesis and 3/16 pluripotent strategy that targets the majority of DMD patients restores therapy of muscular dystrophies. Annu Rev
+
+stem cells to
+
+Genomics Hum Genet 16: 281.
+
+3
+
+GENE4500/6500 - Spring 2017 - Bedell
+
+model genetic dystrophin function in hiPSC-derived muscle cells. Cell disorders (cont) Stem Cell 18: 533.
+
+Breitbart, A. and C. E. Murry (2016) Imprecision medicine: A one-size-fits-many approach for muscle dystrophy. Cell Stem Cell 18: 423 (Preview of the paper by Young et al)
+
+3/21 Rexeavmiew2 for None!
+
+3/23 Exam 2
+
+Id of mendelian Attanasio, M. et al (2007) Loss of GLIS2 causes
+
+trait -
+
+nephronophthisis in humans and mice by increased
+
+3/28 autozygosity apoptosis and fibrosis. Nat Genet 39: 1018
+
+mapping
+
+Vasyutina, E. and M. Treier (2010) Molecular mechanisms in renal degenerative disease. Sem Cell Devel Biol 21: 831.
+
+Functional validation of
+
+Musunuru, K. et al (2010) From noncoding variant to phenotype via SORT1 at the 1p13 cholesterol locus.
+
+3/30 SNPs identified Nature 466: 714
+
+through GWAS
+
+Strong, A. and D. J Rader (2012) Sortilin as a regulator of lipoprotein metabolism Curr Atheroscler Rep 12: 211
+Holdt, L.M. and D. Teupser (2013) From genotype to phenotype in human atherosclerosis - recent findings. Curr Opin Lipidol 24: 410
+
+Sankaran, V. G. et al (2008) Human fetal hemoglobin
+
+Stamatoyannopoulos, G. (2005) Control of globin gene expression during development and
+
+Functional validation of
+
+erexpprreessssoior nBiCsLre1g1uAla. tSecdiebnycteh3e2d2e:v1e8lo3p9mental stage-specific erythroid differentiation. Exp Hematol. 33:259
+
+4/4, SNPs identified 4/6 through GWAS Michelson, A. M. (2008) From genetic association to
+
+Sankaran, V. G. et al (2010) Advances in the
+
+(cont)
+
+genetic switch. Science 322: 1803. (Perspective on
+
+understanind of haemoglobin switching. Br J Haematol 149: 181 - 194 (through the section on
+
+Sankaran et al)
+
+KLF1 on p. 186)
+
+Long-range Xu, J. et al (2010) Transcriptional silencing of gamma-
+
+4/11 transcriptional globin by BCL11A involves long-range interactions and
+
+regulation
+
+cooperation with SOX6. Genes Dev 24: 783
+
+Kim, A. and A. Dean (2012) Chromatin loop formation in the b-globin locus and its role in globin gene transcription. Mol Cells 34: 1
+
+4/13 Hevuomluatnion
+
+Gibson, G. (2015). A primer of human genetics (Sinauer Associates).Chapter 3 - Human evolution.
+
+Paabo, S (2014) The human condition - A molecular approach. Cell 157: 216
+
+4
+
+GENE4500/6500 - Spring 2017 - Bedell
+
+Eichler, E. (2011) Evolution of human duplications: genomic instability and new genes
+
+Fan, S. et al (2016) Going global by adapting local: a review of recent human adaptation. Science 354: 54
+
+Structural
+
+You should watch this video before class
+
+4/18 variation in the youtu.be/wV8fYgjV7Ek?t=50s
+
+human genome
+
+Lecture slides 16 - 25 have images from the video that are higher resolution than in the video
+
+O'Bleness, M. et al (2012) Evolution of genetic
+
+Dennis, M. Y. et al (2012) Evolution of human-specific and genomic features unique to the human
+
+neural SRGAP2 genes by incomplete segmental
+
+lineage. Nat Rev Genet. 13: 853. (Review)
+
+duplication. Cell 149: 912
+
+Creation of a
+
+2 supplemental papers added 4/16/17
+
+human-specific Geschwind, D. H. and G. Konopka (2012) Genes and
+
+4/20 gene by
+
+human brain evolution. Nature 486: 481 (News and Views Dennis, M.Y. and E. E. Eichler (2016) Human
+
+segmental
+
+of Dennis et al)
+
+adaptation and evolution by segmental
+
+duplication
+
+duplication. Curr Opin Genet Devel 41:44
+
+Tyler-Smith, C. and Y. Xue (2012) Sibling rivalry among
+
+paralogs promotes evolution of the human brain. Cell 149: Charrier, C. et al (2012) Inhibition of SRGAP2
+
+737. (Preview of Dennis et al)
+
+function by its human-specific paralogs induces
+
+neoteny during spine maturation. Cell 149: 923.
+
+4/25 Gdiesnoordmeircs
+
+Ballif, B. C. et al (2007) Discovery of a previously unrecognized microdeletion syndrome of 16p11.2-p12.2. Nat Genet. 39:1071 (very short!)
+Shinawi, M. et al (2010) Recurrent reciprocal 16p11.2 rearrangements associated with global developmental delay, behavioral problems, dysmorphism, epilepsy, and abnormal head size. J. Med. Genet. 47:332.
+Horev, G. et al (2011) Dosage-dependent phenotypes in models of 16p11.2 lesions found in autism. Proc. Natl. Acad. Sci. 108:17076
+
+Malhotra, D. and J. Sebat (2012) CNVs: Harbingers of a rare variant revolution in psychiatric genetics. Cell 148: 1223
+Golzio, C. and N. Katsanis. (2013) Genetic architecture of reciprocal CNVs. Curr Opin Genet Dev 23:240
+
+5/2 Exam 3, 9:00am - 11:00am
+
+5
+
+GENE4500/6500 - Spring 2017 - Bedell 6
+
+

@@ -1,0 +1,47 @@
+SYLLABUS -Fall 2019--MIBO4600L Experimental Microbiology Lab
+
+Times & Locations: Tuesday & Thursday 2:00-5:00 pm in Room 328 Biological Sciences Building; Some classes may be held in the Microbiology Conference Room (201) NOTE: if you have an obligation that precludes you from staying until 5 pm on a regular bais or on occasion, you must discuss this issue with Dr. Neidle or Dr. Hoover.
+
+Instructors: Dr. Neidle (eneidle@uga.edu), room 529 BioSci, 542-2852; Dr. Hoover (trhoover@uga.edu), room 548 BioSci, 542-2675 TAs: Emily McIntyre (emcintyre@uga.edu), room 531 BioSci, 542-3411
+Andrew Wiggins (agw24034@uga.edu), room 263 BioSci, 542-2664
+
+Course Objectives: The objectives of the course are (i) introduce students to modern genetic and molecular tools used to analyze microorganisms; (ii) acquaint students with aspects of experimental design; (iii) train students in the proper method for recording scientific data; and (iv) help students develop skills in the critical analysis of data and research literature.
+
+Course Design: Original research will be conducted to characterize predicted LysR-type transcriptional regulators (LTTRs) in Acinetobacter baylyi ADP1. Students will work in groups of four, and each group will have a research project that dovetails with the projects of the other groups. We will start the course with everyone working on two transcriptional regulators that control the ability of the bacteria to grow using tricarballylate (tcb) as the sole carbon and energy source. The genes needed to degrade tcb are are called tcu genes (for TriCarballylate Utilization). One transcriptional regulator is called TcuR (R stands for regulator). The other regulator is called TclR (in this case, the "l" means that this regulator is "like" TcuR). Later in the semester we will also be working on a regulator that controls the ability of the bacteria to synthesize an amino acid, leucine (leu). The experimental approaches may include bioinformatics, the isolation of directed and spontaneous mutations in LTTR genes and their target regulatory sequences, creating strains with reporter genes under the control of LTTR-regulated promoters, different types of PCR techniques, and DNA sequence analysis. This course will cover various topics related to genetics, biochemistry, bacterial physiology, and molecular biology.
+
+Preparation for this course: Students must be familiar with microbial genetics and metabolism. It will be very useful to review bacterial replication, gene structure, transcription, translation, and regulation of transcription and metabolism. Your textbook from Introductory Microbiology (MIBO3500 or MIBO2500 or the equivalent) is a good resource. There are also many online resources. As needed, please contact the instructors and/or the TA for additional suggested resources (books, articles, websites, etc.).
+
+Class Schedule: Check eLC site daily for details of the schedule and for assignments. You are responsible for checking your UGA email daily. Make sure to forward email from elc to an account that you check often. The academic calendar for UGA can be found at: https://reg.uga.edu/generalinformation/calendars/academic-calendars/
+Dates for Exams are: Exam 1, Thurs, September 19th, 2019; Exam 2, Thurs, October 24th, 2019; Final Exam, Thurs, December 12th, 2019, 3:30-6:30 pm.
+
+Assignments: Check the eLC site to find your assignments & deadlines. Protocols, reading assignments (journal articles, reviews, supplemental information for protocols), and worksheets will be posted on the eLC course page. You are required to complete assigned material by the stated deadline; at the start of each lab all students must be prepared to perform the experimental protocols.
+
+Lab notebooks: Lab notebooks must be up to date, including the protocols to be performed on the same day!! Protocols must be hand written and reflect that you understand them or include questions to ask during the pre-lab discussion. If the protocol includes questions, answer them in a file that will be uploaded to eLC by the designated date!! After each week in the lab, there will be an assignment due on Sunday (by midnight) to be submitted on eLC based on that week's lab work.
+
+MIBO4600L 2019
+
+1
+
+SYLLABUS -Fall 2019--MIBO4600L Experimental Microbiology Lab
+
+Group work: You will be assigned to a research group. As a research team you will work together to plan, perform, and interpret the experiments. Each research team will provide periodic reports or presentations and give a final research presentation to the class. For each assignment you will be told how the grades will be determined.
+
+Individual work: Each student is responsible for maintaining his or her own laboratory notebook. Instructions for keeping a good lab notebook will be given at the beginning of the course and are on eLC. Your lab notebook is individual work; do not copy classmates' interpretation of results, data, etc. You should discuss results as a group but your interpretation must be in your own words. Worksheets will be assigned periodically. Unless you are given other instructions, these are to be worked on without consulting anyone in or outside of the class, i.e. they should reflect the individual's work and knowledge base. For all write-ups, presentations, and lab notebook, DO NOT plagiarize any material from the web, research literature, etc. You must indicate when you are quoting or paraphrasing another source and appropriately reference the source.
+
+Grades: The total number of points that you can earn in the class is 1000 points. There will be 2 inclass exams, each worth 100 points, and a cumulative final exam, worth 160 points. The laboratory notebook is worth 180 points, and weekly assignments based on lab work are worth 150 points. Periodically, there will be worksheets, reports, presentations and/or quizzes. Combined, these assignments will be worth 150 points. Discussion and participation in class is 60 points. The final presentation is worth 100 points. A pre-course learning assessment will be worth up to 20 bonus points, depending on the number of correct answers; 10 bonus points if you get a score of 75% or more correct, and 20 bonus points if you get a score of 85% or more correct (note: at the end of the semester the bonus points are added to the final total number of points that you earned in the class). Grade Scale: A 1000-930, A- 929-900, B+ 899-870, B 869-830, B- 829-800, C+ 799-770, C 769-730, C- 729-700, D 699-600, F <600.
+
+Course Policy: You are allowed no unexcused absences; 100 points will be deducted from your final grade for every unexcused absence. Excused absences are only absences for which you have a University-approved excuse to miss a class (i.e. doctor's excuse that says you were too sick to attend class on the day that you missed or a University-approved activity such as competition in a UGAsponsored event.) If you have professional school interviews, you must arrange in advance with Dr. Neidle or Dr. Hoover to miss any lab classes. There are NO make-up exams/quizzes...NO exceptions. If you miss an exam/quiz due to an excused absence you will need to meet with Dr. Neidle or Dr. Hoover to arrange how your missing exam/quiz grade will be handled. If you miss an exam without an approved excuse, then you will receive a grade of zero for the exam/quiz. You must use a pen to take the exams/quizzes or you cannot request a re-grade. Re-grading must be requested in writing with an explanation of the reason that re-grading is needed. You have 7 days after the exam is returned to the class to request a re-grade (turn in your request the TA).
+
+There are no designated office hours for the Instructors or TA; you may set up appointments with the instructor or TA by e-mail (Please do not just drop by our offices or labs!)
+
+All academic work must meet the standards contained in "A Culture of Honesty." Students are responsible for informing themselves about those standards before performing any academic work. http://www.uga.edu/ovpi/academic_honesty/academic_honesty.htm
+
+The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+
+Experiential Learning: This course has been approved to satisfy the requirement for an experiential learning course for Franklin College.
+
+MIBO4600L 2019
+
+2
+
+

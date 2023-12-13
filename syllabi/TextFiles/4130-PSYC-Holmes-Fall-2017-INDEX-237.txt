@@ -1,0 +1,83 @@
+SYLLABUS FOR PSYC 4130, Physiological and Comparative Psychology, FALL 2017
+Philip V. Holmes, Ph.D.; Chair, Neuroscience Program, Biomedical and Health Sciences Institute; Professor, Psychology Department and AU/UGA Medical Partnership Room 616 Psychology; Office hours: Mon. 9-11 AM Teaching assistant: Courtney Burton Lecture: Tues/Thurs 9:30-10:45 AM, Room 350, Miller Learning Center Prerequisite: PSYC 2990 or BIOL 1108
+Required Technology: This course will use the Top Hat student participation system (see: http://www.ctl.uga.edu/top-hat/students). A small fee is required to register (options range from $18$45). Any web-enabled device or traditional cell phone may be used to interface with Top Hat. Join code: 394695
+Required Text: Lambert, Biological Psychology, Oxford University Press
+Grading and Assignments: 3 Exams: 75%; Quizzes and participation: 10%; Abstract assignment (summary of an original research report from the behavioral neuroscience literature): 15%
+Course description from bulletin: The biological bases of human and nonhuman behavior, with emphasis on underlying physiological mechanisms and on the development, evolution, and function of behavior.
+Objectives: Upon successful completion of the course, students should understand: 1) the structure and function of neurons and basic neurophysiology; 2) basic neuroanatomy; 3) the anatomy and function of autonomic, endocrine, motor, and sensory systems; 4) the evolutionary continuum between species and the evolution of behavior; 5) the neurobiological bases of fundamental behaviors such as feeding, reproduction, defense, circadian rhythms, learning, etc.; 6) the neurobiological bases for psychopathology.
+PLEASE NOTE: The topic of this course is the biological basis of behavior. This course is not a good choice for those who have no interest or aptitude in biological science. This syllabus serves as a guide and modifications may occur as the course progresses.
+Attendance policy: Attendance at every class session is required with reasonable exceptions (e.g. personal or family illness, professional meetings/interviews, official University functions, etc.).
+Reference to University Honor Code and Academic Honesty Policy: All academic work must meet the standards contained in "A Culture of Honesty." All students are responsible to inform themselves about those standards before performing any academic work.
+I. Introduction, definitions, and perspective (8/15-22) Text: Chapter 1; Chapter 13, pages 373-379.
+Team-based learning activity and quiz: 8/17
+II. Neuroanatomy (8/24-29) Text: Chapter 2
+A. Major cell types of the Central Nervous System 1. Neurons 2. Glia
+
+B. The Peripheral nervous system 1. Cranial nerves 2. The autonomic nervous system a. sympathetic b. parasympathetic
+C. Gross anatomy of the CNS 1. Orientation/planes of section 2. Anatomical subdivisions a. forebrain i. telencephalon ii. diencephalon b. midbrain (mesencephalon) c. hindbrain i. metencephalon ii. myelencephalon d. spinal cord 3. Vascular and ventricular systems of the brain
+III. Cells and circuits and review of basic cell biology (8/31) Text: Chapter 3 (and supplementary material as necessary for you to review basic cell biology)
+A. Chemical constituents of a cell 1. Water and ions 2. Fatty acids, phospholipids 3. Amino acids, peptides, proteins 4. Carbohydrates 5. Nucleic acids, DNA, genes
+B. Organelles (eukaryotic cells) 1. Membrane a. receptors b. ion channels/pumps c. transporters 2. Cytoskeleton 3. Nucleus 4. Ribosomes and rough endoplasmic reticulum (ER) 5. Smooth ER and Golgi apparatus 6. Mitochondria
+C. Gene expression: structural information flow from genes to amino acids D. Features of a typical neuron
+1. Dendrites 2. Cell body 3. Axon 4. Terminal/synaptic bouton
+IV. Basic neurophysiology (9/5) A. Membrane potentials 1. Ions 2. Nernst equation 3. Pumps/transporters B. Action potentials 1. Sodium channels 2. Potassium channels
+
+3. Calcium channels 4. Conduction C. Synapses 1. Neurotransmission (presynaptic events)
+a. depolarization b. calcium channels c. transmitter release 2. Neurotransmission (postsynaptic events) a. EPSP b. IPSP
+V. Methods in neuroscience (9/7) Text: Appendix
+A. What is science? B. Literature searches C. Surgical and behavioral methods (in vivo):
+1. Surgical methods a. stereotactic surgery b. lesions c. electrophysiology d. microdialysis
+2. Behavioral methods a. spontaneous behavior b. learning/memory paradigms c. emotional behavior i. appetitive ii. aversive
+3. Transgenics and gene transfer D. Molecular and physiological methods (ex vivo or in vitro): in situ hybridization, immunocytochemistry, radioimmunoassay, receptor binding
+Exam I: September 12
+VI. Neurochemistry and Psychopharmacology (9/14-19) Text: Chapter 4
+A. Principles of pharmacology 1. Potency 2. Efficacy 3. Agonist 4. Antagonist
+B. Receptors 1. Ligand-gated ion channels 2. Ligand-gated transporters 3. Second messenger systems
+C. "Classical" or "small molecule" transmitter/receptor systems 1. Acetylcholine 2. Dopamine 3. Norepinephrine 4. 5-hydroxytryptamine (serotonin, 5-HT) 5. Excitatory amino acids (glutamate) 6. Inhibitory amino acids (gamma-amino-butyric acid, GABA)
+
+D. Peptide neurotransmitters E. Neurohormones and neurotrophic factors
+
+VII. Evolution, Development, and Plasticity of the CNS (9/21)
+Text: Chapter 5 A. Evolution of brain and behavior B. Epigenetics and behavior C. Neural development 1. Neurogenesis 2. Neuroplasticity 3. The aging brain D. Brain injury and recovery
+
+VIII. Sensation and Perception (9/26-10/3)
+Text: Chapter 6 A. Vision 1. Anatomy of the eye 2. Retina and photoreceptors a. Cones and rods b. Opponent process theory of color vision 3. Central visual pathways B. Hearing 1. Anatomy of the outer, middle, and inner ear 2. Cochlea and vestibular system 3. Central auditory pathways C. Touch and somatosensation 1. Fine touch and pressure: Dorsal column medial 2. Pain: Spinothalamic tract D. Olfaction and pheromones
+
+lemniscal
+
+pathway
+
+IX. Movement (10/5)
+Text: Chapter 7 A. Motor systems anatomy B. Adaptive movements and exercise C. Movement disorders
+
+X. Neuroendocrine Systems: Hormones and Behavior (10/10-17)
+Text: Chapter 11 A. Neuroendocrine systems 1. The Hypothalamo-Pituitary-Adrenal or HPA axis (anterior pituitary) 2. The HP-Gonadal axis 3. Neurohypophysis (posterior pituitary) B. Sexual differentiation and development C. Sexual behavior D. Parental behavior
+
+EXAM II: October 19
+
+XI. Homeostasis and Motivation (10/24-26)
+Text: Chapter 8 A. Motivational and reward circuitry
+
+B. Hunger and energy balance C. Thirst and fluid regulation
+XII. Biorhythms and Sleep (10/31) Text: Chapter 9
+A. Circadian rhythms 1. Zeitgebers 2. Suprachiasmatic nucleus
+B. Sleep 1. EEG sleep stages 2. Neural mechanisms 3. Sleep disorders
+C. Neural basis of conciousness
+XIII. Emotional Behavior and Emotion Regulation (11/2-7) Text: Chapter 10
+A. Emotional expression: evolutionary perspectives B. Aversively motivated behavior
+1. Fear a. Fight or flight response revisited b. Stress
+2. Defensive aggression C. Appetitively motivated behavior
+1. Reward systems revisited 2. Offensive aggression D. Emotion regulation
+XIV. Learning and Memory (11/9-14) Text: Chapter 12
+A. Basic concepts in learning and memory 1. Nonassociative a. habituation b. sensitization 2. Associative a. Pavlovian conditioning b. operant conditioning
+B. Complex learning and memory 1. Declarative 2. Nondeclarative or procedural
+C. Neurobiological bases for learning 1. Brain circuits 2. Cellular and molecular mechanisms
+Abstract assignment due November 16
+XV. Psychopathology (11/16-21) Text: Chapter 13
+A. Schizophrenia 1. Symptoms 2. Neurobiological bases
+B. Depression
+
+1. Symptoms 2. Neurobiological bases C. Anxiety disorders D. Animal models of psychopathology
+FINAL EXAM: Tues., Dec. 12, 8:00 - 11:00 am
+
+

@@ -1,0 +1,201 @@
+Course Syllabus for SOIL MICROBIOLOGY CRSS (MIBO) 4610/6610
+FALL 2022
+The course objective is to familiarize the students with the basic concepts of soil microbiology, including introduction to the major soil microbial communities, their function and role in the environment and methods for their detection and characterization. At the end of the course, students are expected to know the major groups of microorganisms, the service they provide in environment from environmental and agronomic perspectives and techniques for studying them and their function in soil.
+
+Instructor
+Dr. Mussie Habteselassie 276 Redding Building Griffin, GA 30223 Phone: 770-2293336 Email: mussieh@uga.edu
+
+Office hours Any time; call or e-mail to check my presence before you come
+
+Credit: 3 hours
+Lecture: MW 9.10 - 10:00 am
+Laboratory: F 1:50 - 3:45 pm
+
+Classrooms
+Lecture in Athens: Miller Plant Sciences Building, R-3203 Lecture in Griffin: Student Learning Center, R-215 Lab in Athens: Miller Plant Sciences Building, R-3406 Lab in Griffin: Redding Building, R-275
+
+Textbook: Principles and Applications of Soil Microbiology (2nd edition). 2004. David M. Sylvia, Jeffry J. Fuhrmann, Peter G. Hartel, David A. Zuberer.
+
+Reference: Soil Microbiology, Ecology and Biochemistry, 3rd Ed. 2007. Eldor A. Paul (Editor).
+
+Course requirements:
+# Type of requirement 1 Three exams
+(2 mid exams - 100 pts each; final exam = 200 pts) 2 Lab hand-ins/reports (9 in total) 3 Attendance and participation 4 Short term paper and presentation
+Total
+
+Percent of final grade Undergraduates Graduates
+
+65%
+
+60%
+
+30% 05% NA 100%
+
+25% 05% 10% 100%
+
+Grading system: 100-90 = A, 89-80 = B, 79-70 = C, 69-60 = D, <60 = F
+
+Missing exams and laboratory reports: No make-ups exams will be given without prior permission from the instructor or medical reasons. Late lab handins/reports are subject to point deductions and will not be accepted three days after the deadline unless one has a good reason.
+Attendance: Everyone is expected to attend; see course requirements section for attendance points.
+Academic honesty: All academic work must meet the standards contained in "A culture of Honesty."http://www.uga.edu/honesty/ahpd/culture_honesty.htm. Students are responsible to inform themselves about those standards before performing any academic work.
+Disability: If you have a disability and require classroom accommodations, please see me after class or make an appointment during office hours. If you plan to request accommodations for a disability, please register with the Disability Resources Center through the Office of Student Affairs.
+
+COVID-19 Note: The University System of Georgia encourages everyone--whether vaccinated or not--to wear a face covering while inside campus facilities. However, face coverings and social distancing are not required.
+
+Lectures:
+
+#
+
+Day
+
+Topic
+
+1 Aug 17 - 24 Class Introduction and Background
+
+Syllabus; overview and historic perspectives; soil as a
+
+habitat for microorganisms
+
+2 Aug 29 -
+
+Microbial Growth and Metabolism
+
+Sept 12
+
+Microbial growth requirements; growing microorganisms
+
+in the lab, phases of bacterial growth, mathematical
+
+expressions of microbial growth, chemical foundations of
+
+metabolism, metabolic strategies
+
+Sept 5
+
+Labor Day - Holiday
+
+3 Sept 14 - 26 Soil Microbial Community
+
+Bacteria; archaea; fungi; algae; meso- and macro-fauna:
+
+earthworms, protozoa and nematodes, arthropods; soil
+
+viruses
+
+4 Sept 28 -
+
+Methods for Studying Soil Microorganisms
+
+Oct 5
+
+Sample collection; microscopy; chemical analyses of signal
+
+molecules (cytoplasmic constituents, ATP, etc); nucleic
+
+acid analyses (DNA and RNA analyses for soils, PCR, etc);
+
+physiological analyses (culture studies, isolation and
+
+characterization, respiration); enzyme assays
+
+5 Oct 10 - 17 Carbon Cycle and Soil Organic Matter Carbon pools; soil organic matter (SOM) fractions; sources of organic matter; SOM decomposition and modeling; factors affecting SOM decomposition
+
+6 Oct 19 - 24 Nitrogen Cycle and Management N pools; soil N processes (mineralization, immobilization, nitrification, biological N fixation, denitrification); soil N management and environmental consequences
+
+7 Oct 26 - 31 Phosphorous Cycle and Management
+
+P pools and forms; P mineralization and factors affecting
+
+it; P management and environmental impacts,
+
+mycorrhizae
+
+8 Nov 2 - 7
+
+Sulfur and other Nutrient Cycles
+
+Importance of S and other nutrients, S forms and
+
+processes (mineralization, immobilization, assimilatory
+
+and dissimilatory S reductions); environmental aspects of
+
+S cycle
+
+9 Nov 9 - 16 Bioremediation and Composting
+
+Soil contaminants; extent of problem; techniques of
+
+bioremediation; advantage and disadvantages of
+
+bioremediation; case studies of soil bioremediation;
+
+composting as one form of bioremediation
+
+10 Nov 21 - 30 Global Gases and Soil Microorganisms
+
+Type and nature of global gases, importance of global
+
+gases; factors affecting greenhouse gas release from soils
+
+Nov 23 - 25 No class - Thanksgiving break
+
+11 Dec 5
+
+Review (Last day of class)
+
+Laboratory Schedule - Athens Campus Teaching Assistant - Mathew Molini (mdm44514@uga.edu)
+
+Week Date
+
+Laboratory Activity
+
+1 26 Aug Winogradsky column set up (short field trip)
+
+2
+
+2 Sep Bacterial and fungal enumeration (start)
+
+3 9 Sept Nitrification (time = day 0)
+
+Bacterial and fungal enumeration (counts)
+
+4 16 Sep Water quality analysis (MPN)
+
+Winogradsky column observation (wk 2)
+
+5 23 Sep Soil respiration (start)
+
+6 30 Sep Soil respiration (end)
+
+Winogradsky column observation (wk 4)
+
+Nitrification (end; time = wk 2)
+
+7 Oct Mid-term Exam I
+
+7 14 Oct Soil enzyme (phosphatase)
+
+Winogradsky column observation (wk 6)
+
+8 21 Oct Result discussion
+
+28 Oct Fall Break - No lab
+
+4 Nov Mid-term Exam II
+
+9 11 Nov Soil enzyme (urease assay)
+
+10 18 Nov Soil DNA extraction, electrophoresis and
+
+visualization of PCR products
+
+25 Nov Thanksgiving break - No Lab
+
+11 2 Dec Review
+
+There will be mini quizzes before every session to encourage students to read the laboratory handouts before they come to the laboratory.
+The course syllabus is a general plan for the course; deviations announced to the class by the instructors may be necessary.
+Holidays: Labor Day, Sept 5; Fall break, Oct 28; Thanksgiving break, Nov. 23-25.
+
+

@@ -1,0 +1,192 @@
+ECOL/BIOL 4150L/6150L: Population Biology of Infectious Diseases
+Spring 2018
+Lecture: Tue & Thu 11:00-12:15 Lab: Mon or Wed 1:30-3:00 Place: auditorium (lecture); conference room 12 (discussions)/computer room 29 (lab)
+Instructors: Dr. Courtney Murdock (260 Vet Med Bldg.) Phone: 542-2083 cmurdock@uga.edu
+Dr. Sonia Altizer (190 Ecology Bldg.) Phone: 542-9251 saltizer@uga.edu Dr. Pej Rohani (36 Ecology Bldg.) Phone: 542-8838 rohani@uga.edu Teaching Assistant:
+Ania Majewska (191 Ecology Bldg.) Phone: 542-3485 majewska@uga.edu Office hours: By appointment
+Description: This course introduces students to the field of infectious disease ecology, an area of study that has developed rapidly over the past three decades and addresses some of the most significant challenges to human health and conservation. Students will learn about the incredible diversity of parasitic organisms, arguably the most abundant life forms on the planet, and examine how infections invade and spread through host populations. Throughout the course, an emphasis will be placed on understanding of infectious diseases dynamics at the population level. Specific topics include types of pathogens and their ecological properties, epidemiology and impacts on host populations, types of transmission, evolution of resistance and virulence, drivers of the emergence of new diseases, parasites in the context of ecological communities, strategies for controlling outbreaks, and the role of parasites in biodiversity and conservation.
+Class objectives: 1. Provide an understanding of biological interactions between hosts and their
+microbes/parasites 2. Increase familiarity with quantitative approaches for studying infectious disease spread 3. Review current research and case studies in the field of infectious disease ecology 4. Enhance appreciation for the taxonomic and biological diversity of parasitic organisms and
+host responses to infection 5. Examine the importance of parasites in biodiversity conservation and human health 6. Consider the role of ecology and evolution in predicting pathogen emergence and responding
+to epidemics
+Format: The course format includes lecture, discussion of scientific papers, computer assignments and problem sets. Students are expected to attend lectures on a regular basis, complete regular assignments, and prepare for and participate in class discussions.
+Prerequisites: This course assumes familiarity with general ecology and biology, and past coursework in calculus, linear algebra or statistics.
+Attendance: Most students find the lecture topics to be interesting. As we have no formal text, lectures will not duplicate material found elsewhere. Since students will be responsible for this
+1
+
+information on the exams, attendance and note taking are important. Students who miss a class will be expected to submit assignments on time. More than 6 unexcused absences from lecture, and 4 unexcused absences from weekly labs/discussion sessions may result in an automatic lowering of the final score by one letter grade. (Excused absence requests should be submitted in writing prior to or immediately following an absence, with appropriate documentation).
+Labs and assignments: Laboratory attendance is mandatory, and students must arrive on time. Assignments will accompany lab activities. Unless otherwise specified, homework assignments will be due by 5pm one week following the distribution of the assignment. All lab assignments will be submitted electronically via eLC. Late assignments will be penalized 10% per week day. For weeks where a discussion is indicated as the lab activity, students should come to the discussion section with a short (1/2 page SS) summary of the assigned reading.
+Reading materials: Reading material for this course is based on journal articles and book chapters. Lectures will often refer to ideas and results from assigned readings, and exams will cover content from each of the readings. A full reading list is maintained at the end of the syllabus, and papers will be uploaded onto eLC (https://uga.view.usg.edu/) prior to the assigned reading date.
+Lecture quizzes: Approximately 15 minutes into many of the lectures, a short quiz will be given. Quizzes will consist of questions that are designed to assess student comprehension of the previous lecture and/or the assigned reading material for the current lecture. We expect approximately 15 quizzes will be given during the term. Make-up quizzes will not be offered, but students can drop their four lowest quiz scores at the end of the semester, which can include quizzes that were missed owing to class absences.
+Exams: There will be two in-class exams on February 22 and on April 19. Exams will include a variety of question types, such as T/F, Multiple choice, Short answer, and Essay.
+Participation: Students will be graded based on their participation in lecture, lab, and during the end of year symposium. Participation includes asking questions, actively listening, arriving on time to lab and lecture, and participating in occasional short in-class activities (e.g. students team up to discuss a question and individual, written responses are handed in to the instructor).
+Grade calculation: 30% Lab assignments 10% Lecture quizzes 25% First exam 25% Second exam 10% Participation, symposium and class discussions
+Enrollment in 6150: Students enrolled in the graduate course number will complete additional problems on assignments and exams that require synthesis of class and reading materials, and will lead one discussion session during the spring semester. They will additionally deliver a 1015 min oral presentation at the time of the final class symposium on May 1.
+Class symposium: On May 1st from 12:00-3:00pm (the time reserved for our final exam), we will host a class symposium in the format of a scientific conference. Attendance is mandatory for all students. Students enrolled in 6150 will give an oral research presentation on the topic of
+2
+
+their choosing, and students enrolled in 4150 can elect to give a talk or poster for bonus credit towards their final grades. Students will submit proposed titles and abstracts the week of Mar 6. These will be returned to students immediately following spring break with approval and comments from the instructors.
+Accommodations: Please contact the instructor if you require special accommodations due to learning disabilities, religious practices, physical or medical needs, or any other reason.
+General Notes: (i) All academic work must meet the standards contained in "A Culture of Honesty." Students are responsible for informing themselves about those standards before performing any academic work. The link to more detailed information about academic honesty can be found at: https://ovpi.uga.edu/academic-honesty (ii) The course syllabus is a general plan for the course; deviations announced to the class by the instructors may be necessary.
+
+DATE
+4 Jan 8/10 Jan 9 Jan 11 Jan 15/17 Jan 16 Jan 18 Jan 22/24 Jan 23 Jan 25 Jan 29/31 Jan 30 Jan
+1 Feb
+
+TOPIC Introduction
+
+SCHEDULE OF TOPICS Part 1: The basics
+
+Lab 1: Card game
+
+READINGS/NOTES
+Robbins "The Ecology of Disease" New York Times Conference room 12
+
+What is a parasite?
+
+Nunn & Altizer 2006 Ch. 2
+
+Population biology of microparasites 1: Epidemics Lloyd-Smith et al. 2009 & equilibria
+
+No lab (MLK)
+
+Population biology of microparasites 2: Dead seals Nunn & Altizer 2006 Ch. 4
+
+in the North Sea
+
+(pp. 98-114)
+
+Population biology of microparasites 3: Vaccination and herd immunity
+
+Park et al. 2009
+
+Lab 2: Computer lab -Modeling distemper virus in Computer lab room 29 seals
+
+Population biology of macroparasites 1: Aggregation in a wormy world
+
+Nunn & Altizer 2006 Ch. 4 (pp. 102-104; pp 115-122)
+
+Population biology of macroparasites 2: Cycles in Dobson & Hudson 1992 red grouse and sheep
+
+Lab 3: Computer lab - Macroparasite dynamics Computer lab room 29
+
+Population biology of macroparasites 3: Parasites Hudson et al. 1998 & host regulation
+
+Part 2: Immunity and Genetic Heterogeneity
+
+Host defenses to pathogens: immune, behavioral, molecular, physical
+
+Sompayrac 2003 Ch. 1
+
+3
+
+5/7 Feb 6 Feb
+
+Lab 4: Wet lab - Insect immunity Adaptive immunity and the ABCs of MHC
+
+Science Learning Center 301 Knapp 2005
+
+8 Feb 12/14 Feb
+13 Feb 15 Feb 19/21 Feb
+
+Host resistance evolution: selection, trade-offs and Graham et al. 2010 tolerance
+
+Lab 5: Discussion- Parasites and Host Behavior
+
+Conference room 12 Flegr et al. 2013; Wedekind et al. 1995
+
+Virulence evolution: biting the hand that feeds you? Fraser et al. 2007
+
+Host-pathogen coevolution and the Red Queen Koskella & Lively 2009
+
+Lab 6: Review Exam 1
+
+Conference room 12
+
+Part 3: Transmission and Ecological Heterogeneity
+
+20 Feb 22 Feb 26/28 Feb 27 Feb 1 Mar 5/7 Mar
+
+Vector-borne diseases 1 EXAM 1 Lab 7: Computer lab - Rabies Vector-borne diseases 2 STDs Lab 8: Discussion- Spatial spread
+
+6 Mar 8 Mar 12 -16 Mar 19/21 Mar 20 Mar 22 Mar 26/29 Mar
+
+Key hosts and superspreaders Spatial ecology of infectious disease
+Spring Break Lab 9: Computer lab - Networks Seasonality and infectious diseases Co-infection and competition between parasites Lab 10: Discussion- Microbiome and pathogens
+
+27 Mar 29 Mar 2/4 Apr
+
+Multi-host pathogens 1: Basic framework and apparent competition
+Multi-host pathogens 2: dilution effect, vectors & intermediate hosts
+Lab 11: Field work - heterogeneity in exposure to ticks in different habitats
+
+Brady et al. 2016
+Computer lab room 29 Mordecai et al. 2013 Ryder et al. 2005 Conference room 12 Bharti et al. 2011; Streicker et al. 2016 Rushmore et al. 2013 Grenfell et al. 2001 Nature
+Computer lab room 29 Altizer et al. 2006 Ezenwa and Jolles 2015 Conference room 12 Costello et al. 2012; Bletz et
+al. 2013 Pedersen & Fenton 2007
+Civitello et al. 2015
+
+4
+
+3 Apr
+5 Apr 9/11 Apr 10 Apr
+12 Apr
+16/18 Apr 17 Apr 19 Apr 24 Apr 1 May
+
+Part 4: Global Change and Disease
+
+Zoonoses and Emerging Infectious Diseases
+
+Quammen 2012 - Spillover - Ch.1; Morse et al. 2012
+
+Climate change and infectious diseases
+
+Altizer et al. 2013
+
+Lab 12: Computer lab - Tick data analysis
+
+Computer lab room 29
+
+Rapid evolution of pathogens in a changing world Earn et al. 2002 (influenza)
+
+Managing pathogen outbreaks in wildlife: culling Donnelly et al. 2006 and vaccination
+
+Lab 13: Review for Exam 2
+
+Conference room 12
+
+Parasites and biodiversity conservation
+
+Dunn et al. 2009
+
+EXAM 2
+
+Project work day
+
+12:00-3:00 pm Research symposium: presentations Poster presentations by 4150
+
+by 6150 students
+
+students during breaks
+
+Readings:
+Altizer, Sonia, Andrew Dobson, Parviez Hosseini, Peter Hudson, Mercedes Pascual, and Pejman Rohani. 2006. Seasonality and the dynamics of infectious diseases. Ecology Letters 9: 467-484.
+Altizer, S., R. S. Ostfeld, P. T. Johnson, S. Kutz, and C. D. Harvell. 2013. Climate change and infectious diseases: From evidence to a predictive framework. Science 341:514-519.
+Bharti, N., Tatem, A. J., Ferrari, M. J., Grais, R. F., Djibo, A., & Grenfell, B. T. (2011). Explaining seasonal fluctuations of measles in Niger using nighttime lights imagery. Science, 334(6061), 1424-1427.
+Bletz, M. C., Loudon, A. H., Becker, M. H., Bell, S. C., Woodhams, D. C., Minbiole, K. P., & Harris, R. N. (2013). Mitigating amphibian chytridiomycosis with bioaugmentation: characteristics of effective probiotics and strategies for their selection and use. Ecology letters, 16(6), 807-820.
+Brady, O. J., Godfray, H. C., Tatem, A. J., Gething, P. W., Cohen, J. M., McKenzie, F. E., Perkins, T. A., Reinder, R. C. Jr., Tusting, L. S., Sinka, M. E., Moyes, C. L., Eckhoff, P. A., Scott, T. W., Lindsay, S. W., Hay, S. I., & Smith, D. L. (2016). Vectorial capacity and vector control: reconsidering sensitivity to parameters for malaria elimination. Transactions of the Royal Society of Tropical Medicine and Hygiene, 110 (2), 107-117.
+Civitello, D. J., Cohen, J., Fatima, H., Halstead, N. T., Liriano, J., McMahon, T. A.. & Rohr, J. R. (2015). Biodiversity inhibits parasites: broad evidence for the dilution effect. Proceedings of the National Academy of Sciences, 112(28), 8667-8671.
+Costello, E. K., Stagaman, K., Dethlefsen, L., Bohannan, B. J., & Relman, D. A. (2012). The application of ecological theory toward an understanding of the human microbiome. Science, 336(6086), 1255-1262.
+Dobson, A. P., and P. J. Hudson. 1992. Regulation and Stability of a Free-Living Host-Parasite System: Trichostrongylus tenuis in Red Grouse. II. Population Models. Journal of Animal Ecology 61:487-498.
+Donnelly, C. A., R. Woodroffe, D. Cox, F. J. Bourne, C. Cheeseman, R. S. Clifton-Hadley, G. Wei, G. Gettinby, P. Gilks, and H. Jenkins. 2005. Positive and negative effects of widespread badger culling on tuberculosis in cattle. Nature 439:843-846.
+Dunn, R. R., Harris, N. C., Colwell, R. K., Koh, L. P., & Sodhi, N. S. (2009). The sixth mass coextinction: are most endangered species parasites and mutualists?. Proceedings of the Royal Society of London B: Biological Sciences, 276(1670), 3037-3045.
+
+5
+
+Earn, D.J., Dushoff, J. and Levin, S.A., 2002. Ecology and evolution of the flu. Trends in ecology & evolution, 17(7), pp.334-340.
+Ezenwa, V. O., & Jolles, A. E. (2015). Opposite effects of anthelmintic treatment on microbial infection at individual versus population scales. Science, 347(6218), 175-177.
+Flegr, J. (2013). How and why Toxoplasma makes us crazy. Trends in Parasitology, 29(4), 156-163. Fraser, C., Hollingsworth, T. D., Chapman, R., de Wolf, F., & Hanage, W. P. (2007). Variation in HIV-1 set-point
+viral load: epidemiological analysis and an evolutionary hypothesis. Proceedings of the National Academy of Sciences, 104(44), 17441-17446. Graham, A.L., Hayward, A.D., Watt, K.A., Pilkington, J.G., Pemberton, J.M. and Nussey, D.H., 2010. Fitness correlates of heritable variation in antibody responsiveness in a wild mammal. Science, 330(6004), pp.662-665. Grenfell, B.T., Bjørnstad, O.N. and Kappey, J., 2001. Travelling waves and spatial hierarchies in measles epidemics. Nature, 414(6865), pp.716-723. Hudson, P. J., Dobson, A. P., & Newborn, D. (1998). Prevention of population cycles by parasite removal. science, 282(5397), 2256-2258. Knapp, Leslie A. 2005. The ABCs of MHC. Evolutionary Anthropology: Issues, News, and Reviews 14.1: 28-37. Koskella, B., and C. M. Lively. 2009. Evidence for Negative Frequency-Dependent Selection During Experimental Coevolution of a Freshwater Snail and a Sterilizing Trematode. Evolution 63:2213-2221. Lloyd-Smith, J.O., George, D., Pepin, K.M., Pitzer, V.E., Pulliam, J.R., Dobson, A.P., Hudson, P.J. and Grenfell, B.T., 2009. Epidemic dynamics at the human-animal interface. Science, 326(5958), pp.1362-1367. Mordecai, E. A., Paaijmans, K. P., Johnson, L. R., Balzer, C., Ben-Horin, T., de Moor, E., McNally, A., Pawar, S., Ryan, S. J., Smith, T. C., & Lafferty, K. D. (2013) Optimal temperature for malaria transmission is dramatically lower than previously predicted. Ecology Letters 16 (1); 22-30. Morse, S.S., Mazet, J.A., Woolhouse, M., Parrish, C.R., Carroll, D., Karesh, W.B., Zambrana-Torrelio, C., Lipkin, W.I. and Daszak, P., 2012. Prediction and prevention of the next pandemic zoonosis. The Lancet, 380(9857), pp.1956-1965. Nunn, C.L., and Altizer, S. 2006. Chapter 2: What is a parasite? and Chapter 4: Host-parasite dynamics and epidemiological principles. In: Infectious Diseases of Primates: Behavior, Ecology and Evolution. Oxford University Press. Park, A. W., J. M. Daly, N. S. Lewis, D. J. Smith, J. L. Wood, and B. T. Grenfell. 2009. Quantifying the impact of immune escape on transmission dynamics of influenza. Science 326:726-728. Pedersen, A. B., and A. Fenton. 2007. Emphasizing the ecology in parasite community ecology. Trends in Ecology & Evolution 22:133-139. Quammen, D. 2012. Spillover: animal infections and the next human pandemic. WW Norton & Company. Robbins, J. 2012. The Ecology of Disease. New York Times. http://www.nytimes.com/2012/07/15/sundayreview/the-ecology-of-disease.html?pagewanted=all&_r=1& Rushmore, J., Caillaud, D., Matamba, L., Stumpf, R. M., Borgatti, S. P., & Altizer, S. (2013). Social network analysis of wild chimpanzees provides insights for predicting infectious disease risk. Journal of Animal Ecology, 82(5), 976-986. Ryder, J. J., K. M. Webberley, M. Boots, and R. J. Knell. 2005. Measuring the transmission dynamics of a sexually transmitted disease. Proceedings of the National Academy of Sciences 102:15140-15143. Sompayrac, L. M. 2003. How the immune system works (2nd ed). Blackwell Publishing. Streicker, D. G., Winternitz, J. C., Satterfield, D. A., Condori-Condori, R. E., Broos, A., Tello, C., ... & Valderrama, W. (2016). Host-pathogen evolutionary signatures reveal dynamics and future invasions of vampire bat rabies. Proceedings of the National Academy of Sciences, 201606587. Wedekind, C., T. Seebeck, F. Bettens, and A. J. Paepke. 1995. MHC-dependent mate preferences in humans. Proceedings of the Royal Society of London. Series B: Biological Sciences 260:245-249.
+6
+
+

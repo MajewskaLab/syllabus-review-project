@@ -1,0 +1,479 @@
+SYLLABUS
+CELLULAR BIOLOGY 4340/6340
+BIOLOGY OF AGING
+SPRING SEMESTER, 2010
+INSTRUCTOR: Judy Willis 302 Biological Sciences 706-542-0802
+e-mail: cbio4340@bellsouth.net
+Available for questions in the classroom before and after class and in her office by chance or appointment made via e-mail or phone.
+Lectures: Monday, Wednesday, Friday 10:10-11 -- 723 or 404A BIOLOGICAL SCIENCES
+This course is administered by the Department of Cellular Biology. 724 Biological Sciences 706-542-3310
+There is no textbook for this course. Readings, available on the Web, will be assigned. Other information to supplement lectures will also be made available. The most common source will be SageKe - a site developed by Science in 2001 but terminated
+in 2006. Key articles are still available.
+http://sageke.sciencemag.org/
+Access to SageKe will require that you register, but there is no charge. Secretarial notes, reading assignments, old exams, etc. will be posted on eLearning Commons for CBIO6340.
+
+VERY TENTATIVE SCHEDULE OF LECTURES, BIOLOGY OF AGING, SPRING, 2010
+
+1 F
+
+8-Jan Introduction
+
+2 M 3 W 4 F
+M 5 W 6 F 7 M 8 W 9 F 10 M 11 W 12 F 13 M 14 W 15 F 16 M 17 W 18 F 19 M 20 W 21 F 22 M 23 W 24 F
+25 M 26 W 27 F 28 M 29 W
+
+11-Jan 13-Jan 15-Jan 18-Jan 20-Jan 22-Jan 25-Jan 27-Jan 29-Jan 1-Feb 3-Feb 5-Feb 8-Feb 10-Feb 12-Feb 15-Feb 17-Feb 19-Feb 22-Feb 24-Feb 26-Feb 1-Mar 3-Mar 5-Mar Mar 8-12 15-Mar 17-Mar 19-Mar 22-Mar 24-Mar
+
+I. Definitions; mastery of survivorship curves II. Analysis of Human Life Span III. Statistics IV. Types of studies used to assess aging Martin Luther King Day IV. cont. IV. cont. V. Is human life span under direct genetic control? V. cont. Geographical Regions V. Pedigrees; Twins EXAM 1 V. Progerias VI. Physiological Theories of Aging -- somatic mutation VI. Physiological Theories of Aging cont. Error Catastrophe, Repair VI. Free Radicals VI. AGEs; VII. Evolutionary Theories of Aging VIII. Experimental prolongation of MLS in mammals--hibernation, CR, rats, mice, rhesus, humans, Microarrays
+Vit. E; DHEA; resveratrol; Exercise in rats; Exercise in humans IX. How long do other species live? EXAM 2 Life History Strategies; Antechinus Naked Mole Rats; Echidna; importance of lipid peroxidation Oxidative damage in old NMR. X. Understanding human longevity Human longevity cont. XI. Insights from model systems --Overview XI. C. elegans ESSAY 1 DUE Spring Break XI. Saccharomyces XI. Drosophila EXAM 3 XI. Drosophila; Mus musculus XI. Mus musculus
+
+30 F
+
+26-Mar XI. Relevance of IGF signaling pathway: dogs and humans. XII. Dynamic State
+
+31 M 32 W 33 F 34 M 35 W 36 F 37 M 38 W 39 F 40 M 41 W 42 F 43 M 44 W 45 Th
+W
+
+29-Mar 31-Mar
+2-Apr 5-Apr 7-Apr 9-Apr 12-Apr 14-Apr 16-Apr 19-Apr 21-Apr 23-Apr 26-Apr 28-Apr 29-Apr 5-May
+
+Dynamic state cont. XIII. Aging of cells in culture; Telomeres Basis and applicability of Hayflick Limit XIV. Changes as humans age, diseases that accompany change -- cancer. XIV. Cancer cont. ESSAY 2 DUE XIV. Connective tissue XIV. collagen; cardiovascular disease, atherosclerosis, XIV. Homeostasis -- temperature, glucose XIV. Homeostasis - calcium EXAM 4 XIV. Neurogenesis; neuroplasticity; rat swimming; XIV. Neurodegeneration - prions; XIV. Parkinson's; XIV. Huntington's; dementia; XIV. Alzheimer's XV. Conclusions and Suggestions for Preparation for Final FINAL EXAM 8-11 a.m. 404A Biological Sciences
+
+GOALS OF BIOLOGY OF AGING
+To introduce an area of active research in contemporary biology, with emphasis on experimental data.
+To provide sufficient background for students to understand various theories for causes of aging, and thereby introduce them to (or remind them of) important biological principles.
+To introduce the utility and limitations of model systems (diverse animals, yeast and cell cultures) as a means of analyzing complex biological phenomena such as aging.
+To help student appreciate the diversity of responses to the passage of time, within individuals and among individuals.
+To help students recognize fallacious generalizations about aging.
+To demonstrate the impact of whole genome sequences, microarray technology and RNAi on our understanding of aging.
+To use aging studies as case histories for understanding methods and limitations of biological research.
+To prepare students to remain critical readers of both popular and scientific articles on aging.
+To teach students to avoid teleology when presenting evolutionary arguments
+To illustrate that as scientific knowledge increases, old hypotheses/theories are abandoned and replaced.
+COMPLICATIONS OF AGING STUDIES
+One must worry whether causes of aging are extrinsic or intrinsic.
+If they are intrinsic, are they due to innate instability of molecules, damaged molecules or to programmed changes?
+Is there a single cause of aging or are there multiple causes?
+Are the causes and manifestations of aging the same in different species?
+Studies based on longitudinal analyses may give different results from studies based on a crosssectional approach.
+Studies on aging in model organisms may not be relevant to human aging.
+Model organisms inadvertently may have been selected for short life spans.
+Studies on aging of cells may not tell us anything about aging of organisms.
+Aging and immediate proximity to death are distinct phenomena.
+
+INFORMATION PERTAINING TO GRADING FOR CBIO 4340.
+
+Quizzes/Homework (11 points)
+
+Exam I
+
+(13 points)
+
+Friday, January 29
+
+Exam II
+
+(13 points)
+
+Friday, February 19
+
+Essay I
+
+(10 points)
+
+Friday, March 5
+
+Exam III
+
+(13 points)
+
+Friday, March 19
+
+Essay II
+
+(10 points)
+
+Monday, April 5
+
+Exam IV
+
+(13 points)
+
+Friday, April 16
+
+Final Exam
+
+(17 points)
+
+WEDNESDAY, MAY 5 8-11 A.M.
+
+No make up exams will be given. Students with officially excused absences will have the exam component of their grade based on their other exams.
+Penalty for handing in an Essay beyond 10:10 a.m. on the date due will be 0.5 points (out of 10) per 24 hr. period. Essays handed in on the Monday after spring break will loose 2 points.
+Examinations will cover your mastery of the material presented in lectures. It is expected that you will have read all assigned readings and used other references to supplement your lecture notes, as appropriate. The exams will assume that you understand material presented in class to establish the necessary foundation for our discussion of aging and that you have completed and understood the in-class and take-home problem sets. Exams will expect that you remember key material from earlier in the course. The final examination will cover the entire course but may emphasize material not previously covered on an exam.
+
+If you earn between and points you will received at least an
+
+94 100
+
+A
+
+90 93
+
+A-
+
+86 89
+
+B+
+
+80 85
+
+B
+
+77 79
+
+B-
+
+70 77
+
+C
+
+NO C- GRADES WILL BE GIVEN
+
+60 69
+
+D
+
+The chart above is a guarantee. Such things as poor class performance on an exam and marked improvement (or regression) by an individual may be taken into account in assigning final grades.
+You have the opportunity to earn extra points through secretarial activities.
+
+4
+
+INFORMATION PERTAINING TO GRADING FOR CBIO 6340.
+
+Quizzes/Homework (11 points)
+
+Exam I
+
+(12 points)
+
+Friday, January 29
+
+Exam II
+
+(12 points)
+
+Friday, February 19
+
+Essay I
+
+(10 points)
+
+Friday, March 5
+
+Exam III
+
+(12 points)
+
+Friday, March 19
+
+Essay II
+
+(10 points)
+
+Monday, April 5
+
+Exam IV
+
+(12 points)
+
+Friday, April 16
+
+Comments on CBIO 4340 Essays (4 points) each due 10 days after you receive essay.
+
+Final Exam
+
+(17 points)
+
+WEDNESDAY, MAY 5 8-11 A.M.
+
+No make up exams will be given. Students with officially excused absences will have the exam component of their grade based on their other exams.
+Penalty for handing in an Essay beyond 10:10 a.m. on the date due will be 0.5 points (out of 10) per 24 hr. period. Essays handed in on the Monday after spring break will loose 2 points.
+Examinations will cover your mastery of the material presented in lectures. It is expected that you will have read all assigned readings and used other references to supplement your lecture notes, as appropriate. The exams will assume that you understand material presented in class to establish the necessary foundation for our discussion of aging and that you have completed and understood the in-class and take-home problem sets. Exams will expect that you remember key material from earlier in the course. The final examination will cover the entire course but may emphasize material not previously covered on an exam.
+
+If you earn between and points you will received at least an
+
+94 100
+
+A
+
+90 93
+
+A-
+
+86 89
+
+B+
+
+80 85
+
+B
+
+77 79
+
+B-
+
+70 77
+
+C
+
+NO C- GRADES WILL BE GIVEN
+
+60 69
+
+D
+
+The chart above is a guarantee. Such things as poor class performance on an exam and marked improvement (or regression) by an individual may be taken into account in assigning final grades.
+
+You have the opportunity to earn extra points through secretarial activities.
+5
+
+Exams from previous years will be posted on WebCT. The order of subjects covered changes from year-to-year. If you find a question on a subject not yet covered, do not be dismayed. Although homework assignments and in class quizzes count for only 1-4 points each, some students have discovered that these few points have had an important influence on the final grade. Indeed, several students in 2008 who failed to hand in all assignments received a D because they were just a few points short of a C.
+6
+
+LECTURE OUTLINE FOR CBIO 4340/6340, SPRING SEMESTER, 2010
+I. Definitions of Aging Survivorship Curves
+II. Analyses of Human Life Span
+What has happened to the longevity of Homo sapiens? shifted median (life expectancy)? shifted maximum (life span)? future trends
+Does the force of mortality continue to rise at old ages? insights from invertebrates data from humans
+What is responsible for the change in longevity? medicine? hygiene? nutrition? life style?
+Menopause and "andropause"
+III. Introduction to Relevant Statistics
+IV. How Do We Learn What Happens to Humans as they Age?
+Experimental Design: cross-sectional studies prospective studies retrospective studies longitudinal studies centenarian analyses
+Important Longitudinal Studies Relevant to the Biology of Aging
+V. Is Human Life Span under Direct Genetic Control?
+Data from Homo sapiens: gender differences geographical regions with long-live populations pedigree analyses including centenarian studies twin studies genetic "progerias"
+7
+
+VI. Some Physiological Theories of Aging
+Genomic Damage -- mutation/repair Fetal Basis of Human Diseases (FeBad) Free Radicals - generation/repair AGEs (advanced glycosylation end products)
+VII. Evolutionary Theories of Aging
+No post-reproductive selection? Antagonistic Pleiotropy Disposable Soma
+VIII. Experimental Prolongation of Life in Mammals
+Hibernation Caloric Restriction Antioxidants, DHEA, resveratrol Exercise
+IX. How Long do Other Species Live and "Why"?
+Bacteria, plants and non-mammalian animals Mammals
+Correlations: size? metabolic rate and free radical production? brain size? developmental rate? life history strategies?
+X. Understanding Human Longevity
+Patriarch Hypothesis Parental Care Hypothesis Intergenerational Transfer
+Grandmother Educator Hypothesis
+XI. Insights from Model Systems:
+Similarities among mutated genes/pathways that prolong life Mutants in Saccharomyces cerevisiae Mutants in Caenorhabditis elegans Selection/Mutants in Drosophila melanogaster Mutant and newly derived lines of Mus musculus Are pathways important in aging of models relevant to humans?
+8
+
+XII. Dynamic State of the Body Constituents and its Significance for the Study of Aging
+Use of Isotopes Molecular Instability Cell Death and Replacement
+XIII. Aging of Cells
+Cell Culture Alexis Carrel's immortal chicken fibroblasts Hayflick Limit Telomeres Heterochronic Transplants
+XIV. What Significant Changes have Been Found as Humans Age and What Diseases Accompany them?
+Cancer
+Morphological: lipofuscin collagen cross-linking connective tissue atherosclerosis
+Immune System (may not be covered): B and T Cells MHC in mice and humans autoimmune diseases delayed type hypersensitivity
+Homeostasis: temperature regulation hyperthermia, accidental hypothermia blood sugar regulation glucose tolerance, Type II diabetes calcium balance osteoporosis
+Neuromuscular System: neuronal cell death, neural plasticity, neurogenesis prions movement Parkinson's Disease Huntington's Disease learning and memory dementia Alzheimer's Disease
+XV. Conclusions - How Can We as Individuals and as a Species Live Longer?
+9
+
+THE SECRETARY
+Selection: A Secretary will be selected randomly at the start of class, one for each class period. S/he
+should produce a final copy for submission to the instructor. After jhw grades and edits the notes, they will be posted on our eLearning Commons site named by the date of the lecture. Duties:
+Secretaries are to prepare an organized SUMMARY of the lecture and of the accompanying discussion that will:
+summarize the important points of the lecture, including reference to and explanation of all figures that are presented and numbered for each lecture. summarize additional insights provided by class members. summarize important questions asked during class and the answers given. indicate where material presented in class was unclear or confusing -- your notes may indicate areas of confusion, and these will be edited and corrected in the final version. list questions asked but not answered provide specific numerical data or spelling of obscure terms that may have been mentioned in class or leave room in the secretarial report for the instructor to fill in such information.
+The report must not be a verbatim transcript of the lecture.
+Format: The top two lines of your report should state: [Secretarial Report, Date of Lecture] [Prepared by <Your Name>] The report should be 2-4 pages in length, single-spaced. It must not be in outline format, for outlines and indentation are frequently distorted in
+email transmissions.
+10
+
+Due Date:
+The report must be sent, via e-mail to Judy Willis (cbio4340@bellsouth.net) before 6 p.m. on Wednesday following a Monday lecture, on Friday following a Wednesday lecture, or by Sunday following a Friday lecture. You may send it as a Microsoft Word attachment or paste it directly into your e-mail message.
+Availability:
+Each secretarial report will be graded and edited by the instructor and posted on eLearning Commons.
+Reward:
+An outstanding job will earn each secretary two bonus points on his/her final grade. Maximum credit for the semester is 5 points.
+A satisfactory job will earn each secretary one point. Fractional scores are possible.
+A person who prepares an unsatisfactory report will receive zero points.
+To assure high quality notes, the following procedure is in place:
+If you have an opportunity to write a third (or fourth) secretarial report, points will be earned as a fraction of the bonus remaining. Thus if you have already earned 3.5 points, you will need to earn a full 2 points on your final report to gain these 1.5 points. A score of 1.5 would only earn you 1.1 points.
+Selection and Frequency:
+A secretary will be chosen by lot at the start of each class and everyone will be called upon to serve as secretary at least once during the semester. If you are called upon and are absent, you will forfeit the opportunity to be secretary in that round. After round 1 is complete with all eligible students, round 2 will begin.
+All names will be returned to the "hat" after they are drawn. Students who were absent when called upon after they were secretary in round 1 will not be eligible for round 2. If you choose not to serve, on one occasion, your name will just go back in the hat. If you refuse twice, it will be the same as if you were absent, i.e. you will miss your opportunity in that round. Students who are absent, when called upon, on more than one occasion in a particular round, will miss an opportunity in the next round.
+If many secretarial reports requires excessive editing, this opportunity will be withdrawn and very brief summary notes will be provided by the instructor.
+11
+
+DESCRIPTION OF ESSAYS FOR CBIO 4340 STUDENTS
+The goal of the essay writing exercise is for you to demonstrate that you can read a paper with detailed scientific content and summarize it in a clear manner. That summary must explain clearly what the authors wanted to learn, what they did, how they did it, and what they actually learned.
+You should write it so it would be interesting and comprehensible to a student who has as much of a background in biology as you have but who has not taken a course in the biology of aging.
+Thus, each essay is to consist of a SUMMARY and CRITICAL REVIEW of a SINGLE paper of suitable length and sophistication that:
+1) Must have come from a source with a publication date of 2009 or, preferably, 2010. It should not be an article already discussed in class.
+2) Must have obvious relevance to the biology of aging. (You are encouraged to establish appropriateness by showing at least an abstract of the paper to the instructor before you make your final selection.)
+3) At least one of your two essays must have obvious relevance to your personal or professional interests. Be sure to state in no more than one sentence how this criterion has been met. Alternatively, if you can't figure out how to find something that is relevant - write an essay on an article that deals with caloric restriction or exercise.
+4) At least one essay must be based on a primary research article (not a review) in one of the journals listed on pg. 21, or a comparable journal approved by your instructor. The other may be from any journal or popular magazine. Newspaper articles are not acceptable.
+5) At least one of your two essays must be based on an article that examines aging in a species other than Homo sapiens.
+6) The material in the article must be comprehensible to you. Be sure to select an article that uses methods you understand, or can understand after you seek help from your instructor.
+7) The appropriateness of the article for you and for this type of exercise will contribute to your grade.
+8) YOUR ESSAY MUST NOT BE A PARAPHRASE OF THE ARTICLE. Rather you should write a well-integrated essay that covers those points listed below in (9) that are relevant. You should not hesitate to be critical about the nature of the study or the clarity of the presentation. Students may find it helpful to outline or draft their essay without having the paper in front of them. Then go back to the paper to fill in the details.
+12
+
+9) Each essay should cover the following topics, when appropriate, but need not be restricted to them.
+What is the article about? Is there a clear hypothesis?
+What was known about the topic before the authors began their study?
+What did the authors hope to learn as a result for their study?
+How was the study carried out?
+What did the authors find?
+What is the nature of the evidence they present? anecdotal or based on controlled experiments
+If the study dealt with humans, were longitudinal, cross-sectional, prospective or retrospective studies involved? This question may apply to some animal studies also.
+What types of comparison/control groups were used?
+What are the conclusions? Are they appropriate given the data collected? Do they suggest further studies to the authors or to you?
+Do the authors (or can you) suggest biological bases for the findings?
+Can you tell whether the age-related differences found are due to programmed changes or to changes caused by disuse? Are they reversible?
+10) Be sure to include the complete citation. Suggested formats:
+For Magazines: Nolen, W. A. 1987. How much is too much? 50 Plus (March) pp. 82-89.
+for Journals: Oeppen, J., Vaupel, J. W. 2002 Broken limits to life expectancy. Science:296:1029-1031.
+11) Each essay should be 2-3 pages in length, "mechanically" printed and double-spaced. Submit two copies. You must also submit one copy of the paper on which your essay is based. It can be the marked copy from which you worked and it will be returned. It must have readable figures and the complete bibliography. It is recommended that you print your paper from a pdf file.
+After your graded essay is returned you will be asked to make a copy that shows the marks she made and hand it in to the instructor within on week.
+12) Do not splice published figures or tables into your paper. Do not write as if you expect the reader (grader) to have access to the source paper. Describe and discuss the data or prepare your own illustrations. Indeed, in addition to the grading by the instructor, your paper will probably be read and graded by someone who does not have a copy of the source paper.
+13
+
+13) Use the following format for the first two lines of your essay: Essay # Your name
+Complete Citation to Article Reviewed 14) Your essay should be written in the style biologist use. See a journal article for an example. Biologists do not use footnotes. Thus there is no need for you to refer continually to the precise page in the paper you have read as you discuss the information. In the text of your essay, refer to article you are discussing as: (if more than two authors as Jones et al. 1997; if only two authors Smith and Allen, 2001). 15) BE SURE TO READ PG. 18 OF THIS SYLLABUS - IT HAS INFORMATION
+CONCERNING PLAGIARISM.
+14
+
+DESCRIPTION OF ESSAYS FOR CBIO 6340 STUDENTS
+Each essay is to consist of a summary and critical review of a single paper, but you must read and include in your discussion 2-3 articles cited in that paper. These two papers must be selected to amplify or clarify points made in the source article and the reason each was chosen and what new information you gleaned from each must be discussed in your essay.
+The primary paper:
+1) Must have come from a source published in 2009 or, preferably, 2010. It should not be an article already covered in class.
+2) Must have obvious relevance to the biology of aging. (You are strongly encouraged to establish appropriateness by showing at least an abstract of the paper to the instructor before you make your final selection.)
+3) Both essays must be based on primary research articles (not reviews) published in one of the journals listed on pg. 21 or in another source that is acceptable to your instructor.
+4) Both of your essays must be based on primary research articles that examine aging in a species other than Homo sapiens. Acceptable are articles where an animal model is used to test human genes.
+5) The material in the article, including the methods, must be comprehensible to you. Your instructor is willing to try to help you understand the methods. Do not select an article that is so technical that you cannot read it critically.
+6) The appropriateness of the article for you and for this type of exercise will contribute to your grade.
+7) Each essay should cover the following topics, when appropriate, but need not be restricted to them.
+What is the article about? Is there a clear hypothesis?
+What did the authors hope to learn before they began the study? What was known before they began their study?
+How was the study carried out?
+What did the authors find?
+What is the nature of the evidence they present? anecdotal or based on controlled experiments
+If relevant, were longitudinal, cross-sectional, prospective or retrospective studies involved?
+What types of comparison/control groups were used?
+15
+
+What are the conclusions? Are they appropriate given the data collected? Do they suggest further studies to the authors or to you?
+Do the authors (or can you) suggest biological bases for the findings?
+Can you tell whether the age-related differences found are due to programmed changes or to changes caused by disuse? Are they reversible?
+8) Be sure to include the complete citation for all articles that you have read. Suggested format:
+for Journals: Oeppen, J., Vaupel, J. W. 2002 Broken limits to life expectancy. Science:296:1029-1031.
+9) Each essay should be 4-6 pages in length, "mechanically" printed and double-spaced. You must also submit one copy of the primary paper on which each essay is based. It can be the marked copy from which you worked and it will be returned. It must have readable figures and the complete bibliography.
+10) Do not splice published figures or tables into your paper. Do not write as if you expect the reader (grader) to have access to the source paper. Describe and discuss the data or prepare your own illustrations.
+When your essay is graded, you must make a copy and return that to jhw within a week in order to receive credit for your essay. She will keep that copy.
+11) Use the following format as a cover page for each essay:
+Essay # Your name Complete Citation to Article Reviewed Complete Citations to Secondary Articles
+In the text of your essay, refer to articles you are discussing as: (if more than two authors :Jones et al. 1997; if only two authors: Smith and Allen, 2001).
+12) Your essay should be written in the style biologist use, see a journal article for an example. Biologists do not use footnotes. Thus there is no need for you to refer to the precise page in the paper you have read as you discuss the information. When you refer to different papers use the following style: Although my primary article (Smith and Allen, 2001) relied on the method of Jones et al. (1997), I found that they failed to heed the warnings given in that paper about . . ..
+13) BE SURE TO READ PG. 18 OF THIS PACKET - IT HAS INFORMATION CONCERNING PLAGIARISM.
+16
+
+Additional Assignment for CBIO6340 Students Each 6340 student will be required to comment on and grade two CBIO4340 essays. The essays will be selected by the instructor and will be provided anonymously - i.e. you will not know the name of the student whose essay you are grading and the student receiving your comments will not know who has written them. You will be provided with detailed guidelines for this task. Graded essays will be due 10 days after you have received them, probably about a week after the original was handed in.
+17
+
+ACADEMIC HONESTY You must read UGA information on Academic Honesty.
+http://www.uga.edu/honesty/ahpd/ACOH%20May%20'07.pdf You can access this information by pasting the url given above into your browser.
+Any sign of plagiarism, including the use of more than ten (10) consecutive words without quotation marks, will be met with a MINIMUM penalty of a 0 on the essay. Further action will follow UGA guidelines described in the on the web site listed above.
+The official UGA definition of plagiarism from the above pdf source follows (bolding from jhw):
+"Plagiarism - Submission for academic advancement the words, ideas, opinions or theories of another that are not common knowledge, without appropriate attribution to that other person. Plagiarism includes, but is not limited to, the following acts when performed without appropriate attribution:
+i. Directly quoting all or part of another person's written or spoken words without quotation marks, as appropriate to the discipline;
+ii. Paraphrasing all or part of another person's written or spoken words without notes or documentation within the body of the work;
+iii. Presenting an idea, theory or formula originated by another person as the original work of the person submitting that work;
+iv. Repeating information, such as statistics or demographics, which is not common knowledge and which was originally compiled by another person;
+v. Purchasing (or receiving in any other manner) a term paper or other assignment that is the work of another person and submitting that term paper or other assignment as the student's own work.."
+Please note: material on a WebSite is protected by the same rules as the printed page.
+18
+
+LITERATURE SEARCHES
+You should make use of PubMed and Data Bases Available via GALILEO to select relevant articles. Terminals are available in the Science Library; computers in dormitories should also allow access to Galileo sites. Be sure to narrow searches to 2009-2010.
+If you do not have Adobe Acrobat installed on your computer you will not be able to copy Tables and Figures. The program is free, so it is recommended that you install it or use a computer that has this facility when you make a copy of your research article. It is essential that you examine the actual data in the papers you read and you must submit a copy of the
+paper that has all Tables and Figures in a readable size as well as the complete
+bibliography. Thus if you plan to get a copy of the paper from the WEB be sure to print it from a PDF file.
+If you fail to have examined a complete paper, you paper will not be accepted and you will have to submit another essay from a different source.
+PUB MED: http://www.ncbi.nlm.nih.gov/pubmed/
+Here are results from a search I did on PubMed on 1/4/10. <aging> yielded 225,754 hits; <aging 2009> = 41,742, <aging 2009 "C. elegans"> = 380 and <aging 2009 and Drosophila = 715. Beware, <ageing> = 235,336. (Aging had 12,706 more hits than a year ago.)
+You can generally get an abstract from PubMed, and sometimes can use a direct link to a journal article. Other times, the link will not recognize that you are using an UGA computer, and you will have to go to the UGA electronic journal locator to get access to the article, or you may need to use the actual journal in the Science Library.
+UGA electronic journal locator: http://www.libs.uga.edu/ejournals/
+PubMed is more limited in journal coverage than some of the other sites. Thus you may wish to try:
+GALILEO
+Galileo provides access to several databases that can be conveniently searched. Galileo can be accessed from terminals in the library or by using Google to get to the site - <Georgia Library Learning Online>. http://www.galileo.usg.edu/scholar/uga/subjects/
+The instructions for using this site have changed recently. Sheets providing guidance are available in the library.
+One productive search came about when I did the following:
+Select Science and Technology - then select BioOne, then enter Aging in the abstract or full text field. Scroll down and limit search 1/2009 to 12/2010.
+19
+
+If you are interested in articles in popular magazine or newspapers uses Lexis-Nexis as your search engine. Just type in search engine name on Galileo home page. Be sure to use time limits on your search. GOOGLE SCHOLAR may also provide some interesting articles. It reveals whether the paper is available at UGA. SCIENCE CITATION INDEX is available via GALILEO. This useful source allows you to go forward from a paper of interest and learn who has cited it. You can also use it to see if an author of interest has published anything else recently and where that paper has been cited. . Go to GALILEO On the first screen at the top, select Databases A-Z. Select S. On the next screen select #7 -- Science Citation Index at Web of Knowledge, click again on title. Insert author, title etc. Be sure to use all initials. Click on Search Then you click on the number after "Times cited:" The next screen will show you all the papers that have cited the one you entered.
+20
+
+RESEARCH JOURNALS WITH SPECIAL EMPHASIS ON THE BIOLOGY OF AGING (or AGEING)
+
+UGA has cancelled print subscriptions to all of these journals except "Journal of Gerontology." Subscriptions were cancelled starting in 2003. Hence you will have to scan tables of contents and select article on the Web (see instructions below). Bound copies of past issues are on the 4th floor of the Science library, call numbers are provided below. Several journals can be accessed via more than one Web Site. I have indicated the one that is most user friendly.
+
+For these journals, you will be able to get the complete journal article from the Web if you work from a computer on the UGA campus. The only reliable way to obtain Web access to a journal is by using the ELECTRONIC JOURNAL LOCATOR: http://www.libs.uga.edu/ejournals/
+
+You must print the PDF version of the article so that you get full size figures and tables.
+
+Aging Cell (Use "EBSCOhost Electronic Journals Service")
+
+Age and Ageing RC952.A1A33 (avoid psychology and clinical papers) ( Use "Oxford University Press Journals.")
+
+Biogerontology (Use "Springer Standard Collection.")
+
+Experimental Gerontology Direct")
+
+QP86.E85 (avoid psychology and clinical papers (Use "Science
+
+Journals of Gerontology (Series A, Biological Sciences and Medical Sciences Sections) RC952.A1 J88 (Use "Highwire Press Gerontological Society of America.")
+
+Mechanisms of Ageing and Development QL951.M4 (Use "Science Direct")
+
+In addition, the following frequently have high quality articles on Aging.
+
+Bound copies before 2006 for the first two and before 2004 for PNAS are on the 3rd floor of the Science Library. For electronic access, use "exact search."
+
+Science Q1 .S415 (use "Highwire Press American Association for the Advancement of Science")
+
+Nature Q1.N285 (Use Nature site.)
+
+Proceedings of the National Academy of Sciences National Academy of Sciences")
+
+Q11.N276 (Use "Highwire Press
+
+21
+
+22
+
+Delete this page and hand in to the instructor at the start of the next class:
+I have read the material in the packet for the Biology of Aging and made note of the exam dates and the due dates for essays. I have paid particular attention to the information on Academic Honesty and fully understand the rules on plagiarism. By signing this statement I acknowledge that I shall abide by the UGA Student Honor Code:
+"I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others."
+Signed_____________________________________
+Date ________________
+
+Print your name using the first name you prefer. _______________________________________________________________
+
+Print clearly the e-mail address that the instructor can use for communication. _________________________________________________________
+
+Are you willing for your e-mail address to be made available to the entire class?
+
+Yes____
+
+No ____
+
+23
+
+

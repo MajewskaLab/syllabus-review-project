@@ -1,0 +1,79 @@
+INFORMATION PACKET FOR DEVELOPMENT BIOLOGY
+CBIO 3300 Spring Semester, 2014 Monday/Wednesday/Friday: 12.30 - 1.45 PM Lecture Hall 404B Biological Sciences Building
+Instructor: Cordula Schulz Phone: 542-3515 Email: cschulz@uga.edu
+Software Requirements: Top Hat Monocle
+Textbook: Developmental Biology. 8th ed. Gilbert or higher. (Sinauer Associates Inc., 2006; ISBN 978-0-87893-250-4).
+Course Web Site: eLC
+
+General Information
+Scope of the Course:
+Developmental Biology, currently one of the fastest growing fields in biology, seeks to understand the mechanisms multicellular animals use to construct a complex organism from a
+fertilized zygote. We will examine the fundamental events that occur during embryonic development and pay special attention to the roles of genes in directing the fates and behavior of
+cells. We will emphasize the roles of signaling and regulatory molecules important for the development of organisms. There will be special emphasis on a limited number of model systems as diverse as worms, flies, zebrafish, and mouse. A diversity of techniques that are
+proving successful in this analysis will describe in detail.
+Course Objectives:
+Students will be expected to master fundamental facts, understand their experimental underpinnings, and be able to demonstrate that knowledge by constructing and evaluating
+previously unvisited experiments. Specifically, students will:
+� Learn how development occurs in embryos of several species of animals, primarily those with well-characterized embryology and/or genetics (Drosophila, C. elegans, zebrafish, chicken, and mouse)
+� Learn the experimental strategies and tools used by developmental biologists. � Analyze embryology experiments to identify common elements of the scientific process
+(hypothesis, experiment, result, and conclusion). Learn skills in scientific critiquing and creativity.
+� Learn to summarize and synthesize scientific papers, and effectively communicate their findings.
+� Appreciate the value of basic research in allowing leaps in our knowledge of human disease.
+Preparation:
+A year of introductory biology and a course in biochemistry are prerequisites and a course in genetics is a co-requisite for this course. Although listed as a co-requisite, completion of a course in genetics is highly recommended prior to taking this course in developmental biology. A firm grasp of molecular biology and genetics is essential for comprehending the material presented in this course. The amount of reading and study required to succeed in this class is higher than
+the classes you are used to in the past. Do not take this course if you are not prepared.
+Lectures:
+The lectures are the most important part of your learning experience in this course. They and the slides handouts accompanying them are the primary focus to guide your understanding of the
+material. Selection of the lecture material may reflect biases of the instructors more than the authors of the text. Some lecture material will be drawn from the current primary literature and is
+not found in the textbook. As a result, lecture may not complete coincide with reading assignment handed out ahead of time. You will be held responsible for material covered both in lectures and in the assigned readings. Research has shown that most people forget about 75-80%
+of what they hear in a lecture if they don't take notes and don't review the material within 24 hours. Thus, timely review following the lectures and readings on your part is critical.
+
+Handouts: Most of the lectures are accompanied by powerpoint slides. They provide the diagrams, graphics and summaries of the key pints in the lecture. The slides/handouts are available on eLC prior to
+each lecture for you to download, print and bring to the lecture.
+Readings: The lecture schedule is accompanied by appropriate readings in the text. Your understanding of the material covered in lectures will be facilitated if you read the material prior to the lecture and
+review afterward. Exams and quizzes may cover assigned reading material even if it is not covered in class.
+Attendance: Regular class attendance is essential for success in this course; however since you are mature individuals, no formal attendance records will be kept. Nor will there be any sympathy if you do poorly on an exam because you missed important material or an important announcement given
+in lecture.
+Classroom Activities: Class meetings will involve a mix of activities: lecture, short writing assignments, questions and discussions. People learn more effectively when they are actively involved in the learning instead
+of just sitting passively.
+Terminology: Science courses are said to introduce more new terms than an elementary course in a foreign language. We will do our best to define all new terms. Your textbook has a detailed index. USE
+IT!
+Other Help: We can be contacted by e-mail, phone, or in person if you have questions that cannot be asked and answered in class. We rarely bite--except if you wait until the last minute to ask for help.
+Grading Information
+Exams: There will be four one-hour exams during the semester, given on the days listed in the lecture schedule. Each exam will be worth 100 points. The format of the exams will be a combination of multiple choice, answer questions and essay/discussion questions. More points can be gained by participating in the Top Hat Monocle question/answer system. The amount of points will be
+determined by us dependent on each class' success in participation.
+Grade Assignment:
+You must have 60% of the points (300 of 500) to pass the class. Abobe the 60%, the grades will be curved dependent on your performances.
+
+Bonus points If a student is at risk to fail the class, s/he should contact the instructor to discuss support and additional
+possibilities for receiving extra points. These may include tutoring support, and extra points via a homework, literature work, or taking an extra quiz.
+Developmental Biology Journals
+Cell Nature Science Proceedings of the National Academy of Sciences USA Genes and Development Development Genetics Developmental Biology Developmental Genetics
+Other Resources
+Primary scientific Journals including the ones emphasizing developmental biology are abailable at the Science Library and online: www.libs.uga.edu/science/fullalph.html
+Useful Web pages Zygote: A developmental biology website. http://zygote.swarthmore.edu/ The Virtual Embryo: http://www.ucalgary.ca/UofC/eduweb/virtualembryo/index.html
+The Society for Developmental Biology: http://sdb.bio.purdue.edu/ Basic Embryology Review Program (Overview): http://www.med.upenn.edu/meded/public/berp/
+PubMed: Searching for scientific articles. http://www.ncbi.nlm.nih.gov/PubMed/ The flybase: http://flybase.bio.indiana.edu/
+The Interactive Fly: Drosophila molecular genetics: http://sdb.bio.purdue.edu/fly/aimain/1aahome.htm Fly genetics simulators: http://vflylab.calstatela.edu/edesktop/VirtApps/VflyLab/IntroVflyLab.html Welcome to Sea Urchins: http://worms.zoology.wisc.edu/urchins/SUwelcome.html Frog Movies: http://www.utexas.edu/courses/zoo321/movies321.html Fish Movies: http://weber.u.washington.edu/~fishscop/zfpages/landmarks.html Zebrafish page (Fishnet): http://zebra.sc.edu/ Mouse: http://www.jax.org/ The Visible Embryo (human): http://www.visembryo.com/
+
+Honors Option CBIO 3300
+Instructor: Cordula Schulz
+Honors Option In accordance with the requirements of the Honors Program at The University of Georgia, students who wish to earn Honors credit for BIOL/CBIO 3300, Developmental Biology, are expected to complete additional academic work, as well as the normal course requirements for this class. To receive Honors credit in this class, students will be asked to prepare a research proposal that focuses on a current topic in developmental biology. This topic will be picked from a list of topics provided by the instructors. Students may suggest topics if they have specific
+interests, but instructor approval is required.
+Students will research their chosen topic, develop a hypothesis that addresses one aspect of this topic, and then propose at least two experiments designed to test their hypothesis. The proposal will have the following parts: (1) an Abstract briefly stating the problem, what is known about the problem, the hypothesis that is being tested, and the specific aims of the research proposal
+(what experiments are you going to use to test your hypothesis and what do you hope to accomplish with your experiments?); (2) an Introduction that will address the background leading to the development of the hypothesis and the significance of the problem; (3) the Research Design and Methods (what experiments are you going to use to test your hypothesis and why); and (4) a discussion about all possible outcomes from the experiments: the student is expected to predict both the results that would be consistent, or inconsistent with the hypothesis,
+or other novel findings and their implications.
+The proposal should be approximately 10 pages in length (not including citations), single spaced, with one inch margins, and use a font size of 12 points. You may want to include figures or
+drawings to help clarify your presentation. Additional information and guidelines pertaining to the format of the proposal will be made available to you by your instructors. A draft of the
+abstract is due no later than February 28, and the final research proposal is due no later than the last day of class.
+Sections in Research Proposal Abstract (1 page)
+A brief statement of the problem, what is known about the problem that lead to the development of the hypothesis to be tested, and a brief statement of how you are going to test the hypothesis.
+The hypothesis must be clearly indicated.
+Introduction ( ~4-5 pages) State the hypothesis to be tested at the top of the page Background and significance (What is known about this problem; why is it important? Be sure to discuss previous experiments that lead to the development of your hypothesis!) Specific Aims of the proposal (What do you hope to test?)
+Experimental Design (~6 pages)
+
+Describe what the experiment is designed to test. Give a brief description of the methods to be used. Use only accepted protocols; give citation.
+Include the appropriate controls that would help you interpret your experiments! Describe outcome(s) that would support your hypothesis and state why. Describe outcomes that would not support your hypothesis and state why.
+Literature Cited (~ 1-3 pages) Complete citations.
+
+

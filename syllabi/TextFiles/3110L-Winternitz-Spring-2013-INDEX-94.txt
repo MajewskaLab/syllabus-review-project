@@ -1,0 +1,67 @@
+BIOL 3110L- Basic Laboratory Skills
+
+Spring 2013
+
+2:00-4:45 PM, Tues/Thurs, Room 536 Biosciences Bldg.
+
+Instructor
+
+Teaching Assistant
+
+Dr. Jamie C. Winternitz
+
+Ciara McKnight
+
+Room 191B Ecology
+
+Office Hours: by appointment
+
+Office Hours: by appointment
+
+Email: ciaram@uga.edu
+
+Office Phone: (706) 542-3580
+
+Email: jwintern@uga.edu
+
+Course Overview This class is designed to familiarize you with the basic laboratory bench procedures you have read about, but with which you may have little or no direct experience. By the end of the semester, it is the goal that you will understand how to perform a given protocol and, more importantly, why it works. The course syllabus is a general plan for the course, deviations announced to the class by the instructor may be necessary.
+Prerequisites: BIOL 1107-1107L and CHEM 2211 and CHEM 2211L
+Laboratory Manual There is no official lab manual but lab objectives and protocols will be posted on the eLearning Commons (eLC) and must be read prior to lab.
+Attendance Punctual attendance in the lab is required. Missing more than one class period: a) places a significant burden upon your laboratory partner(s); b) prevents you from gaining applied experience, a major goal of this class; and c) disrupts the continuity needed to complete multi-week experiments. Therefore, we allow one absence in this class. Medical/professional school interviews will be counted as excused absences only if Dr. Winternitz is contacted prior to the absence.
+Cellular Phone Policy Use of cell phones, ipods, mp3 players, blackberries, and other electronic devices are not allowed during lab. Ringing/messaging not only distracts the class, but also poses a safety hazard if a student is startled when working with an open flame or with chemicals. Devices must be stowed away for the duration of the lab period. Unauthorized use of these devices will result in 10 points of penalty.
+Website and eLC We will be using the eLC throughout the semester. I often communicate via the eLC course mail, which you should check regularly. The eLC course page includes the syllabus, lecture outlines, laboratory exercises, assignments, and course announcements. If you're not comfortable using the eLC, feel free to seek help from your group members and me. To get to the course page, go to http://www.elc.uga.edu. Login with your UGA MyID.
+
+1
+
+Exams There will be three examinations: one designed to test your "practical" skills and two subsequent exams designed to test your knowledge of the theoretical foundation of each laboratory procedure. There will be no final exam; instead, you will submit a lab report covering experiments in the second half of the course. The report will be written in the style of a scientific paper. Finally, your laboratory notebooks will be checked for accuracy. If you believe there has been grading error on your exam, questions about grading must be submitted in writing within one week of the return of the exam.
+
+Grading Practical exam Exams (2 @ 100 points) Lab report Lab notebook Participation/Performance/Quizzes Total points possible
+
+50 points 200 points 200 points 50 points 50 points 550 points
+
+Grading Scale: The letter grade will be determined according to the scale shown below. A 93 to 100%, A- 90 to 92%, B+ 87 to 89%, B 83 to 86%, B- 80 to 82%, C+ 77 to 79%, C 73 to 76%, C- 70 to 72%, D 60-69%, F below 60
+
+Expectations In order to maximize your experience in this course, full participation in lab, including interaction with other students and the instructor is very important. The best way to do this is to come to lab prepared and think about what you'll be doing. I will give short assignments periodically throughout the semester to gauge your preparedness.
+
+Late assignments will lose 10% of the assignment value for every day late. This means that if you turn in an assignment at any time within 24 hours after the assignment is due it will lose 10% of the possible point value.
+
+Academic Honesty We take academic honesty very seriously; we suggest that you consult the Vice President for Academic Affairs Office on-line at http://www.uga.edu/~vpaa (click on Academic Honesty Statement) to review university policies.
+
+Learning Disabilities Please keep your TA informed. If you have a learning disability, you are responsible for providing documentation from the Office of Disability Services during the first week of lab.
+
+Lab Schedule This course is intended to duplicate the experience of working in a research laboratory. Therefore, one cannot predict exactly when certain experiments will be performed, or when one must deviate from the experimental outline in order to complete a procedure and produce accurate results. Thus, you can expect a certain amount of deviation from the schedule. In general, you will be introduced to basic techniques during the first half of the semester. During the second half of the semester you will use these techniques to isolate, clone, and amplify recombinant plasmids. You must complete each set of the experiments correctly before you can progress to the next step. Your final grade in this class depends in large part upon your progress in this set of experiments. These experiments will be used in writing your laboratory report.
+
+2
+
+Date 1/8 1/10 1/15 1/17 1/22 1/24 1/29 1/31 2/5 2/7 2/12 2/14 2/19 2/21 2/26 2/28 3/5 3/7 3/12, 3/14 3/19 3/21 3/26 3/28 4/2 4/4 4/9 4/11 4/16 4/18 4/23 4/25 4/25
+
+Approximate Lab Schedule
+Topics Introduction, lab safety, calculations & pipetting
+Making a gel Restriction enzymes Gel electrophoresis & restriction enzymes Restriction enzyme double digest & methylation reaction Gel electrophoresis for practice digests PCR-based VNTR human DNA typing I PCR-based VNTR human DNA typing II
+ELISA Extra Topic PRACTICAL EXAM I Lecture: Bioluminescence & transformation PGLO transformation & protein purification I PGLO transformation & protein purification II Plasmid purification I Plasmid purification II Lecture: NCBI & Genomics
+EXAM II Spring Break Lab Report Project (LRP) I: Restriction enzyme digestion pAMP & pKAN plasmids LRP II: Ligation LRP III: Transformation of recombinant plasmids LRP IV: Colony growth LRP IV: Colony selection and culture for isolation LRP V: DNA isolation and gel electrophoresis LRP VI: Restriction enzyme analysis of recombinant plasmids Protein purification Protein electrophoresis Comparative proteomics: Western blot I Comparative proteomics: Western blot II
+EXAM III Lab report due at start of class (before Exam III)
+
+3
+
+

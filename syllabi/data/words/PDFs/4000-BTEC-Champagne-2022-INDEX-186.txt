@@ -1,0 +1,146 @@
+Methods in Biotechnology Syllabus BTEC4000L, Spring 2022
+
+The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+
+ Instructors Dr. Donald Champagne Office hours by appointment Room: #536 Biological Sciences Bld.
+
+E-mail: dchampa@uga.edu Phone: 706-542-2342
+
+Dr. Gang Hua
+
+Office hours by appointment
+
+Room: #427 Biological Sciences Bld.
+
+E-mail: ghua@uga.edu Phone: 706 542-2255
+
+ Course materials Most materials will be handouts provided to you. We will also provide some reading materials electronically and you should print these out yourself for your use. You will need a 3 ring binder or appropriate notebook for lab notes.
+
+ Course objectives
+Students will learn a variety of basic molecular biology techniques related to cloning, expression, HPLC purification, and bioassay of recombinant proteins. Potential problems, and a variety of alternative methodological approaches such as Gibson assembly, will be addressed. Functional assays include RNA interference and a variety of enzyme bioassays, with an introduction to highthroughput assays. Although this is not a bioinformatics course, basic techniques such as BLAST analysis, tree building, and prediction of signal peptides, restriction site mapping, calculation of expected mass and pI, and primer design are included in the course.
+
+ Personal Protective Equipment (PPE)
+Lab coats and safety glasses will be required for handling hazardous materials. If you do not already own these items they are available for purchase at the University Bookstore or Chemistry Stores (in the basement of the Chemistry Building). We will provide disposable gloves in the lab. PPE should not be worn outside the lab, except when we have to move from one lab to another as part of the class.
+
+ Class Schedule (319 Biological Science Building) Wednesday and Friday: 10:20 am -1:30 pm
+
+ Final: May 6, 8:00 am - 11:00 pm
+
+ Grading Structure and Method
+
+There is no curve used in grading. Grades will be assigned as follows without exception.
+
+Class Points:
+
+Notebook
+
+20 pts (each instructor)
+
+= 200 pts
+
+Quizzes/Home Work
+
+40 pts (each instructor)
+
+= 200 pts
+
+Exam #1
+
+40 pts
+
+= 200 pts
+
+Exam #2
+
+40 pts
+
+= 200 pts
+
+Final
+
+pts
+
+TOTAL
+
+= 200 pts = 1000 pts
+
+Letter Grades: A 94-100 % A- 90-93 % B+ 87-89 % B 83-86 % B- 80-82 %
+
+C+ 77-79 % C 73-76 % C- 70-72 % D 60-69 % F 59-0 %
+
+ Attendance Policy Attendance in lab is mandatory and you will receive a zero for any experiment you fail to complete. In the event that an emergency (documented illness, death in the family, etc.) causes you to be absent from lab, it is your responsibility to arrange to make up the missed lab assignments. Students who miss 4 labs and do not have valid excuses will fail the course. Please do not schedule doctor's appointments, interviews, advising, etc. during class. These are not excused absences.
+
+ Cell Phone and Computer Policy Use of cell phones or computers in class for activities not related to lab projects is prohibited and may result in a deduction from your grade. Use of a cell phone during a quiz or test will result in a zero for that assignment and you will be reported to the Office of VP for Instruction for possible academic dishonesty. If it is necessary for you to take a phone call, please obtain permission prior to the beginning of class.
+
+ University Honor Code and Academic Policy As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: www.uga.edu/honesty. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor.
+
+ Student with Disabilities Students with disabilities who require reasonable accommodations in order to participate in course activities or meet course requirements should contact one of the instructor during the first week of class so accommodation can be made for the disability.
+
+ Syllabus The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+
+Day/Instructor Date Wen/ CH&H 1/12
+
+Fri/H
+
+1/14
+
+Wed/H
+Fri/H Wed/H
+Fri/H Wed/H
+Fri/H Wed/H
+
+1/19
+1/21 1/26
+1/28 2/2
+2/4 2/9
+
+Fri/H
+
+2/11
+
+Wed/H
+Fri/H
+Wed/H
+Fri/H Wed/H
+Fri/H Wed/H
+Fri/H Mon/ Wen/ Fri/ Wed/CH
+Fri/CH Wed/CH
+Fri/CH Wed/CH
+
+2/16
+2/18
+2/23
+2/25 3/2
+3/4 3/9
+3/11 3/16
+3/18 3/23
+3/25 3/30
+4/1 4/6
+
+Topic Intro/Syllabus/Class assignments/Notes/Lab Safety/Pipet Research experiment design Ag55 cell culture, Cell count, Cry toxin toxicity on cells Report I Total RNA extraction, Nano-drop determine RNA amount Reverse transcription cDNA synthesis, check cDNA PCR & PCR product check, TA Cloning
+Competent cell, transformation plasmid extraction, restriction enzyme, Report II
+T7-DNA synthesis (PCR), purify T7-DNA, dsRNA synthesis Nano-determine dsRNA, treat Ag55 cells with dsRNA, culture cells for Three days Collect cells, Extract total RNA from the treated cells and cDNA synthesis real time PCR primer design, qPCR
+Real time PCR (qPCR), Analysis qPCR results, treat dsRNA-cells with Bin toxin Bin protein toxicity on dsRNA retreated Ag55 cells Report III
+SDS-PAGE, Western blot ECL detection Report IV
+Exam 1 Spring Break
+Spring Break Introduction to alternative cloning strategy; mRNA extraction & cDNA Homework (HW)1 assigned PCR; make expression constructs; transform E. coli Analysis & selection of clones for expression; HW 1 due; HW 2 assigned Isolate plasmid; transformation of insect cells Analysis for expressed protein; HW2 due, HW 3 (chromatography Presentations) assigned Practice enzyme assays Purify expressed protein; HW3 due (group class presentations)
+
+Fri/CH Wed/CH
+Fri/CH Wed/CH
+Fri/CH Wed/CH
+Fri/CH Wed/CH
+Fri/CH
+
+4/8 4/13
+4/15 4/20
+4/22 4/27
+4/29 5/4
+5/6
+
+Bioassay expressed protein Western blot expressed protein; HW4 assigned
+Finish Western blot Finish up any experiments not completed; HW4 due
+Review for exam Exam 2 (take home)
+Clean up; final discussion and Q & A session Reading day
+Final exam (online) 8:00-11:00
+
+

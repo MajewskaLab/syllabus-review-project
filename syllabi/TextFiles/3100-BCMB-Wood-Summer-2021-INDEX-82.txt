@@ -1,0 +1,352 @@
+BCMB 3100
+
+Introductory Biochemistry
+
+Sum 2021
+
+Lecturers: Dr. Zac Wood
+Davison Life Sciences Bldg., A426B Phone: 706-583-0304 Email: zaw@uga.edu
+
+Dr. Bill Lanzilotta Davison Life Sciences Bldg., A220B
+Phone 706-542-1324 Email: wlanzilo@uga.edu
+
+Class Time, Rooms and Online Options: M-F, 9:15-10:15 am, Lecture Room C127 in Life Sciences. Breakouts 2:15-3:15 on ZOOM only.
+COVID-19 Remediation: Classrooms are not large enough to accommodate all registered students while observing safe social distancing, so remote synchronous learning options are available for all lectures; physical attendance is not required, but on-line or in-person attendance is expected. Quizzes will be administered online.
+Face Coverings: The University of Georgia requires all faculty, staff, students and visitors to wear an appropriate face covering while inside campus facilities/buildings. Face covering use is in addition to and is not a substitute for social distancing. Anyone not using an appropriate face covering must leave the area. Reasonable accommodations may be made for those who are unable to wear a face covering for documented health reasons. Students seeking an accommodation related to face coverings should contact Disability Services at https://drc.uga.edu/.
+Objective: The objective of this course is to introduce you to the chemistry of life and provide a basis for further studies in biological sciences. The course material includes the structure and function of biological molecules, enzymology and metabolism and bioenergetics. The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+Textbook: There are no assigned readings for the course. Our exams are based on our notes, the lecture material and study questions. Importantly, the test material is covered in the Virtual Study Groups (below). The book is simply a reference guide, and most of the lecture material can easily be found using the index. We allow students to use one of several textbooks, some of which can be purchased for $5-$10 on Amazon. The official book for the course is Biochemistry: a Short Course, Tymoczko, Berg and Stryer, 3rd or 4th Edition, BUT you may also choose any of the inexpensive and high quality used books from the selections below. The following books are (in our opinion) the best biochemistry books available: Biochemistry: a Short Course, Tymoczko, Berg and Stryer, 1st or 2nd Edition OR any recent edition of Biochemistry by Voet&Voet (2nd - 4th editions), Principles of Biochemistry by Lehninger (4th-6th editions), OR Biochemistry by Stryer (4th-7th editions).
+Virtual Study Groups and Study Questions: BCMB 3100 is an information-rich course that challenges students. To improve student performance, we use virtual study groups. The goal is to engage students outside of class using an online platform to encourage group study habits without the scheduling and logistic difficulties associated with actual study groups. Briefly, each lecture includes 10-15 discussion questions that are posted on a `Google Doc' that is open to the class. The entire class then works on the same questions simultaneously. An important feature of the virtual study group is that it promotes and facilitates cooperative learning; the students often post follow-up questions to the class as a whole in order to clear up misunderstandings or to delve deeper into a specific concept. We monitor the discussions daily and point the students in the correct direction by giving hints or asking leading questions. Our participation gives the students the opportunity to interact with us outside of class, which is another attractive feature. This simple platform has redefined office hours. Many students have the same questions, so instead of spending time repeatedly answering the same question with individual students, we interact with the virtual study group and address the questions for the entire class. This strategy enhances the learning experience for the entire class, including those who cannot attended office hours.
+Website: The class syllabus, lecture notes, and other information will be available on ELC.
+Academic Honesty: All academic work must meet the standards contained in: "A Culture of Honesty." Students are responsible for informing themselves about those standards. Minimum sanctions for violations of "A Culture of Honesty" will be a grade of F in the course and transcript notation.
+
+Attendance: While attendance is not recorded, it is required. Exam questions will be taken from information covered during lectures and breakouts. To help you focus on the important material in the lecture, we recommend reading over the associated study questions prior to class. You will be responsible for all announcements made in class or through ELC E-mail. Arrive on time and avoid leaving early. Turn off cell phones. This includes no email or texting during class. If you distract the other students, then you will be asked to leave classroom. In the event of weather related cancellation of classes, the schedule will pick up the sequence of lectures as classes resume. If we have covered all material for an exam, the exam will be given on the first day back.
+Breakouts: Mon&Wed 2:15-3:15 PM. Breakouts will serve two purposes: 1) Each Monday breakout will be used for a class quiz (see `Quizzes' below for more information). 2) Each Wednesday breakout will serve as a group office hour to discuss questions from students.
+Office Hours: Except for the Wed breakout, there are no set office hours for this class. Students are strongly encouraged to participate in classroom discussion, breakout sessions and the course google doc. We have learned that many students tend to have the same questions, so an open discussion helps the entire class. If you have a specific reason or need to meet with us, use email and we will schedule a time.
+Quizzes: The grading in this course will be based on weekly, open-book quizzes, which will be given during the Mon breakout. While it is open-book, the work MUST be the student's own work. Discussion of the quiz or answers with ANYONE other than the professor, will constitute cheating. The quiz will last the entire class time (2:15-3:15, and will consist of 6-10 questions broken down as follows:
+
+1) (70 points) 3-6 quiz questions based on the study questions (googledoc) from the previous week's lecture. 2) (30 points) 2-5 quiz questions based on ANY of the previous lectures (to enhance retention). 3) (5 points) Bonus point question. Covering any topic.
+Quizzes will not be returned. Answers will be discussed immediately following the quiz. If you believe there has been a grading error on your quiz you have one week from the date the quiz grade is posted to contact us for grade changes. No grades will be changed after this date.
+
+Make-up exams: There will be no make-up exams for missed quizzes. Instead, all students have the option of taking a cumulative `Optional Final' at the end of the course. This optional final can be used to replace any quiz grade.
+
+Grading:
+
+8 quizes (100 points each)
+
+800 total points
+
+8 bonus questions/homework (5 points each)
+
+40 bonus points
+
+Each quiz will be scaled* up to class average of 75%. No scale-down if average >75%
+
+To calculate your grade, simply add your exam and bonus points. NO ROUNDING UP on this scale.
+
+Grade Points
+
+A 744*
+
+93%
+
+A- 720
+
+90%
+
+B+ 696
+
+87%
+
+B 648
+
+81%
+
+B- 632
+
+79%
+
+C+ 600
+
+75%
+
+C 480
+
+60%
+
+C- 400
+
+50%
+
+D 320
+
+40%
+
+*Warning: With the scaling, it is possible to score an `A' by the 7th quiz. To discourage students from skipping the last quiz, you must earn at least 30 points on the last quiz to receive an A in the course.
+
+BCMB 3100 Summer 2020 (Quizzes during Monday Breakouts)
+
+Lecture Date
+
+Subject Material
+
+Lecturer Quiz
+
+1
+
+6/11 F Intro, Peptide bond and Thermodynamics
+
+Wood
+
+2*
+
+6/14 M Thermodynamics (cont.), noncovalent interactions, water
+
+Wood
+
+3
+
+6/15 T Hydrophobic effect, Detergents, pKa, le Chatelier's, leaving
+
+Wood
+
+groups, Bicarbonate Buffer. Amino Acids.
+
+4*
+
+6/16 W Amino Acids (cont.) Primary structure of proteins, Purification
+
+Wood
+
+5
+
+6/17 Th Protein structure: Four rules of folding, Secondary structure,
+
+Wood
+
+Ramachandran, Pro/Gly,
+
+6
+
+6/18 F Protein folding1: Tertiary Structure: Motifs, Domains,
+
+Wood
+
+Leventhal's Paradox, Anfinsen's Dogma, Nucleation-
+
+Condensation, Two-state folding, Folding Funnel
+
+7*
+
+6/21 M Binding and affinity
+
+Wood
+
+1
+
+Intro to Hemoglobin
+
+8
+
+6/22 T Bohr Effect, 2,3-BPG, Fetal Hemoglobin (why babies are fat
+
+Wood
+
+and stupid), Sickle Cell
+
+9*
+
+6/23 W Kinetics: Rates (reaction order), Catalysis, Initial velocity
+
+Wood
+
+analysis, Steady state, Lineweaver-Burk, Enzyme inhibition
+
+10
+
+6/24 Th Enzyme Kinetics
+
+Wood
+
+11
+
+6/25 F Enzyme Mechanisms I: Four tricks
+
+Wood
+
+12*
+
+6/28 M Enzyme Mechanisms II: HEWL, Serine Protease
+
+Wood
+
+2
+
+13
+
+6/29 T Carbohydrates: structure
+
+Wood
+
+14*
+
+6/30 W Carbohydrates (cont.), metabolism (pathways, regulation)
+
+Wood
+
+15
+
+7/1 Th Metabolism (pathways, energy, coupled reactions)
+
+Wood
+
+16
+
+7/2 F Metabolism (continued), Glycolysis
+
+Wood
+
+7/5 M ******************Holiday********************
+
+17*
+
+7/6 T Glycolysis (PLUS QUIZ)
+
+Wood
+
+3
+
+18*
+
+7/7 W Glycolysis & Gluconeogenesis
+
+Wood
+
+19
+
+7/8 Th Gluconeogenesis & Pyruvate Dehydrogenase
+
+Wood
+
+20
+
+7/9 F Pyruvate Dehydrogenase
+
+Lanzilotta
+
+21*
+
+7/12 M The Citric Acid Cycle
+
+Lanzilotta 4
+
+22
+
+7/13 T Electron transport chain
+
+Lanzilotta
+
+23*
+
+7/14 W Electron transport & Oxidative phosphorylation
+
+Lanzilotta
+
+24
+
+7/15 Th Oxidative phosphorylation
+
+Lanzilotta
+
+25
+
+7/16 F Photosynthesis
+
+Lanzilotta
+
+26*
+
+7/19 M Lipids & Membranes
+
+Lanzilotta 5
+
+27
+
+7/20 T Fatty Acid Synthesis
+
+Lanzilotta
+
+28*
+
+7/21 W Fatty Acid degradation
+
+Lanzilotta
+
+29
+
+7/22 Th Fatty Acid digestion
+
+Lanzilotta
+
+30
+
+7/23 F Sterol Biosynthesis
+
+Lanzilotta
+
+31*
+
+7/26 M Nucleic Acid structure & metabolism
+
+Lanzilotta 6
+
+32
+
+7/27 T DNA synthesis & replication and Repair
+
+Lanzilotta
+
+33*
+
+7/28 W DNA repair
+
+Lanzilotta
+
+34
+
+7/29 Th RNA transcription
+
+Lanzilotta
+
+35
+
+7/30 F RNA processing
+
+Lanzilotta
+
+36*
+
+8/2 M Amino Acid Synthesis
+
+Lanzilotta 7
+
+37
+
+8/3 T Protein Synthesis
+
+Lanzilotta
+
+38*
+
+8/4 W Metals in Medicine
+
+Lanzilotta
+
+Final
+
+8/6 F
+
+FINAL Quiz and the Optional Final! 8:00-11:00 AM
+
+8
+
+

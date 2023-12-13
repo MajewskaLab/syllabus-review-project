@@ -1,0 +1,175 @@
+EcoPhys Fall 2020
+
+1
+
+ECOL 4240 - Physiological Ecology - Fall 2020 Tues-Thurs 12:45pm - 2:00pm,
+Ecology Building Rm 117
+Labs: Fri - 10:20am-12:15pm at the new SLC Bldg. - Rm 301
+
+Professor: Dr. Andy Davis
+akdavis@uga.edu
+
+Office # (706) 542-8112 Ecology Bldg Rm 183 Office hours: Thursdays 2:00 - 4:00
+
+Welcome to Physiological Ecology! This course will provide you with a broad overview of physiological ecology, including immunity, metabolism, stress, nutrition and thermoregulation, with an emphasis on vertebrate and invertebrate animals. All classes will incorporate up-to-date evidence from the scientific literature, giving students an appreciation of the current trends in this sub-discipline of ecology. Through the labs, you will also become familiar with a field and laboratory techniques common to physiological research including surveying methods and physiological data collection.
+
+Attendance: Attendance in class is expected but not mandatory. The majority of exam questions will come from the class or lab notes. Also, because there are usually active discussions in class, your absence on any given day will definitely be noticed! And, keep in mind that a portion of the final grade will be based on your participation in class discussions (below).
+
+Books & Equipment: There is no text for the class, but many assigned readings, which will be available on ELC. You will need to purchase a student dissecting kit from the UGA bookstore (they are on the 2nd floor of the store near the office supplies) for ~$15. Bring this to all labs.
+
+Individual Project: As part of your learning experience you will be required to write a short paper on a topic which you will independently research and present to the class. Please see the separate instructions on p. 2 of this syllabus. The report/presentation will be worth 20% of your final grade.
+
+Participation: Active participation in class and lab is expected, and accounts for 10% of your final grade. Scores will be based on participation in class discussions, labs, and field demonstrations. If you want to get full marks here, you should speak up during class (i.e. ask questions). This counts also if you are participating via Zoom.
+
+Quizzes: There will be a number of unannounced quizzes throughout the semester, both in class and during labs. These will be worth 10% of the final grade.
+
+Midterm: The midterm will cover lecture materials, paper discussions, and lab material. The midterm will be worth 30% of your final grade.
+
+Final exam: The final exam will emphasize material presented since the midterm. Questions will span all class materials, readings and laboratory exercises. The final will be worth 30% of your grade. There will be no lab practical. Material covered in labs will be incorporated into the midterm and final in addition to periodic laboratory assignments.
+
+Grading Summary
+
+Participation 10% Midterm 30% Quizzes 10% Project 20% Final Exam 30%
+
+-1-
+
+EcoPhys Fall 2020
+
+2
+
+Individual Project
+As part of your final grade, you will write a 5-10 page (double-spaced) paper on a subject of your choice, and give a 20 minute presentation to the class on the subject. The topic must fit within the general theme of physiological ecology. The paper should be based on your own reading of the scientific literature, OR based on data you collected yourself. You should think carefully of the topic, then do some reading on the subject, from both books at the library, as well as from scientific papers, then write a summary of the information you gathered. The essay you write should contain as much current information on the subject as possible, plus a summary of your own data, if you have it, and must include reference to multiple articles in the scholarly literature. A detailed bibliography is required. You should try to have at least 8-10 sources (i.e. scientific journals). Internet webpages do not count!
+Near the end of the semester, you will also give a (20 min) PowerPoint presentation on your topic to the class. The overall goal of the paper and the talk is to teach yourself, your classmates (and your professor!) about the subject you picked.
+You will be graded on both the paper (10%) and the talk (10%). For the paper, the grade will reflect organization and scientific writing style, level of interest in the subject, and your presentation and critical review of the scientific studies related to your topic. You are also free to include figures, if they help to illustrate the concepts. For the talk, the grade will be based on general organization, oral presentation style and your own enthusiasm!
+The written projects are due October 31
+Oral presentations will be given during the week following Thanksgiving, and will be conducted via Zoom
+
+Labs
+There is a 2 hour lab for the class that meets on Friday morning, 10:20-12:15pm in the SLC bldg., in room 301. The labs each week will focus on the topics covered in class and the paper discussions.
+Most of the lab sessions are designed to familiarize you with commonly-used methods for assessing elements of animal physiology, and to do so in an experimental fashion. Each week, we will start with a general conceptual question based on some of the readings that week. Then, students will propose and discuss questions and hypotheses, contribute to study design, collect physiological data on the organisms of interest (metabolic rate, for example), and explore the data graphically and statistically at the end of the lab. Ideally, at the end of each lab, the data gathered will help to answer the initial question.
+This approach exposes students to the logistic details that must be considered when designing real-world experiments. These details include - how many animals must be measured for meaningful conclusions to be reached, what measurements to take, how to deal with multiple observers, what to do with statistical outliers, and basic elements of experimental design and analysis.
+
+-2-
+
+EcoPhys Fall 2020
+
+3
+
+Zoom Participation
+This class will be presented in a hybrid model of in-person lectures and online participation. Throughout the semester, half of the class will come to the class or lab on any given day, while the other participates via Zoom. The two class groups will alternate in-person dates throughout the semester. A recurring Zoom meeting link has been set up for online participation in lectures, discussions and labs.
+Join Zoom Meeting https://zoom.us/j/99129482440?pwd=R2tRMFhTU0ZieU56Uy9FT0JMbEJaQT09
+Meeting ID: 991 2948 2440 Passcode: ecophys
+Join by SIP 99129482440@zoomcrc.com
+Join by H.323 162.255.37.11 (US West) 162.255.36.11 (US East) 115.114.131.7 (India Mumbai) 115.114.115.7 (India Hyderabad) 213.19.144.110 (EMEA) 103.122.166.55 (Australia) 64.211.144.160 (Brazil) 69.174.57.160 (Canada) 207.226.132.110 (Japan) Meeting ID: 991 2948 2440 Passcode: 9509587
+
+-3-
+
+EcoPhys Fall 2020
+
+4
+
+Course Calendar
+Each week will be devoted to a single topic, which we will cover in lectures, paper discussions and labs. Tuesdays will be a lecture on the topic, Thursdays we will discuss relevant papers from the scientific literature, and in labs on Friday there will be activities devoted to the same topic.
+
+Week 1 2 3 4 5 6 7 8 9 10 11 12
+
+Lecture (Tuesday)
+Thermoregulation and effects of integument color in animals
+Innate immune function in invertebrates
+Nutritional assessment of animals in physiological ecology research
+Physiological adaptation to extreme environments in organisms
+Metabolism, metabolic rate, and their use in physiological ecology
+Example papers in the field of ecotoxicology
+Stress physiology in vertebrates and invertebrates
+Midterm Oct 13
+Innate immune function in vertebrates - effects of stress
+Guest lecture -Parasites and animal behavior
+Guest lecture - Sonia Altizer Parasitism and disease
+
+Paper Discussion (Thurs)
+
+Lab (Friday am)
+
+Intro to class and the field of Physiological Ecology
+
+Intro to labs, equipment and example project
+
+Wing color and thermoregulation in Testing effects of artificial
+
+Lepidopteran insects
+
+darkening on butterflies
+
+Trade-offs between cuticular melanin and immune melanization
+
+Overview of encapsulation assay in insects
+
+Discussion of papers incorporating ptilochronology and hair growth
+
+ptilochronology on live birds (horseshoe bend)
+
+Hypoxia - an extreme physiological Experimental investigation
+
+adaptation
+
+of hypoxia in tadpoles
+
+Selected papers describing effects of Measurement of metabolic
+
+pollution on metabolism
+
+rate in insects
+
+Overview of ecotoxicology
+
+Ecotox expt. using insects
+
+Guest lecture - Physiology of Cort Lab TBA
+
+Stress metrics - their use and misuse in physiological ecology
+Field collection of salamanders and blood smear preparation
+Selected articles from Dr. Ezenwa and colleagues
+Discussion of papers showing positive effects of parasites
+
+Testing effects of acute stress on beetle heartrate
+Examining effects of stress on salamander leukocytes
+Fall break - no lab
+Survey of gut parasites in anuran larvae (dissection)
+
+13
+
+Fluctuating asymmetry and health Measurement of FA in humans
+
+Lab TBA
+
+14 CofofnshseorovtaotifopnhPyhsiyoslioogloicgayl e-caolroegcyent RCoevniseewrvaartitoicnlePdheyssciorilboignyg field of Lab TBA
+
+15
+
+Lecture TBA
+
+Thanksgiving Break
+
+Thanksgiving Break
+
+16
+
+Student Presentations
+
+Student Presentations
+
+Student presentations
+
+-4-
+
+EcoPhys Fall 2020
+
+5
+
+Official University Policy
+This course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+All academic work must meet the standards contained in "A Culture of Honesty." Students are responsible for informing themselves about those standards before performing any academic work. The link to more detailed information about academic honesty can be found at: http://www.uga.edu/ovpi/honesty/acadhon.htm.
+
+-5-
+
+

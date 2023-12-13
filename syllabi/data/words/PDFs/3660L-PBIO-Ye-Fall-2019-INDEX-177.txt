@@ -1,0 +1,52 @@
+Plant Biology Intensive Lab - Molecular Genetics with Plants
+PBIO 3660L, Fall 2019
+Instructor:
+Dr. Zheng-Hua Ye, R3607 Miller Plant Sciences Bldg. Phone: 706-542-1832; E-mail: yh@uga.edu Office hours: By appointment. Please email me.
+Lab Time and Location:
+Mondays & Wednesdays 9:05 AM - 12:05 PM R1606 Miller Plant Sciences Bldg.
+Course Description:
+This is an inquiry-based intensive lab course (similar to BIOL/PBIO 4960) emphasizing experimental design and technical skills commonly used in molecular biology. Students will work in small groups on self-contained, independent projects on the study of gene function in plants. Specifically, students will investigate a number of genes involved in regulating secondary wall biosynthesis by examining their expression patterns, subcellular localization (if time permits), effects of their overexpression on induction of secondary wall biosynthesis, and effects of their mutations on secondary wall deposition in xylem cells. Techniques used include gene sequence analysis, PCR and gene cloning, gene expression analysis using promoter-GUS reporter gene, generation of transgenic plants for functional studies of target genes, identification of gene knock-out mutants, and generation of GFP-tagged target proteins and laser confocal microscopy (if time permits). Students will present their findings in a poster.
+In this lab course, students are investigators in charge of their projects and the instructor is a mentor to provide guidance for their research. The research accomplishments and experience gained from this lab can be invaluable for their job or graduate application.
+Here are a few quotes from previous students who took this lab:
+"I want to say thank you again for providing such an awesome experience that I will carry on and use for the rest of my life in science."
+"I just want to say again how much I enjoyed your class. Not only did I learn the basics of laboratory skills, but I also found a love of research that I never expected to have. I never saw research as something I would enjoy doing, but this lab has definitely proven me wrong on that front. You have gone out of your way to help everyone in the class to learn and succeed and I know that everyone else appreciates it as much as I do. Thank you for such an amazing class and opportunity to participate in your research."
+"I have gained so much insight from you and confidence. The research environment you place your students in is comfortable and I never find myself afraid to answer any questions
+1
+
+because you have made sure we understand the material."
+Learning Objectives:
+1. Able to read original literature and understand the biological question you address in your project
+2. Able to design experiments to investigate gene functions, and understand relevant experimental methods
+3. Able to write a research proposal on your project 4. Able to perform basic bioinformatics analysis for molecular cloning and phylogenetic
+analysis of genes 5. Able to perform basic molecular cloning techniques 6. Able to generate transgenic Arabidopsis plants for functional studies of genes 7. Able to identify gene knock-out mutants in Arabidopsis 8. Able to record and analyze experimental results and solve experimental problems 9. Able to prepare and present your research findings in a poster.
+Technical skills you will acquire:
+1. Basic bioinformatics analysis: BLAST search of DNA sequences; finding cDNA and genomic sequences of a gene; analyzing the structure of an encoded protein; analyzing basic structure of genomic sequences of a gene; analyzing restriction enzyme sites of a gene sequence; primer design for gene cloning; and phylogenetic analysis of genes.
+2. Basic molecular cloning techniques: PCR amplification of genes; agarose gel check of DNA fragment; isolation of DNA fragment from agarose gel; ligation of DNA fragment into a vector; transformation of plasmid into E. coli; isolation of plasmid from E. coli; restriction enzyme digestion of plasmid DNA; and PCR screening of clones containing of gene of interest.
+3. Transgenic plant production: construction of transgene cassettes in Ti plasmid; Transformation of Ti plasmid into Agrobacterium; Agrobacterium-mediated transformation to generate transgenic Arabidopsis plants; and selection of transgenic plants.
+4. Gene expression analysis: selection of transgenic promoter-GUS plants; and GUS staining for visualization of gene expression.
+5. Gene function analysis: selection of transgenic overexpression plants; histological analysis of plant phenotypes, including examining ectopic deposition of secondary walls.
+6. Gene knock-out mutant analysis: understanding how T-DNA insertion knock-out mutants are generated; and designing methods to identify T-DNA insertion mutants in Arabidopsis.
+7. General lab skills: preparation of chemical solutions; and operation of basic lab equipment.
+Research proposal:
+You are required to prepare a description of the research project up to 2 pages (research proposal), including project title, your name, research background, goals and hypothesis, technical approaches, and expected outcomes and significance, to be turned in by the end
+2
+
+of September. (a specific due date will be set in class).
+You will investigate genes that are likely involved in regulating the biosynthesis of secondary walls that are the major constituents of wood in trees. In your proposal, you may start with an introduction of what secondary walls are and their uses in our daily life and briefly describe what has been known about biosynthesis of secondary walls and transcriptional regulation (for research background); then lead to the gene you will investigate (for goals and hypothesis); how you will investigate the function of the gene (technical approaches); and what results and importance you may expect from your research (for expected outcomes and significance). You may read relevant literature to get background information, but make sure to write with your own words for your proposal.
+Lab Reports and Assignments:
+You are required to record everything you do in each lab. For each lab, write in your notebook the date, research plans, experimental designs, detailed experimental procedures, results including sequence data and images, and your analysis of the data. You are also required to turn in any written assignments before the set due date.
+Items You Need to Bring:
+A laptop computer; a regular notebook
+Grading:
+Grading (grades from A to F) will be based on your attendance and performance in the lab, quality of research proposal and work on written assignments, quality of recording and analysis of experimental results, and quality of presentation of your findings in a poster. Failure to submit assignments on time, and non-excused absence or tardiness will result in final grade reductions.
+Attendance Policy:
+Attendance and hands-on experiments are required. You will work on a research project and thus the experiments you do in one lab session are built on the work in a previous lab session. So if you are to miss one lab, you would then not be able to continue to do your work as do other students in the next lab. Therefore, you are required to attend each lab and perform experiments as planned with other students.
+Exceptions: if you are seriously ill (with written proof from doctors stating that you are too ill to attend the lab) or have family emergency (with valid proof) or some circumstances beyond your control, you may be excused to miss labs. Please e-mail me promptly if you happen to face these situations so that I may arrange to continue your missing experiments, and do not wait until after you miss a lab unless circumstances prevent you to do so.
+Prohibited Items/Conduct:
+The following items are prohibited in the lab: Food and Drinks (you may have them in the hallway during the break)
+3
+
+Surfing the web unrelated to lab activities. Lab Safety and Professionalism Policy: You are required to follow UGA lab safety guidelines (https://research.uga.edu/researchannouncements/2016/10/13/new-uga-chemical-and-laboratory-safety-manual-availableonline/; also see Chemical Laboratory Safety Manual at PBIO 3660L eLC) when you perform research experiments in lab. You are expected to act in a professional manner at all times and develop the work ethics required for a successful career. Failure to follow lab safety requirement and act professionally will result in a warning, followed by withdrawal from the course if the behavior continues. Academic Integrity: All academic work must meet the standards contained in "A Culture of Honesty" (http://www.uga.edu/honesty/). All students are responsible to inform themselves about those standards before performing any academic work. Instructor's Commitment: You can expect me to be courteous, respectful, and punctual; be well organized and prepared for lab activities; answer any questions you may have about experiments and assignments; do my best to assist you to learn molecular biology lab techniques and conduct biological research, important skills for your future career. Funding Sources: In addition to the departmental funds ($4/per student/per lab), this research course is partially supported from a Department of Energy (DOE) grant awarded to my lab. Please be aware that you may receive an e-mail from DOE around May/June, 2020 to verify that you have participated in the DOE-funded project.
+4
+
+

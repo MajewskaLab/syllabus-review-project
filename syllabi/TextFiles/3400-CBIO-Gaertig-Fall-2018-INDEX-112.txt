@@ -1,0 +1,151 @@
+BIOL/CBIO 3400 CELL BIOLOGY - Fall 2018 (2:00 PM -3:15 PM Tu, Th (Biological Sciences 404E) Breakout session Tuesdays 5:00-6:15 PM (Biological Sciences 404E)
+
+Professors
+
+T.A.
+
+Jacek Gaertig Cellular Biology
+jgaertig@cb.uga.edu Phone 706-542-3409 611 Biological Sciences
+
+Alan Przybyla Biochemistry & Molecular Biology przybyla@bmb.uga.edu Phone 706-542-1728 A420A Life Sciences
+
+James Anderson Cellular Biology
+Anders22@uga.edu
+
+Text: Molecular Cell Biology Lodish et. al. (8th Edition)
+
+Course prerequisites: Biochemistry (BCMB 3010 or BCMB 4010) is a prerequisite, and Genetics (GENE 3200) is a prerequisite or corequisite.
+
+Course Content: The objective is to learn about how cells live, differentiate and reproduce. Modern cell biology is an integrative science based on the knowledge derived from diverse fields including microscopy, biochemistry, genetics, biophysics and bioinformatics. Our understanding of cellular mechanisms is based primarily on observations made in the course of experiments. Thus, you are expected to understand both the pathways as well as the relevant experimental basis. We will make efforts to provide upload handouts on ELC 1 hr before each lecture. You are expected to read the relevant textbook sections before each lecture.
+
+Class Attendance: Attendance in classes and breakout sessions is mandatory; it will be monitored regularly and will be taken into consideration for assignment of final grades. Make-up exams, quizzes and breakout activities will be offered only in cases of an unusual crisis such as serious illness that results in hospitalization (being seen in the University Health Center is not sufficient). Proper documentation will be required and subject to verification by the Dean of Student Affairs.
+
+Study Questions: You will receive a set of study questions to help you study for exams. These questions will be posted on Google Docs and are similar to typical exam questions. You may access Google Doc for this class by at: https://docs.google.com/document/d/1ZEC0ObSKxnnZZ0PFUxldumN61BHRlTmegcNCFJhy60/edit?usp=sharing
+You will automatically be assigned an anonymous I.D. that will appear whenever you are on line. Read the rules at the top of the first page. This Google Doc is a virtual study group that you can join, contribute to and study anonymously, so do not be afraid to make mistakes as someone else can anonymously correct them. Some of the study questions will be discussed during breakout sessions and some might appear on the quarterly exams.
+Quizzes: There will be 10 quizzes given during class or breakout sessions (5 pts per quiz, 50 total pts available for quizzes). Whether or not you attempted the quizzes will also be considered when deciding borderline final grades.
+
+Breakout sessions: Breakout sessions will be used for collaborative work on the study questions. Class members will be broken up into study groups that will work together to answer one of the study questions. Each group will decide on a consensus answer, record their result (preferably in a simple graphical format) and submit it for evaluation. Based on the reports, the instructor and T.A. will choose some of the groups to present and defend their answers in front of the class. After the class, all of the group reports will be reviewed by the instructor and/or T.A. and awarded up to 5 points per session (each member of the team will receive the same score). A total of 50 pts will be available for the collaborative activities during the breakout sessions.
+Exams: There will be three equally-weighted exams (100 points each) which will be given during the class periods as indicated in the lecture schedule. The final exam will serve as the fourth hourly exam (100 points) and will be given during the scheduled final exam period. The final will NOT be cumulative. The content of the exams is based on the lecture materials. The textbook serves as a study tool, but only topics covered during lectures will be required on exams.
+Grading. A total of 400 points will be awarded for the exams, 50 points for the quizzes and 50 points for the breakouts. Thus there will be 500 total points possible during the semester.
+Final grades for the course will be based on the final class averages (total score/5). The instructors will use a modified "distribution gap method" to determine the final grade brackets. In the past, the instructors have often used the class average as a C+/Btransition. However, the final placement of the grade brackets will be decided based on careful consideration of a multiple factors including the pattern of attendance and the level of participation of students whose scores are in proximity to the gaps in the score distribution.
+Academic Honesty. All issues of academic honesty will be handled according to the procedures outlined in the booklet "A Culture of Honesty: Policies and Procedures on Academic Honesty (Fall 1994 ed.)" available from the Dean's Office or online at http://www.uga.edu/~vpaa/polproc/ahpol/main.html.
+
+Lecture and exam schedule:
+
+8-14 8-16 8-21 8-23 8-28 8-30 9-4 9-6 9-11 9-13 9-18 9-20 9-25 9-27 10-2
+10-4 10-9 10-11 10-16 10-18 10-23 10-25 10-30 11-1 11-6 11-8 11-13 11-15 11-27 11-29 12-11
+
+Water and Membranes Transport Across Cell Membranes Nerve Cells, action potentials Signal Transduction Signal Transduction Signal Transduction Notch/Delta/Alzheimer's Disease Exam I ER and Vesicular Transport Vesicular Transport and Golgi Lysosomes and Secretion Endocytosis, Emphysema Mitochondria Mitochondria Mitochondria
+Exam II Microfilaments Microtubules, Intermediate Filaments Motors: Myosins Motors: Dyneins and Kinesins, cilia Cell Division Chromosome Structure Chromosome replication Exam III Nucleo-cytoplasmic Transport Regulation of Gene Expression Cell Cycle (G2/M) Cell Cycle (G1/S) Cell Cycle (checkpoints) Cancer Exam IV (3:30 PM- 4:30 PM)
+
+33-40, 48-51, 271-296
+
+AP
+
+473-510
+
+AP
+
+1026-1053
+
+AP
+
+673-760
+
+AP
+
+673-760
+
+AP
+
+673-760
+
+AP
+
+761-766
+
+AP
+
+AP
+
+583-600
+
+AP
+
+630-647
+
+AP
+
+647-659
+
+AP
+
+659-669
+
+AP
+
+512-550
+
+AP
+
+512-510
+
+AP
+
+511-559
+
+AP
+
+AP
+
+775-796
+
+JG
+
+821-832; 861-868
+
+JG
+
+796-817
+
+JG
+
+833-849
+
+JG
+
+849-860
+
+JG
+
+327-342, 390-395, 404-409 JG
+
+197-203; 345-349
+
+JG
+
+622-628, 440-443
+
+JG
+
+JG
+
+874-886, 895-904
+
+JG
+
+887-894,
+
+JG
+
+904-911
+
+JG
+
+1136-1168
+
+JG
+
+JG
+
+

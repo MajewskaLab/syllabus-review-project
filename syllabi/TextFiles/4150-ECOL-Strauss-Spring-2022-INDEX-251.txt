@@ -1,0 +1,145 @@
+ECOL/BIOL 4150L/6150L: Population Biology of Infectious Diseases
+Spring 2022
+Lecture: Tue & Thu 11:10am-12:25pm Lab: Mon or Wed 2:00pm-3:45pm
+Lecture venue: Ecology Auditorium (room 201) Lab venue: Varies by week (see syllabus and class announcements)
+Instructors: Dr. Andrew Park awpark@uga.edu Dr. Alex Strauss atstrauss@uga.edu
+Teaching Assistant: TJ Odom tj.odom@uga.edu Office hours: By appointment
+Description: This course introduces students to the field of infectious disease ecology, an area of study that has developed rapidly over the past three decades and addresses some of the most significant challenges to human health and conservation. Students will learn about the incredible diversity of parasitic organisms, arguably the most abundant life forms on the planet, and examine how pathogens invade and spread through host populations. Throughout the course, an emphasis will be placed on understanding of infectious diseases dynamics at the population level, and on quantitative approaches for studying pathogen spread and impacts. Specific topics include types of pathogens and their ecological properties, epidemiology and impacts on host populations, types of transmission, evolution of resistance and virulence, drivers of the emergence of new diseases, parasites in the context of ecological communities and ecosystems, strategies for controlling outbreaks, and the role of parasites in biodiversity and conservation.
+Class objectives: 1. Provide an understanding of interactions between hosts and their microbes/parasites at multiple
+scales of biological organization 2. Increase familiarity with quantitative approaches for studying infectious disease spread 3. Review current research and case studies in the field of infectious disease ecology 4. Enhance appreciation for the biological diversity of parasitic organisms 5. Examine the importance of parasites in biodiversity conservation and human health 6. Consider the role of ecology and evolution in predicting pathogen emergence and responding to
+epidemics
+Format: The course format includes lectures (sometimes with embedded live quizzes), discussion of scientific papers, computer assignments with associated problem sets, and a wet lab. Students are expected to attend lectures on a regular basis, complete regular assignments, and prepare for and participate in class discussions.
+Prerequisites: This course assumes familiarity with general ecology and biology, and past coursework in elementary calculus and statistics.
+Attendance: Most students find the lecture topics to be interesting. As we have no formal text, lectures will not duplicate material found elsewhere. Since students will be responsible for this information on
+
+the exams, attendance and note taking are important. Students who miss a class will still be expected to submit assignments on time. More than 6 unexcused absences from lecture or 4 unexcused absences from weekly labs may result in an automatic lowering of the final score by one letter grade. Excused absence requests should be submitted in writing prior to or immediately following an absence (these include potential exposure to Covid, feeling unwell, traveling to graduate school interviews etc.).
+Labs and assignments: Laboratory attendance is mandatory, and students must arrive on time. Assignments will accompany lab activities. Unless otherwise specified, homework assignments will be due by 5pm one week following the distribution of the assignment. All lab assignments will be submitted electronically via eLC. Late assignments will be penalized 10% per weekday. For weeks where a discussion is indicated as the lab activity, students should come to the discussion section having already answered the short quiz on the reading(s), which can be found on eLC. Make-up labs will not be offered, but students can drop their two lowest lab scores at the end of the semester, which can include labs missed owing to excused absences.
+Reading materials: Reading material for this course is based on journal articles and book chapters. Lectures will often refer to ideas and results from assigned readings, and exams will cover content from each of the readings. A full reading list is maintained at the end of the syllabus, and papers will be uploaded onto eLC prior to the assigned reading date.
+Lecture quizzes: 10-15 minutes into many of the lectures, a short quiz will be given. Quizzes will consist of questions that are designed to assess student comprehension of the previous lecture and/or the assigned reading material for the current lecture. We expect approximately 15 quizzes will be given during the term. Make-up quizzes will not be offered, but students can drop their five lowest quiz scores at the end of the semester, which can include quizzes that were missed owing to class absences.
+Exams: There will be two in-class exams on March 3 and on May 3. Exams will include a variety of question types: True/False, Multiple choice, and Short answer.
+Grading/Regrading policy: This course has two exams, evenly spaced through the semester. The scoring scheme for each exam is printed on the exam, detailing the points available. Following each exam, they will be graded, scanned and returned to students, and an answer key will be posted on eLC. After reviewing the exam and answer key carefully, if a student believes an exam has been graded incorrectly, they should note in writing: the question(s) concerned, the nature of the perceived grading error and documentation from class materials (lecture slides, readings) supporting the claim. Student appeals, in the form of these detailed notes, must be submitted by hard copy or by email to an instructor of record for the course within 7 days of the exams being returned. Following this appeal, the student's entire exam will be regraded. Please note, if further grading errors are found, these will be corrected, meaning that the exam grade could be higher or lower than the original reported grade.
+Participation: Students will be graded based on their participation in lecture, lab, and during the end of year symposium. Participation includes asking questions, actively listening, arriving on time to lab and lecture, and participating in occasional short in-class activities (e.g., students team up to discuss a question and individual, written responses are handed in to the instructor).
+Enrollment in 6150: Students enrolled in the graduate course number will complete additional problems on assignments and exams that require synthesis of class and reading materials. For weekly computer labs and paper discussions, graduate students will have the opportunity to join 4150 students in their assigned lab section, or can choose to meet separately with other 6150 students during the regular lab time to work more independently. Graduate students will additionally deliver a short oral presentation at the time of the final class symposium on May 6.
+
+Grade calculation :
+30% Lab assignments 10% Lecture quizzes 25% First exam 25% Second exam 10% Participation, symposium and class discussions
+Class symposium: On May 6 from 12:00-3:00pm (the time reserved for our final exam), we will host a class symposium in the format of a scientific conference. Attendance is mandatory for all students (or would require an excused absence). Students enrolled in 6150, in addition to students enrolled for honors credits, will give an oral research presentation on the topic of their choosing, and students enrolled in 4150 can elect to give a poster for bonus credit towards their final grades. Students will submit proposed titles and abstracts the week of March 14. These will be returned to students the week of March 21 with approval and comments from the instructors.
+Accommodations: Please contact the instructor if you require special accommodations due to learning disabilities, religious practices, physical or medical needs, or any other reason.
+Academic Honesty: (i) Academic work must meet the standards contained in "A Culture of Honesty." Students are responsible for informing themselves about those standards before performing any academic work. The link to more detailed information about academic honesty can be found at: https://honesty.uga.edu/Academic-Honesty-Policy (ii) The syllabus is a general plan for the course; deviations announced to the class by the instructors may be necessary.
+
+DATE
+
+TOPIC
+
+SCHEDULE OF TOPICS READINGS/NOTES
+
+Module 1: The basics
+
+11 Jan 13 Jan
+18 Jan 20 Jan 24/26 Jan 25 Jan 27 Jan
+
+No Lab During First Week of Classes
+
+Introduction (AP & AS)
+
+Wu, Yong, and Zhang 2021, "Omicron Is Our Past Pandemic Mistakes on Fast-Forward"
+
+What is a parasite? I: Ubiquity & Taxonomic Diversity (AS)
+
+Nunn & Altizer Ch. 2
+
+No Lab Week of Martin Luther King Day
+
+What is a parasite? II: Trophic strategies & Transmission Modes (AS)
+
+Lafferty and Kuris 2002
+
+Population Biology of Microparasites I: Invasion Nunn & Altizer Ch. 4 (pp 98-114) & Spread (AS)
+
+Lab 1: Modeling distemper virus in seals
+
+Computer modeling
+
+Population Biology of Microparasites II: Persistence & Impacts (AS)
+
+Hochachka & Dhondt 2000
+
+Population Biology of Microparasites III:
+
+Ashwanden 2021, "Five Reasons Why COVID Herd Immunity is
+
+31 Jan/ Feb 2 1 Feb
+3 Feb 7/9 Feb
+
+Interventions & Vaccination (AS) Lab 2: Macroparasite Model Exploration Population Biology of Macroparasites (AP)
+Population Biology of Macroparasites: Cycles in Red Grouse and Sheep (AP) Lab 3: Discussion: Rinderpest Eradication
+
+Probably Impossible" Computer modeling Nunn & Altizer 2006, Ch. 4 (pp. 102-104; 115-122); Hudson et al. 1998 Dobson and Hudson 1992
+Discussion
+
+8 Feb
+
+Population Biology of Macroparasites: Parasites Hudson et al. 1998 and Host Regulation (AP)
+
+Module 2: Host and parasite evolution
+
+10 Feb 14/16 Feb 15 Feb 17 Feb
+21/23 Feb 22 Feb 24 Feb
+28 Feb/2 Mar 3 Mar
+
+Immune Defenses: Innate and Adaptive (AP) Lab 4: Discussion: Parasites and Host Behavior ABCs of MHC (SA) Virulence Evolution: Biting the Hand that Feeds You? (AP) Lab 5: Red Queen Card Game Host Resistance: Trade-offs and Evolution (AS) Host-pathogen Coevolution and the Red Queen (AS) Lab 6: Exam Review EXAM 1
+
+Sompayrac 2003 Ch. 1 Discussion Knapp 2005 Fraser er al. 2007
+Card Game Duffy et al. 2012 Koskella & Lively 2009
+
+14/16 Mar 15 Mar 17 Mar 21/23 Mar 22 Mar
+24 Mar
+28/30 Mar 29 Mar
+
+Module 3: Ecological heterogeneity
+
+Lab Catch Up
+STDs (AP) Parasites and Host Behavior (TO) Lab 7: Wet Lab Prep Spatial Ecology of Pathogens: Waves, Synchrony, and Spatial Spread (AP) Spatial Ecology of Pathogens: Metapopulations (AP) Lab 8: Contact Networks Key Hosts and Supserspreaders (AP)
+
+Ryder et al. 2005 De Roode et al. 2013
+Eggo et al. 2011; Real and Biek 2007 Rohani, Earn, & Grenfell 1999
+Computational analysis Vanderwaal and Ezenwa 2016
+
+31 Mar 4/6 Apr 5 Apr 7 Apr 11/13 Apr 12 Apr 14 Apr 18/20 Apr 19 Apr 21 Apr
+25/27 Apr 26 Apr 28 Apr 3 May 6 May
+
+Module 4: Parasites in Communities and Ecosystems
+
+Coinfection (AS) Lab 9: Wet Lab Part 1 Multi-host pathogens (AS) Disease-disease relationships (AS) Lab 10: Wet Lab Part 2 Parasites and biodiversity conservation (AS) Climate change & Infectious disease (AS) Lab 11: Parasites and Threatened Host Species Parasite Macroecology (AP) Managing Pathogen Outbreaks in Wildlife: Culling & Vaccination (AP) Lab 12: Exam Review Zoonosis and emerging infectious disease (AP) Project Work Day EXAM 2 12:00-3:00 pm Research symposium
+
+Ezenwa et al. 2015 Wet Lab Fenton & Pederson 2005 Keesing et al. 2006 Wet Lab Lips et al. 2006 Mordecai et al. 2013 Data analysis Park et al. 2018 Donnelly et al. 2006
+Quammen 2012 - Spillover - Ch.1
+Symposium
+
+CORONAVIRUS INFORMATION FOR STUDENTS
+UGA adheres to guidance from the University System of Georgia and the recommendations from Georgia Department of Public Health (DPH) related to quarantine and isolation. Since this may be updated periodically, we encourage you to review the latest guidance here. The following information is based on guidance last updated on December 29, 2021.
+Face coverings: Following guidance from the University System of Georgia, face coverings are recommended for all individuals while inside campus facilities.
+How can I obtain the COVID-19 vaccine? University Health Center is scheduling appointments for students through the UHC Patient Portal (https://patientportal.uhs.uga.edu/login_dualauthentication.aspx). Learn more here - https://www.uhs.uga.edu/healthtopics/covid-vaccine.
+The Georgia Department of Health, pharmacy chains and local providers also offer the COVID-19 vaccine at no cost to you. To find a COVID-19 vaccination location near you, please go to: https://georgia.gov/covid-vaccine.
+In addition, the University System of Georgia has made COVID-19 vaccines available at 15 campuses statewide and you can locate one here: https://www.usg.edu/vaccination
+
+What do I do if I have COVID-19 symptoms? Students showing COVID-19 symptoms should self-isolate and get tested. You can schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.5p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see https://www.uhs.uga.edu/info/emergencies.
+What do I do if I test positive for COVID-19? (Isolation guidance) If you test positive for COVID-19 at any time, either through a PCR test, an Antigen test, or a home test kit, you are required to report it through the DawgCheck Test Reporting Survey. Follow the instructions provided to you when you report your positive test result in DawgCheck.
+As of December 29, 2021, when an individual receives a positive COVID-19 test: Everyone, regardless of vaccination status, should:
+� Stay home for 5 days. � If you have no symptoms or your symptoms are resolving after 5 days, you can leave your
+house and return to class. � Continue to wear a mask around others for 5 additional days.
+What do I do if I have been exposed to COVID-19? (Quarantine guidance) If you have been exposed (within 6 feet for a cumulative total of 15 minutes or more over a 24-hour period - unmasked**) to someone with COVID-19 or to someone with a positive COVID-19 test and you are:
+� Boosted, or have become fully vaccinated within the last 6 months (Moderna or Pfizer vaccine) or within the last 2 months (J&J vaccine) o You do not need to quarantine at home and may come to class. o You should wear a mask around others for 10 days. o If possible, get tested on day 5. o If you develop symptoms, get tested and isolate at home until test results are received, then proceed in accordance with the test results.
+� Unvaccinated, or became fully vaccinated more than 6 months ago (Moderna or Pfizer vaccine) or more than 2 months ago (J&J vaccine) and have not received a booster: o You must quarantine at home for 5 days. After that you may return to class but continue to wear a mask around others for 5 additional days. o If possible, get tested on day 5. o If you develop symptoms, get tested and isolate at home until test results are received, then proceed in accordance with the test results.
+** "Masked-to-masked" encounters are not currently considered an exposure; this type of interaction would not warrant quarantine.
+You should report the need to quarantine on DawgCheck (https://dawgcheck.uga.edu/), and communicate directly with your faculty to coordinate your coursework while in quarantine. If you need additional help, reach out to Student Care and Outreach (sco@uga.edu) for assistance.
+Well-being, mental health, and student support
+
+If you or someone you know needs assistance, you are encouraged to contact Student Care & Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu/. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services. UGA has several resources to support your well-being and mental health: https://well-being.uga.edu/
+Counseling and Psychiatric Services (CAPS) is your go-to, on-campus resource for emotional, social and behavioral-health support: https://caps.uga.edu/, TAO Online Support (https://caps.uga.edu/tao/), 24/7 support at 706-542-2273. For crisis support: https://healthcenter.uga.edu/emergencies/.
+The University Health Center offers FREE workshops, classes, mentoring and health coaching led by licensed clinicians or health educators: https://healthcenter.uga.edu/bewelluga/
+Monitoring conditions: Note that the guidance referenced in this syllabus is subject to change based on recommendations from the Georgia Department of Public Health, the University System of Georgia, or the Governor's Office. For the latest on UGA policy, you can visit coronavirus.uga.edu.
+FERPA Notice The Federal Family Educational Rights and Privacy Act (FERPA) grants students certain information privacy rights. To comply with FERPA, all communication that refers to individual students must be through a secure medium (UGAMail or eLC) or in person. Instructors are not allowed to respond to messages that refer to individual students or student progress in the course through non-UGA accounts, phone calls, or other types of electronic media. For details, please visit https://apps.reg.uga.edu/FERPA.
+Syllabus Disclaimer The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+
+

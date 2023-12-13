@@ -1,0 +1,64 @@
+GENE (BIOL) 4210L. Molecular Genetics Laboratory Offered spring semester
+1. Course ID: GENE 4210L. Molecular Genetics Laboratory 4 hours. 3 lab periods of 3 hours each per week. Oasis title: MOL GN LAB
+Lab techniques in molecular genetics for advanced undergraduate students. Basic genetic and recombinant DNA approaches in contemporary molecular biology: use of computers for database searches and DNA sequence analysis.
+2. Names of the Instructors: Michael McEachern and Doug Menke
+3. Semester and Year Syllabus is for: Spring 2011
+4. Principal course assignments: The primary work for the class is carrying out experiments, computer exercises and maintaining a laboratory notebook during class hours. Additionally, there will often be written homework assignments.
+5. Specific course requirements for grading purposes. Midterm and final exams will each count as 15% of the total grade. For Dr. McEachern's half of the course and excluding the midterm exam, grading is based on: Lab practicals and homework (30% of grade), lab notebook (25% of grade) and experimental performance (15% of grade). See below for Dr. Menke's part of the course.
+6. Grading Policy. The final grade will be determined by the average of the grades for the two halves of the course (Dr. McEachern's grading described above).
+7. Attendance Policy. Attendance is required. Unexcused absences will result in loss of points for the lab notebook work, homework, or computer exercise work for that day.
+8. Required course material, including texts. Laboratory and computer exercise manuals are needed. The lab manuals will be provided on eLearning.
+9. Policy for make-up of examinations. Examinations missed because of excused absences will be made up before or after the scheduled exam time at a time arranged from consultation between the student and the instructor.
+Academic honesty: Detailed information on policies and procedures regarding academic honesty are available at: http://www.uga.edu/ovpi/academic_honesty/academic_honesty.htm. Academic honesty means performing all academic work without plagiarism, cheating, lying,tampering, stealing, receiving unauthorized or illegitimate assistance from any other
+
+person, or using any source of information that is not common knowledge. All students must adhere to the academic honesty code, which is "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others." All students are responsible for maintaining the highest standards of honesty and integrity in every phase of their academic careers. The penalties for academic dishonesty are severe and ignorance is not an acceptable defense. If a student is suspected of violating University guidelines, the instructors will forward the evidence to the Office of the Vice President for Instruction.
+
+GENE 4210 Course Outline
+
+Outline of first half of course (Dr. McEachern): Experiment 1. Generate transpositions in B. subtilis using plasmid vectors.
+
+Experiment 2. Targeted gene mutations in yeast. This is the largest of the experiments, having multiple parts and overlapping with some other experiments.
+
+Experiment 3. Yeast mating and sporulation
+
+Experiment 4. Measurement of recombination near short and normal length telomeres.
+
+Some of techniques learned in this half of the class include:
+
+Pouring of Petri Plates Use of pipettes and micropipettors Sterile plating and streaking of bacteria
+and yeast Serial dilutions to measure cell density Transposon mutagenesis Identification and study of sporulation-
+negative B. subtilis Use of a spectrophotometer Microscopy of microbial cells Isolation of plasmid DNA Restriction digestion of DNA Isolation of chromosomal DNA Agarose gel electrophoresis
+
+Southern blotting Use of a PhosphoImager Homologous gene replacement Loop-in, loop-out mutagenesis Identification and study of telomerase
+mutants in the yeast K. lactis Yeast mating Sporulation of yeast cells and
+identification of novel gene combinations in offspring Measuring a mutation rate
+
+Grading for first half of course:
+Midterm: 30% Homework: 30% Lab Notebook: 25% Experimental Performance / Class Assignments: 15%
+Outline for second half of course: Doug Menke, Instructor (dmenke@uga.edu, 2-9557, S250A Coverdell Building)
+This is a project-based lab with the overall goal of characterizing various bacteriophage (phage, or , for short) strains for phenotypic and molecular properties using plaque morphology, host range, and DNA sequence analysis. We will start with known phage strains, all of which grow in various strains of E. coli. We will then isolate and characterize new  strains from environmental samples that you will collect yourself from "the wild"; this will constitute the majority of the lab
+We will start the first day with a short lecture on  biology and biodiversity, and an overview of the project we will be pursuing in the remainder of the class periods. For the rest of semester we will meet in the lab at 2:30pm, unless otherwise instructed in the previous class. I will give several other short lectures on special topics relevant to the lab; in addition, I will post several short papers, reviews, and other background information on eLC, that we will discuss in class. On those days we will meet in the classroom first.
+On the next page is a generic schedule for the types of experiments we will be doing. If everything goes smoothly, we should get to the point of obtaining some DNA sequence from a novel strain by the end of the semester. We will start by plating known phage strains to observe plaque morphology and to estimate their titers. In this case, we have a good idea what the plaque morphology and titers should be, so this will serve as a practice run to prepare you for working with unknown environmental samples. After Spring Break, we will begin isolating phage from environmental samples, characterizing these novel phage strains both phenotypically and molecularly.
+As this is a project-based lab in which the endpoints are unknown, you will not receive a regular syllabus other than the flow chart listed below. Instead, you will receive a lab manual consisting of a series of protocols and techniques, in the order in which they are most likely to be used. At the beginning of each class, we will briefly discuss the results from the previous class, and you will receive instructions for what to do that day.
+
+Generic schedule for novel  isolation experiments:
+
+Date Day 1 Day 2
+Day 3 Days 4, 5
+Days 6-8 Day 9
+Day 10-11 Days 12-15
+
+Experiment
+Plate phage samples for plaque morphology and titer
+Observe and record plaques from , calculate titers Plate  on different bacterial strains for host range test Plate  on original hosts for temp range test (32, 37, 42)
+Record results of host range and temp range tests Set up overnight liquid cultures for lysis to make DNA
+Make DNA from  lysate; test for genome type (ssDNA, dsDNA, RNA) Digest DNA samples with methylation sensitive and insensitive restriction enzymes, run on agarose gel
+Digest  DNA for subcloning Subclone into pBS - ligate, transform, plate
+Pick colonies and set up liquid miniprep cultures to make DNA for digestion and sequencing Do TEM for phage morphology from liquid  stocks or plates
+Minipreps of samples to sequence using Qiagen kit Send DNA samples to sequencing core
+Discuss sequencing data, comparative genomics Blast searches w/  sequences
+
+Grading for this half of the semester: Lab notebooks: 25% Experimental performance/Lab participation: 15% Lab report: 30% Final exam: 30%
+Reading assignments: Several articles will be posted on eLC that will provide good background information on the enviro phage project. We will discuss these papers in class over the course of the rest of the semester.
+
+

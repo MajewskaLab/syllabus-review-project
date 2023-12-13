@@ -1,0 +1,140 @@
+CBIO 3410 - Laboratory in Cell and Developmental Biology (Fall 2018)
+
+CBIO 3410 is an intensive laboratory course, consisting of two 4 1/2-hour laboratories per week. The course consists of a number of laboratory modules that introduce the concepts and techniques of modern cell and developmental biology.
+
+We require that students attend each lab except for medical or other emergencies that need to be documented. Every missed exercise will need to be made up at additional time outside of the scheduled lab periods. Lab handouts will be posted on ELC. You must read each handout before coming to lab and have a printed copy with you. The initial portion of each laboratory unit will be devoted to an orientation session, in which the biological question to be investigated and the research tools to be employed will be introduced. The remainder of the lab will be devoted to carrying out the experiments.
+
+Depending on the module, you may work individually, or in groups of 3-5 students. Every student will be expected to maintain a detailed laboratory notebook. In the notebook, you should record the key steps, calculations, observations, drawings, etc. - as you carry it out. In cases where you are working in a group, each individual should keep his or her own set of primary observations. Certain lab modules may require one member of the group to carry out a brief step of procedures between the regular lab periods (this will usually take not more then 30 minutes of your extra time).
+
+A report is due a week after the end of each experiment or module, as specified (see the schedule below). The report is composed of 1) a copy of your lab notes (not rewritten) and 2) a "Results and Discussion" section, in which you: A) Present the data, often in the form of images, graphs, tables with proper legends; B) discuss the significance of your findings, as well as limitation of the experimental approaches, and potential sources of errors. If the handout contains specific instructions about the report (such as calculations, questions to be answered) you need to follow these instructions closely. You are encouraged to discuss experiments with your classmates; however, the calculations, descriptions, etc. in your laboratory notebook should be your own, not copied from your colleagues.
+
+During the final portion of the course, each group will perform an independent research project of your own design to answer a scientific question using the cell/developmental biology concepts or tools learnt during the class. Group members should begin discussing the biological questions and experimental design as early as possible. On 9/24 each team will present a preliminary plan for the independent project, which will be evaluated by the instructors and other teams. The team presentation (15 min) should include a brief introduction of the scientific question and a description of the experimental design. Each team should also submit a list of materials and reagents that need to be ordered or prepared in advance. At the end of the instructor-led lab segments, there will be 7 class periods for your independent research. However, successful projects often require more time and a flexible schedule. Each team will present their findings to all students during the time assigned for the final exam (see schedule below).
+
+At the end of each module there will be a quiz. The lab reports are due one week after the end of each module. Finally, your independent project research and final presentation is worth maximally 50 points. This course is not necessarily graded on a curve. Therefore, if every student produced excellent results, every student could get an "A". The guaranteed score to achieve a grade will be as follows: 90% - A, 80-89% - B, 70-79% - C, 6069% - D. The instructors reserve the right at the end of the course to lower the grade boundaries.
+
+Faculty: Haini Cai Jacek Gaertig (coordinator) Edward Kipreos Cordula Schulz
+
+638 Biol. Sciences 611 Biol. Sciences 626 Biol. Sciences 638 Biol. Sciences
+
+706-542-3329 hcai@uga.edu 542-3409 jgaertig@uga.edu 542-3862 ekipreos@uga.edu 542-3329 cschulz@uga.edu
+
+Teaching Assistant: Aimee Williams
+
+206 Coverdell Bldg 542-1815 aimeelea@uga.edu
+
+Location/Time: Mon & Wed 2:30-6:35 PM room 324 Biological Sciences Bldg.
+
+Date 8/13
+8/15 8/20 8/22 8/27 8/29
+9/5
+9/10 9/12 9/17 9/19
+9/24
+9/26
+10/1 10/3 10/8 10/10
+10/15
+10/17 10/22 10/24 10/29 10/31
+11/5 11/7 11/12 11/14 11/26 11/28 12/3 12/12
+
+Experiments (points) Purification of organelles in Tetrahymena Cell counting
+Isolation of nuclei-I Isolation of nuclei-II Cilia I: deciliation and cilia regeneration Cilia II: purification and reactivation of cilia motility in vitro Cilia III: electron microscopy Quiz 1 (20 pts.) Lab report due 9/10 (30 pts)
+
+Instructor JG
+JG JG JG JG JG
+
+Tissue-specific gene expression in Drosophila
+
+HC
+
+Collection and fixation of Drosophila embryos
+
+Whole mount embryo in situ hybridization
+
+HC
+
+Immunohistochemistry-I
+
+HC
+
+Immunohistochemistry-II
+
+HC
+
+Preparation and mounting of slides and microscopic analysis. HC
+
+Quiz 2 (20 pts). Lab report due 9/26 (30 pts),
+
+Independent projects
+
+Presentation and peer evaluation of research designs.
+
+Submission of requests for materials.
+
+Germ line stem cells in Drosophila
+
+CS
+
+Introduction, Ovary Dissection and Fixation
+
+Imunohistochemistry-I
+
+CS
+
+Imunohistochemistry-II
+
+CS
+
+Microscopy
+
+CS
+
+Discussion of Results
+
+CS
+
+Quiz 3 (20 pts.) Lab report due 10/17 (30 pts)
+
+DNA sequence analysis
+
+ETK
+
+M-13 phage titration
+
+Isolation of single stranded DNA
+
+ETK
+
+Run agarose gel on ssDNA
+
+ETK
+
+DNA sequencing
+
+ETK
+
+Sequence analysis I
+
+ETK
+
+Sequence analysis II
+
+ETK
+
+Quiz 4 (20 pts.) Lab report due 11/7 (30 pts)
+
+Independent research
+
+Independent research
+
+Independent research
+
+Independent research
+
+Independent research
+
+Independent research
+
+Independent research
+
+Final Presentations (3:30-6:30 PM) 723 Biol. Sciences (50 pts)
+
+

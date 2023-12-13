@@ -1,0 +1,324 @@
+CBIO3400 Cell Biology Spring 2021
+
+Dr. Julie Stanton
+
+Dr. Drew Etheridge
+
+Melissa Inal
+
+Associate Professor
+
+Assistant Professor
+
+Graduate Teaching Assistant
+
+stantonj@uga.edu
+
+ronald.etheridge@uga.edu
+
+Melissa.inal25@uga.edu
+
+542-2978
+
+542-7510
+
+627 Biological Sciences Student hours on Zoom: Fridays 11:30 am - 1:00 pm
+(while teaching)
+
+345B Coverdell Building Student hours on Zoom: Wednesday 11:30-1:00*
+(while teaching)
+
+Please contact Melissa by email to set up an appointment to meet with her.
+
+and by appointment*
+
+and by appointment*
+
+*You are welcome to contact each instructor for appointments as needed.
+
+Ryan Belloli will be one of our graders: rsb34028@uga.edu
+
+Course Information · Credit Hours: 4.0 · Format: Online Synchronous (We will meet online at our regularly scheduled times through Zoom.) · Lecture: Monday, Wednesday, Friday, 10:20-11:10 a.m., through Zoom.
+Please note: Links and passcodes will be shared through the Announcement function of eLC
+(or in a special posting directly above the Announcement function). · Breakout Session: Tuesday 12:45-2:00 pm or Tuesday 2:20-3:35 pm through Zoom, please check
+your schedule in Athena for your assigned time.
+Please note: You will receive a Zoom invitation in your UGA email, which will ask you to register for Zoom breakout sessions at your scheduled time. Be sure to use your UGA email address when completing the Zoom registration so that we can put you in a group. · Pre-requisites: Biochemistry (BCMB/BIOL 3100) is a prerequisite for this course. In addition,
+Genetics (GENE/BIOL 3200) is a pre-requisite or co-requisite.
+
+Course Materials · Molecular Biology of the Cell by Alberts et al, 6th edition, Garland Publishing. · CBIO3400 eLC page: https://uga.view.usg.edu/. Slides will be posted on eLC approximately 15
+minutes before each lecture. This is the first semester we are making slides available before class. · Computer or laptop or tablet with sufficient internet access for actively engaging in synchronous
+lectures and breakout sessions by Zoom. (Please email us if you need help with this requirement.)
+
+Course Description Students will learn about cellular structure and function, cell growth and reproduction, and pathways that regulate these events. A focus of the class is to explore the experimental methods that are used to study cells. These efforts and activities are designed to enhance development of skills that will be essential for success in advanced degree programs and future career paths.
+
+Assessment Summary of Point Distribution
+Homework Assignments and Lecture Writing Exercises 9 Breakout sessions x 8 5 lecture exams x 75 Total Points
+
+= 43 points = 72 points = 375 points = 490 points
+
+Dr. Stanton & Dr. Etheridge · Cell Biology · Spring 2021
+
+1
+
+· You may see your scores at any time on eLC: https://uga.view.usg.edu/ · Overall course grades will be assigned using the following scale: A grades (100-90), B grades (8980), C grades (79-70), D grades (69-60), and <60 F. We will use + and - for grades. The instructors
+may decide to curve overall course grades, but only to give higher grades than what this scale allows.
+
+Homework Assignments and Lecture Writing Exercises (48 points) · General Information: To encourage your ongoing engagement in learning, you will have the
+opportunity to earn points by completing homework assignments and lecture writing exercises. · Homework: Homework assignments will be submitted using the "Assignment" function in eLC.
+There will be one homework assignment for each of the four sections of the course. Due dates for
+these assignments will be shared at the start of each section. · Late Assignments: Homework will be accepted up to 24 hours after the due date for a 50%
+penalty. For example, if you earn 6/7 on an assignment submitted 5 minutes late, your score will be
+3/7. After 24 hours after the due date, assignments will not be accepted. · Lecture Writing Exercises: Questions will be designed to give you practice writing about cell
+biology. Links for submitting your answers will be shared in the Zoom Chat during lectures. There are
+no makeups for lecture writing exercises.
+
+Breakout Sessions (72 points, top nine 8-point breakout sessions count) · General Information: Breakout sessions are an opportunity for students to collaborate in groups,
+practice problem solving, review difficult concepts, discuss primary literature, and engage in other
+learning activities. · Format: Breakout sessions will take place through synchronous Zoom meetings. We will send you
+an invitation to register for a Zoom meeting corresponding to the section you are enrolled in. · Students will earn up to 72 points by actively engaging in breakout sessions. Each breakout session
+on a topic (see numbered topics schedule) is worth 8 points. The journal club will start with a short quiz. Your participation is required for the full duration of the breakout session to earn points. · Flexibility: There will be eleven breakout sessions on a topic, so if an emergency arises, two of
+these could be missed without loss of points. · Additional expectation: We expect you to attend breakout from a location that will allow you and
+your group members to focus. Please use one of your two emergency absences if you do not find
+yourself in a location suitable for learning during your scheduled breakout session time.
+
+Exams (75 points each) · General information: Exams will focus on concepts and mechanisms explored in lecture and
+breakout sessions. You will be asked to synthesize, apply, and evaluate cell biology information. · Format: Exams will be 75-minutes long and open-book/open-note. They will be submitted using the
+Assignment function in eLC. Exams will include long answer and short essay questions. · Rules: You can use the internet, but other people cannot be used as resource. This means you
+cannot consult with another person in any way (e.g., not in person, not by phone/video/text, and not in
+writing). You must ensure your answers are in your own words and your own style of writing. · Make-up Exams: Special arrangements must be made in advance by email, if a university-
+approved absence will prevent you from taking one of the exams during the scheduled date and time.
+
+Other Information
+Academic Honesty · It is expected that all students in this course will work in accordance with University of Georgia guidelines regarding academic honesty, and the Student Honor Code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others." Issues related to academic honesty will be handled strictly according to policies and procedures available at: https://honesty.uga.edu/Academic-Honesty-Policy/
+
+Dr. Stanton & Dr. Etheridge · Cell Biology · Spring 2021
+
+2
+
+· Violations include (but are not limited to), cheating, plagiarism, unauthorized assistance, lying, or tampering with files. All evidence of violations will be reported to Academic Honesty. · The Honor Code states that students are required to report violations by other students.
+Students with Disabilities · Accommodations are available for students with disabilities. If you plan to request accommodations, please register with the Disability Resource Center. They can be reached by calling 706-542-8719 (voice) or 706-542-8778 (TTY), or by visiting http://drc.uga.edu. · As instructors, we fully support your use of accommodations in this class. If you are a student with a disability you are invited, but not required, to email Dr. Stanton to schedule a time to communicate about how we can best support your learning in this course.
+Non-Discrimination and Anti-Harassment Policy · The University's Non-Discrimination and Anti-Harassment Policy states: "The University of Georgia (the "University") is committed to maintaining a fair and respectful environment for living, work, and study. To that end, and in accordance with federal and state law, University System of Georgia ("USG") policy, and University policy, the University prohibits harassment of or discrimination against any person because of race, color, sex (including sexual harassment and pregnancy), sexual orientation, gender identity, ethnicity or national origin, religion, age, genetic information, disability, or veteran status by any member of the University Community (as defined below) on campus, in connection with a University program or activity, or in a manner that creates a hostile environment for any member of the University Community. Incidents of harassment and discrimination will be met with appropriate disciplinary action, up to and including dismissal or expulsion from the University." See https://eoo.uga.edu/policies-resources/ndah-policy/ for additional information. · If you would like to talk with an ombudsperson about a potential violation of this policy, please visit https://eoo.uga.edu/policies-resources/the-ombudspersons/meet-the-ombudspersons/. You are also invited, but not required, to email Dr. Stanton to schedule a time to discuss incidents that might arise in CBIO3400.
+Learning in Spring 2021
+We believe that every student can learn new concepts, develop new skills, and be successful in Cell Biology. We recognize that learning during a pandemic involves new challenges. We also know that you are bright and motivated students who can succeed in this course.
+All members of our class will learn new concepts and develop new skills this semester. Actively engaging in lecture and breakout session is one of the best ways to do this. With all that is going on, it might be tempting to log on to Zoom and zone out. We encourage you to stay engaged in lecture and breakout sessions, and we will do our part to try to help you do that! We have found that active engagement in lecture and breakout sessions is critical for success in Cell Biology.
+This semester will be unlike most semesters we've experienced as students and instructors because we will be teaching and learning online. If any problems arise related to Cell Biology, please reach out to us by email so we can try to work together to find solutions. We care about you as a student and we want to support your learning this semester.
+Best wishes, Dr. Stanton & Dr. Etheridge
+
+Dr. Stanton & Dr. Etheridge · Cell Biology · Spring 2021
+
+3
+
+Honors Option General Information · Students may sign up for an Honors Option credit in this class. Forms are available at the Honors office and should be turned in to Dr. Stanton. The assignment includes attending a journal club discussion during week six of the course, and writing two papers described below. The deadlines for receipt of the two Honors Option papers are at the beginning of class on Wednesday, March 10th and Wednesday, April 14th. You are welcome to turn in your paper in early, but late papers will not be accepted.
+Honors Option Journal Club · There will be one journal club discussion during week six of the course (date, time, and location to be announced). Dr. Stanton will select the primary literature paper to be discussed and she will post it on eLC at least one week in advance. After this discussion students will write two Honors Option papers on primary literature papers using the guidelines below.
+Honors Option Paper · Critical appraisal of primary literature plays a fundamental role in scientific inquiry. Experimental techniques and interpretation of experimental results are discussed both in the text and in the lectures. You have the opportunity to develop your own analytical skills by reviewing an original report from the scientific literature.
+· Select any paper focused on a cell biological question and meeting the following two criteria: 1) published in Cell, Journal of Cell Biology, Nature Cell Biology, or Molecular Biology of the Cell in 2021. Papers from other journals will not be accepted. 2) not a review; the paper must report original research results
+· Write a three-page, double-spaced report (1 inch margins, 12-point Arial font). Please do not exceed this length. Include the PDF file of the complete paper when submitting your report to Dr. Stanton by email: stantonj@uga.edu.
+· Your report should state (1) the title, authors, and source of the paper, (2) the main questions or hypotheses addressed in the paper, (3) the significance of the study, (4) specific sub-questions, the experimental approach(es) utilized, and the results, (5) the major conclusions of the paper, and (6) your own opinion and critique of the paper as a student of cell biology.
+· Clear reasoning, concise writing, and your own judgments are required. Use the following questions to guide your thinking:
+Why is the problem addressed in the study significant? Are the approaches suited to answering the question posed? Are important control experiments performed? Do the results of the paper support the conclusions stated?
+PDF files of papers from the four journals listed above can be obtained freely by logging on to the UGA Libraries version Google Scholar: https://www.libs.uga.edu/googlescholar
+
+Dr. Stanton & Dr. Etheridge · Cell Biology · Spring 2021
+
+4
+
+CB3400 Cell Biology Tentative Schedule Spring 2021
+
+Week Class Day and Date Class Topic
+
+MBoC
+
+Breakout Session Topic
+
+One
+
+1 Wednesday, 1/13 Introduction and lipids
+
+2
+
+Friday, 1/15 Biological membranes
+
+JS 10 JS 10
+
+No breakout sessions because classes start Wednesday 1/13/21
+
+Two
+
+Monday, 1/18 No Class - Martin Luther King Jr. Day
+
+3 Wednesday, 1/20 Permeability & transport
+
+JS 10 1: Techniques for studying proteins (JS)
+
+4
+
+Friday, 1/122 Channels and membrane potential
+
+JS 11
+
+Three 5
+
+Monday, 1/25 Introduction to cell signaling
+
+JS 15
+
+6 Wednesday, 1/27 G-protein coupled receptors (GPCR)
+
+JS 15
+
+2: Transport across membranes (JS)
+
+7
+
+Friday, 1/29 GPCR/Receptor tyrosine kinases (RTK) JS 15
+
+Four 8
+
+Monday, 2/1 RTK
+
+JS 15
+
+9 Wednesday, 2/3 Phosphoinositides
+
+JS 15
+
+3: G-protein coupled receptors (JS)
+
+10
+
+Friday, 2/5
+
+Actin and microfilaments
+
+DE 16
+
+Five
+
+Monday, 2/8 Review Session for Exam One
+
+11 Wednesday, 2/10 Myosin motors
+
+12
+
+Friday, 2/12 Tubulin and microtubules
+
+JS DE 16 DE 16
+
+Exam One in Breakout (Lectures 1-9)
+
+Six
+
+13
+
+Monday, 2/15 Microtubular motors
+
+DE 16
+
+Wednesday, 2/17
+
+No Class - Instructional Break
+
+4: Actin (DE)
+
+14
+
+Friday, 2/19 Mitosis and cytokinesis
+
+DE 16,17
+
+Seven 15
+
+Monday, 2/22 Cell junctions and intermediate filaments DE 16, 19
+
+16 Wednesday, 2/24 Mitochondria I: structure
+
+DE 14
+
+5: Molecular motors (DE)
+
+17
+
+Friday, 2/26 Mitochondria II: protein import
+
+DE 12, 14
+
+Eight
+
+Monday, 3/1 Review Session for Exam Two
+
+DE
+
+18 Wednesday, 3/3 Introduction to the secretory pathway
+
+JS 12
+
+19
+
+Friday, 3/5
+
+Endoplasmic reticulum: protein import
+
+JS 12
+
+Exam Two in Breakout (Lectures 10-17)
+
+Nine 20
+
+Monday 3/8 ER: protein glycosylation
+
+JS 6, 12
+
+21 Wednesday 3/10 ER: protein folding & quality control
+
+JS 6, 12
+
+6: ER Import Assay (JS)
+
+22
+
+Friday 3/12 Golgi structure and function
+
+JS 12, 13
+
+Dr. Stanton & Dr. Etheridge · Cell Biology · Spring 2021
+
+5
+
+Week Ten Eleven Twelve Thirteen Fourteen Fifteen Sixteen
+Finals
+
+Class 23 24
+25 26 27
+28 29 30 31 32 33 34 35
+36 37 38 39 40 41
+
+Day and Date Monday 3/15 Wednesday, 3/17 Friday, 3/19 Monday, 3/22 Wednesday, 3/24 Friday, 3/26 Monday, 3/29 Wednesday, 3/31
+Friday, 4/2 Monday, 4/5 Wednesday, 4/7 Friday, 4/9 Monday, 4/12 Wednesday, 4/14 Friday, 4/16 Monday, 4/19 Wednesday, 4/21 Friday, 4/23 Monday 4/26 Wednesday 4/28 Friday 4/30 Monday 5/3
+Wednesday, 5/5
+
+Class Topic Traffic: ER to Golgi Traffic: Golgi to ER, Golgi to lysosome
+No Class - Instructional Break Endocytosis/Exocytosis Nucleus: structure & organization Nucleocytoplasmic transport Review Session for Exam Three Chromatin and genome structure Genome editing: CRISPR Transcription mRNA processing Translation I: initiation Translation II: elongation & regulation DNA replication Cell Cycle: Experimental systems Review Session for Exam Four Cell Cycle: M phase entry & exit Cell Cycle: S phase entry & checkpoints Cancer cells Stem cells Apoptosis Review Session for Final Exam Final Exam (Classes 34-41, not cumulative) 9:00-10:30 am
+
+MBoC JS 13 JS 13
+
+Breakout Session Topic 7: Journal Club (JS)
+
+JS 13 DE 12 DE 12
+DE 4, 7 DE 7, 8 DE 6 DE 6 DE 6 DE 6, 7 DE 5 DE 17
+DE 17 DE 17 JS 20 JS 22 JS 18
+
+8: New Breakout on Traffic (JS)
+Exam Three in Breakout (Lectures 18-25)
+9: Analysis of Nuclear Transport (DE)
+10: Transcription (DE)
+Exam Four in Breakout (Lectures 26-33)
+11: Cell Cycle (DE)
+(No Breakout: Finals Week)
+
+JS = Dr. Julie Stanton, DE= Dr. Drew Etheridge, MBoC = Molecular Biology of the Cell
+
+Dr. Stanton & Dr. Etheridge · Cell Biology · Spring 2021
+
+6
+
+

@@ -1,0 +1,117 @@
+Syllabus: GENE 3200 Genetics, Spring 2018
+
+Instructors: Norris Armstrong: narmstro@uga.edu 706-542-1699 Kelly Dyer: kdyer@uga.edu 706-542-3154
+Dr. Dyer will handle all administrative matters.
+
+Teaching Assistants:
+
+Karen Bobier: karen.bobier25@uga.edu Holly McQueary: hmcqueary@uga.edu Shivangi Nath: sn19732@uga.edu
+
+Date
+
+Topic (tentative)
+
+1/4 Th DNA as genetic material
+
+1/9 T DNA structure and Replication
+
+1/11 Th DNA Replication (cont.)
+
+1/16 T Transcription and RNA processing
+
+1/18 Th Translation
+
+1/23 T Transcriptional regulation - Prokaryotic
+
+1/25 Th Evening exam 1
+
+1/30 T Transcriptional regulation - Eukaryotic
+
+2/1 Th Chromatin and Epigenetics
+
+2/6 T DNA mutation and repair I
+
+2/8 Th DNA mutation and repair II
+
+2/13 T Transposable elements
+
+2/15 Th Evening exam 2
+
+2/20 T Chromosomal mutation I
+
+2/22 Th Chromosomal mutation II
+
+2/27 T Mendel overview
+
+3/1 Th Chromosomes, mitosis and meiosis review
+
+3/6 T Gene interactions
+
+3/8 Th Evening exam 3
+
+3/13 T No class. Spring break
+
+3/15 Th No class. Spring break
+
+3/20 T Linkage mapping I
+
+3/22 Th Linkage mapping II
+
+3/27 T Quantitative traits
+
+3/29 Th Genome-wide association studies
+
+4/3 T Forward genetics I
+
+4/5 Th Evening exam 4 4/10 T Forward genetics II 4/12 Th Reverse genetics and transgenics I
+
+4/17 T Reverse genetics and transgenics II 4/19 Th Genomics I 4/24 T Genomics II 5/2 W 7-10 PM Exam 5
+
+Inst Textbook chapters NA 10 NA 11.1-11.2, 12.1-12.3 NA 12.4, 19.5 and pp 568-571 NA 13, 14 (to pg 411) NA 15.1-15.3 NA 16.1, 16.2 NA NA 17.3-17.6, 14.5-14.6 NA 17.2, 21 NA 18.1-18.3 NA 18.5, 12.5, pp564-567 NA 18.4 NA NA 8.1, 8.2 NA 8.3, 8.4 KD 3.1-3.3, 6 to p149 KD 2.2, 2.3, 4, pp150-153 KD 5
+KD 7 to p199 KD KD 24 to p723, p734-736 KD 6.4, pp199-200, pp612-615 KD 19 to p564, pp571-573, pp
+576-581, p623, pp430-433
+KD KD 19: pp 564-567, pp574-576,
+19.6, 19.7 KD KD 20.1-20.3, pp798-799 KD
+
+1
+
+Required text: Genetics: A Conceptual Approach. 6th edition. 2017. Pierce, BA. W.H. Freeman and Company, New York, NY.
+
+Lectures: All lectures are Tuesdays and Thursdays. The first session is 9:30-10:45 am in Chemistry room 400, the second session is 12:30-1:45 pm in Chemistry room 400. Please attend your assigned lecture. Please silence cell phones during lecture.
+
+Exam dates, times and locations:
+
+Exam 1: Thursday, January 25th, 5 pm. Exam 2: Thursday, February 15th, 5 pm. Exam 3: Thursday, March 8th, 5 pm. Exam 4: Thursday, April 5th, 5 pm. Exam 5: Wednesday, May 2nd, 7 pm.
+
+The first four exams will be held in Miller Learning Center rooms 148 and 248. The locations for exam 5 will be announced and posted on eLC at a later date.
+
+Exams: Exams are noncumulative. That said, the concepts taught in genetics build on each other. Though you will not be asked specific questions about concepts covered by preceding exams, you will often be expected to apply principles related to these concepts. Each exam is worth 18% of your final grade. Exam scores cannot be dropped. Please turn off cell phones during exams. Calculators are allowed.
+
+Missed exams: Makeup exams will only be given in the case of a documented medical or extreme personal emergency. It is the student's responsibility to provide relevant and detailed documentation. Contact Dr. Dyer as soon as possible if you will miss an exam. In most cases, contacting an instructor after the exam has started is too late to be allowed to take a makeup exam. An unexcused missed exam will count as 0 points.
+
+Regrades: All regrade requests must be submitted via Outbox (link will be provided on eLC after first exam) within one week of the exam being returned. Teaching assistants do not handle regrade requests. Submission of a regrade request will result in the entire exam being regraded. If you notice an error in the addition of points on your exam, simply notify the instructor by email so that it can be corrected.
+
+Review Sessions: A review session will be held on the Tuesday evening before each of the first four exams from 5:30-7:30 pm, with the location to be posted to eLC. The review for the 5th exam will held be
+at a day and time that will be announced and posted to eLC. Instructors will lead the review sessions.
+
+Office Hours: Instructors:
+TAs:
+
+Armstrong: Tuesdays 2-4 PM, Wednesdays 2-3:30 PM, Biosciences 409B. Dyer: Wednesdays 12-1:30 pm, Thursdays 2:15-3:45 pm, Life Sciences C226. Will be posted on eLC. (Please attend your own TA's office hours.)
+
+Sapling Plus: Access to Sapling Plus is required. This online resource will be used for assigning homework. In addition, it has many resources that can be used to improve your understanding of the material, including tutorials, videos and quizzes. Sapling Plus can be accessed here: www.saplinglearning.com/login.
+
+Problems: Practice problems at the end of each chapter will be assigned during the course using Sapling Plus. These problems will be graded and count 10% of your final grade. Additional practice problems will also be worked during recitation sections and posted on the eLC site.
+2
+
+Recitation sections: Please attend your assigned recitation section. During each session, you will work through practice problems with help from the teaching assistant.
+Material from Introductory Biology: We will assume that you have learned some basic genetic concepts in Introductory Biology. Our goal is to expand on this foundation to provide a deeper examination of classical and modern genetics research. Where appropriate, we will indicate the material that you should know and might want to review during the relevant sections of the course.
+eLC: We will post your scores on eLC. In addition, we have enabled discussions on this site. Please limit discussions to course material, or course related items, such as finding a study group. Posts are expected to maintain a respectful tone. TAs and instructors will try to monitor the discussion list, especially during exam weeks, and post to it as needed. Instructors will revoke posting privileges of students who misuse the list.
+Email: Please use email sparingly, and primarily for setting up appointments. Questions about the course material and other course-related issues can be directed to the discussion list on eLC. Questions concerning your grades, your standing in the course, personal issues that are affecting your performance, and so on, should be handled in person or by telephone, but NOT by email.
+TopHat: We will use the Top Hat Monocle (THM) Classroom Response System for this class. Tophat allows students to use a cell phone (text messaging) or internet-capable device to respond to questions posted during lecture. Instructions on how to register an account for this class will be posted on eLC at the beginning of the term. Please follow these instructions carefully to ensure that you receive credit for your responses. Students who have an 80% or greater response rate will receive maximal extra credit for TopHat questions, and below this level you will receive the raw percentage of points. Top Hat extra credit will be half from each instructor, even if the instructors assign different numbers of questions. Finally, as TopHat is meant to encourage in-class participation, if you are found to submit any answers to TopHat questions when you were not actually present in class you will forfeit all of your TopHat extra credit from that instructor.
+Course withdrawal: We will follow the University's course withdrawal policy, which can be found here: http://www.reg.uga.edu/policies/withdrawals. The withdrawal deadline is Monday, March 19.
+Academic honesty: As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: www.uga.edu/honesty. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor. More detailed information about academic honesty can be found at: http://ovpi.uga.edu/academichonesty/academic-honesty-policy.
+Course Grade: Your final grade will be a weighted average of the 5 exams (18% each) plus your homework grade from Sapling Plus (10%). There will also be one or two extra credit points offered during the course - stay tuned! Final grades will be based on a standard grade distribution: A: 90-100, B: 80-89, C: 70-79 and D: 60-69, with standard cut-offs for +/-. Exam scores may be curved as needed.
+3
+
+

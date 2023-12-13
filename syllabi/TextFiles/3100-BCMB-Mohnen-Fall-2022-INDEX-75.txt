@@ -1,0 +1,223 @@
+BCMB3100 Syllabus, Fall 2022 (Revised 8-11-2022)
+
+Page 1
+
+INTRODUCTORY BIOCHEMISTRY AND MOLECULAR BIOLOGY BCMB 3100 (26267) Fall Semester 2022
+
+LECTURES: Mon./Wed./Fri., 10:20-11:10 AM, Room C127 - Davison Life Sciences Complex
+BREAKOUT SESSION: Wed., 4:10-5:00 PM, Room C127 - Davison Life Sciences Complex
+WEBSITE: Log into UGA eLC, search for course BCMB3100 Intro Biochem and Molec Biol Fall 2022 26267. Everything you need will be posted on eLC, including syllabus, quizzes, in-class participation questions, case studies, group assignments, partial class notes, etc. You are also advised to familiarize yourself with eLC interface and functions, and frequently check instructors' announcements on eLC.
+
+Lectures and Breakout Sessions: Both will be in Room C127 - Davison Life Sciences Complex. Lectures are Mondays, Wednesdays and Fridays from 10:20-11:10 AM. The Breakout Sessions are on Wednesdays from 4:10-5:00 PM.
+
+INSTRUCTORS:
+
+Professor Debra Mohnen Department of Biochemistry and Molecular Biology Complex Carbohydrate Research Center, Room 2044 315 Riverbend Rd. Phone: 706-542-4458 email: dmohnen@ccrc.uga.edu
+
+Associate Professor Hang Yin Department of Biochemistry and Molecular Biology Center for Molecular Medicine, Room 2228 325 Riverbend Rd. Phone: 706-583-0655 email: hyin@uga.edu
+TEXTBOOK: Biochemistry: A Short Course, Fourth Edition. John L Tymoczko, Jeremy M. Berg, Gregory J. Gatto, Jr. and Lubert Stryer. W.H. Freeman and Company, New York, 2019. ISBN-13:978-1-319-11463-3. ISBN10:1-319-11463-6. (Either ISBN number should identify the correct text.)
+
+COURSE FORMAT, EXPECTATIONS, OFFICE HOURS: The course will be taught in person in Room C127 - Life Sciences. Students are expected to attend all lectures and breakout sessions. The lecture will include an in-class Class Participation Question to be answered on eLC.
+Students will take quizzes online using eLC. You will have two opportunities to take a quiz within a 24hour period. You will have access to the quiz on the designated Tuesday from 7:00 am Tuesday until the following morning at 7:00 am (see the course timeline below). The higher score from the two attempts will be recorded. For both the 1st attempt and 2nd attempt (if you choose to make a 2nd attempt), you will have 30 minutes to complete the quiz. NOTE: You should develop your study habits so that you perform well on the 1st attempt of the quiz, since that will approximate how you would perform on your exams (i.e. you must know the material deeply and be able to process complex questions quickly).
+
+All Exams will be taken in the classroom, C127 - Life Sciences. The first two exams will be in paper format. The second two exams and final exam will be online in person in the classroom using eLC.
+
+BCMB3100 Syllabus, Fall 2022 (Revised 8-11-2022)
+
+Page 2
+
+Students are expected to read all material covered in the textbook and to complete all recommended homework. Students are expected to complete and submit the required group assignments by the due dates. Since the group assignments require group work, students are expected to work together in the assigned groups for these assignments. Each instructor has office hours to enable increased student interaction with the professors (see below).
+
+COURSE DESIGN: This course is designed to enable you to learn the topics of biochemistry and molecular biology. In this one semester course, you will learn fundamental biochemical concepts and develop problem-solving skills and scientific reasoning. The fundamental concepts include the structure and function of biological molecules present in all organisms, the thermodynamics and kinetics of biochemical reactions, and metabolic pathways and how they are regulated and integrated into human physiology. This course is divided into four units, each of which includes a focused aspect in biochemistry. Each unit will be outlined in a unit calendar and as unit and chapter learning objectives, which will be posted on eLC at the beginning of the unit. For Dr. Mohnen's part of the class, the unit calendars will list the dates of quizzes, exams, lectures, breakout sessions and the group assignment due dates. For Dr. Yin's part of the class the unit calendars will list learning objectives, reading assignments, and group and individual activities and due dates. You are responsible for downloading the unit calendars and completing all readings, quizzes, group activities and exams as noted in eLC and in the class unit calendars.
+
+The primary teaching method for this course will be lectures and you are expected to attend all lectures. Partial class notes and PowerPoint slides will be available before class on eLC (in corresponding unit/chapter folders/submodules). Dr. Mohnen will teach the first half of the course (units 1 & 2, from Aug. 17 to Oct. 7). Dr. Yin will teach the second half of the course (units 3 & 4, from Oct. 10 to Dec. 6).
+
+For Dr. Mohnen's lectures, you are expected to have, PRIOR to the lecture, skimmed the material in the textbook for the upcoming lecture and to read in depth the textbook material immediately after the lecture. You are also expected to complete all assigned homework problems from the text at the same time the material is covered in the lecture. This will be essential for you to perform well on the quizzes and exams. You are also expected to study and work with other members in your Group to work on and complete all assigned group assignments. Some bonus points (maximal 3 points) will be awarded to those who correctly answer case-related questions in class and in the breakout sessions.
+
+For Dr. Yin's lectures, it is required that you read the class PowerPoint slides AND the corresponding chapter(s) in the textbook BEFORE each class. For case studies in units 3 & 4, you are expected to read and study the cases by yourselves before the classes designated to discuss the cases. Some bonus points (maximal 3 points) will be awarded to those who correctly answer case-related questions in class. You are also expected to study with other members in your study group to work on and complete two group assignments in the designated time.
+
+It is required throughout the course that you use the partial class notes/PPT slides during the lecture as the foundation for your own personal note-taking during the lecture. The material in this course is discussed in detail during class and it is essential that you attend class. To learn the amount and depth of material and concepts in biochemistry, it is essential that you spend large amounts of time outside the lecture to study and learn the material which is presented in great detail in the textbook and discussed in lecture.
+
+TECHNOLOGY REQUIREMENTS: Use of laptop/desktop computers and/or mobile pad devices with stable Wi-Fi connections is a requirement for this course. Make sure your electronic devices have sufficient battery throughout the class. You will be expected to access eLC during class to complete the class participation question. You
+
+BCMB3100 Syllabus, Fall 2022 (Revised 8-11-2022)
+
+Page 3
+
+will also need to access your computer during the breakout sessions. During class time, you may access
+
+information about course material on the web (including Wikipedia, PubMed, Web of Knowledge, etc.).
+
+HOWEVER, using technology for purposes unrelated to class is prohibited. If you spend class time
+
+browsing Reddit or completing your fantasy football draft list, you are not only cheating yourself out of
+
+an opportunity to learn, but you also are hurting your classmates. For example, as time allows, different
+
+study groups may be called on to answer questions live during the class/breakout session. Each of the 4-5
+
+group members will be asked to answer the questions. Correct answers will lead to bonus points for
+
+the course for the entire group, assuming that the full group participates. You must be attentive to do
+
+this. Please be respectful of class time and use it well. This is the only time that you will have while at
+
+UGA to learn the basics of biochemistry. It will be assumed in future courses and in your future careers
+
+that you have this firmly engrained in your brain for instant use (rather like knowing the alphabet so that
+
+you can talk and write).
+
+GRADING: Your final grade will be based on the percentage of your accumulated points A 93 - 100 from exams, quizzes, class participations, group assignments, etc. (see below). You are A- 90 - 92 encouraged to frequently check your earned points and the whole class's statistics on eLC. B+ 87 - 89
+
+To calculate the percentage, you can add up all points you earned, divide by the total B 83 - 86
+
+points (which is 800), multiply by 100, and round to the nearest integer. The final grade is B- 80 - 82
+
+based on the grading scale on the right.
+
+C+ 77 - 79
+
+C 70 - 76
+
+ASSESSMENTS:
+
+D 60 - 69
+
+1. Exams (total 400 points)
+
+There will be four regular unit exams (during breakout sessions on Sep. 14, Oct. 5, Nov. 2, F  59
+
+and Dec. 5) and a final exam (Dec. 12, 8:00~11:00 AM). All will be in-class exams. The first two will be
+
+paper exams, the last three will be using eLC. The grading will be managed electronically on eLC
+
+("Quizzes & Exams" folder/module). Exams are 100 points each. You can decide whether or not to attend
+
+the final exam. If you take the final exam, your lowest score from the five exams will be dropped. There
+
+will be NO make-up exams. Neither can any exam be rearranged to another time. If you must miss a unit
+
+exam, you must take the final exam and the score will replace your missing unit exam. Each regular unit
+
+exam will primarily cover the material discussed since the prior exam, although you may be tested about
+
+basic concepts on any exam throughout the semester. The questions in exams will include, among others,
+
+multiple-choice, short answer questions, fill-in-the-blank, drawing structures. To do well on the exam,
+
+you must learn the material in great depth and have deeply read the chapters in the textbook that were
+
+covered during the lectures.
+
+2. Quizzes (total 300 points) There will be ten quizzes managed electronically on eLC ("Quizzes & Exams" folder/module). These will be available starting at 7:00 am on the designated Tuesdays through 7:00 am the next day. You will have 30 minutes to complete the quiz. You may take the quiz twice and your highest grade will used for your final grade for that quiz. Quizzes are 30 points each. Like exams, there will be NO make-up quizzes. Each quiz will primarily cover the topics discussed since the prior quiz, although some questions require knowledge gained throughout the course. The questions in quizzes will include multiple-choice and short answer questions.
+
+3. Class participation (total 40 points) There are 44 class lecture days in this course on Mondays, Wednesdays, and Fridays. You are expected to attend all of these classes. In each class, the instructor will stop at certain point during the lecture and ask you to complete a short (2-minute) quiz on eLC (the quiz entry will temporarily appear in the "Class Participation Questions" folder/module). You are advised to have your computers already logged into eLC to be ready to start the quiz promptly when asked to do so during the lecture. Your answers to these
+
+BCMB3100 Syllabus, Fall 2022 (Revised 8-11-2022)
+
+Page 4
+
+short quiz questions (no matter the correctness) will be used for participation points (1 point for each answered question). To earn credit, you must perform the timed submission of your quiz on eLC. Please note that the quiz questions usually cover key learning points in class and the instructor sometimes will show the correct answers on the PPT slide. The total possible points for participation are capped at 40 points. Since four absences are allowed, the instructors do not expect to receive excused absence notes unless extreme cases occur. In case of any problem (e.g., WiFi connection failure), you should inform the instructor immediately after the class via email, being sure to give your complete name and 810 number.
+
+4. Group assignments (50 points) All students will be asked to participate in group assignments. Groups will be formed during the first breakout session (August 17). Each Group will have a unique Group #. If you miss this group formation time the instructors will assign you to a group. The Group Lists will be available on eLC. You must know your Group Number. The Group Assignments are located in eLC in folders/modules of the related chapters and have specific due dates. Each member of the group who participates in the group assignment, and whose name is on a group assignment received by the due date, will receive the respective portion of the total point credit. Completing all group assignments will earn you 50 points towards the total 800 points possible for this class.
+
+5. Franklin college end-of-course evaluation (total 10 points) You are highly encouraged to participate in the evaluation of the course and instructors after finishing the course. All feedback in terms of comments and suggestions are encouraged and appreciated. Separate evaluations will be for both instructors, Drs. Mohnen and Yin (5 points each). Your feedback will be confidential, and your name will not be provided to the instructor. In addition, as per the normal studentinstructor interaction, you are welcome to leave your feedback any time during the course in this course's discussion forum on eLC ("Syllabus & Feedback" folder/module) or via email to the professor.
+
+OFFICE HOURS: We very much want to help you in your goal to learn biochemistry. We will be available during office hours for one-on-one or group questions. Please take advantage of the office hours.
+
+Dr. Mohnen's office hours: Tuesdays, 11:00 am - 1:00 pm (Aug. 23 - Oct. 11) Students may meet virtually. Order of meetings will be on a first come, first serve basis. ZOOM link for virtual meeting https://zoom.us/j/99112805371. After Oct 11, meetings can be arranged via an email request.
+
+Dr. Yin's office virtual office hours: Wednesdays, 2:00 - 4:00 pm (Oct. 13 - Dec. 1)
+Both Drs. Mohnen and Yin will be happy to meet with anyone who needs office hours between Exam 4 and the Optional Final Exam on December 12th. Please email the instructors to set up times to meet between Dec 5 - Dec 9, if desired.
+
+COMMUNICATION POLICY To comply with the Family Educational Rights and Privacy Act (FERPA), all communication that refers to individual students must be through a secure medium (UGAMail or eLC) or in person. Instructors are not allowed to respond to messages that refer to individual students or student progress in the course through non-UGA accounts, phone calls, or other types of electronic media.
+
+TUTORING The Division of Academic Enhancement (DAE) offers free undergraduate tutoring services through Peer Learning and Teaching Others (PLaTO). All currently enrolled UGA undergrad students can meet with a
+
+BCMB3100 Syllabus, Fall 2022 (Revised 8-11-2022)
+
+Page 5
+
+Peer Tutor who has successfully completed the course being tutored to discuss class content, ask questions, and share study tips and resources. Tutoring is free and available in the form of one-on-one appointments and study pods both in-person at locations across campus and online via Zoom.
+
+To engage with a tutor, download the Penji app, available on iOS and Android, and create an account using your MyID@uga.edu email address. If you do not have a smart phone, navigate to https://web.penjiapp.com and create an account using your MyID@uga.edu email address. If you need help, visit the https://dae.uga.edu/services/tutoring/ website for more information on how to engage with a tutor or email them at tutor@uga.edu. In addition to peer tutoring, the DAE also provides Academic Coaching, Student Success Workshops and more. The DAE is committed to the success of all students at the University of Georgia. For more on these and other resources, please visit dae.uga.edu.
+
+ACADEMIC HONESTY All academic work must meet the standards contained in "A Culture of Honesty." Students are responsible for informing themselves about those standards before performing any academic work. The policy can be found at http://www.uga.edu/honesty/ahpd/culture_honesty.htm.
+Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor. More specifically, this means you will NOT, among other things: 1. Complete any question(s) in an exam, quiz, class participation questions, group assignments, or course
+evaluation for someone else. 2. Copy someone else's answer in an exam, quiz, class participation questions, group assignments, or
+course evaluation. 3. Avoid group assignments yet submit your name on the submitted assignment papers.
+
+MENTAL HEALTH & WELLNESS RESOURCES
+� If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.
+� UGA has several resources for a student seeking mental health services (https://well-being.uga.edu/mental-health-initiative/) (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies).
+� If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center.
+� Additional resources can be accessed through the UGA App.
+
+ABOUT COVID-19 - UGA Coronavirus (COVID-19) Information and Resources
+As the COVID-19 pandemic transitions and public health conditions and treatments improve, UGA will begin treating COVID-19 as other infectious disease cases. The following link will direct you to UGA Coronavirus (COVID-19) Information and Resources (https://coronavirus.uga.edu/).
+
+BCMB3100 Syllabus, Fall 2022 (Revised 8-11-2022)
+
+Page 6
+
+This course syllabus (given below) is a general plan for the course; deviations announced to the class by the instructor may be necessary. Drop / Add: Aug. 17 - 23; Withdrawal Deadline: October 24
+
+Timeline for Material Covered in Class
+Aug. 17 (W) - Chap. 1/2 (Lecture 1) Aug. 17 (W) - Breakout #1 - group selection Aug. 19 (F) - Chap. 2/3 (Lect 2)
+Aug. 22 (M) - Chap. 3 (Lect 3) Aug. 23 (Tu) - Quiz #1 (on eLC) Aug. 24 (W) - Chap. 3/5 (small part of Chap 4) (Lect 4) Aug. 24 (W) - Breakout #2 (in C127) Aug. 26 (F) - Chap. 4/5 (Lect 5)
+Aug. 29 (M) - Chap. 4 (Lect 6) Aug. 30 (Tu) - Quiz #2 Aug. 31 (W) - Chap. 4/9 (Lect 7) Aug. 31 (W) - Breakout #3 Sept. 2 (F) - Chap. 6-8 (Lect 8)
+Sept. 5 - Labor Day, No Class Sept. 6. (Tu) - Quiz #3 Sept. 7 (W) - Chap. 6-8 (Lect 9) Sept. 7 (W) - Breakout #4 Sept. 9 (F) - Chap. 6-8 (Lect 10)
+Sept. 12 (M) - Chap. 10 (Lect 11) Sept. 14 (W) - Chap. 10 (Lect 12) Sept. 14 (W) - EXAM 1 (50-minute exam during Breakout) Sept. 16 (F) - Chap. 10/11 (Lect 13)
+Sept. 19 (M) - Chap. 11/12 (Lect 14) Sept. 20 (Tu) - Quiz #4 Sept. 21 (W) - Chap. 11-13 (Lect 15) Sept. 21 (W) - No Breakout #5 - Use for group study. Sept. 23 (F) - Chap. 11-13 (Lect 16)
+Sept. 26 (M)- Chap. 33 (Lect 17) Sept. 27 (Tu) - Quiz #5 Sept. 28 (W) - Chap. 33/34 (Lect 18) Sept. 28 (W) - Breakout #6 Sept. 30 (F) - Chap. 34/35 (Lect 19)
+Oct. 3 (M)- Chap. 36/37 (Lect 20) Oct. 5 (W) - Chap. 38/39 (Lect 21) Oct. 5 (W) - EXAM 2 (50-minute exam during Breakout) Oct. 7 (F) - Chap. 39/40 (Lect 22)
+Oct. 10 (M) - Chap. 14 Metabolism: Basic Concepts (Lect 23) (first class of Dr. Yin)
+Oct. 12 (W) - Chap. 14 Metabolism: Basic Concepts (Lect 24) Oct. 12 (W) - Breakout Oct. 14 (F) - Chap. 16 Glycolysis (Lect 25)
+Oct. 17 (M) - Chap. 16 Glycolysis (Lect 26) Oct. 18 (Tu) - Quiz #6 Oct. 19 (W) - Chap. 17 Gluconeogenesis (Lect 27)
+
+Oct. 19 (W) - Breakout Oct. 21 (F) - Chap.17 Gluconeogenesis (Lect 28)
+Oct. 24 (M) - Chap. 17 Gluconeogenesis case study (Lect 29) Oct. 25 (Tu) - Quiz #7 Oct. 26 (W) - Chap. 23,24,25 Pentose Phosphate Pathway and Glycogen metabolism (Lect 30) Oct. 26 (W) - Breakout Oct. 28 - Fall Break, No Class
+Oct. 31 (M) - Chap. 17 PDH complex (Lect 31) Nov. 2 (W) - Chap. 17 PDH case study (Lect 32) Nov. 2 (W) - EXAM 3 (50-minute exam during Breakout) Nov. 4 (F) - Chap. 18 CAC (Lect 33)
+Nov. 7 (M) - Chap. 18 CAC and cancer (Lect 34) Nov. 8 (Tu) - Quiz #8 Nov. 9 (W) - Chap. 19 ETC (Lect 35) Nov. 9 (W) - Breakout Nov. 11 (F) - Chap. 20 ETC & ROS (Lect 36)
+Nov. 14 (M) - Chap. 20 OxPhos (Lect 37) Nov. 15 (Tu) - Quiz #9 Nov. 16 (W) - Uncoupled respiration & DNP case study (Lect 38) Nov. 16 (W) - Breakout Nov. 18 (F) - Chap. 26 Fatty acid degradation (Lect 39)
+Nov. 21 (M) - Chap. 27 Fatty acid Synthesis (Lect 40) Nov. 23 - 27 Thanksgiving holiday, No Class
+Nov. 25 - Thanksgiving holiday, No Class
+Nov. 28 (M) - Chap. 29 Amino acid sytnehsis and degradation (Lect 41) Nov. 29 (Tu) - Quiz #10 Nov. 30 (W) - Chap. 31 Amino acid degradation and Urea cycle (Lect 42) Nov. 30 (W) - Breakout Dec. 2 (F) - Chap. 31 Amino acid degradation case study (Lect 43)
+Dec. 5 (M) - EXAM 4 (50-minute exam during Breakout) Dec. 6 (T) - Chap 30. Nucleotide Metabolism
+(Lect 44, last class, Friday class schedule) Dec. 7 (W) - Reading Day
+Dec. 12 (M) - EXAM 5 (optional, 8:00-11:00)
+
+BCMB3100 Syllabus, Fall 2022 (Revised 8-11-2022)
+
+Page 7
+
+Chapter Number and Title, **required reading, Recommended Reading
+Each chapter should be skimmed (Dr. Mohnen) or read (Dr Yin) before the lecture, and read deeply within two days of the lecture. Chapters are listed in the order that they will be covered in class.
+
+** Chapter 1. Biochemistry and the Unity of Life ** Chapter 2. Water, Weak Bonds, the Generation of Order Out of Chaos ** Chapter 3. Amino acids ** Chapter 5. Techniques in Protein Chemistry ** Chapter 4. Protein Three-Dimensional Structure ** Chapter 9. Hemoglobin, an Allosteric Protein ** Chapter 6. Basic Concepts of Enzyme Action ** Chapter 7. Kinetics and Regulation ** Chapter 8. Mechanisms and Inhibitors ** Chapter 10. Carbohydrates ** Chapter 11. Lipids ** Chapter 12. Membrane Structure and Function ** Chapter 13 Signal-Transduction Pathways ** Chapter 33. The Structure of Informational Macromolecules : DNA and RNA ** Chapter 34. DNA Replication ** Chapter 35. DNA Repair and Recombination ** Chapter 36. RNA Synthesis and Regulation in Bacteria ** Chapter 37. Gene Expression in Eukaryotes ** Chapter 38. RNA Processing in Eukaryotes ** Chapter 39. The Genetic Code ** Chapter 40. The Mechanism of Protein Synthesis ** Chapter 41. Recombinant DNA Techniques (some information is mandatory (as discussed in
+class lecture and notes, some is supplemental reading) **Chapters 22 and 23 on Photosynthesis may be resources for some of the Class Assignments and Breakouts
+
+The following chapters are covered in Dr. Yin's class. Study cases and extra materials for reading will be shared on eLC. ** Chapter 15. Metabolism: Basic Concepts and Design ** Chapter 16. Glycolysis ** Chapter 17. Gluconeogenesis ** Chapter 18. Preparation for the Cycle (PDH complex) ** Chapter 19. Harvesting Electrons from the Cycle ** Chapter 20. The Electron-Transport Chain ** Chapter 21. The Proton-Motive Forces ** Chapter 24. Glycogen Degradation ** Chapter 25. Glycogen Synthesis ** Chapter 26. The Pentose Phosphate Pathway ** Chapter 27. Fatty Acid Degradation ** Chapter 28. Fatty Acid Synthesis ** Chapter 31. Amino Acid Synthesis ** Chapter 30. Amino Acid Degradation and the Urea Cycle ** Chapter 32. Nucleotide Metabolism
+
+BCMB3100 Syllabus, Fall 2022 (Revised 8-11-2022)
+
+Page 8
+
+WELCOME to Introductory Biochemistry and Molecular Biology (BCMB3100)!!
+Hints for how to succeed in BCMB 3100 (from Debra Mohnen and Hang Yin, August 2022)
+Have your partial class notes available at every class and fill in the missing information presented during class.
+BCMB3100 is a demanding, information-rich course that will serve as the foundation for your upper level biology-related courses and for your understanding of biology and biochemistry throughout your lives. To succeed in Introductory Biochemistry you need to work at the material EVERY day. You cannot cram for this course. With a measured learning pace you will enjoy the course and learn a great deal. If you procrastinate and cram you will be stressed and not perform well. You cannot learn the material by osmosis. You must read, think deeply, and learn each concept to serve as a foundation for the next.
+Based on previous student comments IT IS HIGHLY RECOMMENDED (and required for Group Assignments) THAT EVERY STUDENT GET TOGETHER WITH FOUR OTHER STUDENTS IN THE COURSE TO FORM A STUDY GROUP. The study groups are encouraged to meet at least once a week. Use the study groups to your advantage!! We learn best by repeated exposure to ideas and concepts. The best way to identify what you do, or do not, understand is to try to teach it to someone else. The study groups give you this opportunity.
+Other Hints � Read all the assigned material at least three times.
+1st: before lecture skim-read to overview chapter organization, content and new concepts 2nd: read in detail 3rd: read to summarize main concepts
+� Read the assigned chapters slowly and in detail before lecture or within the next 24 hours! SHUT OFF ALL SOCIAL MEDIA DEVICES WHEN YOU DO THIS!
+� Do the recommended homework. Practice enhances performance.
+� Have your printed or electronic notes available during the lecture to avoid excessive writing. No computers are to be used during the lecture except for class work. No cell phones should be used during the class.
+� Meet with your study group at least once per week
+� If you need help, please contact the instructor. Do not wait until the day before the exam to meet with us.
+� Keep up!!!!!
+� Attend class!!!!!!
+� Have your calculators available for all quizzes and exams.
+
+

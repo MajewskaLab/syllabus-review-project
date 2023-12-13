@@ -1,0 +1,160 @@
+Introduction to Microbiology Laboratory MIBO 3510L Spring 2012
+Lab Lecture Room 404B, Thursdays 3:30-4:45 PM
+Lecture Instructor: Dr. Wendy Dustman Room 204 B Biological Sciences Phone: (706) 542-2622 Email: wdustman@uga.edu
+Office hours: Mon/Wed 9:30 -10:30 AM or by appt.
+Lab Teaching Assistants:
+
+Matt Hawkins 706 542-2674 mateo06@uga.edu
+Nick Wiese 706 542-1437 nswiese@uga.edu
+Mope Oluwadare 706 542-0255 mopelola@uga.edu
+
+Kelley Cowart 706 542-2670 kelleycowart@gmail.com
+Brandon Satinsky 706 542-5900 bsatinsk@uga.edu
+Ajay Arya 706 542- 1117 asarya@uga.edu
+
+Textbook: Applications in General Microbiology: A Laboratory Manual (Revised 6th edition), Thomas J. Kerr and Barbara B. McHale.
+
+Supplemental Material: There are some lab exercises that are not in the lab manual. These are provided as e-handouts (noted as HO) available on eLC (eLearning Commons) - you are responsible for printing these and bringing them to class.
+
+Grading Rubric: Midterm Exam (practical and written components) Final Exam (practical and written components) Journal Article Presentation Homework/Quizzes Unknowns Project Report Total Points Possible
+
+100 pts 100 pts 30 pts 100 pts 50 pts 380 pts
+
+Letter Grade Scale:
+
+A = (4.0) = 93.0 - 100% ( 353.4 pts) A- = (3.7) = 90.0 - 92.9% ( 342.0 pts) B+ = (3.3) = 87.0 - 89.9% ( 330.6 pts) B = (3.0) = 83.0 - 86.9% ( 315.4 pts) B- = (2.7) = 80.0 - 82.9% ( 304.0 pts)
+
+C+ = (2.3) = 77.0 - 79.9% ( 292.6 pts) C = (2.0) = 73.0 - 76.9% ( 277.4 pts) C- = (1.7) = 70.0 - 72.9% ( 266.0 pts) D = (1.0) = 60.0 - 69.9% ( 228.0 pts) F = (0.0) = below 59.9% ( 228.0 pts)
+
+Attendance, Tardiness, & Excuse Policy: Attendance in lab and lab lecture is mandatory. If you miss lab or are excessively tardy (>10 min) and you MUST provide your TA with acceptable documentation in order to for the absence/tardy to be considered excused (see below).
+
+If you must miss a lab period, it is your responsibility to 1) contact your TA directly to make review arrangements and, 2) provide documentation of a valid excuse directly to your TA. Failure to comply with either of these processes will result in an `unexcused' absence and loss of credit for assignments/quizzes.
+
+If you miss class the period (or are excessively tardy to a lab period) in which a homework/in-class assignment or quiz is either given or collected and do NOT provide a documented excused absence- you will NOT receive credit for the assignment/quiz.
+
+Excused absences will include:
+
+1. Medical/professional school interviews and University-sanctioned events - the TA must be contacted one week prior to the absence; absences for such interviews that are not cleared prior to the absence will not be considered as excused.
+
+2. Illnesses- the student must submit a document from his/her physician indicating the physician's orders to remain out of class- documents indicating the student simply visited the health center are not sufficient.
+
+3. Other circumstances beyond those listed above may be considered as excused absences per Dr. Dustman's approval - contact must be initiated within 36 hrs of absence for this to occur.
+
+Make-up Exam Policy: Make-up lab exams will only be given when a student cannot attend any of the lab sections to take the exam at the scheduled time and has a documentable excuse for this absence (page 1). The makeup exam will be different from the one given at the scheduled time. You must contact your TA within 48 hrs following the scheduled exam to request a make-up lab practical. After this time, no make-up exams will be given and you will receive a zero for that exam.
+Grading Issues: If you feel your exam has a grading error, you have one week from the time the exams are handed back to contest the grading. Your request must be made in writing and directly to your TA. You must clearly state why you think you deserve credit for your answer. If you do not contest grading during this period, the grade will stand as is. If you are not satisfied with the TA's re-grade response, then contact Dr. Dustman (for a complete re-grade of the exam).
+Preparation Before Lab Period and Homework/In-class Assignments: Students are expected to read the assigned lab exercises prior to attending lab lecture and lab each meeting. Over the course of the semester, 100 pts will be earned through the completion of homework, in-class assignments, brief quizzes, or lab notebook inspections during the lab period. Some quizzes will be announced and others will be `pop'. `Pop' quizzes will focus on procedures, protocols, and interpretations that are to be emphasized in class that period. All sections, regardless of TA, will have similar assignments and due dates.
+Laboratory Safety/Techniques: You will be given a set of lab safety rules that you are expected to read and follow. You will also be taught proper laboratory techniques that are to be used in the lab. If you fail to follow these rules/ techniques during the semester, points will be deducted from your overall score (1 point per incident). The initial incident will result in a warning and reminder of proper procedures. After that, points will be deducted for each subsequent occurrence. You will be notified at the time of the occurrence.
+Special note: You are expected to turn all cell phones off (or to silent) during lab. Ringing not only distracts the class, but also poses a safety hazard if a student is startled when working with an open flame or chemicals.
+
+Extra Credit Opportunities: Dr Dustman (and/or your TA) will offer chances to earn 5 additional extra credit points randomly during the semester - these will be recorded in eLC columns of their own. Because extra credit will be a significant percentage, there will be NO CURVE for this course. Final percentages will be calculated by the formula:
+total earned points (including extra credit) x 100% 380 points
+eLC: Power Point files of each Thursday lab lecture will be posted prior to each class meeting - usually no later than Wednesday 6 PM. It is strongly advised that you print these out , bring them with you to class, and add your own notes to them. They represent the highlights of the lecture material Dr. Dustman will add additional content during her lecture.
+Practice problems and their answers, helpful study handouts, and project instructions can also be found on the course eLC . Each TA will have a folder in which to add supplementary materials, if desired.
+eLC discussions will not be monitored per se by Dr. Dustman or the TAs. This eLC area is intended to be used as a peer-to-peer study forum. Important class notices/reminders will be posted as announcements in eLC by Dr. Dustman and/or the TAs. You are responsible for checking eLC for announcements/updates.
+Academic Honesty Policy: Students are expected to be familiar with and abide by the University of Georgia's Academic Honesty Policy. The policy can be found at http://www.uga.edu/honesty/
+Course withdrawal: Any student who chooses to withdraw prior to the midpoint withdrawal deadline (March 22nd) will be awarded a WP. Any student wishing to pursue a hardship withdrawal subsequent to the midpoint withdrawal deadline must do so through the appropriate contact(s) within the Office of the Vice President for Student Affairs. No student withdrawal will be initiated by the instructor for any reason.
+2
+
+Schedule: (HO-Handout; R-Thursday) The schedule and procedures in this course are subject to change in the event of extenuating circumstances. Check eLC at least twice weekly for course announcements on the front page.
+
+Date 1/9-10 1/11-12
+1/16-17 1/18-19
+1/23-24
+
+Day Daily Lab Exercises M/T NO LABS W/R Safety Overview
+1: Introduction to microscopy M/T NO LABS - MLK DAY HOLIDAY W/R 10: Higher microorganisms, Bacteria in the environment
+HO: Fungal tape mounts M/T 6, 7: Simple Stains, Gram Stains
+
+Thursday Lab Lecture Topic Microscopy (Brief Review); Fungi; Aseptic Techniques
+Smear Preparation, Simple & Gram Stain Procedures; Endospore & Acid-Fast Stains
+
+1/25-26 1/30 -31
+2/1-2 2/6-7 2/8-9
+
+W/R 8, 7: Special staining, Differential staining
+M/T 4: Isolation of pure cultures W/R 9, 12: Bacterial Motility, and Minimal Growth (Nutritional)
+Requirements M/T 11, 22, 23, 24: Oxygen Requirements, Osmotic Pressure,
+pH, Temperature and UV Light W/R HO: Experimental Design
+
+Bacteriological Media Forms; Isolation of Pure Cultures; Motility; Growth Requirements: Nutrition
+Oxygen Requirements and Effects on Growth: Temperature, pH, Osmotic Pressure, and UV Light; Discussion on Experimental Design
+Dilutions & Enumeration, Selective and Differential Media - Part 1
+
+2/13-14 M/T 5, 13: Dilutions, Bacterial Enumeration
+
+2/15-16 W/R 15: Selective & Differential Media - Part 1
+
+Selective and Differential Media - Part 2, Bacterial Enzymes
+
+2/20-21 M/T 15: Selective & Differential Media - Part 2
+
+2/22-23 2/27-28
+
+W/R 16, 17: Extracellular and Intracellular Enzymes M/T 18, 19: Carbohydrate Utilization and IMViC tests
+
+Carbohydrate Utilization and IMViCs Tests; Diagnostic Biochemical Activities, Enterotube ID System
+
+2/29 & 3/1 W/R 20: Biochemical reactions and Enterotubes
+
+3/5-6
+
+M/T MIDTERM PRACTICAL EXAM
+
+Unknowns Project Introduction REVIEW FOR MIDTERM EXAM- Come with questions!
+
+3/7-8
+
+W/R HO: Unknowns Project
+
+MIDTERM WRITTEN EXAM - BRING A CALCULATOR (No phones will be allowed!)
+
+Date 3/12-13 3/14-15 3/19-20 3/21-22 3/26-27 3/28-29
+4/2-3 4/4-5
+4/9-10 4/11-12 4/16-17 4/18-19 4/23-24
+4/25-26 4/30
+
+Day Daily Lab Exercises M/T NO LABS - SPRING BREAK W/R NO LABS - SPRING BREAK M/T Unknowns
+
+Thursday Lab Lecture Topic NO LAB LECTURE - SPRING BREAK
+
+W/R Unknowns
+M/T HO: Examination of water Unknowns
+W/R 50, 51: Flora of Skin, Throat and Nasal Passages Unknowns
+
+Water Microbiology, MPN Testing and Coliform Bacteria; Skin and Respiratory Flora
+Induced Mutations & Replica Plating Techniques; Antibiotic Susceptibility Testing & Antiseptics/Disinfectants Efficacy
+
+M/T 54: Induced Mutations & Replica Plating Techniques Unknowns
+W/R 27: Antibiotic susceptibility 25: Disinfectants/Antiseptics Efficacy Unknowns
+M/T HO: Bacterial Transformation Unknowns
+W/R HO: Bacteriophage Assay Unknowns
+M/T HO: Food Microbiology (Yogurt Production) Unknowns
+W/R Unknowns M/T FINAL PRACTICAL EXAM
+Unknowns -last day to inoculate tests, make appt with TA! W/R Unknowns -last day to read results!
+M NO LABS -(TUESDAY IS READING DAY) Unknown Reports are due no later than 5 pm (Mon 4/30) to your TA's mailbox (outside BioSci 204)
+
+Bacterial Transformation , Bacteriophage & Plaque Assay
+Food Microbiology - Yogurt Production FINAL EXAM REVIEW SESSION - Come with questions! FINAL WRITTEN EXAM - BRING A CALCULATOR (No phones will be allowed!)
+
+4
+
+My signature at the bottom of this page verifies my understanding and acknowledgement of the following:
+ I have received and reviewed the syllabus for MIBO3510L Introductory Microbiology Laboratory and understand the instructor MUST have a printed and signed copy of this sheet by January 18th 2012 (for MW classes) or January 19th 2012 (for TR classes), or I will not receive credit for this assignment.
+ I know how to get in touch with my instructor, her office hours and the location of her office. I have received her office phone number, and her email address. I also know how to get in touch with my TA by email and phone.
+ I understand that I should check my course syllabus for answers to any course schedule or policy question before I contact my TA or instructor by phone or email.
+ I understand that Thursday lab lectures (3:30- 4:45 pm) are a required component of the course, and that my instructor will be providing vital pre-laboratory session instruction. I understand that if I miss one of these lectures, it is my responsibility to ensure that I have a thorough understanding of the material or make a point to seek help from the instructor.
+ I understand that my actual laboratory sessions will be led by a graduate teaching assistant whose purpose is to demonstrate the laboratory activity itself, help me to understand the experimental results, and review key points from the Thursday laboratory lecture as the TA feels necessary. I understand that I should come to lab sessions prepared by attending the Thursday lab lecture and reading the lab exercises prior to stepping inside the lab room.
+ I understand the course grading rubric, the extra credit policy, and the instructor's attendance/tardiness/excused absence policies and that in order for an absence to be considered excused and missed work to be made up, I must provide written documentation to my TA, as described in the syllabus.
+ I know that exams cannot be made up unless I provide an adequate written/documentable excuse no later than 48 hours after the exam has been given, and that the format of the make up exam may be different from what my classmates were given.
+
+ I understand that I have one week from the point of any assignment or exam return to contest or question how the grading was done and that this must be done in writing and submitted to my lab TA. Once returned by my TA, if I am dissatisfied, my next course of action is to contact my course instructor to examine the situation.
+ I understand that my grades will be posted in the eLC, along with course powerpoints, handouts, and announcements, and that I am responsible for staying informed by checking the eLC at least twice per week.
+ I understand the withdrawal policies as stated in the syllabus. If I tell the instructor I am dropping the class, it is my responsibility to complete the paperwork. If I am dropped in accordance with the syllabus policies, I am aware I will not be reinstated.
+ I understand and agree to abide by the University of Georgia Academic Honesty policy. I understand that if I am suspected of violating this policy, that my instructor will pursue an investigation with the Office of Academic Dishonesty.
+Name (Print)____________________________________________________
+Signature ______________________________________________________
+Date __________________________________________________________
+
+5
+
+

@@ -1,0 +1,89 @@
+Spring 2022 BCMB 3600/H - Genomics and Bioinformatics
+
+12.45 - 2.00 pm, Tues (room C112) and Thurs (room C114, Life Sciences Bldg.)
+
+Instructors:
+
+Mike Adams (adamsm@uga.edu) Natarajan Kannan (nkannan@uga.edu) Mike Terns (mterns@uga.edu)
+
+Text:
+
+No text is recommended
+
+Examinations:
+
+Type
+
+Date
+
+Coverage
+
+Adams
+
+Paper #1
+
+02/10 (due)
+
+01/14 - 02/11
+
+Terns
+
+Papers #2 and #3 Written Exam 1
+
+03/25 (due) 03/04
+
+01/14 - 02/16 02/18 - 03/02
+
+Written Exam 2
+
+03/23
+
+03/09 - 03/18
+
+Kannan
+
+Assignment 1
+
+04/13 (due)
+
+03/30 - 04/08
+
+Assignment 2
+
+04/28 (due)
+
+04/15 - 04/27
+
+There will not be a final exam during Final Exam week (05/05-05/11)
+
+% of Grade
+11.1 22.2 15.0 18.3 15.2 18.1
+
+INSTRUCTOR: MIKE ADAMS
+The History of Genomics
+Jan. 11 The Genomics Revolution (#1) Jan. 13 Genomics and You
+Jan. 18 Genome Databases Jan. 20 The Human Genome Project
+Jan. 25 Individual Human Genomes Jan. 27 The Human Encyclopedia
+Feb. 01 Human Evolution & Eukaryotic Genomes Feb. 03 Metagenomes
+Feb. 08 DNA Sequencing (#2 and #3) Feb. 10 Synthetic Life/DNA Storage (#1 due)
+INSTRUCTOR: MICHAEL TERNS
+Functional Genomics
+Feb. 15 Functional Genomics Overview Feb. 17 Eukaryotic Gene Expression
+Feb. 22 Gene Expression Regulation Feb. 24 Chromatin Structure and Epigenetics
+Mar. 01 Written Exam 1 Mar. 03 The CRISPR Revolution
+Mar. 07 - 11: SPRING BREAK
+
+INSTRUCTOR: MICHAEL TERNS
+Functional Genomics (cont)
+Mar. 15: Gene Editing Mar. 17 Other CRISPR-Based Technologies
+Mar. 22 Biological and Biomedical Applications Mar. 24 Written Exam 2
+INSTRUCTOR: NATARAJAN KANNAN
+Introduction to Bioinformatics Methods
+Mar. 29 Introduction (Adams #2 and #3 due) Mar. 31 Sequence alignment methods
+Apr. 05 Structure prediction Apr. 07 Data visualization tools
+Apr. 12 Function prediction Apr. 14 Breakout session #1 (Assign. #1 due)
+Apr. 19 Bioinformatics applications Apr. 21 Data integration methods
+Apr. 26 Gene ontology and applications Apr. 28 Breakout session #2 (Assign. #2 due)
+May 03 Assignment solutions and feedback
+
+

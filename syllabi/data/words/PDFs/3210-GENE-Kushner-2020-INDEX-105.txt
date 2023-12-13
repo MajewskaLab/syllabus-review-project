@@ -1,0 +1,176 @@
+GENE/BIOL3210 Experimental Genetics FALL 2019
+Tuesdays and Thursdays, 2:00 to 4:45 pm Life Sciences Building, C104
+INSTRUCTORS
+Dr. Sidney Kushner, Life Sciences Rm C414B e-mail: skushner@uga.edu tel: 542-8000
+LABORATORY COORDINATOR
+Shaugnessy McCann, Life Sciences Rm C108 Email: shaugnessy.mccann25@uga.edu
+Online Access: www.elc.uga.edu
+COVID-19 Information
+Since the COVID-19 pandemic is still not under control in the State of Georgia, you must wear a face mask (properly) at all times while you are in the Davison Life Sciences Building and in the laboratory. If you come to class without a face mask, you will be asked to put one on or leave. Repeated refusal to wear a face mask will result in administrative withdrawal from the class. In addition, since it is not possible in C104 to strictly practice optimal social distancing, please pay close attention to staying as far away from classmates in the room and when entering. You should wash your hands before coming into the laboratory and immediately after you leave. Remember, if one student in the class tests positive the class will move to online learning for at least two weeks. Online laboratory courses are not as effective as doing hands-on experiments. Accordingly, please take COVID-19 seriously as your health and of your fellow students, friends, instructors, and family are on the line!
+Laboratory Logistics
+The laboratory (C104) is not large enough to permit all twelve students to be working at the same time and maintain even a modicum of social distancing. To deal with this problem, students will be split up into groups of two, prior to the start of class. You will be notified prior to the first class meeting (August 20th). The first class meeting (August 20th) will be a Zoom meeting in which we will go over basic matters such as laboratory technique and laboratory safety. In addition, we will explain how experimental data will be recorded using Google docs so that both members of each group will be kept informed as each experiment
+1
+
+progresses. One member of each group will work in the laboratory for the first half of the lab period. The second member of the group will be in the laboratory for the second half of the lab period. Each person in the group will work on the same experiment except that the second person will continue what the first person has started. The use of Google docs will ensure that both group members have the same data.
+Course Outline
+The class will be split into two parts. The first half of the course will deal with classical bacterial genetics. In this section students will carry out experiments involving conjugation and transduction, along with a longer term experiment involving the characterization of mutants that are sensitive to ultraviolet light. The second part of the course involves using molecular genetics to study an important problem in post-transcriptional control of RNA metabolism in the model organism Escherichia coli. Specifically, you will be carrying out experiments on an important E. coli ribonuclease called RNase E. This experiment will involve isolation and characterization of specific types of mutants in the structural gene for RNase E. Students will learn important techniques of modern molecular genetics including gene cloning, PCR, and DNA sequencing. Some material will be presented via videos that will deal with individual experiments. Written reports will be required for Experiments #2-5. The Final grades will be based on two factors: work in the laboratory (20%), laboratory reports (80%) and the final exam (40%). Information regarding preparation of laboratory reports will be available on the class Elc website.
+Laboratory Technique
+Success in the laboratory requires attention to detail. In many of the experiments you will be dealing with very small volumes. It is critical that you pay careful attention to the technical aspects of each experiment. Make sure to read and understand each experiment prior to coming to class. In the laboratory, concentrate on what you are doing. Turn your cell phones off in the laboratory and save the socializing for after class.
+Laboratory Safety
+You will receive instructions on appropriate laboratory safety at the first class meeting. It is important to note that flip-flops and short-shorts are not appropriate attire for working in a laboratory. Pants, skirts and closed shoes should be worn to class. If you own a lab coat, remember to bring it to class.
+COVID-19
+Besides learning about Microbial Genetics, your most important assignment is to stay healthy!!! You should take your temperature prior to coming class. If you have any of the other symptoms associated with COVID-19, go the
+2
+
+Health Center to get tested. Notify Shaun or me immediately so that we can alert the other students in the class. In addition, if you have been exposed to someone who has tested positive, you need to notify us and quarantine yourself for 14 days. Let's work together to prevent this from happening.
+General Policies
+During this course you will be working with a laboratory partner. That means you will be sharing experimental data. However, preparation of laboratory reports must be carried out independently. All academic work must meet the standards contained in "A Culture of Honesty." You are responsible for informing yourselves about these standards. See http://www/uga.edu/ovpi/honesty/acadhon.htm for more details.
+In science experiments do not always work the first time that they are carried out. Although the experiments described here have been done successfully many times, sometimes there are unforeseen technical problems. Usually, at least during the first half of the course, if an experiment does not work, it will be repeated. However, because of the possibility that the class will go into hiatus if a student or staff member tests positive for the Corona virus, we will not be repeating any experiment. If it necessary to repeat an experiment, it will be done at the end of the semester if there is time.
+Attendance Policy: Although attendance will not be taken, class absences will result in not having data from which to write up the lab reports and will result in a reduction in your grade if not excused. If you need to be absent because you or someone you have been exposed to has tested positive to covid, or because you are exhibiting COVID-19 symptoms, please inform Dr. Kushner, Shaun, and your lab partner immediately so we can make arrangements to ensure your experiments are completed and you get the data to write your lab report. If you have to be absent from class for reasons other than COVID, please inform Dr. Kushner, Shaun, and your lab partner at least one week in advance.
+Record Keeping: In order to be a successful scientist, it is critical to keep detailed notes. All notes should be kept in an 8 ½" x 11" notebook. Always take your notes in pen, not pencil. In science notes need to be permanent. In addition, your notes need to be detailed enough so that someone other than yourself can understand exactly what you have done and be able to reconstruct your experiment without your being present to explain it to them. Taking good notes will make it easier for you to complete your written laboratory reports. Finally, since there will be times when you have more than one experiment underway at the same time, it is critical to be well enough organized such that you do not get yourself confused.
+Written Material
+3
+
+You are responsible for downloading and printing out copies of each experiment. These can be found at the eLearning website: www.elc.uga.edu. The experimental protocols will be posted at least one class period prior to when you will do the experiment. Make sure to read the experiment before you come to class. In addition, plan in advance exactly what you are going to be doing in the laboratory. Good advanced preparation significantly increases the probability of a successful experiment. Laboratory Reports
+Read carefully the handout found on the eLearning website entitled "General Instructions for Preparing Laboratory Reports".
+General Course Outline
+i. Introduction, Laboratory Safety and Procedures, Serial Dilutions
+Experiment 1. Growth and Viability Experiment, Practice patching and replica plating
+Experiment 2. Constructing a genetic map in Escherichia coli using conjugation and time of entry
+Read and Understand Chapter 9.3, pp. 257-266, Pierce, Genetics, A conceptual approach, 6th Edition.
+Experiment 3. Ordering genes on E. coli genome via three-factor transductional crosses utilizing bacteriophage P1
+Read and Understand Chapter 9.3, pp. 269-273, Pierce, Genetics, A conceptual approach, 6th Edition.
+Experiment 4. Characterization of UV-sensitive mutants of E. coli
+Experiment 5. Isolation of suppressor mutations of a temperature sensitive mutation in the structural gene for the E. coli ribonuclease RNase E. RNase E is an essential enzyme so in order to study the enzyme researchers have employed temperature sensitive mutations in its structural gene (rne). Most of the work has been done using the rne-1 allele. In this experiment, you will try to isolate and characterize temperature resistant revertants of an rne-1 mutation. The new mutants will be characterized by DNA sequencing of the rne gene.
+Read the following review of RNase E prior to the start of this section of the course: Mackie, G.A. (2013) RNase E: at the interface of bacterial RNA processing and decay. Nature Reviews Microbiology 11:45-57. A pdf of this paper is available on the course website.
+4
+
+Date August 20 August 25 August 27
+September 1 September 3
+September 8
+September 10 September 15 September 15 September 17 September 22 September 24 September 24 September 29 September 29
+October 1 October 6
+
+Experiment Introduction, Laboratory
+Safety, Using Google docs
+#1: Growth and Viability Experiment
+#1: Growth and Viability Experiment Growth
+#1: Growth and Viability Experiment
+#2: Time of Entry Experiment
+
+Comments
+Practice making serial dilutions
+Patch individual colonies onto Luria agar master
+plates Count viable colonies
+from 8/25/2019 Replica plate master plates from Experiment
+#1 Carry out conjugal mating; plate for viable cells and recombinants
+
+#2: Time of Entry Experiment
+#2: Time of Entry Experiment
+#3: Three Factor Cross
+#2: Time of Entry Experiment
+#3: Three Factor Cross
+#3: Three Factor Cross
+#3: Three Factor Cross
+#4: Characterization E. coli mutants sensitive to
+DNA damage #4: Characterization E. coli mutants sensitive to
+DNA damage Turn in Lab Report for
+Experiment #2 #4: Characterization E. coli mutants sensitive to
+DNA damage #4: Characterization E.
+
+Count total number of conjugants: Pick and patch conjugants for
+replica plating. Replica plate conjugants
+Carry out bacteriophage P1 transduction
+Score the replica plating from Experiment #2 Pick and patch
+transductants for replica plating
+Replica plate transduction experiment Score replica plating from
+three factor cross Growth curves on UV
+sensitive mutants
+Carry out UV survival experiment
+Count results from UV survival experiment
+Repeat UV Survival
+
+5
+
+October 8 October 13 October 15 October 20 October 22 October 22 October 27 October 29 October 29 November 3 November 3 November 5
+November 10
+November 12
+November 17
+
+coli mutants sensitive to DNA damage
+#4: Characterization E. coli mutants sensitive to
+DNA damage
+#4: Characterization E. coli mutants sensitive to
+DNA damage
+#4: Characterization E. coli mutants sensitive to
+DNA damage
+#4: Characterization E. coli mutants sensitive to
+DNA damage
+#4: Characterization E. coli mutants sensitive to
+DNA damage
+Turn in Lab Report for Experiment #3
+#4: Characterization E. coli mutants sensitive to
+DNA damage
+#4: Characterization E. coli mutants sensitive to
+DNA damage
+#4: Characterization E. coli mutants sensitive to
+DNA damage
+#4: Characterization E. coli mutants sensitive to
+DNA damage
+Remember to Vote!!! #5 Isolation of
+temperature resistant revertants of the rne-1
+mutation of E. coli
+#5 Isolation of temperature resistant revertants of the rne-1
+mutation of E. coli
+#5 Isolation of temperature resistant revertants of the rne-1
+mutation of E. coli
+#5 Isolation of temperature resistant
+
+experiment
+Count results from second UV survival
+experiment Carry out conjugal mating with mutant and wild type control Count results from conjugal mating on 10/3
+Repeat conjugal mating with mutant and wild type
+control Count results from conjugal mating on 10/20
+Determine transduction frequency of mutant and
+wild type strains Count transduction experiment from 10/27
+Repeat transduction experiment
+Count transduction experiment from 10/29
+VOTE!!!
+Growth and viability experiment of rne-1
+strain
+Spread rne-1 culture on Luria agar plates and incubate at 44oC
+Streak out survivors on Luria agar plates at both
+
+6
+
+November 17 November 19
+November 14 November 24 December 1 December 3 December 15
+
+revertants of the rne-1 mutation of E. coli
+Turn in Lab Report for Experiment #4 #5Isolation of
+temperature resistant revertants of the rne-1
+mutation of E. coli
+#5Isolation of temperature resistant revertants of the rne-1
+mutation of E. coli
+#5 Isolation of temperature resistant revertants of the rne-1
+mutation of E. coli #5 Isolation of
+temperature resistant revertants of the rne-1
+mutation of E. coli #5 Isolation of
+temperature resistant revertants of the rne-1
+mutation of E. coli Turn in Lab Report for
+Experiment #5
+
+30oC and 44oC
+Isolate DNA from survivors that grew at
+44oC Use PCR to amplify rne
+gene from two independent temperature
+resistant mutants
+Run gel on amplified DNA and send it out for
+sequencing
+Analyze DNA sequences
+Extra day if sequencing has to be repeated or there are other problems
+Extra day if sequencing has to be repeated or there are other problems
+
+7
+
+

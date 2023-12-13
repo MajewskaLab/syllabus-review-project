@@ -1,0 +1,193 @@
+BIOL 3400 / CBIO 3400 - Cell Biology Spring 2021 
+
+Dr. Daichi Kamiyama
+Assistant Professor daichi.kamiyama@uga.edu 542-3338 634 Biological Sciences By appointment
+
+Dr. Cordula Schulz
+Associate Professor cschulz@uga.edu 542-3515 604 Biological Sciences By appointment
+
+Osvaldo Maldonado
+Graduate Teaching Assistant oswaldo.m@uga.edu TBA Pharmacy South, 302 By appointment
+
+The instructors want to talk with you as needed to promote your success in this class. Please contact us by email to make an appointment. We will make time for you!
+Credit Hours: 4 Lecture times: Mon, Wed, Fri, 10:20 am - 11:10, Synchronous online Breakout times: Thursdays 2:15-3:30 pm or 4:00-5:15 pm, Synchronous online; please check your schedule for your assigned time. Pre- / co-requisites: Biochemistry (BCMB/BIOL 3100) is a pre-requisite for this course, Genetics (GENE/BIOL 3200) is a pre- or co-requisite.
+Course material Textbook: "Molecular Biology of the Cell" by Alberts et al, 6th edition, Garland Publishing, 2015 Additional material will be posted on the courses eLC page: https://uga.view.usg.edu/ We will make every effort place updated lecture handouts on eLC two hours prior to class time. Reading the relevant textbook sections (as indicated in the schedule) before each class is highly recommended.
+Course description The course objective is to learn about how cells live, differentiate and reproduce. Modern cell biology is an integrative science based on the knowledge derived from diverse fields including microscopy, biochemistry, genetics, physiology and even bioinformatics. Our understanding of cellular mechanisms is based primarily on observations made in the course of experiments. Thus, we will attempt to cover both our current models of cellular functions as well as the experimental basis for their formulation. The course activities are designed to enhance development of skills that will be essential for success in future degree programs.
+Course goals · To learn about key cellular structures, processes and mechanisms, as foundational knowledge required for understanding current research in cell biology. · To appreciate that cell biology is a dynamic discipline, in which knowledge is based on experimental findings and concepts are changed or refined in light of new information. · To learn how new information is obtained in cell biology and to survey methods for answering open questions about cells.
+
+Grading Over the semester, you will accumulate points through participation in breakout sessions, in-class activities, and four written exams. The total number of accumulated points will be used to determine your grade. If the point average is below 390 (83%), the instructors may adjust the average final GPA of the class up to 2.9 ("curving"). You can view your accumulated points at any time on eLC (https://uga.view.usg.edu/ ). Overview of point allocation:
+
+4 exams (100 points each): Breakout sessions: In-class activities: Total:
+
+400 points 50 points 20 points
+470 points
+
+Breakout sessions (50 points) Our schedule includes 10 breakout sessions meant to provide you with an opportunity for enhancing your understanding of the material covered in class. Students will work in small groups on problem sets, review difficult concepts, practice problem solving, and engage in other learning activities. Breakouts are mandatory, and active participation is valued at 50 points total. Up to 5 points can be earned per breakout session. Online quizzes: For some of the breakout sessions, you may be asked to complete an online quiz or questionnaire. These quizzes are not mandatory and won't be graded (although you may receive comments on eLC); they serve to prepare you for the breakout material and as an assessment tool for the instructors.
+
+In-class activities / participation (20 points) You will have an opportunity to earn points by participating in activities related to the lecture material, such as written answers to a questionnaire or group activities. Points are awarded for an honest effort, not for correct answers. These activities also serve to help the instructors spot and address any difficulties the class may have with the material early (that is, before the exam).
+
+Exams (100 points each, 400 points total) Exams will focus on concepts and mechanisms highlighted in lecture and covered in the accompanying textbook readings for the respective section, but can also include material from the breakout sessions. Students are expected not only to recall important facts about the covered material, but to also to synthesize, apply and evaluate the information. All exams will be online and open book; however, sharing the answers to these exams via messaging apps is not aaceptable. Format: Quizzes will consist largely of short answer or essay questions. Dates: See schedule. Make-up exams: Should a medical emergency or other pressing obligation prevent you from participating in one of the exams, you will have the opportunity of completing a makeup exam. In case of pressing obligations, such as a scientific meeting, a UGA-sponsored field trip, or an interview at a professional / graduate school, please make sure you obtain written consent by the instructor in advance of the exam you want to miss (email is fine). In case of medical emergencies, please provide the instructor with written documentation by the physician's office or a qualified health care professional.
+
+Honors option Students may sign up for the Honors option in this class using the forms available at the Honors office. The Honors assignment is to write two paper reviews in the format outlined below; please make sure to adhere to the deadlines! 1. Select a recent research paper related to the course material from these Journals:
+Journal of Cell Biology, Nature Cell Biology, Molecular Biology of the Cell Contact the instructor handling your paper to get approval for your selection. The instructors will be happy to help you selecting a paper upon request. 2. Write a two-page report (1.5 line space) that should include: 1) title, authors, source, and digital object identifier (doi) of the research article 2) main questions or hypotheses addressed in the paper 3) experimental approach(es) utilized, and salient results 4) major conclusions of the study (take-home message) 5) your comments on the experimental design and conclusions Clear reasoning, concise writing, and a statement of your own judgment are required. The following questions may serve as a guide: Why is the study significant? Are the approaches suited to answering the question posed? Are important control experiments in place? Do the results support the conclusions? 2. Deadlines and handling instructors:
+February 12th: draft of first paper due to DK, handling instructor. April 15th: draft of second paper due to CS, handling instructor. Please email an electronic copy of your draft by these deadlines. Instructors may accept the paper as is or ask for revisions, for example in case of factual errors. Revisions need to be completed within two weeks of the submission deadline.
+Academic Honesty It is expected that all students in this course will work in accordance with University guidelines regarding academic honesty, and the Student Honor Code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others." Issues related to academic honesty will be handled strictly according to policies and procedures available at: http://ovpi.uga.edu/academic-honesty/academic-honestypolicy. Accessing notes of any kind and/or ANY use of unauthorized asssistance during tests are violations that will be reported. The Honor Code states that students must report cheating by other students on any assignment, quiz, or exam in this course.
+Coronavirus Information for Students
+Face Coverings:
+Effective July 15, 2020, the University of Georgia--along with all University System of Georgia (USG) institutions--requires all faculty, staff, students and visitors to wear an appropriate face covering while inside campus facilities/buildings where six feet social distancing may not always be possible. Face covering use is in addition to and is not a substitute for social distancing. Anyone not using a face covering when required will be asked to wear one or must leave the area. Reasonable accommodations may be made for those who are unable to wear a face covering for documented health reasons.
+
+Students seeking an accommodation related to face coverings should contact Disability Services at https://drc.uga.edu/.
+DawgCheck:
+Please perform a quick symptom check each weekday on DawgCheck--on the UGA app or website--whether you feel sick or not. It will help health providers monitor the health situation on campus: https://dawgcheck.uga.edu/
+What do I do if I have symptoms?
+Students showing symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5 p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see https://www.uhs.uga.edu/info/emergencies.
+What do I do if I am notified that I have been exposed?
+Students who learn they have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 14 days consistent with Department of Public Health (DPH) and Centers for Disease Control and Prevention (CDC) guidelines. Please correspond with your instructor via email, with a cc: to Student Care & Outreach at sco@uga.edu, to coordinate continuing your coursework while self-quarantined. If you develop symptoms, you should contact the University Health Center to make an appointment to be tested. You should continue to monitor your symptoms daily on DawgCheck.
+How do I get a test?
+Students who are demonstrating symptoms of COVID-19 should call the University Health Center. UHC is offering testing by appointment for students; appointments may be booked by calling 706-542-1162.
+UGA will also be recruiting asymptomatic students to participate in surveillance tests (https://clia.vetview.vet.uga.edu). Students living in residence halls, Greek housing and off-campus apartment complexes are encouraged to participate.
+What do I do if I test positive?
+Any student with a positive COVID-19 test is required to report the test in DawgCheck and should self-isolate immediately. Students should not attend classes in-person until the isolation period is completed. Once you report the positive test through DawgCheck, UGA Student Care and Outreach will follow up with you.
+
+Schedule 1 W
+F 2 M
+W T F 3
+4
+5
+6
+7
+8
+9
+10
+11
+
+13 Jan 15 Jan
+18 Jan 20 Jan 21 Jan
+22 Jan 25 Jan
+
+Introduction: A short history of cells Energy, Organelles and Compartments MLK Holiday, no class Lipids and Membranes Breakout: Techniques for studying proteins Transport and Transporters Channels and Membrane potential
+
+27 Jan 28 Jan
+29 Jan 1 Feb 3 Feb 4 Feb 5 Feb 8 Feb 10 Feb 11 Feb 12 Feb 15 Feb 17 Feb 18 Feb 19 Feb 22 Feb 24 Feb 25 Feb 26 Feb 1 Mar 3 Mar 4 Mar 5 Mar 8 Mar 10 Mar 11 Mar 12 Mar 15 Mar 17 Mar 18 Mar 19 Mar 22 Mar
+
+Channels and Neural activity Breakout: Transport across membranes Nucleus Nucleocytoplasmic transport 1 Nucleocytoplasmic transport 2 Breakout: Analysis of nuclear import Chromatin and Genome organization Review Session Exam 1 No Breakout Overview: Protein trafficking ER-protein folding No class No Breakout Golgi structure and function Traffic: ER to Golgi and Golgi to ER Traffic: Golgi and beyond, lysosomes ER import assay Overview: Endo- and exocytosis Receptor mediated endocytosis The cytoskeleton Analysis of vesicular transport Assembly and dynamics of actin Accessory proteins for actin Assembly and dynamics of tubulin Actin and Tubulin No class Exam 2 Mitosis and Meiosis No Breakout Overview of the Cell Cycle Cell cycle 1
+
+DK 1:8-32, 2:43-55 DK 2:51-73, 3:109-134
+DK 10:565-582 DK
+DK 11:597-618 DK 11:609-613,
+14:774-779, 14:794-795 DK 11:617-638 DK
+DK 12:646-652 DK 12:652-655 DK 12:652-655 DK DK 4:185-193,208-216 DK DK
+CS Chapter 12 CS Chapter 12
+CS Chapter 13 CS Chapter 13 CS Chapter 13 CS CS Chapter 12 CS Chapter 12 CS Chapter 16 CS CS Chapter 16 CS Chapter 16 CS Chapter 16 CS
+CS CS Chapter 17
+CS Chapter 17 CS Chapter 17
+
+24 Mar Cell cycle 2
+
+CS Chapter 17
+
+25 Mar Techniques to study the cell cycle 2 CS
+
+26 Mar Cell cycle 3
+
+CS Chapter 17
+
+12
+
+29 Mar Cell cycle and Cancer
+
+CS Chapters 17, 20
+
+31 Mar Cancer
+
+CS Chapter 20
+
+1 Apr Techniques to study cancer
+
+CS
+
+2 Apr Multi-cellularity and Stem Cells
+
+CS Chapter 22
+
+13
+
+5 Apr Stem Cells & Cancer
+
+CS Chapter 22
+
+7 Apr TBD or Review Session
+
+CS
+
+8 Apr No class
+
+9 Apr Exam 3
+
+CS
+
+14
+
+12 Apr Cell junctions, Extracellular matrix
+
+DK 19:1035-1063
+
+16:915-925
+
+14 Apr Muscle structure and function
+
+DK 22:1232-1235
+
+15 Apr Breakout: Cell junctions/Muscle
+
+DK
+
+16 Apr Overview: signaling
+
+DK 15:813-817
+
+15
+
+19 Apr Classical signaling pathways
+
+DK 876, 11:630-632
+
+21 Apr G protein coupled receptors 1
+
+DK 15:832-836, 843-849
+
+22 Apr Breakout: GPCR
+
+DK
+
+23 Apr Receptor tyrosine kinase (Part 1)
+
+DK 15:836-838, 850-854
+
+16
+
+26 Apr Receptor tyrosine kinase (Part 2)
+
+DK 15:863-867, 854-
+
+858,9:543-546
+
+28 Apr Cell death
+
+DK 18:1021-1032
+
+29 Apr No Breakout
+
+30 Apr Review Session
+
+DK
+
+17
+
+3 May Exam 4
+
+DK
+
+5 May Reading Day
+
+

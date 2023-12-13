@@ -1,0 +1,196 @@
+BIOL/CRSS/PBIO 4500/6500 "Introduction to Gene Technology"
+
+Fall Semester, 2021
+
+Instructors:
+
+Maor Bar-Peled Room 2080, Complex Carbohydrate Research Center, CCRC 315 Riverbend Road Phone: (706) 542-4496; email: peled@ccrc.uga.edu
+
+Office hours by appointment; please don't hesitate to contact us!
+
+The tentative course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+
+Class venue:
+
+Tue and Thu, 12:30 - 1:45 PM Room 1501, Plant Sciences Building
+
+Credits:
+
+3
+
+This lecture course will introduce the foundations of molecular biology and recombinant DNA technology, with an emphasis on experimental approaches. It is aimed at upper-level
+undergraduate students, students that participate in `undergraduate research' and beginning graduate students. Our lecture plan is listed below, and a general course description with a list
+of objectives can be found at the end of the syllabus.
+
+Part I: Genomics, Manipulating DNA &RNA
+
+Aug. Thur. 19
+
+Introduction
+
+Tue. 24
+
+Genes, genome structure
+
+E-mail Bar-Peled your teammate
+
+Thur. 26
+
+Reading DNA: databases and software
+
+Graduate students to contact Bar-Peled
+
+Tue. 31
+
+Recombinant DNA - plasmids
+
+Sep Thur. 2
+
+PCR ; Prep genomic DNA for sequencing (16S_RNA)
+
+Tue. 7
+
+gene cloning to plasmids,
+
+Thur. 9
+
+RNA analysis ; transcription, RNA, marker, RT-PCR, transcript start
+
+Tue. 14
+
+Expression library
+
+Thur. 16
+
+gene unit (Eukaryote vs Prokaryote). YOM Kippur
+
+Tue. 21
+
+Plant transformation
+
+Thur. 23
+
+Transgenic plant
+
+Tue. 28
+
+GMO , ethical, social issues
+
+Thur. 30
+
+Genetic Manipulation of genome
+
+Oct Tue. 5 CRISPR ,RNAi
+
+Part II: Recombinant Proteins & Advanced Biotechniques
+
+Thur. 7 Introduction to gene biotechnology
+
+Tue. 12
+
+chapter 2 ; Introduction to gene expression and micro-biotechnology
+
+graduate students to submit PPT.
+
+Thur. 14
+
+Gene Technology field
+
+Tue. 19
+
+Medical products and recombinant protein usage
+
+Thur. 21
+
+Expressing recombinant protein in bacteria
+
+Mid Term test home test due Oct 22
+
+Tue. 26
+
+5a GFP-Mutation Gene regulation and protein expression in yeast
+
+Thur. 28
+
+Graduate student PowerPoint Web Paper presentations
+
+Nov Tue. 2
+
+yeast and 2-hybrid system
+
+Thur. 4
+
+yeast and two yeast: team research proposals on Covid or biofilm
+
+Tue. 9
+
+Stem cell research
+
+Thur. 11
+
+mammalian exp Animal cloning
+
+Tue. 16
+
+chapter 8 Stem cell therapy: Other Omics research platforms
+
+Thur. 18
+
+genomic_mutation: New tools to manipulating eukaryote genome
+
+Tue. 23
+
+Human disease and Gene Technology [LAST in-Person Classes]
+
+Nov Tue. 30
+
+proteomic ; Metabolomics in Gene Technology
+
+Dec Thur. 2
+
+New_trends Gene Technology, Genetic counseling, Human disease
+
+Dec Tue 7
+
+Case study, gene therapy
+
+Dec Thur 10 Final Exam 2 is due. & Team Final Research Proposal
+
+(Grad student. Send Bar-Peled e-mail with two WebPaper Topic you would like present on
+
+Tentative Grading, exams, poster presentation, and team research proposal. The course will be graded A-F. Students will earn points towards their final grade throughout the semester on the basis of their attendance, active participation in class (discussion and homework in equal parts), two exams, presentation of a poster on a published paper, and a written assignment ("team research project"). Graduate students will have to complete an additional assignment ("web paper", see below), which also counts toward their final grade.
+
+Exam 1: Exam 2 (final): Team research project: Attendance; HW and participation: "Web paper" Total:
+
+100 pts () 100 pts ()
+200 pts () 100 M + 100 D +100 (300 pts 50 pts (graduate students only) 750 pts ()
+
+The exams are take-home. Make-up policy for missed exams: please notify instructors immediately and be prepared to present a doctor's note (in case of illness) or appropriate documentation (in case of other emergency) to schedule an alternative exam; alternative exams may be written or oral, at the instructor's discretion.
+The "Poster presentation" is a group activity that involves choosing a primary research paper (from a list given), displaying the paper in a poster form, and then presenting and describing the poster to your peers. Details will be discussed in class.
+The "Team research proposal" is a written assignment for groups of two students in the format of a short research proposal on a subject relevant to the development of bio-fuels; details will be discussed in class. The assignment is due before the end of the semester.
+
+Course material. There is no assigned textbook. Most handouts, slides, and reading material will be will be made available either before or after class. We will use eLC and email to distribute electronic files.
+
+Required prerequisites. Undergraduate students should have BIOL 1107 or BIOL 1108 or BIOL 2107 or BIOL 2108 or permission of department or an equivalent course; the instructor may waive this requirement on a case-to-case basis. There are no requirements for graduate students.
+
+Tentative Grading, exams, poster presentation, and team research proposal. The course will be graded A-F. Students will earn points towards their final grade throughout the semester on the basis of their attendance, active participation in class (discussion and homework in equal parts), two exams, presentation of a poster on a published paper, and a written assignment ("team research project"). Graduate students will have to complete an additional assignment ("web paper", see below), which also counts toward their final grade.
+
+Exam 1: Exam 2: Team research project: Attendance; HW and participation: "Web paper" Total:
+
+100 pts () 100 pts () 200 pts () 100 M + 100 D +100 = 300 pts 50 pts (graduate students only) 750 pts ()
+
+The exams are take-home. Make-up policy for missed exams: please notify instructors immediately and be prepared to present a doctor's note (in case of illness) or appropriate documentation (in case of other emergency) to schedule an alternative exam; alternative exams may be written or oral, at the instructor's discretion.
+The "Poster presentation" is a group activity that involves choosing a primary research paper (from a list given), displaying the paper in a poster form, and then presenting and describing the poster to your peers. Details will be discussed in class.
+The "Team research proposal" is a written assignment for groups of two students in the format of a short research proposal on a subject relevant to the development of bio-fuels; details will be discussed in class. The assignment is due before the end of the semester.
+
+Additional Requirements ONLY for Graduate Students. Graduate students participating in this course will be required to identify and read papers from the primary and secondary literature on an assigned topic, usually an experimental method, and then write a term paper reviewing and critiquing this literature in the format of a web site ("web paper"). In addition, they will present their work to the class before the end of the semester.
+
+Repeat policy and duplicate credit statement. The course cannot be repeated for credit and is not open to students who have received credit for the following courses: BTNY/BIOL/CRSS 4500/6500.
+
+Computer and cell phone policy. not allowed Academic honesty. As a University of Georgia student, you have agreed to abide by the
+
+University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: www.uga.edu/honesty. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor.
+Course description. The course covers methods and applications of molecular biology and gene technology. These will include: PCR, gene cloning, RNA analysis, genome sequencing, assembly and synthesis; recombinant protein and stem cell therapeutics; animal cloning and engineering, metabolomics and proteomics, plant biotechnologies and CRISPR technologies.
+Course Objectives of expected learning outcomes. The course is designed to provide an introduction to the breadth of research techniques and strategies used in modern genetic engineering technology. The course is not designed to give detailed protocols. Instead the objective is to familiarize students with the wide variety of research options currently available in biotechnology, and provide some theoretical background regarding the applicability of these various techniques to specific scientific inquiries.
+
+

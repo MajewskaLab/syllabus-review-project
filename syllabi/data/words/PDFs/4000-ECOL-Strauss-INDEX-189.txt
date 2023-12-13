@@ -1,0 +1,190 @@
+ECOL 4000/6000 Population and Community Ecology Fall 2021
+Time: Tu Th 2.20 - 3.35 pm. (3 credit hours) Place: Science Learning Center, Room 345
+Instructors: Andrew Park, Ph.D. & Alex Strauss, Ph.D. Email: awpark@uga.edu, atstrauss@uga.edu
+Office hours: By appointment
+Overview Population and community ecology are active fields of research with important applications for management and conservation. This course links conceptual issues and basic models with data and field approaches relevant for understanding population and community dynamics in time and space. Approximately, the first third of the course focuses on the birth, death, and movement of organisms, with particular reference to the population dynamics of single-species; the middle third of the course focuses on interactions among species, including competition and predation; and the final third of the course focuses on the causes and consequences of biodiversity (the co-occurrence of multiple species).
+Format The course format includes lectures, readings, quizzes, demonstrations, exercises, discussions, group activities and homework assignments. Throughout the semester, students will work on group projects, with several class periods dedicated to group project development and data analysis.
+Text Pre-recorded lecture videos and readings will be uploaded to the course eLC page approximately one week before they are due to be watched/read, along with occasional readings from the primary literature. Watching & reading of posted material prior to the scheduled time is essential. Short quizzes will be given on eLC based on their content and will be due by the beginning of class.
+Group work Students will be assigned to small groups and will work together through the semester developing and answering research questions related to the population and community ecology of natural systems. Students will work with real data sets and, in consultation with instructors, will develop a presentation, given to the class towards the end of the semester.
+Prerequisites This course assumes you are familiar with general ecology and biology, and have taken ECOL 3500.
+Attendance (please also see final page for more coronavirus information)
+
+It is important that students keep pace with the material in class. Due to the unusual circumstances of Covid-19, we have developed the class to maximize the value of in-person class time. Pre-recorded lectures and posted readings give students enhanced flexibility about how to organize their time. In person classroom sessions will be active, including discussions, Q&A, worked examples, in-class homework and project development. If a student is unable to attend a classroom session, we ask that they check in with instructors as soon as possible thereafter (beginning with an email) so that they catch up with material. They should also check in with their project group.
+
+Evaluation Short quizzes will be taken whenever there is at-home preparation (recorded lectures/readings). Students can take each quiz twice, and may keep the better of their two scores. Additionally, there will be 15 homework assignments (one per topic on the syllabus). In most cases, students will be able to start (or in some cases, even finish) homeworks in class, and instructors will be available to help students work through more challenging questions. Homeworks will typically be due one week after they are assigned. There will be two exams during class periods (September 23rd & October 28th) and a final exam on December 9th (3:30-6:30pm). Exams are non-cumulative and will be taken in class. Questions will include a mix of True/False, Multiple Choice, and Short Answer.
+
+Grade calculation 10% Exam 1 10% Exam 2 10% Final exam
+
+10% Quizzes 30% Homework 30% Presentation of group project
+
+Grade Scale
+
+A
+
+94-100%
+
+A- 90-93%
+
+B+ 87-89%
+
+B
+
+84-86
+
+B- 80-83
+
+C+ 77-79
+
+C
+
+74-76
+
+C- 70-73
+
+D+ 67-69
+
+D
+
+64-66
+
+D- 60-63
+
+F
+
+less than 60%
+
+Fractional final grade percentages will be rounded up (e.g., 89.1%=90%)
+
+Accommodations Please contact the instructor if you require special accommodations due to learning disabilities, religious practices, physical or medical needs, or for any other reason.
+
+General Notes (i) All academic work must meet the standards of the UGA Student Honor Code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others." A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found at www.uga.edu/ovpi. (ii) The course syllabus is a general plan for the course; deviations announced to the class by the instructors may be necessary.
+
+ECOL 6000 Students Students taking the class at the 6000 level will additionally prepare with instructors to lead the four class paper discussions. They will also have one more required Short Answer response on each exam, compared to ECOL 4000 students.
+
+Timetable
+
+Date
+
+Topic
+
+Due before class
+
+Th Aug 19 1. Population growth/decline
+
+Tu Aug 24 2. Density dependence & Allee effect R2, L2, Q2
+
+Th Aug 26 PROJECT PREP (INTRO & CODING) H1
+
+Tu Aug 31 3. Age structure
+
+H2, R3, L3, Q3
+
+Th Sep 2 4. Metapopulation
+
+R4, L4, Q4
+
+Tu Sep 7 PROJECT PREP (CODING)
+
+H3
+
+Th Sep 9 PAPER DISCUSSION 1 (extinction) H4, Read paper
+
+Tu Sep 14 5. Interspecific competition (L-V)
+
+R5, L5, Q5
+
+Th Sep 16 PROJECT DEVELOPMENT
+
+Tu Sep 21 6. Resource competition (R* theory) H5, R6, L6, Q6
+
+Th Sep 23 EXAM 1
+
+Tu Sep 28 7. Host-parasite interactions (SIR)
+
+H6, R7,L7,Q7
+
+Th Sep 30 PROJECT DEVELOPMENT
+
+Tu Oct 5 8. Host-parasitoid interactions
+
+H7, R8, L8, Q8
+
+Th Oct 7 PAPER DISCUSSION 2 (Covid-19) Read paper
+
+Tu Oct 12 9. Predator-prey
+
+H8, R9, L9, Q9
+
+Th Oct 14 PROJECT DEVELOPMENT
+
+10. Indirect interactions: Trophic Tu Oct 19 Cascades & Apparent Competition
+
+H9, R10, L10, Q10
+
+In class activity R1,L1,Q1,H1 H2
+H3 H4
+H5
+H6
+H7
+H8
+H9
+H10
+
+PAPER DISCUSSION 3 (Cryptic Th Oct 21 trophic cascades)
+
+Read paper
+
+11. Measuring Biodiversity: Local Tu Oct 26 Diversity & Latitudinal Gradients
+
+H10, R11, L11, Q11
+
+Th Oct 28 EXAM 2
+
+12. Diversity in Space: Island Tu Nov 2 Biogeography & Metacommunities
+
+H11, R12, L12, Q12
+
+Th Nov 4 PROJECT DEVELOPMENT
+
+13. Diversity in time: Community Tu Nov 9 Assembly & Succession
+
+H12, R13, L13, Q13
+
+Th Nov 11 PROJECT DEVELOPMENT
+
+Tu Nov 16 14. Biodiversity Function: Stability
+
+H13, R14, L14, Q14
+
+Th Nov 18 PROJECT DEVELOPMENT
+
+Tu Nov 23 15. Biodiversity Function: Productivity H14, R15, L15, Q15
+
+Th Nov 25 THANKSGIVING
+
+PAPER DISCUSSION 4 (DiversityTu Nov 30 disease debate)
+
+Read papers
+
+Th Dec 2 PROJECT PRESENTATIONS
+
+Th Dec 9 EXAM 3 ( 3:30-6:30pm)
+
+H11
+H12
+H13
+H14 Review Discussion & Debate
+
+CORONAVIRUS INFORMATION FOR STUDENTS FOR FALL 2021 CLASSES
+Face coverings: Following guidance from the University System of Georgia, face coverings are recommended for all individuals while inside campus facilities.
+How can I obtain the COVID-19 vaccine? University Health Center is scheduling appointments for students through the UHC Patient Portal: https://patientportal.uhs.uga.edu/login_dualauthentication.aspx. Learn more here - https://www.uhs.uga.edu/healthtopics/covid-vaccine. The Georgia Department of Health, pharmacy chains and local providers also offer the COVID19 vaccine at no cost to you. To find a COVID-19 vaccination location near you, please go to: https://georgia.gov/covid-vaccine. In
+
+addition, the University System of Georgia has made COVID-19 vaccines available at 15 campuses statewide and you can locate one here: https://www.usg.edu/vaccination
+What do I do if I have COVID-19 symptoms? Students showing COVID-19 symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-5421162 (Monday-Friday, 8 a.m.-5p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see, https://www.uhs.uga.edu/info/emergencies
+What do I do if I test positive for COVID-19? If you test positive for COVID-19 at any time, you are required to report it through the DawgCheck Test Reporting Survey. We encourage you to stay at home if you become ill or until you have excluded COVID-19 as the cause of your symptoms. UGA adheres to current Georgia Department of Public Health (DPH) quarantine and isolation guidance and requires that it be followed. Follow the instructions provided to you when you report your positive test result in DawgCheck.
+Guidelines for COVID-19 Quarantine Period (As of 8/1/21; follow DawgCheck or see DPH website for most up-to-date recommendations) Students who are fully vaccinated do not need to quarantine upon exposure unless they have symptoms of COVID-19 themselves. All others should follow the Georgia Department of Public Health (DPH) recommendations: Students who are not fully vaccinated and have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 10 days. Those quarantining for 10 days must have been symptom-free throughout the monitoring period and continue self-monitoring for COVID-19 symptoms for a total of 14 days. You should report the need to quarantine on DawgCheck (https://dawgcheck.uga.edu/), and communicate directly with your faculty to coordinate your coursework while in quarantine. If you need additional help, reach out to Student Care and Outreach (sco@uga.edu) for assistance. Students, faculty and staff who have been in close contact with someone who has COVID-19 are no longer required to quarantine if they have been fully vaccinated against the disease and show no symptoms.
+Well-being, Mental Health, and Student Support: If you or someone you know needs assistance, you are encouraged to contact Student Care & Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu/. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services. UGA has several resources to support your well-being and mental health: https://wellbeing.uga.edu/
+Counseling and Psychiatric Services (CAPS) is your go-to, on-campus resource for emotional, social and behavioral-health support: https://caps.uga.edu/, TAO Online Support (https://caps.uga.edu/tao/), 24/7 support at 706-542-2273. For crisis support: https://healthcenter.uga.edu/emergencies/. The University Health Center offers FREE workshops, classes, mentoring and health coaching led by licensed clinicians or health educators: https://healthcenter.uga.edu/bewelluga/
+Monitoring conditions: Note that the guidance referenced in this syllabus is subject to change based on recommendations from the Georgia Department of Public Health, the University System of Georgia, or the Governor's Office or. For the latest on UGA policy, you can visit https://coronavirus.uga.edu
+
+

@@ -1,0 +1,98 @@
+Ecology Laboratory (ECOL 3510)
+Summer Thru-Term 2021
+
+Course Description: Techniques & methodologies to assess organismal, population, community, or ecosystem interactions
+
+Instructor: Dr. Kait Farrell (she/her) Email: kfarrell@uga.edu Meetings: e-mail or visit https://kfarrell.youcanbook.me/ to schedule
+Course Objectives: The two overarching goals of this course are to provide an in-depth exploration of the process of conducting ecological research and to provide experience with research techniques and tools that are applicable to a range of ecological sub-disciplines.
+
+Course Details
+Credit 3 credits, CRN 67497
+Prerequisites ECOL 3500-3500L
+Course format Face-to-face instruction
+Required resources None
+
+This course builds on the ideas, concepts, and techniques presented in ECOL 3500-3500L, and prepares you to pursue independent, faculty-mentored research (ECOL 4960R-4980R series) or thesis (ECOL 4990) projects.
+
+Meeting times & place
+ Mon: 9:15-10:15am + Tues/Thurs: 9:15-11:15am
+ Science Learning Center, Room 302
+
+Specifically, this course is designed to help you:  Deepen your understanding of and experience implementing the scientific process, from experimental design to communication of your findings;
+
+ Develop effective strategies to find, organize, and synthesize peer-reviewed research;
+
+ Demonstrate familiarity and basic proficiency in the use of computational tools to manage, analyze, and visualize data in a reproducible way;
+
+ Apply team science best practices to effectively work as part of a research group;
+
+ Share your research findings with a scientific audience.
+
+Topical Outline Through this course, you will explore and practice the following:
+ Collaboration and the science of team science
+ Developing scientific research projects o Conceptualizing relevant and answerable questions o Developing appropriate methodology and experimental design o Comparing expected and actual results to make inferences
+ Searching for & synthesizing peer-reviewed literature o Querying databases of peer-reviewed research o Organization using citation management software (Zotero) o Citation practices and formatting works cited lists
+
+ECOL 3510, Summer 2021
+
+1
+
+ Data management best practices o FAIR (Findable, Accessible, Interoperable, Reusable) data principles o Reading and writing metadata o Reproducible workflows
+ Data organization and analysis using R/RStudio and Git o Setting up and using RStudio projects o Version control and reproducibility (GitHub) o Data import and analysis workflows (tidyverse) o Data visualization (ggplot2)
+ Presenting ecological information o Writing journal-style papers o Conducting and responding to peer review o Designing & presenting scientific posters
+Course Policies
+Course Format We meet three times per week during summer thru-term:
+ Mondays: 9:15 - 10:15 am  Tuesdays: 9:15 - 11:15 am  Thursdays: 9:15 - 11:15 am
+All sessions will meet in the Science Learning Center, Room 302 unless otherwise announced.
+Our limited class size will allow us to meet face-to-face for all sessions while maintaining physical distance, in accordance with UGA COVID-19 guidelines. In addition to social distancing in the classroom, you can further reduce your risk of COVID-19 by getting vaccinated or, if you are unvaccinated, continuing to wear a face covering inside campus buildings. If our class format must changes in response to COVID-19 dynamics on campus or in Athens, updates will be posted to eLC.
+Assignments & Assessment Course grades will be based on the following types of assignments and activities:
+ Weekly activities & assignments: 42%  Research report (draft & revised versions): 19%  Research poster & presentation: 15%  Participation & engagement: 24% (3% per week × 8 weeks)
+Individual assignment descriptions and assessment guidelines will be provided in class and posted to eLC.
+You should keep a record of your grades and save your graded assignments until the end of the term. If you have a concern about a grade, you must bring it to my attention, via a written explanation as to why you disagree with the grade, within 3 calendar days of the grade being posted to eLC.
+Final grades will be rounded to the nearest whole number (e.g., 89.49 rounds down to 89; 89.50 rounds up to 90). Course grades will be assigned based on the UGA plus/minus scale below:
+
+ECOL 3510, Summer 2021
+
+2
+
+A 94-100 A- 90-93
+
+B+ 87-89 B 84-86 B- 80-83
+
+C+ 77-79 C 74-76 C- 70-73
+
+D 65-69 F 0-64
+
+Assignment submission & late policy All written assignments should be submitted electronically to the corresponding eLC Dropbox by the due date indicated on eLC. After the due date, late assignments will incur a 10% penalty per day. Five (5) days after the due date, unsubmitted assignments will receive a grade of zero and will not be accepted.
+
+If you have an unavoidable circumstance that prevents you from turning in an assignment on time, please contact me before the due date to see if an extension or alternate due date may be possible. If you have an emergency that causes you to miss a due date, please contact me as soon as possible after the due date to arrange for a late submission waiver.
+Communication & Access to Course Information The best way to contact me is through my UGA email. I will respond to emails within 24 hours during the work week (Monday-Friday 8am-5pm). If you email over the weekend, I will respond Monday morning. To help make sure I don't miss your message, please include ECOL 3510 in your e-mail subject line.
+
+All course information including a copy of the syllabus, assignment due dates, and any required readings are available on eLC. You are welcome to print materials from the eLC page for your own use.
+
+Announcements about our class, including any changes to the schedule, will be posted to eLC. You are responsible for checking eLC on a regular basis.
+University policies & resources
+University Honor Code & Academic Honesty As a University of Georgia student, you have agreed to abide by the UGA academic honesty policy, "A Culture of Honesty", and the Student Honor Code ("I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others."). All academic work must meet the standards described in the Academic Honesty Policy.
+You are responsible for informing yourself about the university's standards before performing any academic work. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. All instances of suspected or potential academic dishonesty, including plagiarizing, lying, cheating, falsifying data, obtaining unauthorized assistance, stealing, or other forms of academic dishonesty detailed as Prohibited Conduct in the Academic Honesty Policy, will be reported to the UGA Office of the Vice President for Instruction. Please ask before submitting your assignment if you ever have questions related to course assignments and the academic honesty policy.
+Course Accommodations If you are eligible for course accommodations, it is essential that you register with the Disability Resource Center (Clark Howell Hall; https://drc.uga.edu; 706-542-8719 [voice]; 706-542-8778 [TTY]). I
+
+ECOL 3510, Summer 2021
+
+3
+
+will gladly work with you to make sure our course meets your needs. Please note that accommodations cannot be provided retroactively.
+Campus Mental Health and Wellness Resources We are living through challenging times. The resources below are available through UGA to help you navigate struggles you may be experiencing in your academic and/or personal life:
+ If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs (706-542-7774 or https://sco.uga.edu). They will help you navigate difficult circumstances by connecting you with the appropriate resources or services.
+ UGA has several resources for a student seeking crisis support (https://www.uhs.uga.edu/info/emergencies) or mental health services (https://www.uhs.uga.edu/bewelluga/mental-health).
+ If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center.
+ If you need assistance with time management, test and performance anxiety, note-taking, motivation, text comprehension, test preparation, and other barriers to academic success at UGA, contact Academic Coaching (https://dae.uga.edu/services/academic-coaching).
+ Additional resources can be accessed through the UGA App.
+You are also always welcome to get in touch with me if you are struggling and need someone to talk to or advice about where to find help. Please do not struggle in silence.
+FERPA Notice The Federal Family Educational Rights and Privacy Act (FERPA) grants students certain information privacy rights. To comply with FERPA, all communication that refers to individual students must be through a secure medium (UGAMail or eLC) or conducted in person. Instructors are not allowed to respond to messages that refer to individual students or student progress/grades in the course through non-UGA accounts, phone calls, or other types of electronic media. For details, please visit https://apps.reg.uga.edu/FERPA.
+Syllabus Disclaimer This syllabus is a general plan for the course; deviations may be necessary and will announced to the class via eLC.
+
+ECOL 3510, Summer 2021
+
+4
+
+

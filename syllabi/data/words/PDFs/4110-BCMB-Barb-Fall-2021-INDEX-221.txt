@@ -1,0 +1,171 @@
+Physical Biochemistry, BCMB 4110/6110
+Fall Semester 2021 Tuesday/Thursday: 9:35-10:50 AM, C127 Davison Life Sciences Bldg.
+Instructors: Ron Orlando and Adam Barb
+Contact Information: Ron Orlando: (706) 542-4429, orlando@ccrc.uga.edu, Room 1078 CCRC
+Adam Barb: (706) 542-1773, abarb@uga.edu, Room B322 Davison Life Sciences
+Course Description: This course seeks to address fundamental questions regarding the form and function of biological macromolecules at an introductory level. The primary goal of the lectures is to provide a theoretical description of forces that impact the behavior of molecules and the physical principles behind stateof-the-art techniques used to study these molecules.
+· All of the course content will be available to all students through eLC with details below describing the nuts and bolts of the course. Dr. Barb will cover the first half of the semester and Exams 1 and 2. Dr. Orlando will cover the second half of the course and Exams 3 and 4. The final will be comprehensive.
+· Course material will be delivered through a mixture of online videos, written lecture material and problem sets. Readings from the text (provided in eLC) and a student discussion board will support this content. Classroom meetings will focus on solving problems and answering questions.
+· Why does this course utilize a flipped classroom approach? Due to the nature of the material presented in this course, which is often described in mathematical terms, we determined that students perform well when allowed to interact with the material at their own pace. For example, if you become lost during a lecture, it's hard to catch up. However, because the lectures and lecture material are on eLC, you can review each concept at your own pace until you fully understand it before moving on. Then, we will utilize the in-class sessions to discuss the material from different perspectives, answer student questions, and solve problems.
+· What is the course philosophy? Students will benefit by dedicating an amount of time each week to learn the material, rather than waiting until the day before the exam. This material is complex, and unlike most of your course work thus far. Expect to spend at least 10 hours a week on this course. Students who have waited until the day of the exam to review the material have not been successful.
+· When should I come to class? All classes will be help in person. · How will I be tested? Assessment will be conducted through homework problem sets at the
+end of each module and traditional multiple-choice exams. Homework questions will be available through eLC and are open note and open book, but there will be strict due dates for these assignments. Exams are closed book and closed note; you will not have enough time to look up solutions for every problem. · What will happen in during the in-class sessions? During the class sessions, the instructors will answer questions related to the material covered in the current module. Students should be ready to describe how they are approaching the problem, where they get stuck, and be ready to assist other students. · How can I get answers through the discussion board? A discussion option will be available in eLC for each module. Students are encouraged to ask questions regarding course material,
+
+and students are likewise encouraged to answer questions regarding course material. Instructors will moderate the discussion board and answer questions when appropriate.
+Illness Policy: Students who are unable to complete assignments or exams must present a doctor's note to reschedule these items. Note, all lecture material will be available on eLC to all students, so only the assessments will need to be rescheduled. Furthermore, please note that it is preferred to request the absence before the exam or homework is due, if at all possible.
+Homework: A total of ten HW assignments will be due by 11:59p on Monday the night before the first lecture of the week as indicated on the course schedule, below. Homework will be given on eLC, combined these will count for 20% of your final grade. Please complete the homework earlier than the due date. Exceptions will not be given for unforeseen events that occur late Monday night and prevent completion of the assignment.
+Exams: A total of four in-class exams will be given. Each exam will count for 20% of your final grade. Exams will be given on eLC in the classroom using a lockdown browser, so please bring your laptops to class. The calculator function on your computers will be enabled. The exams can be taken on a mobile phone as well. If you anticipate problems bringing a device to class for the exam, please contact the instructor at least two days before the exam and we can make accommodations. Scrap paper will be provided.
+Exams will require installation of the Respondus Lockdown Browser. This software must be installed prior to arriving at class. Installation instructions are here: https://help.elc.uga.edu/for_students/quizzes/#Respondus%20LockDown%20Browser Please confirm this software works on your computer prior to the day of the exam! Help can be obtained at EITS: https://help.elc.uga.edu/for_students/faqs_for_students/
+Final Exam: The final exam is optional. If taken, the final will count for 20% of final grade, and will replace the hourly exam with lowest score, even if the score on the final exam is lower than the in-class exam. The final exam will be comprehensive, covering all lecture material presented in this course.
+Extra Credit: Extra credit (0.5% of your final grade) is available by completing the course survey before the final exam. Access to the survey will be provided near the end of the semester.
+Grades on each exam and quiz will be "curved" upwards so that the average score is at least a 75.
+Grades: A: 93+ A-:90-92 B+: 87-89 B: 83-86 B-: 80-82 C+: 77-79 C: 73-76 C-:70-72 D: 60-69 F: <60
+
+Biochemistry and Molecular Biology Majors need a grade of C (not a C-) or better is required to graduate. This course is only offered in the Fall semester.
+Text: Physical Chemistry for the Life Sciences, Atkins and de Paula.
+Other valuable resources: Principles of Physical Biochemistry, van Holde, Johnson and Ho Biophysical Chemistry, Allen
+Office Hours: Ron Orlando: Immediately after class (10:45-11:15) on the days he is teaching. He is available at other times by appointment.
+Adam Barb: arrange by appointment to meet in B322, Life Sciences (email preferred: abarb@uga.edu)
+Disclaimer: The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+University Policies: We expect all students to complete their own work. Seeking assistance form other students is encouraged, but each student must demonstrate mastery of the material. UGA Student Honor Code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others." A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found at www.uga.edu/ovpi.
+Mental Health and Wellness Resources: · If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu/. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services. · UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies). · If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center. · Additional resources can be accessed through the UGA App.
+
+# Date 1 Thur 8/19
+
+-
+
+Mon 8/23
+
+2 Tue 8/24
+
+3 Thur 8/26
+
+-
+
+Mon 8/30
+
+4 Tue 8/31
+
+5 Thur 9/2
+
+-
+
+Mon 9/6
+
+6 Tue 9/7
+
+7 Thur 9/9
+
+8 Tue 9/14 9 Thur 9/16
+
+-
+
+Mon 9/20
+
+10 Tue 9/21
+
+11 Thur 9/23
+
+-
+
+Mon 9/27
+
+12 Tue 9/28
+
+13 Thur 9/30
+
+-
+
+Mon 10/4
+
+14 Tue 10/5
+
+15 Thur 10/7
+
+16 Tue 10/12 17 Thur 10/14
+
+-
+
+Mon 10/18
+
+18 Tue 10/19
+
+19 Thur 10/21
+
+-
+
+Mon 10/25
+
+20 Tue 10/26
+
+21 Thur 10/28
+
+-
+
+Mon 11/1
+
+22 Tue 11/2
+
+23 Thur 11/4
+
+24 Tue 11/9
+
+25 Thur 11/11
+
+-
+
+Mon 11/8
+
+26 Tue 11/16
+
+27 Thur 11/18
+
+Subject Introduction
+HW 1 Due (syllabus) Enthalpy 1 Enthalpy 2
+HW2 Due (Module 1) Entropy 1 Entropy 2
+HW3 Due (Module 2) Equilibria 1 Equilibria 2
+In Class Exam 1 INSTRUCTOR NOTE: BOLTZMANN Biomolecular Phases
+HW4 Due (Module 4) Molecular Interactions 1 Molecular Interactions 2
+HW5 Due (Module 5) Quantum Chemistry 1 Quantum Chemistry 2
+HW6 Due (Module 6) Fluorescence In Class Exam 2 INSTRUCTOR NOTE: PLANCK
+Introduction to Kinetics Reaction Orders
+HW7 Due (Module 6) -blank on old scheduleDetermining Rate Laws
+HW8 Due (Module 6) Consecutive and Complex Reactions Effects of Temp on Reaction Rates
+HW9 Due (Module 6) Review Old Exams In Class Exam 3
+Michaelis-Menten Mechanism and Interpreting Enzyme Kinetic Data Enzyme Inhibition
+HW10 Due (Module 6) Mod 12 Homework Review Review Old Exams
+
+Module na
+1 1
+2 2
+3 3
+4
+5 5
+6 6
+7
+8 8
+9
+10 11
+12 12
+
+28 Tue 11/23
+
+-
+
+Thur 11/25
+
+In Class Exam 4 No Class / Thanksgiving
+
+29 Tue 11/30 30 Thur 12/2
+
+Review of material covered by Dr. Orlando Review of material covered by Dr. Barb
+
+31 Tue 12/7
+
+-blank on old schedule-
+
+Final Exam Tue 12/14
+
+8:00a - 11:00a
+
+

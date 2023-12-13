@@ -1,0 +1,222 @@
+Version 1.0, updated 8/6/20
+
+GENE (CBIO) 4310/6310 Genetic Approaches to Developmental Neuroscience
+
+UGA, Fall 2020
+
+2:00-3:15pm Tues, Thurs. -- Synchronous Zoom meetings Zoom meeting ID link: https://zoom.us/j/92558582843?pwd=cWtQMU1xa25JVzRnYkFGVXpYWEMvUT09 Instructor : Jonathan Eggenschwiler. PhD, Office: Coverdell Rm. 245B, Phone: 706-542-2813 email: jeggensc@uga.edu
+
+Course status - Online: All mini-lectures, discussions and interactive exercises will be conducted as synchronous zoom sessions that allow for interactive discussion during and after the session. I will record the zoom sessions and make them available on ELC for students who cannot attend classes. Additional support/feedback on course content and homework exercises will be provided via office hours. General information and recommendations with respect to safety measures in light of the SARS-Cov-2/Covid19 pandemic are provided at the end of this document below.
+
+Office Hours: Set by appointment. Remote O.H. meetings held via zoom are strongly preferred. Zoom mtg link: https://zoom.us/j/92558582843?pwd=cWtQMU1xa25JVzRnYkFGVXpYWEMvUT 09
+In person/face-to-face meetings may be requested, but will be held exclusively outside with students/instructor required to wear face coverings.
+
+Course Description: The course covers contemporary approaches to the study of neural
+development, emphasizing genetic and molecular techniques. Topics include generation, patterning, differentiation, and survival of neurons, axon growth and guidance, target selection, synapse formation/elimination, topographic map formation, activity-dependent mechanisms of connectivity, and the relationship between neural development and behavior. Topics will primarily draw from examples in Drosophila and vertebrate systems. Reading will be mainly from the primary literature with textbook reading and reviews provided for background. This course relies partially on discussion of the topics in the classroom.
+
+Reading assignments: Reading assignments will include approximately 12-20 pages from the
+primary literature each week with optional (additional) reading from the textbook/review literature. Reading materials will be provided electronically. The primary reference textbook (optional, but recommended) is Development of the Nervous System (DNS)--see pg. 7 for details.
+
+1
+
+Version 1.0, updated 8/6/20
+Grading/writing assignments (Assignments highlighted): Ideally, your motivation in the course should emphasize learning and
+understanding the material, rather than on the nature of your final grade. That said, grades are usually necessary to provide a sufficient incentive to work hard. Grades will be based on performance on four types of exercises: 1. In class participation (20% of final grade). Evaluation based on quality and
+quantity of participation. This will include concept mapping exercises. Please don't underestimate the importance of the participation component. 2. Exam question proposals (2%). Students will propose potential exam questions for the midterm exam. The questions will be evaluated and the best ones will appear on the midterm exam (with some tweaking). 3. Two short answer-based, open resource, take-home exams (midterm and final, 30% of final grade each). 4. A final paper (18% of final grade). Students enrolled in Gene6310 or students taking 4310 with Honors option must write this in the format of a grant proposal. Students in 4310 (non-honors) may write the final paper as a discussion of the literature (with more information to come).
+Final grades will be determined based on a "curated" curve. The relationship between the average total score for the class and the letter grade it corresponds to will be set by comparing the average performance of this class compared with that of the class in previous years.
+Prerequisites: - GENE3200 (or CBIO3800, preferably both)
+Learning Outcomes: After taking this course you will be able to ...
+1) Interpret and discuss the content of scientific primary literature, highlighting the questions the experimenters are asking, the methods used, the results and conclusions of the study.
+2) Construct concept maps connecting the ideas and concepts within selected primary literature reading and discussion.
+3) Design effective experimental approaches to scientific questions when presented as in-class thought exercises and exam questions.
+4) Recognize and explain the basics of early neural development in the organisms covered in the readings.
+5) Write a research report incorporating recent primary literature to explain a given topic in Developmental Neuroscience.
+Instructional Methods: This is a discussion-based course that will incorporate some lecture and
+some active learning strategies when more information than is provided in the primary literature is appropriate. Short, pre-recorded introductory videos with closed captioning will be provided via eLC prior to discussions of the primary
+2
+
+Version 1.0, updated 8/6/20
+literature (published papers). The paper for discussion, as well as assignments/exams will be provided via eLC. Communication:
+In addition to communication on the eLC announcement page/whole class emailing, communication that refers to individual students must be through a secure medium (UGAMail or eLC) or in person to comply with the Family Educational Rights and Privacy Act (FERPA). Instructors are not allowed to respond to messages that refer to individual students or student progress in the course through non-UGA accounts, phone calls, or other types of electronic media. Academic Honesty:
+As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: https://ovpi.uga.edu/academic-honesty/academic-honestypolicy. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor. Students with Disabilities:
+Students with disabilities who require reasonable accommodations in order to participate in course activities or meet course requirements should contact the instructor or designate during regular office hours or by appointment. We will work with the Disability Resource Center (706-542-8719, http://drc.uga.edu/) to provide appropriate accommodations.
+3
+
+Version 1.0, updated 8/6/20
+
+Syllabus/reading assignments
+
+Part I. Weeks 1 and 2 (Introduction, neural induction)
+
+Week 1
+
+8/20R: Introduction, course format, basics of neural development, introduction to neural induction.
+
+Week 2
+
+8/25T: Discussion of Wilson PA, Hemmati-Brivanlou A. Induction of epidermis and inhibition of neural fate by Bmp-4. Nature. 1995 Jul
+27;376(6538):331-3., Set up for the Heitzler and Simpson paper.
+
+8/27R: Lecture on lateral inhibition, Begin discussion of Heitzler P, Simpson P. The choice of cell fate in the epidermis of Drosophila.
+Cell. 1991 Mar 22;64(6):1083-92.
+
+Additional (optional) reading for weeks 1 and 2: Neural Induction-review and DNS, Chapter 1
+
+Weeks 3 and 4: Neurogenesis
+
+Week 3
+
+9/1T: Finish discussion of Heitzler and Simpson 1991, Introductory lecture on neurogenesis
+
+9/3R: Continue lecture, discuss Spana EP, Doe CQ. The prospero transcription factor is asymmetrically localized to the cell cortex during neuroblast mitosis in Drosophila. Development. 1995; 121(10):3187-95. In class concept mapping: Spana and Doe
+
+Week 4
+
+9/8T: Finish discussion of Spana and Doe, start discussion of Barros CS, Phelps CB, Brand AH. Drosophila nonmuscle myosin II promotes the asymmetric segregation of cell fate determinants by cortical exclusion rather than active transport. Dev Cell. 2003;5(6):829-40.
+
+9/10R: In-class concept mapping of Barros et al. 2003. Lecture on temporal identity
+
+Additional (optional) reading for weeks 3 and 4: Neurogenesis-review, Cabernard and Doe (additional paper), DNS, pg. 83-8
+
+4
+
+Version 1.0, updated 8/6/20
+
+Weeks 5, 6, 7: Temporal and spatial mechanisms of identity specification
+
+Week 5
+
+9/15T: Discuss Desai AR, McConnell SK. Progressive restriction in fate potential by neural progenitors during cerebral cortical
+development. Development. 2000 Jul;127(13):2863-72
+
+9/17R: Finish discussion of Desai, lecture, begin discussion of Grosskortenhaus R, Pearson BJ, Marusich A, Doe CQ. Regulation of temporal identity transitions in Drosophila neuroblasts. Dev Cell. 2005 Feb;8(2):193-202.
+
+Week 6
+
+9/22T: In-class concept mapping of Grosskortenhaus et al., 2005. Lecture on genetic methods in mice/set up for Lee et al. 2000
+
+9/24R: Discuss Lee KJ, Dietrich P, Jessell TM. Genetic ablation reveals that the roof plate is essential for dorsal interneuron
+specification. Nature. 2000 Feb 17;403(6771):734-40.
+
+Week 7
+
+9/29T: Begin discussion of Briscoe J, Chen Y, Jessell TM, Struhl G. A hedgehog-insensitive form of patched provides evidence for direct long-range morphogen activity of sonic hedgehog in the neural tube. Mol Cell. 2001 Jun;7(6):1279-91.
+
+10/1R: In-class concept mapping of Briscoe et al., 2001. Introduce programed cell death and neuronal survival
+
+Additional (optional) reading for weeks 5-7 Temporal patterning-review, spatial patterning-review, Isshiki et al (additional paper), Dessaud et al (additional paper), DNS, Chapter 2; pgs 40-44 and Chapter 4: pgs. 82-83, 92-98
+
+Week 8: Programmed neuronal death and neurotrophins/survival
+
+Week 8
+
+10/6T: Discuss Oppenheim RW, Prevette D, Tytell M, Homma S. Naturally occurring and induced neuronal death in the chick embryo in vivo requires protein and RNA synthesis: evidence for the role of cell death genes. Dev Biol. 1990 Mar;138(1):104-13.
+
+10/8R: In-class concept mapping of MacInnis BL, Campenot RB. Retrograde support of neuronal survival without retrograde transport of nerve growth factor. Science. 2002 Feb 22;295(5559):1536-9. Proposed exam questions due by class time on (10/8)
+
+Additional reading: DNS, Chapter 7
+
+5
+
+Version 1.0, updated 8/6/20
+
+Part II. Weeks 9 and 10: Neuronal polarity and axon guidance
+
+Week 9:
+
+10/13T: Lecture on neuronal polarity, Discuss Goslin K, Banker G. Experimental observations on the development of polarity by hippocampal neurons in culture. J Cell Biol. 1989 Apr;108(4):150716.
+
+Exam 1 posted Tuesday 10/13. The midterm is open resource take-home format and covers material in weeks 1-8 (Wilson through MacInnis). It is due by 11:59pm on Fri, 10/16.
+
+10/15R: Lecture on axon guidance, begin discussion of Shewan D, Dwivedy A, Anderson R, Holt CE. Age-related changes underlie switch in netrin-1 responsiveness as growth cones advance along visual pathway. Nat Neurosci. 2002 Oct;5(10):955-62.
+
+Week 10
+
+10/20T: Finish discussion of Shewan et al , start discussion of Brittis PA, Lu Q, Flanagan JG. Axonal protein synthesis provides a mechanism for localized regulation at an intermediate target. Cell. 2002 Jul 26;110(2):223-35
+
+10/22R: In-class concept mapping of Brittis et al., 2002
+
+Additional (optional) reading for weeks 9 -11: Neuronal polarity-review, Axon guidance-review, DNS, Chapter 5
+
+Weeks 11 and 12: Establishing Topographic connectivity
+
+Week 11
+
+10/27T: Finish discussion/concept mapping of Brittis et al. Lecture on topographic maps
+
+10/29R: Start discussion of Cheng HJ, Nakamoto M, Bergemann AD, Flanagan JG. Complementary gradients in expression and binding of ELF-1 and Mek4 in development of the topographic retinotectal projection map. Cell. 1995 Aug 11;82(3):371-81.
+
+Week 12
+
+11/3T: Finish discussion of Cheng et al, Discuss Gosse NJ, Nevin LM, Baier H. Retinotopic order in the absence of axon competition. Nature. 2008 Apr 17;452(7189):892-5. REMEMBER TO VOTE!
+
+6
+
+Version 1.0, updated 8/6/20
+
+11/5R: In-class concept mapping of Gosse et al. 2008
+
+Additional (optional) reading for weeks 11 and 12: Topographic mapping-review, Nakamoto et al (additional paper), Walter et al (additional paper), DNS, Chapter 6 pg. 149-153
+
+Weeks 13 and 14: Synapse specificity and synaptogenesis
+
+Week 13
+
+11/10T: Lecture, begin discussion of Pecho-Vrieseling E, Sigrist M, Yoshida Y, Jessell TM, Arber S. Specificity of sensory-motor connections encoded by Sema3e-Plxnd1 recognition. Nature. 2009 Jun 11;459(7248):842-6.
+
+11/12R: Continue/finish discussion of Pecho-Vriesling et al. 2008, Set up for Kasthuri and Lichtman 2003.
+Nature. 2009 Jun 11;459(7248):842-6.
+
+Week 14.1
+
+11/17T: In-class concept mapping of: Kasthuri N, Lichtman JW. The role of neuronal identity in synaptic competition. Nature. 2003 Jul. 24;424(6947):426-30. Final paper topics due 11/17
+
+Additional (optional) reading for weeks 13 and 14: Synapse specificity-review, synaptogenesis-review, Buffelli et al (additional paper), DNS, Chapter 8
+
+Weeks (14) 15 and 16: Neural activity and connectivity
+
+Week 14.2
+
+11/19R: Lecture, Discuss Meister M, Wong RO, Baylor DA, Shatz CJ. Synchronous bursts of action potentials in ganglion cells of the developing mammalian retina. Science. 1991 May 17;252(5008):939-43
+
+Week 15
+
+11/24T: Discussion of Stellwagen D, Shatz CJ. An instructive role for retinal waves in the development of retinogeniculate
+connectivity. Neuron. 2002 Jan 31;33(3):357-67.
+
+11/26R: NO CLASS (Thanksgiving)
+
+Week 16.1
+
+12/1T: Finish discussion of Stellwagen et al. 2002, Discuss Huberman AD, Wang GY, Liets LC, Collins OA, Chapman B, Chalupa LM.Eye-specific retinogeniculate segregation independent of normal neuronal activity. Science. 2003 May 9;300(5621):994-8.
+
+7
+
+Version 1.0, updated 8/6/20
+Week 16.2 Developmental hard wiring of complex behaviors
+12/3R: Discuss Demir E, Dickson BJ. fruitless splicing specifies male courtship behavior in Drosophila. Cell. 2005 Jun 3;121(5):78594.
+Additional (optional) reading for weeks 15 and 16.1: Activity/connectivity-review. DNS, Chapter 9, chapter 10 pg. 311312 Additional (optional) reading for week 16.2 Review on hard-wired behavior, Stockinger et al (2005), Clyne et al (2008).
+Final papers due Friday (11:59pm), Dec. 11th Exam 2 (take-home, covering material in weeks 9-16). Available 12/10R and due 12/16W (by 11:59PM).
+Primary textbook (optional):
+Development of the Nervous System (DNS) / Dan H. Sanes, Thomas A. Reh, William A. Harris. Edition: 3rd ed. Published/Created: Burlington, MA : Elsevier Academic Press, 2005. ISBN 9780123745392 2nd and 3rd editions are both fine for this course. Science library has a copy for reserves. New books available on Amazon for about $75.
+Two additional texts that may be useful: Title: Developmental Biology, 6,7,9, 8, or 9th edition. Author: Gilbert, Scott F., 1949Call Number: (8th edition) QL955 .G48 2006 Item Location: Science Library 4th floor (will be put on reserve) Title: Neuroscience (2nd ed.). Purves, D. (2001). Call Number: QP355.2 .N487 2001 Item Location: Science Library 4th floor (will be put on reserve)
+8
+
+Version 1.0, updated 8/6/20
+Coronavirus Information for Students
+Face Coverings:
+Effective July 15, 2020, the University of Georgia--along with all University System of Georgia (USG) institutions--requires all faculty, staff, students and visitors to wear an appropriate face covering while inside campus facilities/buildings where six feet social distancing may not always be possible. Face covering use is in addition to and is not a substitute for social distancing. Anyone not using a face covering when required will be asked to wear one or must leave the area. Reasonable accommodations may be made for those who are unable to wear a face covering for documented health reasons. Students seeking an accommodation related to face coverings should contact Disability Services at https://drc.uga.edu/.
+DawgCheck:
+Please perform a quick symptom check each weekday on DawgCheck--on the UGA app or website--whether you feel sick or not. It will help health providers monitor the health situation on campus: https://dawgcheck.uga.edu/
+What do I do if I have symptoms?
+Students showing symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5 p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see https://www.uhs.uga.edu/info/emergencies.
+What do I do if I am notified that I have been exposed?
+Students who learn they have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 14 days consistent with Department of Public Health (DPH) and Centers for Disease Control and Prevention (CDC) guidelines. Please correspond with your instructor via email, with a cc: to Student Care & Outreach at sco@uga.edu, to coordinate continuing your coursework while self-quarantined. If you develop symptoms, you should contact the University Health Center to make an appointment to be tested. You should continue to monitor your symptoms daily on DawgCheck.
+How do I get a test?
+Students who are demonstrating symptoms of COVID-19 should call the University Health Center. UHC is offering testing by appointment for students; appointments may be booked by calling 706-542-1162.
+9
+
+Version 1.0, updated 8/6/20 UGA will also be recruiting asymptomatic students to participate in surveillance tests. Students living in residence halls, Greek housing and off-campus apartment complexes are encouraged to participate. What do I do if I test positive? Any student with a positive COVID-19 test is required to report the test in DawgCheck and should self-isolate immediately. Students should not attend classes in-person until the isolation period is completed. Once you report the positive test through DawgCheck, UGA Student Care and Outreach will follow up with you.
+10
+
+

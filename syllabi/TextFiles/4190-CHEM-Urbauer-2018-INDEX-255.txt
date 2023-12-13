@@ -1,0 +1,121 @@
+Syllabus, CHEM/BCMB 4190/6190/8189
+
+Introductory NMR / Fundamentals of NMR
+
+Nuclear Magnetic Resonance (NMR) is a type of spectroscopy that uses the magnetic properties of nuclei to probe molecular structure and dynamics. It has applications in analysis of organic and inorganic compounds, in structure determination of biological macromolecules, and even in medical imaging. These introductory courses are intended to serve a broad audience seeking background in principles behind NMR methodology and practical knowledge of data acquisition and analysis. Material is presented in both lecture and laboratory formats. It is an ideal stepping-stone to more advanced courses offered in biomolecular NMR (CHEM/BCMB 8190) as well as other application-oriented courses.
+The three courses share lecture and laboratory presentations. Grading is based on exams, written laboratory reports, and an evaluation of classroom and laboratory participation (see page 3 of this syllabus). For graduate students completion of an additional independent study project is required.
+
+Instructor:
+
+- Professor Jeffrey Urbauer - Office: room 671 (labs, rooms 674, 675) Chemistry building - Phone: 542-7922 - Email: urbauer@uga.edu
+
+Office Hours:
+
+- any time / by appointment
+
+Course Website: - https://urbauerlab.uga.edu/4190
+
+Class time:
+
+- Tu,Th, 3:30-4:45
+
+Recommended text: - Friebolin "Basic One and 2D NMR Spectroscopy" - VCH paperback - 2nd, 3rd, 4th or 5th edition
+
+COURSE OUTLINE AND DATES: (dates are target dates and subject to change)
+
+Month
+
+Day Date
+
+Lecture / Exam / Lab
+
+Readings
+
+August
+September EXAM
+
+Tu 14 R 16 Tu 21 R 23 M,T,W (27,28,29) R 30
+Tu 4 R 6
+Tu 11
+R 13 M,Tu,W 17,18,19 R 20
+
+Introduction Basic principles I Basic principles I, II Basic principles II 1D, 1H NMR Lab #1 Data Acquisition
+Special Topic EXAM 1
+Chemical Shifts
+Coupling 1D double resonance NMR Lab #2 Special Topic
+
+1.1 - 1.5 1.1 - 1.5 1.1 - 1.5
+1.5
+1.6, 2.1 - 2.5, 6.1 - 6.4
+1.6, 1.7, 2.4 3.1 - 3.7, 4.1 - 4.2
+
+Syllabus, CHEM/BCMB 4190/6190/8189
+
+October EXAM
+******* EXAM
+November
+December EXAM
+
+Tu 25
+R 27
+Tu 2 R 4
+Tu 9 R 11 Tu 16
+W 17
+R 18 M,Tu,W 22,23,24 R 25 Tu 30
+R 1 M,Tu,W 5,6,7 R 8 Tu 13 R 15 Tu 20 R 22 M,Tu,W 26,27,28 R 29
+Tu 4 Wed 5 R 6
+
+Coupling and Structure
+Double Resonance / Decoupling
+EXAM 2 Spin Relaxation Complex Pulse Sequences/Spin Echo Spin Echo INEPT and DEPT
+MIDPOINT WITHDRAWL DEADLINE
+Special Lecture / Discussion 1D 13C and DEPT NMR Lab #3 Introduction to 2D NMR
+EXAM 3
+2D COSY / HETCOR 2D HSQC / COSY NMR Lab #4 2D TOCSY / HSQC Special Lecture / Discussion Nuclear Overhauser Effect / NOESY Thanksgiving Break - no class Thanksgiving Break - no class NOESY / TOCSY NMR Lab #5 Special Lecture / Discussion
+No class (Friday class schedule) Reading day
+EXAM 4 (3:30 pm - 6:30 pm)
+
+1.6, 1.7, 2.4 3.1 - 3.7, 4.1 - 4.2
+5.1 - 5.3
+7.1 - 7.3 8.1 - 8.2 8.3 - 8.4 8.5 - 8.6 *********
+9.1 - 9.3
+9.4 9.4 10.1 - 10.4
+
+ATTENDANCE: The University of Georgia guidelines for attendance can be found at the following link:
+(http://bulletin.uga.edu/bulletin/ind/attendance.html). Attendance policies are at the discretion of the instructor. Attendance in this course will
+be monitored. For this course, five (5) absences from lectures will result in automatic withdrawl from the course. If the withdrawl is before the midpoint deadline, the grade will be "WP". After the deadline, the grade will be "WP" if the student is passing, or "WF" if the student is failing. The five (5) absences include absences that may prove to be excused.
+No absences from laboratory periods are permitted. A missed laboratory period will result in a score of zero (0) for that laboratory (see below).
+No absences from exam periods are permitted. A missed exam will result in a score of zero (0) for that exam (see below).
+Examinations missed in the case of emergencies, including personal/family crises, require a signed excuse from the Office of the Vice President of Instruction. No score for a makeup exam will be acknowledged/recorded without this signed excuse.
+Examinations missed in the case of personal illness require certification signed by the attending physician describing the illness and validating the absence. This will be presented to
+
+Syllabus, CHEM/BCMB 4190/6190/8189
+the instructor. Contact information for the attending physician will also be provided to the instructor.
+In the event that a critical activity has been scheduled well in advance of a scheduled exam, the student can arrange with the instructor for a makeup exam. This must be done at least two weeks before the examination. In the event it is not, a signed excuse from the Office of the Vice President of Instruction must be provided.
+Makeup exams will be given only within four (4) days of the normally scheduled exam. These will be scheduled at the earliest possible time.
+For students arriving late for an exam, no additional time beyond the normal exam end time will be given to complete an exam. The same guidelines apply to missed laboratory sessions (see below).
+Lectures begin at 3:30 pm. Students who arrive between 3:30 pm and 3:40 pm will be considered late. Two (2) such instances of arriving late will constitute one (1) absence. Students who arrive after 3:40 pm will be considered absent. Likewise, leaving class ten (10) or less minutes before the end of the class period will be equivalent to a late arrival. Leaving class more than ten (10) minutes before the end of the class period will count as an absence.
+ELECTRONIC DEVICES: No cell phones, laptops, tablet computers, iPhones/iPods/iPads/iWatches or equivalent,
+PDAs or other electronic devices are allowed to be in operation in the classroom. All such, or related, devices must be turned off before entering the classroom, and must be off of the desktop during class (in a bookbag or on the floor). The exception is, for exams, each student should bring a hand-held calculator to each exam.
+GRADING: Grades will be based on exams and written laboratory reports. There are three (3) in-
+class exams and one (1) exam held during the scheduled final exam period, for a total of four (4) exams. There are five (5) laboratory sessions and a total of five (5) written laboratory reports. The grade in the course will be assigned based on the highest three (3) exam scores and the highest four (4) written laboratory report scores. The three (3) highest exam scores will count 75% toward the final grade, and the four (4) highest laboratory scores will count 25% toward the final grade.
+Consideration for re-grading of an exam requires that the student request the re-grading no more than one (1) week after the graded exam is returned. A written statement detailing the justification for consideration of re-grading must also be provided.
+EXAMS: There are three (3) in class exams and one (1) exam held during the scheduled final
+exam period for a total of four (4) exams. All exams are comprehensive. The length of the last (4th) exam will be similar to the in class exams, but students will have the full examination time (approximately three hours) to answer the questions. The last (4th) exam does not count more towards the final grade than the in class exams. An absence from any exam will result in a score of zero (0) for that exam.
+Exams will cover all material discussed in class, all material found in the lecture notes, and all material in the reading assignments.
+The final (4th) exam may only be rescheduled for a student if the University "Final Exam Schedule Exam Conflicts" criteria are met:
+https://curriculumsystems.uga.edu/curriculum/finalExamConflicts/
+Under no circumstance will the final (4th) exam be rescheduled to accommodate end of semester travel plans.
+
+Syllabus, CHEM/BCMB 4190/6190/8189
+LABORATORY / WRITTEN LABORATORY REPORTS: There are five (5) laboratory sessions and a total of five (5) written laboratory reports. A
+written report is required for each lab. The laboratory reports are typed. These are generally due one (1) week after the scheduled laboratory period. An absence from a laboratory session will result in a score of zero (0) for that lab/report. The written laboratory reports will be original works of a single individual, will not be written by teams, and will not be the result of joint efforts between two or more students.
+ACADEMIC HONESTY POLICY: As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at:
+https://honesty.uga.edu/_resources/documents/academic_honesty_policy_2017.pdf Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor.
+ACCESSIBILITY STATEMENT: If you anticipate issues related to the format or requirements of this course, please meet with Professor Urbauer, who will discuss with you ways to ensure your full participation in the course. If formal, disability-related accommodations are necessary, it is very important that you be registered with the Disability Resource Center (Voice: 706-542-8719 or TTY: 706-542-8778) and notify Professor Urbauer of your eligibility for reasonable accommodations. A plan to best coordinate your accommodations can then be developed. The website for the disability resource center can be found at: https://drc.uga.edu
+FERPA NOTICE: The Federal Family Educational Rights and Privacy Act (FERPA) grants students certain information privacy rights. See the registrar's explanation at: https://apps.reg.uga.edu/FERPA/
+UGA NON-DISCRIMINATION AND ANTI-HARASSMENT POLICY: The University of Georgia ("the University") is committed to maintaining a fair and respectful environment for living, work and study. To that end, and in accordance with federal and state law, University System of Georgia policy, and University policy, the University prohibits harassment of or discrimination against any person because of race, color, sex (including sexual harassment and pregnancy), sexual orientation, gender identity, ethnicity or national origin, religion, age, genetic information, disability, or veteran status by any member of the University Community (as defined below) on campus, in connection with a University program or activity, or in a manner that creates a hostile environment for any member of the University Community. Incidents of harassment and discrimination will be met with appropriate disciplinary action, up to and including dismissal or expulsion from the University. The full policy can be found at:
+https://eoo.uga.edu/policies/non-discrimination-anti-harassment-policy
+CAMPUS CARRY (HOUSE BILL 280, "HB280"): For information about House Bill 280, commonly known as the "campus carry" legislation, which became effective July 1, 2017, please refer to information and guidance provided by the University System of Georgia at: http://www.usg.edu/hb280 Students are free to contact the UGA Police Department concerning the enforcement of HB280.
+
+

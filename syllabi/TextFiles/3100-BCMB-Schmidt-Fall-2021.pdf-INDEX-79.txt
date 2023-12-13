@@ -1,0 +1,147 @@
+BCMB 3100 - Introduction to Biochemistry Fall 2021
+Introduction to Biochemistry and Molecular Biology BCMB / BIOL / CHEM 3100 (39119)
+M 12:40-1:30 pm and MWF 1:50-2:40 pm, Geography & Geology Building, Room 200B
+INSTRUCTORS
+
+Dr. Walter K. Schmidt A414B Life Sciences wschmidt@uga.edu
+706-583-8241
+Zoom office hours: Fridays (3:00 pm) or by appointment
+
+Dr. David J. Garfinkel A414A Life Sciences
+djgarf@uga.edu 706-542-9403
+Zoom office hours: Fridays (3:00 pm) or by appointment
+
+Greetings and welcome to 3100! This course will help you learn how to: - Explain how biological macromolecules (proteins, nucleic acids, carbohydrates, lipids) are
+synthesized and metabolized. - Explain the relationship between biological macromolecular structure and function. - Explain how enzymes function, including their mechanisms and regulation. - Explain the energetics of biochemical reactions. - Explain the idea of "flux" and its relationship to the function and regulation of metabolic pathways. - Predict how chemical and physical parameters affect biological processes. - Apply the knowledge above to solve biochemical problems. - Apply the knowledge above to analyze, interpret, and evaluate biochemical data.
+The course will be team-taught by Dr. Schmidt and Dr. Garfinkel who will: - Help you gain knowledge about biochemistry and molecular biology through readings, lectures and class activities; - Help you develop thinking skills by applying your new knowledge to answer questions, analyze data, and solve problems during class or on homework assignments; and - Share what they find fun, interesting, and exciting about biochemistry and molecular biology in the hopes that you find it fun, interesting, and exciting, too.
+
+1
+
+BCMB 3100 - Introduction to Biochemistry Fall 2021
+PREREQUISITES We highly recommend that you complete pre-requisite courses before enrolling in BCMB 3100 (https://bulletin.uga.edu/CoursesHome?cid=6985). The prerequisites for this course are: (CHEM 2211 or CHEM 2311H or CHEM 2411) and (CHEM 2211L or CHEM 2311L or CHEM 2411L) and (BIOL 1107 or BIOL 2107H).
+COURSE RESOURCES · PowerPoint slides and quizzes. These will be posted on eLC. It is your responsibility to make sure you have access to the eLC site. Please email Dr. Garfinkel from your UGA email account if you need to be enrolled. · Textbook: Biochemistry - A short course, 4th edition (Tymoczko, Berg, Stryer). If you choose to use a previous edition or another contemporary textbook, you are responsible for determining equivalent assigned readings.
+
+COMMUNICATION
+To comply with the Family Educational Rights and Privacy Act (FERPA), all communication that refers to individual students must be through a secure medium (UGAMail or eLC) or in person. Instructors are not allowed to respond to messages that refer to individual students or student progress in the course through non-UGA accounts, phone calls, or other types of electronic media.
+
+COURSE ORGANIZATION The course is divided into four (4) units, each of which has an associated exam. The content of each unit is described in a Unit Calendar that will be posted on eLC. Each Unit Calendar includes reading assignments, other specified activities, and a list of learning objectives (i.e., things you should be able to do after each class session and/or by the end of the unit). Use the unit calendars as a guide for learning, and complete actions and assignments as noted.
+
+Unit or Activity
+
+Unit Dates
+
+Exam Dates
+
+Introduction Unit 1. Biomolecules and their properties1 Unit 2. Signaling and Metabolism (part 1)1 Unit 3. Metabolism (part 2)2 Unit 4. Nucleic acid structure and function2 Conclusion: Undergraduate research Final Cumulative Exam3
+
+Aug 18 Aug 18-Sep 13 Sep 17-Oct 8 Oct 13-Nov 3 Nov 8-Dec 3
+Dec 7
+
+Sep 15 Oct 11 Nov 5 Dec 6
+Dec 10
+
+1 Dr. Schmidt will teach these units.
+2 Dr. Garfinkel will teach these units. 3 A cumulative, multiple-choice, comprehensive final exam will be held during the final exam period (time TBD) as a make-up exam option for anyone who missed a Unit Exam.
+
+Honors option: Please contact the instructors for information about the Honors Option.
+
+2
+
+BCMB 3100 - Introduction to Biochemistry Fall 2021
+COURSE ACTIVITIES AND GRADING Our course will involve three types of activities:
+1. Quizzes. There will be 12 quizzes (6 during Dr. Schmidt's section; 6 during Dr. Garfinkel's section). Each quiz will be available on eLC for a limited time window and should be completed BEFORE specific classes as noted in on the Unit Calendar. Each quiz is worth 4 pts, and only 10 quiz grades will count toward your grade, which means you can miss two (2) and still earn full credit (40 pts). If you complete more than 10 quizzes, your highest 10 scores will be used for calculating your final grade.
+2. Exams. There will be one exam at the end of each of the four units (40 pts each) plus an optional final exam. The highest four exam scores will be used to determine final grades. Unit exams will contain a variety of question types, including true/false, multiple-choice, and/or short response questions based on readings and lecture material. These exams are designed to assess your knowledge and skills related to the content of that unit, building as relevant on your learning from the previous unit(s). There will be a final exam, during the official scheduled final exam period for our class, for any student that is unable to complete a scheduled Unit Exam or wishes to drop a Unit Exam grade. If you are satisfied with your four Unit Exam scores, you may opt out of the final exam. The final exam will be cumulative (40 pts total; 10 pts per unit).
+3. Bonus Points. There will be several opportunities to secure bonus points to increase your point total for the course. The format and points for each opportunity will be described in each case by the appropriate instructor. The point total of all opportunities will not exceed 8 points.
+
+You will earn points in the course as follows:
+
+Activity
+
+Points
+
+Quizzes
+
+40 pts (4 pts each for 10 of 12 quizzes)
+
+Exams
+
+160 pts (40 pts each for 4 exams)
+
+Bonus
+
+8 pts (various opportunities)
+
+Total
+
+200 points (without bonus)
+
+% of final grade 20% 80% NA 100%
+
+Final grades will be assigned as follows:
+
+Grade Earned
+
+Points
+
+Approximate Percentage
+
+A
+
+185
+
+>92%
+
+A-
+
+180-184 90-92%
+
+B+
+
+174-179 87-89%
+
+B
+
+166-173 83-86%
+
+B-
+
+160-165 80-82%
+
+Grade Earned
+C+ C CD F
+
+Points
+154-159 140-153 130-139 120-129
+<119
+
+Approximate Percentage
+77-79% 70-76% 65-69% 60-64% <60%
+
+HOW TO BE SUCCESSFUL IN THIS COURSE To be successful in this course, we encourage you to:
+· Do not get behind. Cramming or relying on outside material for an online exam will result in a poor outcome.
+· Complete the assigned readings, then treat the textbook as a reference. We also recommend that you consult reputable online resources to enhance your learning.
+
+3
+
+BCMB 3100 - Introduction to Biochemistry Fall 2021
+· Focus on the learning objectives. The exams will assess your accomplishment of the learning objectives. Use the learning objectives as a study guide for what to focus on when you are completing activities and preparing for exams.
+· Do more than just memorize. While you will need to report some factual knowledge on exams, you will also need to know how to apply this knowledge under situations not described the textbook or in lecture.
+· Do your own work. All graded work must be your own. Working with study groups or collaboratively in class is helpful for learning the material.
+· eLC Discussion Board. You will likely have questions about the course content. In addition to attending instructor office hours, you are strongly encouraged to post and respond to questions on the Discussion Board. Instructors will monitor questions on a regular basis to help mediate the Q & A process. This is not a mechanism for one-on-one tutoring or instruction. Students will not be penalized for posting a question or response - you should consider this a safe venue for articulating and checking your thinking. Students can also post anonymously. When responding to a question, consider this as practice for exchanging information with others in a clear, respectful, empathetic and informed manner, which is required in many professions, especially those that are health-related (medicine, dentistry, public health, etc.).
+OTHER COURSE POLICIES
+Missed assignments and exams: Late submission of quizzes will result in a score of zero (0) for that quiz. If you miss an exam or quiz due to illness, authorized representation of the University, or extraordinary personal circumstances, you must notify your current instructor and provide documentation for your absence as soon as possible. There are no make-up Unit Exams in this class. Those with an excused absence for a Unit Exam will be offered the cumulative final exam to be taken during finals week.
+Regrade requests: Regrade requests must be made by Email or in person no later than one-week after the exam date. Your request must include a valid explanation for why your answer was misgraded.
+Academic Honesty and the Honor Code: As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: www.uga.edu/honesty. Academic work includes, but is not limited to, course assignments, reading quizzes, case studies, exams, in-class questions, and course evaluations. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor. More specifically, this means the following examples are violations of the policy, and you WILL NOT:
+1. Post academic work to a text message, website (Course Hero, Koofers, etc.), electronic media, or physical space.
+2. Copy someone else's academic work or sharing your academic work with others. 3. Complete academic work for someone else. 4. Look at another person's paper exam, answer sheet, or computer screen while taking an exam. NOTE: You are allowed to share your personal course notes if you would like to.
+4
+
+BCMB 3100 - Introduction to Biochemistry Fall 2021
+Attendance Policy: There will be no tracking of course attendance, and absences need not be reported to the instructors. Students are responsible, however, for all missed content. The course content and discussions build on your existing knowledge and address your questions and concerns, which are facilitated by attending class. Attendance policies in response to the Covid pandemic are dictated by The University System of Georgia (USG) guidelines (https://apps.dar.uga.edu/html-emails/-/gailemail/aug-2-cv-update). At the time this syllabus was created, these guidelines allow for in person instruction. Any changes to these guidelines will be announced through eLC, UGA Archnews or other UGA communication.
+Safety Policy: At the time this syllabus was created, USG highly encourages but does not require students to wear masks and be vaccinated against SARS-CoV-2 to attend class (https://apps.dar.uga.edu/html-emails/-/gail-email/update-fall-2021-update-57-28-students). Any changes in these guidelines will be announced through eLC as well as UGA-wide communications. Please DO NOT attend class in person if you feel ill or test positive for SARS-CoV-2. The instructors have also provided additional resources that are posted on eLC. Please contact the instructors if you have questions or concerns about your well-being or that of others.
+Disability Accommodations: Reasonable accommodations are available for students who have a disability. The Disability Resource Center in the Division of Student Affairs (https://drc.uga.edu/; note: this website doesn't work on Chrome so you will need to use another browser; 114 Clark Howell Hall; 706-542-8719 voice; 706-542-7719 fax; 706-542-8778 tty) coordinates accommodations and services for students with disabilities. Please notify the instructors of any accommodations needed for the course.
+Technology: Activities associated with this class will require being online to access course content, take quizzes, submit answers to class questions, and to interact with others (e.g. Class; Discussion Board). You must therefore have access to stable internet service. We recommend that you follow lectures on a computer, rather than your phone, in order to best view slide details. Use of technology to disrupt the class (or by any other means) will not be tolerated and will be referred to the UGA Office of Student Conduct, which could result in your expulsion from the University per the UGA Code of Conduct (https://conduct.uga.edu/content_page/code-of-conduct).
+Tutoring: The Academic Resource Center offers academic support for a range of science courses, including BCMB 3100. For information on resources and tutoring, visit their website at: https://dae.uga.edu/services/tutoring/.
+5
+
+

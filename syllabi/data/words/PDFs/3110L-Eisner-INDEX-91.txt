@@ -1,0 +1,91 @@
+BIOL 3110L Basic Laboratory Skills in Biology
+
+Instructor David Eisner, MD Room 401, Biosciences Office Hours: by appointment Office Telephone: 542-5017 E-mail: deisner@uga.edu
+
+Teaching Assistants Brett Marshall email: brettjm@uga.edu office hours: by appoitment
+William Spears email:we.spears@gmail.com office hours: by appoitment
+
+Spring 2011
+
+Julie Craft email: craftjc@uga.edu office hours: by appoitment
+
+This class is designed to introduce you to the basic laboratory bench procedures you have read about, but with which you may have little or no direct experience. By the end of the semester, we hope that you will understand how to perform a given protocol and, perhaps more importantly, why it works.
+Attendance Attendance in this class is mandatory. Missing more than one class period a) places a significant burden upon your laboratory partner(s); b) prevents you from gaining applied experience, a major goal of this
+class and c) disrupts the continuity needed to complete multi-week experiments. Therefore, we allow one absence in this class, without an authorized excuse. Points will be deduction from your participation
+performance.
+Grading and Exams Grades are based upon your laboratory performance, exams and lab reports. There will be three examinations: one designed to test your "practical" skills and two subsequent exams designed test your knowledge of the theoretical foundation of each laboratory procedure. There will be no final exam; instead, you will submit four lab reports covering selected experiments during the course. The reports will be written in the style of a scientific paper. Make-up examinations may be scheduled at a mutually agreeable time. Finally, we will check your laboratory notebooks for accuracy. Each of these (applied performance, take-home exams, and laboratory notebook) will contribute to your grade as given below.
+
+Allocation of Points in Determining Your Grade: Your grade will be based on the following work,
+weighted as indicated:
+
+1. Practical Exam
+
+50 points (9%)
+
+2. Midterm Exams (2@100 200 points (36%) points)
+
+3. Lab Report(s)
+
+200 points (36%)
+
+5. Lab Notebook
+
+50 points (9%)
+
+6. Participation/Performance 50 points (9%) (as judged by staff)
+
+Total
+
+550 points
+
+Final grades will be awarded as follows: A (90%+), B (80 -89.99), C (70 -79.99), D (6069.99) & F (<60%) All academic work must meet the standards contained in "A Culture of Honesty." Students are responsible for informing themselves about those standards before
+
+performing any academic work.
+Schedule This course is intended to duplicate the experience of working in a research labora­tory. Therefore, one cannot predict exactly when certain experiments will be per­formed, or when one must deviate from the experimental outline in order to complete a procedure and produce accurate results. Thus, you can expect a certain amount of deviation from the schedule outlined below. The course syllabus is a general plan for the course: deviations announced in class by the instructor may be necessary. You must complete each set of experiments correctly before you can progress to the next step. Your final grade in this class depends in large part upon your progress in this set of experiments.
+
+Tentative Course Outline
+
+Lab
+
+Topic
+
+I
+
+Laboratory Calculations & Pipetting
+
+II
+
+Preparation of LB Media and Agar
+
+III Restriction Enzymes & Electrophoresis (repeat?)
+
+IV Plasmid Purification
+
+V
+
+PCR-based VNTR Human DNA Typing
+
+VI pGLO Transformation & Protein Purification (Hydrophobic Interaction Chromotography)
+
+Lab Report Project
+
+Restriction enzyme digestion of the pAMP & pKAN plasmids
+
+VII Ligation and transformation of recombinant plasmids
+
+Purification and restriction enzyme analysis of recombinant
+
+plasmids
+
+VIII ELISA (Enzyme-Linked ImmunoSorbant Assay)
+
+IX Protein Purification & Electrophoresis
+
+X
+
+Western Blot
+
+Possible Additional Topics Bioinformatics Southern Blots Isolation and Purification of Genomic DNA
+The sequence of experiments will frequently have to be modified. The practical and two quizzes will be announced at least one week in advance.
+
+

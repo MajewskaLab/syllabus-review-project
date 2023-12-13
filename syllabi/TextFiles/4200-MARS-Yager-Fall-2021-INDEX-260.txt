@@ -1,0 +1,296 @@
+Biological and Chemical Oceanography MARS 4200/6200 - Fall 2021
+
+Course content:
+This course introduces students to Biological and Chemical Oceanography, which investigate life in the ocean and the processes controlling its distribution and productivity, including ecology and biogeochemistry. We will also explore the distribution of salts, gases, and other compounds to discover how they support life in the ocean. Oceanography is a highly interdisciplinary field of study, and we will use coastal and open ocean environments around the world to illustrate key principles. This course complements MARS 3450, which focuses more on the diversity and biology of marine organisms and nearshore environments, and MARS 4100, which focuses on the geophysical ocean environment.
+This course is a required core course for our new Ocean Sciences major, contributes 3 credits towards the 9 credit Biology Major Electives Requirement, and is also part of the Marine Biology Area of Emphasis.
+
+Prerequisites: BIOL 1108 or 2108H, CHEM 1211 Recommended: MARS 1020, 1025H, or 3450
+
+Professors:
+
+Dr. Patricia L. Yager, Professor (Ph.D., University of Washington, 1996) UGA since 1998 Email: pyager@uga.edu Office: Marine Science Bldg., Rm. 166 Office phone: 706-542-6824; Cell: 706-340-2273
+
+Dr. Daniel Ohnemus, Asst Professor (Ph.D., MIT/WHOI Joint Program, 2013) UGA since 2018 Email: dan@uga.edu Office: Roebling Building, Skidaway Institute of Oceanography, Savannah Office: (912) 598-2414; (rings to cell)
+
+We are happy to answer any questions you have about the course, the course material, or your grade. The best way to reach us outside of class is by email: pyager@uga.edu or dan@uga.edu. We aim to address student questions by the end of the next work day, so if you do not hear from us within ~24 h, please feel free to send another email.
+
+Class time:
+
+11:30 - 12:20 - Monday, Wednesday, and Friday Room 239 - Marine Science Building
+
+We strongly recommend you come to class. We will be providing all lecture material live during class time, as well as some review. Teams and individual students will also make presentations during class. Every student is expected to engage with those presentations during class time.
+
+eLC:
+
+All lecture overheads will be also available (in PDF format) on eLC.
+Supplemental readings will be available (in PDF format) on eLC.
+Objective questions for each unit will be available as study guides in folder on eLC. These questions are very representative of the sorts of questions that will appear on exams.
+For complete information on the use of eLC please logon to your MyUGA (https://my.uga.edu/) and click on eLearning Commons (https://www.elc.uga.edu/). Once you log into eLC you will find all the courses you are authorized to use. Search for or click on the MARS 4200 (or 6200) link and you will immediately see a link to Course Content. If you do not see it, let us know so we can give you access. If you encounter any problems with a file please let us know as soon as possible so we can fix it for everyone.
+
+Texts:
+Everything you need to know for tests will be covered in our lectures, but if you are thinking about a career in Ocean Science, or want to have other resources to support your learning (especially if you don't have much marine science background), then getting the textbook is a good way to go. We will provide PDFs of key content on eLC. If you have not taken Marine Biology (MARS 3450) or if you learn material best by reading, then definitely consider getting:
+Biological Oceanography, 2nd edition. C. B. Miller and P. A. Wheeler (2012). Wiley-Blackwell. ISBN-13: 978-1444333022. There are some new and used ones (and inexpensive electronic options) available at the bookstore or online from Amazon or Wiley ($21-50).
+There is also a publisher's website with downloadable figures and tables: www.wiley.com/go/miller/oceanography
+Additional textbook support:
+Seawater: its composition, properties, and behavior. 2004. The Open University. ISBN 0-7506-3715-3
+Biological Oceanography - An Introduction (2nd Edition). 2011. C.M. Lalli and T.R. Parsons. The Open University. ISBN 978-0-7506-3384-0
+
+Grading:
+
+Point system for final course grade: There is no mandatory curve for this course; everyone can get an A if they work hard and work smart.
+
+A: 95-100: A - : 90-94; B+: 87-89, B: 83-86, B - : 80-82; C+: 77-79, C: 73-76, C - : 70-72; D: 60-69 pts
+
+Class engagement Exam #1 (Sept 20) Exam #2 (Oct 27) Exam #3 (Dec 15 - 12:00 - 3:00) Ocean Monitoring Team Project Research project and presentation: Optional Field Trip:
+
+10 pt. 15 pt. 15 pt. 15 pt. 20 pt. 25 pt. Extra Credit up to 10 pt.
+
+The Objectives will be your key to doing well on the exams. We encourage you to look at them before and after every unit to solidify and reinforce the most important information. These will be the best way to study for the test. If you aren't sure about the answer to an objectives question, work through lecture overheads and put together a draft answer to check with us. We are happy to confirm whether you are on the right track (or not). Please do this in advance of the weekend before any exam.
+We welcome you to contact us if you are concerned about how to improve your grade. Most students do very well at some things (e.g., tests, papers, or presentations) and less well at others, but still do well in the class. The point distribution above prevents any one assignment from negatively impacting your grade. Note that your engagement grade can easily determine the difference between an A and a B. The field trip can also make up to a full grade difference.
+Academic Honesty:
+All students are responsible for maintaining the highest standards of honesty and integrity in every phase of their academic careers. The penalties for academic dishonesty are severe and ignorance is not an acceptable defense. Please make yourself aware of UGA's Academic Honesty policy UGA Student Honor Code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others." A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found at www.uga.edu/ovpi.
+
+Teamwork is a big part of oceanography, so you will be encouraged to work together on projects and objectives, but please credit sources, include all team members in the creation of assignments, and submit work in your own words.
+Academic Accommodation:
+UGA seeks to provide students with disabilities the opportunity to participate fully in its educational programs and services. In keeping with this philosophy, it is the University policy for students with documented disabilities to receive reasonable accommodations by way of access to class information and assessment of their knowledge. Contact DRC (706-542-8719) or visit the website at www.drc.uga.edu.
+Mental Health and Wellness Resources:
+If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.
+UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies).
+If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center.
+For other great resources, check out this article in the Red and Black (it is not just for First Years!):
+https://www.redandblack.com/uganews/resources-for-uga-students-to-thrive-in-their-first-year/article_72b51606b548-11e9-a81f-832866db1efe.html
+Coronavirus Information for Students
+Vaccinations:
+University of Georgia strongly recommends all faculty, staff, and students get vaccinated. If you have not taken the vaccine, they are freely available at the University Health Center and at most neighborhood pharmacies.
+Face Coverings:
+University of Georgia recommends all unvaccinated faculty, staff, students and visitors to wear an appropriate face covering while inside campus facilities/buildings. Even vaccinated personnel may choose to wear a mask when community numbers are high.
+What do I do if I have symptoms?
+Students showing symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5 p.m.). Please DO NOT walk-in. For emergencies and afterhours care, see https://www.uhs.uga.edu/info/emergencies.
+What do I do if I am notified that I have been exposed?
+Students who learn they have been directly exposed to COVID-19 but are not showing symptoms should selfquarantine for 14 days consistent with Department of Public Health (DPH) and Centers for Disease Control and Prevention (CDC) guidelines. Please correspond with your instructor via email, with a cc: to Student Care & Outreach at sco@uga.edu, to coordinate continuing your coursework while self-quarantined. If you develop symptoms, you should contact the University Health Center to make an appointment to be tested.
+How do I get a test?
+Students who are demonstrating symptoms of COVID-19 should call the University Health Center. UHC is offering testing by appointment for students; appointments may be booked by calling 706-542-1162.
+What do I do if I test positive?
+Any student with a positive COVID-19 test is required to report the test in DawgCheck and should self-isolate immediately. Students should not attend classes in-person until the isolation period is completed. Once you report the positive test through DawgCheck, UGA Student Care and Outreach will follow up with you.
+
+Provisional Lecture Schedule (subject to change)
+
+Week
+
+Date
+
+Lecture Topic: (YAGER) (OHNEMUS)
+
+1
+
+W 18-Aug Intro
+
+F 20-Aug Living in Water 1
+
+2
+
+M 23-Aug Living in Water 2
+
+W 25-Aug Major salts, minor salts, trace elements
+
+F 27-Aug Density, vertical profiles , mixed layers
+
+3
+
+M 30-Aug Primary Production 1 - players
+
+W 1-Sep TEAMS
+
+F 3-Sep Primary Production 2 - rates
+
+4
+
+W 8-Sep Limits on PP 1
+
+F 10-Sep Limits on PP 2
+
+5
+
+M 13-Sep Global and vertical distribution of elements
+
+W 15-Sep Thermohaline circulation
+
+F 17-Sep TEAMS
+
+6
+
+M 20-Sep EXAM 1
+
+W 22-Oct Gases
+
+F 24-Oct Carbonate system, pH, OA
+
+7
+
+M 27-Sep Solubility and Biological Pump
+
+W 29-Sep TEAMS
+
+F 1-Oct POC and DOC / trace metals!!!!!
+
+8
+
+M 4-Oct Zooplankton 1
+
+W 6-Oct Zooplankton 2
+
+F 8-Oct Fish 1
+
+9
+
+M 11-Oct Fish 2
+
+W 13-Oct Fisheries
+
+F 15-Oct TEAMS
+
+10
+
+M 18-Oct Mesopelagic 1
+
+W 20-Oct Mesopelagic 2
+
+F 22-Oct Microbial Ecology
+
+11
+
+M 25-Oct Motion in the Ocean 1 -wind driven horizont
+
+W 27-Oct EXAM 2
+
+12
+
+M 1-Nov Motion in the Ocean 2 - wind driven vert
+
+W 3-Nov Intro to biomes + North Atlantic
+
+F 5-Nov TEAMS
+
+Week 13 M 8-Nov Subtropical gyres
+
+W 10-Nov Equatorial
+
+F 12-Nov Sub arctic
+
+Week 14 M 15-Nov Arctic
+
+W 17-Nov Southern Ocean
+
+F 19-Nov TEAMS
+
+Week 15 M 22-Nov TEAMS (remote)
+
+Week 16 M 29-Nov 4 presentations
+
+W 1-Dec 4 presentations
+
+F 3-Dec 4 presentations
+
+Week 17 M 6-Dec 4 presentations
+
+Week 18 W 15-Dec Final Exam (12-3); 10 presentations
+
+Assignment Due
+OMR: Questions & Data
+OMR: First data report Research topic due
+OMR: Second data report
+OMR: Third data report
+OMR: Fourth data report
+Abstract+Reference list OMR: Final report OMR: Final report
+Research presentations Research presentations Research presentations Research presentations Research presentations
+
+MARS 4200/6200 - Fall 2021 Research Project
+Assignment. Research a biological or chemical oceanographic question of your choice.
+Choose a topic. Start with what interests you or select from a list we provide. Think about what you find to be the most interesting or exciting aspect of marine science. This is your chance to explore! Follow your curiosity! There are no wrong answers here unless it has nothing to do with life in the ocean.
+Hint: log on to UGA Galileo (https://www.libs.uga.edu/galileologin), choose the Web of Science database. Type in some key words and then BROWSE. Take a few hours and just read the titles and abstracts of recent articles. One trick if you have too many hits is to arrange papers by the number of citations. Usually, the highest cited paper is the most important. Then look to see who cited that paper recently to bring your findings up to the present day.
+Narrow down your interests, download a few papers that get you excited, and then email or talk to one of us to discuss your topic choice. Go to the Science Library and talk to the science librarian if you are really stuck, or zoom with us after class sometime.
+Format. Present your research presentation in the style of a talk given at a national scientific meeting.
+1) submit your topic, frame as a question or a hypothesis (DUE by October 24)
+2) submit an abstract and a list of at least five peer-reviewed references (DUE by November 15)
+3) give an oral presentation about your research to the whole class (Last week of class) a) a brief introduction b) research sections reviewing key findings from the literature or data from the internet. c) a discussion where you synthesize what you learned, d) a brief conclusion
+Your presentation should be 10 (� 1) minutes in length. You can use PowerPoint or any other presentation software. Ask us for assistance. As we do in science, your grade will be based on peer-review.
+References should be listed using the Name and Year system (We will show you some examples of this). You should cite no fewer than 5 primary references (from peer-reviewed scientific journals). Citations of material found on the web, in textbooks, or in gray literature may be acceptable for this project, but these do not count as part of the 5-paper minimum. You can update the list as needed.
+Grading. This assignment is worth 25% of your grade. Presentations will be graded according to the rubric on the following page. We will also use the scientific peer review system: students will grade each other's presentation using the attached sheet.
+Presentation tips.
+� Before finalizing your presentation, ask yourself if it has the following: 1. An opening that catches the audience's attention; 2. A strong thesis; 3. A balance of evidence and opinion; 4. Selectively chosen examples; 5. A conclusion that leaves the audience with a clear understanding of the writer's point of view;
+� Avoid vague generalizations and overstatements (e.g., "Arctic microbiology is the most important field of study in oceanography.")
+� Use topic sentences to give guidance to your audience. Tell us where you are going. Tell us where you are. Tell us where you have been.
+� Before discussing something, say why it is relevant to the topic.
+� Proof read your reference list carefully using the original papers. Do not trust the accuracy of citations in other papers.
+
+MARS 4200/6200 Fall 2021 Research Presentation Reviewer Form
+
+Reviewer ID (last four digits of your student #) __________________
+
+Speaker's Name: __________________________
+
+Date/Time:_______________
+
+CRITERIA
+
+SCORE (8 = excellent, 6 = very good, 4 = good, 2
+= fair, 0 = poor; circle one)
+
+Choice of Topic - Was the topic relevant to the Marine Environment? Was it interesting to you? Did the speaker explain why they thought it was interesting?
+
+87 6 5 4 3 2 1 0
+
+Clarity - Did you understand the point of their talk? Did the speaker speak clearly and loudly enough? Were their graphics well-chosen and easy enough to understand?
+
+87 6 5 4 3 2 1 0
+
+Depth - Did the speaker cover the topic thoroughly? Do you feel like you learned something new with enough detail to understand it?
+
+87 6 5 4 3 2 1 0
+
+Organization - Did the presentation follow a logical progression? Did the speaker tell you what to expect at the beginning of the talk? Did their conclusions reiterate the main points?
+
+87 6 5 4 3 2 1 0
+
+Focus - Did the speaker address the topic that they said they would? Did they avoid presenting too much unnecessary detail?
+
+87 6 5 4 3 2 1 0
+
+Total score (sum of five numbers; out of 40 points): ______________________ What did the speaker do well? What could they improve? Please make some constructive comments or suggestions for improvement:
+
+MARS 4200/6200 - Fall 2021
+REAL TIME OCEANOGRAPHY MONITORING PROJECT
+One of the greatest developments in oceanography during the past decade is the availability of online data sets. The are often generated by 1) frequent sampling by humans in the same spot, forming a time series, 2) moored instruments that transmit data to shore continuously, 3) satellite data collected usually daily or at least weekly, or 4) GPS tags attached to animals for research purposes. Many of these data are available in real time or near-real time online for our use.
+This assignment is designed to give you an opportunity to explore something you care about. As with a lot of oceanographic research, multiple data sets and multiple investigators are required to make progress. No marine scientist is an island. Thus, we will work in teams or 3-4 students with multiple streams of real data.
+The main goal of this assignment is to familiarize you with the process of collecting and interpreting scientific data. You will spend the semester focused on a topic of your choice, monitoring the data from a web site in "real time" OR processing previously collected time series data from an ocean database.
+Another goal of this assignment is to show you that real data are not always as straightforward as what you see in textbooks. Welcome to the life of a scientist!
+First, assemble a team. Frame a question. Search the web or talk with us about possible data options, and then track the data for a while to answer your question. If you are working in real time, you should monitor the data as frequently as needed to get a sense of the variability. Some measurements will change rapidly, others less so. There are many websites that share data collected on the state of the ocean as well as marine animal tags. Keep in close touch with us as the semester progresses. Some of these sites are more reliable than others.
+Approximately every other week, each team should hand in a write up with an updated graphic to answer the team question. We recommend that you copy all your graphics into MS PowerPoint or create a web page for comparative purposes to make your final report easier. During class discussion times, teams will be given an opportunity to make a short presentation to the class about what they are finding. At the end of the semester, each team will present to the class their final results and hand in a brief summary (2 pages of text, plus selected figures) of their findings, including an analysis of the data from each write up.
+Feedback will be given by both peers and faculty members after each presentation.
+This assignment is worth 20 percent of your total grade and the number of points your team receives depends on:
+
+CRITERIA
+
+SCORE (8 = excellent, 6 = very good, 4 = good, 2
+= fair, 0 = poor; circle one)
+
+Reliability (Was the team prepared to present something each time?)
+
+87 6 5 4 3 2 1 0
+
+Teamwork (Did everyone on the team clearly contribute?),
+
+87 6 5 4 3 2 1 0
+
+Creativity and risk taking (Did the team investigate the data beyond the obvious?)
+Time management (Did you work consistently through the semester?)
+
+87 6 5 4 3 2 1 0 87 6 5 4 3 2 1 0
+
+Resilience (could you roll with the challenges of real time data)
+
+87 6 5 4 3 2 1 0
+
+Total score (sum of five numbers; out of 40 points): ______________________
+
+

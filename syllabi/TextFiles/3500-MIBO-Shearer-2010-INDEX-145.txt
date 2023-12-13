@@ -1,0 +1,75 @@
+Introduction to Microbiology MIBO 3500 Summer 2010
+404B Biological Sciences Mon/Tues/Wed/Thurs/Fri 10:30 - 11:30 am
+Lecture Instructor: Dr. Julie Shearer 263 Biological Sciences Building Email: jshearer@uga.edu
+Instructor Office Hours: In the Microbiology Learning Center Rm. 209 Biological Sciences (back room) on Mondays and Thursdays 11:45-12:45, or by appointment.
+TA: Chrissy Casey Email: clcasey@uga.edu TA Office Hours: Tuesdays 12:00-1:30 in 209 Biological Sciences
+Textbook: Prescott, Harley & Klein's Microbiology, 7th edition by Willey et al., McGraw Hill College Publishing.
+Instructor's Notes: The lecture notes I use in class will be available to you via eLC by midnight (often earlier) prior to the day of each class. These are a supplement to the course, not a substitute for attending lecture. Having my slides with you in class will make it easier to take notes, but additional material and examples are given verbally that you'll want to add.
+Updates and Communication: eLC will be used for posting grades online. If I need to mass communicate (i.e. send a reminder, clarify something I said in class, etc.), I will post announcements on eLC. The discussion and chat areas of eLC are great tools for peer assistance, so use them to your benefit, but the TA and I will not check them regularly. Instead, if you have a question, please email me directly and put MIBO3500 in the subject line.
+Attendance: Students are expected to attend all lectures and are responsible for all content and instructions given during lecture as well as corrections and additions to posted notes that may be given.
+Academic Honesty: All students are responsible for knowing the University's policy on academic honesty. All academic work submitted in this course must be your own unless you have received my permission to collaborate and have properly acknowledged receiving assistance. It is my responsibility to uphold the University's academic honesty policy and report my belief of dishonesty to the Office of the Vice President for Instruction. To review the UGA Academic Honesty Policy, please see http://www.uga.edu/ovpi/honesty/ahpd.htm
+Exams: Tests will focus on material covered in class. You are responsible for learning the corresponding textbook material on the topics covered in class. There will be three exams plus the final. Each exam, including the final, will be recorded as a percentage and will have equal weight. Exams will be a mixture of multiple choice, matching, and
+1
+
+short/long answer questions. If for some reason you must miss an exam, you must inform Dr. Shearer at least 2 weeks in advance and, in some cases, you can arrange to take the exam early. Otherwise, that will be your dropped exam grade (see below). You may NOT drop the final exam. All students are required to take the final exam.
+
+All questions about exam grading must be submitted in writing within one week of the return of the exam - anything later than that can be discussed, but no points will be awarded.
+
+Extra Credit: Over the course of the semester, pop quizzes will be given during lecture. The quizzes are extra credit only and will not negatively affect final grades. The weight of each extra credit question depends on the total number of pop quizzes given during the semester and will not be determined until then (but will not exceed a total of 4% or 12 points added to the possible 300, see below).
+
+Letter Grades: The total number of points available for this course is 300, excluding extra credit. (Students enrolled in the Honors section or MIBO7500 will have 400 possible points and an additional assignment of a term paper or presentation which must be completed by the end of classes.) The final course grades will be decided on the percentage of your two best exam scores and the final exam plus extra credit points, divided by your total points possible (300 or 400).
+
+Letter grade assignments will be made according to the following scale*:
+
+A = (4.0) = 93.0-100% A- = (3.7) = 90.0 - 92.9%
+B+ = (3.3) = 87.0 - 89.9% B = (3.0) = 83.0 - 86.9% B- = (2.7) = 80.0 - 82.9%
+
+C+ = (2.3) = 77.0 - 79.9% C = (2.0) = 73.0 - 76.9% C- = (1.7)= 70.0 - 72.9%
+D = (1.0) = 60.0 - 69.9%
+F = (0.0) = 59.0% or below
+
+*Rounding will be done to the nearest 0.1% - e.g. 92.44% will be viewed as a 92.4% in final letter considerations.
+
+2
+
+MIBO 3500 SUMMER SEMESTER 2010 **subject to change as necessary**
+
+DATE F 6-4 M 6-7 T 6-8 W 6-9 R 6-10 F 6-11 M 6-14 T 6-15 W 6-16 R 6-17
+F 6-18 M 6-21
+T 6-22 W 6-23 R 6-24 F 6-25
+M 6-28
+T 6-29 W 6-30 R 7-1 F 7-2 M 7-5 T 7-6
+
+TEXTBOOK CHAPTER AND TOPIC Ch. 1 History & Scope of Microbiology Ch. 2 Microscopy Ch. 2 cont.; Sections of Ch. 19 Microbial Taxonomy Ch. 19 cont.; Ch. 3 Prokaryotic Cell Structure & Function Ch. 3 cont. Ch. 3 cont.; Ch. 5 Microbial Nutrition Ch. 5 cont. Ch. 6 Microbial Growth Ch. 6 cont. Ch. 6 cont.; Ch.7 Control of Microorganisms by Physical and Chemical Agents Ch. 7 cont. EXAM 1 Covers Ch. 1-2, 19, 3, 5-7 Ch. 9 Metabolism: Energy Release and Conservation Ch. 9 cont.; Ch. 10 Metabolism: Biosynthesis Ch. 10 cont. Ch. 11 Microbial Genetics: Gene Structure, Replication, and Expression Ch. 11 cont.; Ch. 12 Microbial Genetics: Regulation of Gene Expression Ch. 12 cont. Ch. 12 cont.; Ch.13 Recombination and Plasmids Ch. 13 cont. Ch. 13 cont. NO CLASS- 4th of July Holiday Ch. 16 Viruses: Introduction and General Characteristics; Ch. 17 Viruses of Bacteria and Archaea
+
+3
+
+DATE W 7-7
+R 7-8 F 7-9
+M 7-12 T 7-13 W 7-14
+R 7-15 F 7-16 M 7-19 T 7-20
+W 7-21
+R 7-22 F 7-23 M 7-26 T 7-27 W 7-28 R 7-29
+
+TEXTBOOK CHAPTER AND TOPIC EXAM 2 Covers Ch. 9-13
+Ch. 17 cont.
+Ch. 18 Viruses: Eukaryotic Viruses (supplemented by Ch 37: Human Disease Caused by Viruses and Prions)
+Ch. 18 cont.; Ch. 34 Antimicrobial Chemotherapy
+Ch. 34 cont.
+Sections of Ch. 30 Microbial Interactions; Ch. 31 Nonspecific Host Resistance
+Ch 31 cont.
+Ch. 31 cont.; Ch. 32 Specific Immunity
+Ch. 32 cont.
+EXAM 3 Covers Ch. 16-18, 37, 34, 30, and 31
+Ch. 32 cont.; Sections of Ch. 36 Epidemiology of Infectious Disease
+Ch. 33 Pathogenicity of Microorganisms
+Ch. 33 cont.
+Sections of Ch. 38 Human Diseases Caused by Bacteria
+Ch. 38 cont.; Sections of 40/41 Food & Industrial Microbiology
+Ch. 40/41 cont.
+FINAL EXAM 12:00-1:30 PM
+50%: Cumulative 50%: Covers Ch. 32, 36, 33, 38, 40/41
+
+4
+
+

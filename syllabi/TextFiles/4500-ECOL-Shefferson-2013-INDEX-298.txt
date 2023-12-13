@@ -1,0 +1,191 @@
+EVOLUTIONARY ECOLOGY ECOL 4500 / 6500
+Lecture: TR 12:30-1:45pm Discussion: W 11:15am-12:05pm Ecology Rm. 117 (Seminar Room)
+Instructor: Prof. Richard P. Shefferson Odum School of Ecology Ecology Rm. 121 dormancy@uga.edu
+Office hours: T Th 1:45-3:00pm Ecology Rm. 121 (right outside of the Seminar Room)
+Objectives: This class will explore the fundamental concepts and analytical techniques used in evolutionary ecology. It is intended not to be an introduction to behavior ecology, as some evolutionary ecology courses are, but a thorough exploration of general themes that cover all organisms. Oriented for the ecology major, this course will provide students with content designed to show how evolutionary concepts may be applied to ecological questions. Theory and applications will be covered, including examples in conservation, phylogenetics, and community ecology.
+Course Requirements: It is assumed that students taking this course understand the basics of evolution and population ecology. Coursework equivalent to GENE 3000 and/or ECOL 3500 should provide this background. Students without this coursework may still be accepted into the class at the instructor's discretion on a case-bycase basis, and some readings are on the ELC website to help students strengthen this background. Attendance is absolutely essential to succeeding in this course. The fact that we do not use a standard textbook for this course underscores the importance of attendance.
+Course Grading: Final grade will be calculated as a weighted average of the following:
+
+Weekly assignments 10%
+
+Midterm
+
+20%
+
+Final exam
+
+20%
+
+Final paper
+
+25%
+
+Participation
+
+10%
+
+Discussion
+
+15%
+
+Grade bands
+
+A
+
+at or above 93.4%
+
+A- 90 - 93.3%
+
+B+ 87.7 - 89.9%
+
+B
+
+83.4 - 87.6%
+
+B- 80 - 83.3%
+
+C+ 77.7 - 79.9%
+
+C
+
+73.4 - 77.6%
+
+C- 70 - 73.3%
+
+D
+
+60 - 69.9%
+
+F
+
+less than 60%
+
+Lecture Structure: Each class meeting is 1hr15min long. To create the most conducive learning experience, class will typically include a roughly 50-60min long lecture followed by a 15-25min group-based exercise.
+
+In addition to the lecture, we have a 50min discussion section each week. This discussion will generally be focused on the weekly readings, but will also include discussion of the assignments in the course. Students are expected to lead and participate in discussions, with the exact number of discussions led by each student determined by the number of students enrolled in each class.
+
+Course Readings: There is no particularly good textbook that can be used for this course, and so I have developed a schedule of course readings that incorporates many sources and is subject to change. Students will be expected to read and understand all of these readings.
+
+Assignments: This course includes weekly assignments. Each assignment is a review of an assigned paper for that week, and should be 1-2 paragraphs long. The paper must be an experimental or theoretical paper, NOT A REVIEW OR SYNTHESIS PAPER. In each summary, please: 1) identify the research question, 2) explain the methods, 3) relate the main results, 4) list the key inferences, 5) identify what is important about the paper, and 6) identify what could have been done better. The write-up for each assignment should be in Microsoft Word or Adobe PDF format (NO OTHER FORMATS WILL BE TAKEN!!!!!). All assignments should be submitted electronically on ELC. Students will also be required to write two class papers, and to present their final paper to the class. These papers differ for students enrolling in the two different sections of the course:
+
+-Undergraduates taking the course for 4500 credit: The term paper will be a synthetic review on a topic in evolutionary ecology, in which the student not only summarizes the literature on the subject but also advocates a position for further research based on an assessment of current gaps and problems in the science. An example is a demonstration of a model, such as how modern variants of evolutionary games may be used to understand the evolution of parasitism or disease. The format should include an Introduction and a Conclusion section, in addition to material that would flesh out the paper between these sections. This should be double-spaced, in a 1012 point font, and 12-15 pages long (points will be deducted for papers that are either too short or too long), with a minimum of 15 citations from the primary literature. The citations and literature cited section should be in the format of either Nature or Ecology.
+
+-Graduate students taking the course for 6500 credit: The term paper should be a scientific paper on a topic in evolutionary ecology, involving either an analysis of the student's own data or a re-analysis of data obtained from the literature. This paper should be written in standard scientific style (Intro, Methods, Results, Discussion), and should be double-spaced, in a 10-12 point font, and 15-20 pages long (points will be deducted for papers that are either too short or too long),. A minimum of 20 citations from the primary literature should be included. The citations and literature cited section should be in the format of either Nature or Ecology.
+Optional: Students may choose to a research proposal for extra credit. Students in the 4500 section should present an interesting problem in evolutionary ecology and proposes a study in order to deal with that problem. This paper should be written in scientific format (i.e., Intro, Methods, Discussion, Literature Cited), and should be 6-8 double-spaced pages written in a 10-12 point font. Graduate students may do this but as a small grant proposal written in the style of a NSF DDIG, though it should be double-spaced, 8-10 pages long, and written in a 10-12 point font (please see the NSF website for details about the NSF DIGG format). The focus should be a small project covering a topic in evolutionary ecology. The total extra credit to be earned is up to 7% onto the final class grade, depending on the quality of the paper.
+Late Policy: Assignments must be received via ELC by Professor Shefferson by 5pm on the day that the assignment is due. Late assignments are strongly discouraged in this course, and will be penalized. Students will lose 10% of the maximum possible for each day that an assignment is late. Final papers WILL NOT BE ACCEPTED LATE, resulting in a 0% to anyone not handing them in on time.
+Official University Policy: The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary. All academic work must meet the standards contained in A Culture of Honesty. Students are responsible for informing themselves about those standards before performing any academic work.
+
+Semester lecture and discussion schedule (please note that readings are posted on the ELC website):
+
+Class
+1 D1
+2 3 D2
+4 5 D3
+6 7 D4
+8 9 D5
+10 11 D6
+12 13 D7 14 15 D8
+16 17 D9
+18 19
+D10
+
+Date Topic
+
+10 Jan 11 Jan
+12 Jan 17 Jan 18 Jan
+19 Jan 24 Jan 25 Jan
+26 Jan 31 Jan 1 Feb
+2 Feb 7 Feb 8 Feb
+9 Feb 14 Feb 15 Feb
+16 Feb 21 Feb 22 Feb 23 Feb 28 Feb 29 Feb
+1 Mar 6 Mar 7 Mar
+8 Mar 20 Mar
+21 Mar
+
+Introduction to Evolutionary Ecology 4500: Roach 1993, Reznick et al 2004, Read Lynch Thomas 2009 6500: Vaupel et al 2004 Life histories: Aging (Classic theory) Life histories: Aging (Contemporary theory) 4500: Spitze 1991, Reznick Nunney Tessier 2000, Roach Ridley Dudycha 2009 6500: Milot et al 2011 Life histories: Trade-offs Life histories: Variable environments 4500: Philippi Seger 1989, Roff Bradford 2000, Velando Drummond Torres 2006 6500: Koons Metcalf Tuljapurkar 2008 Life histories: Predictable environments Life histories: Phenotypic plasticity 4500: Nussey Wilson Brommer 2007, Wilbur Collins 1973, Shefferson Roach 2010 6500: Beaumonte-Barrientos et al 2010 Life histories: Reproductive schedules Life histories: Demography and population dynamics 4500: Metcalf Pavard 2007, Kokko Lopez-Sepulcre 2007, Coulson et al 2011 6500: Doebeli Dieckmann 2003 Life histories: Adaptive dynamics Life histories: Eco-evolutionary dynamics 4500: Schoener 2011, Yoshida et al 2003, Shefferson Roach 2012 6500: Ellner Geber Hairston 2011 Macroevolution: Phylogenetics I (Dr. Patrick Stephens) Macroevolution: Phylogenetics II (Dr. Patrick Stephens) Review for midterm Macroevolution: Life histories Midterm 4500: Gittleman 2001, Losos 1992, Huang et al 2012 6500: Freckleton 2009 Biotic interactions: Intro and Game theory Biotic interactions: Game theory 4500: Hansen 1986, Stuart-Fox 2006, Burnham 2007 6500: McNamara et al 2009 Biotic interactions: Cooperation & cheating Biotic interactions: Economic models (Dr. Charles Cowden) 4500: Bronstein 2001, Simms et al 2006, Stanton
+
+Assignments due
+Summary D2 Summary D3 Summary D4 Summary D5 Summary D6
+Summary D8 Summary D9 Final paper topic Summary D10
+
+Palmer 2011
+
+6500: Doebeli Knowlton 1998
+
+20
+
+22 Mar Biotic interactions: Evolutionary ecology in disease (Dr.
+
+Daniel Streiker)
+
+21
+
+27 Mar Biotic interactions: Altruism & spite
+
+D11 28 Mar 4500: Gardner West 2009, TBA
+
+6500: Boyd Gintis Bowles Richerson 2003
+
+22
+
+29 Mar Biotic interactions: Specialization
+
+23
+
+3 Apr Biotic interactions: Evolution of broad interactions
+
+D12 4 Apr 4500: Shefferson et al 2007, Poore Hill Sotka 2008,
+
+Gomez Verdu Perfeccti 2010
+
+6500: Weiblen et al 2006
+
+24
+
+5 Apr Biotic interactions: Geographic mosaics
+
+25
+
+10 Apr Biotic interactions: Community evolution
+
+D13 11 Apr Biotic interactions: Community evolution II
+
+26
+
+12 Apr Guest lecture: Orchid mycorrhiza and population
+
+genetics (Tyler Kartzinel, UGA, Odum School)
+
+27
+
+17 Apr Speciation
+
+D14 18 Apr 4500: Thompson 2009, Emerson Gillespie 2008, Urban
+
+et al 2008
+
+6500: TBA
+
+28
+
+19 Apr Guest lecture: Sexual selection (Dr. Vanessa Ezenwa)
+
+29
+
+24 Apr Biotic interactions: Eco-evolutionary community &
+
+ecosystem dynamics
+
+D15 25 Apr Review session
+
+30
+
+26 Apr Evolutionary ecology of disease (Dr. Andrew Park)
+
+Final 3 May Final exam, 12-3pm, Ecology 117
+
+Opt. research proposal Summary D11 Summary D12
+Summary D13
+Final paper due
+
+

@@ -1,0 +1,196 @@
+ECOL 4000/6000 Population and Community Ecology Fall 2022
+Time: Tu Th 2.20 - 3.35 pm. (3 credit hours) Place: Science Learning Center, Room 345
+Instructors: John Drake, Ph.D. & Andrew Park, Ph.D. Email: jdrake@uga.edu, awpark@uga.edu
+Office hours: By appointment
+Overview Population and community ecology are active fields of research with important applications for management and conservation. This course links conceptual issues and basic models with data and field approaches relevant for understanding population and community dynamics in time and space. Approximately, the first third of the course focuses on the birth, death, and movement of organisms, with particular reference to the population dynamics of single-species; the middle third of the course focuses on interactions among species, including competition and predation; and the final third of the course focuses on the causes and consequences of biodiversity (the co-occurrence of multiple species).
+Format The course format includes lectures, readings, quizzes, demonstrations, exercises, discussions, group activities and homework assignments. Throughout the semester, students will work on group projects, with several class periods dedicated to group project development and data analysis.
+Text Pre-recorded lecture videos and readings will be uploaded to the course eLC page approximately one week before they are due to be watched/read, along with occasional readings from the primary literature. Watching & reading of posted material prior to the scheduled time is essential. Short quizzes will be given on eLC based on their content and will be due by the beginning of class.
+Group work Students will be assigned to small groups and will work together through the semester developing and answering research questions related to the population and community ecology of natural systems. Students will work with real data sets and, in consultation with instructors, will develop a presentation, given to the class towards the end of the semester.
+Prerequisites This course assumes you are familiar with general ecology and biology, and have taken ECOL 3500.
+Attendance (please also see final page for more coronavirus information) It is important that students keep pace with the material in class. We have developed the class to maximize the value of in-person class time. Pre-recorded lectures and posted readings give students
+
+enhanced flexibility about how to organize their time. In person classroom sessions will be active, including discussions, Q&A, worked examples, in-class homework and project development. If a student is unable to attend a classroom session, we ask that they check in with instructors as soon as possible thereafter (beginning with an email) so that they catch up with material. They should also check in with their project group.
+
+Evaluation Short quizzes will be taken whenever there is at-home preparation (recorded lectures/readings). Students can take each quiz twice, and may keep the better of their two scores. Additionally, there will be 15 homework assignments (one per topic on the syllabus). In most cases, students will be able to start (or in some cases, even finish) homeworks in class, and instructors will be available to help students work through more challenging questions. Homeworks will typically be due one week after they are assigned. There will be two exams during class periods (September 22nd & October 27th) and a final exam on December 13th (3:30-6:30pm). Exams are non-cumulative and will be taken in class. Questions will include a mix of True/False, Multiple Choice, and Short Answer.
+
+Grade calculation 10% Exam 1 10% Exam 2 10% Final exam
+
+10% Quizzes 30% Homework 30% Presentation of group project
+
+Grade Scale
+
+A
+
+94-100%
+
+A- 90-93%
+
+B+ 87-89%
+
+B
+
+84-86
+
+B- 80-83
+
+C+ 77-79
+
+C
+
+74-76
+
+C- 70-73
+
+D+ 67-69
+
+D
+
+64-66
+
+D- 60-63
+
+F
+
+less than 60%
+
+Fractional final grade percentages will be rounded up (e.g., 89.1%=90%)
+
+ECOL 6000 Students Students taking the class at the 6000 level will additionally prepare with instructors to lead the four class paper discussions. They will also have one more required Short Answer response on each exam, compared to ECOL 4000 students.
+
+Timetable
+
+Date
+
+Topic
+
+Due before class In class activity
+
+8/18/2022 1. Population growth/decline
+
+R1,L1,Q1,H1
+
+8/23/2022 2. Density dependence & Allee effect
+
+R2, L2, Q2
+
+H2
+
+8/25/2022 PROJECT PREP (INTRO & CODING)
+
+H1
+
+8/30/2022 3. Age structure
+
+H2, R3, L3, Q3
+
+H3
+
+9/1/2022 4. Metapopulation
+
+R4, L4, Q4
+
+H4
+
+9/6/2022 PROJECT PREP (CODING)
+
+H3
+
+9/8/2022 PAPER DISCUSSION 1 (extinction)
+
+H4, Read paper
+
+9/13/2022 5. Interspecific competition (L-V)
+
+R5, L5, Q5
+
+H5
+
+9/15/2022 PROJECT DEVELOPMENT
+
+9/20/2022 6. Resource competition (R* theory)
+
+H5, R6, L6, Q6
+
+H6
+
+9/22/2022 EXAM 1
+
+9/27/2022 7. Host-parasite interactions (SIR)
+
+H6, R7,L7,Q7
+
+H7
+
+9/29/2022 PROJECT DEVELOPMENT
+
+10/4/2022 8. Host-parasitoid interactions
+
+H7, R8, L8, Q8
+
+H8
+
+10/6/2022 PAPER DISCUSSION 2 (Covid-19)
+
+Read paper
+
+10/11/2022 9. Predator-prey
+
+H8, R9, L9, Q9
+
+H9
+
+10/13/2022 PROJECT DEVELOPMENT
+
+10/18/2022 10. Indirect interactions: Trophic Cascades & Apparent Competition
+10/20/2022 PAPER DISCUSSION 3 (Cryptic trophic cascades)
+
+H9, R10, L10, Q10 H10 Read paper
+
+10/25/2022 11. Measuring Biodiversity: Local Diversity & Latitudinal Gradients
+10/27/2022 EXAM 2
+
+H10, R11, L11, Q11 H11
+
+11/1/2022 12. Diversity in Space: Island Biogeography & Metacommunities H11, R12, L12, Q12 H12
+
+11/3/2022 PROJECT DEVELOPMENT
+
+11/8/2022 13. Diversity in time: Community Assembly & Succession
+
+H12, R13, L13, Q13 H13
+
+11/10/2022 PROJECT DEVELOPMENT
+
+11/15/2022 14. Biodiversity Function: Stability
+
+H13, R14, L14, Q14 H14
+
+11/17/2022 PROJECT DEVELOPMENT
+
+11/22/2022 15. Biodiversity Function: Productivity
+
+H14, R15, L15, Q15 Review
+
+11/24/2022 THANKSGIVING
+
+11/29/2022 PAPER DISCUSSION 4 (Diversity-disease debate) 12/1/2022 PROJECT PRESENTATIONS
+
+Read papers
+
+Discussion & Debate
+
+12/13/2022 EXAM 3 ( 3:30-6:30pm)
+
+Fine Print University Honor Code & Academic Honesty As a University of Georgia student, you have agreed to abide by the UGA academic honesty policy. UGA Student Honor code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others". A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found at https://honesty.uga.edu/
+You are responsible for informing yourself about the university's standards before performing any academic work. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Please ask if you have questions related to course assignments and the academic honesty policy. Any form of possible academic dishonesty will be reported to the UGA Office of the Vice President for Instruction.
+Accommodations for Disabilities If you require a disability-required accommodation, it is essential that you register with the Disability Resource Center (Clark Howell Hall; https://drc.uga.edu; 706-542-8719 [voice]; 706542-8778 [TTY]) and notify me of your eligibility for reasonable accommodations. We can then plan how best to coordinate your accommodations. Please note that accommodations cannot be provided retroactively.
+Mental Health and Wellness Resources  If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.  UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies).  If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center.  Additional resources can be accessed through the UGA App.
+
+FERPA Notice The Federal Family Educational Rights and Privacy Act (FERPA) grants students certain information privacy rights. To comply with FERPA, all communication that refers to individual students must be through a secure medium (UGAMail or eLC) or in person. Instructors are not allowed to respond to messages that refer to individual students or student progress in the course through non-UGA accounts, phone calls, or other types of electronic media. For details, please visit https://apps.reg.uga.edu/FERPA.
+Syllabus Disclaimer The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+Other helpful optional statements: eLearning Commons: eLearning Commons (eLC) is an online course environment where you can download digital versions of course materials. Your name and email will be automatically added to the eLC course site. You can access eLearning Commons by signing in with your UGA MyID and password.
+Academic Coaching - assistance with time management, test and performance anxiety, notetaking, motivation, text comprehension, test preparation, and other barriers to success at UGA. Link for the Office of Academic Enhancement.
+Religious observances: The University of Georgia recognizes students' rights to engage in religious practice. Students who will miss class to observe religious activities must contact the instructor prior to the observance and make arrangements to complete missing assignments or assessments.
+Monitoring conditions: Note that the guidance referenced in this syllabus is subject to change based on recommendations from the Georgia Department of Public Health, the University System of Georgia, or the Governor's Office or. For the latest on UGA policy, you can visit http://coronavirus.uga.edu.
+
+

@@ -1,0 +1,188 @@
+GENE 3200 - Genetics Fall 2020
+Syllabus GENE 3200 - Genetics Formerly listed class time: Tu Th 11:00-12:15 pm, Biological Sciences, Rm 404B Instructors Mike McEachern C324 Davison Life Sciences Email: mjm@uga.edu
+Fall 2020 COVID-19 adjustments for this course: Lectures will be pre-recorded and available for viewing and downloading on eLC. Discussion sections will be done synchronously online in the scheduled times through Zoom. Exams (all five) will be done on the scheduled days online vis eLC. Office hours will be available from 11:00 to 12:00 on Tuesdays and Thursdays or at other times by appointment. Office hours will be conducted remotely using Zoom.
+General UGA Coronavirus Information for Students
+Face Coverings:
+Effective July 15, 2020, the University of Georgia--along with all University System of Georgia (USG) institutions--requires all faculty, staff, students and visitors to wear an appropriate face covering while inside campus facilities/buildings where six feet social distancing may not always be possible. Face covering use is in addition to and is not a substitute for social distancing. Anyone not using a face covering when required will be asked to wear one or must leave the area. Reasonable accommodations may be made for those who are unable to wear a face covering for documented health reasons. Students seeking an accommodation related to face coverings should contact Disability Services at https://drc.uga.edu/.
+DawgCheck:
+Please perform a quick symptom check each weekday on DawgCheck--on the UGA app or website--whether you feel sick or not. It will help health providers monitor the health situation on campus: https://dawgcheck.uga.edu/
+What do I do if I have symptoms?
+Students showing symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5 p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see https://www.uhs.uga.edu/info/emergencies.
+What do I do if I am notified that I have been exposed?
+1
+
+GENE 3200 - Genetics Fall 2020
+Students who learn they have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 14 days consistent with Department of Public Health (DPH) and Centers for Disease Control and Prevention (CDC) guidelines. Please correspond with your instructor via email, with a cc: to Student Care & Outreach at sco@uga.edu, to coordinate continuing your coursework while self-quarantined. If you develop symptoms, you should contact the University Health Center to make an appointment to be tested. You should continue to monitor your symptoms daily on DawgCheck.
+How do I get a test?
+Students who are demonstrating symptoms of COVID-19 should call the University Health Center. UHC is offering testing by appointment for students; appointments may be booked by calling 706-542-1162.
+
+UGA will also be recruiting asymptomatic students to participate in surveillance tests. Students living in residence halls, Greek housing and off-campus apartment complexes are encouraged to participate.
+What do I do if I test positive?
+Any student with a positive COVID-19 test is required to report the test in DawgCheck and should self-isolate immediately. Students should not attend classes in-person until the isolation period is completed. Once you report the positive test through DawgCheck, UGA Student Care and Outreach will follow up with you.
+
+Teaching Assistants: Benjamin Luttinen (Benjamin.Luttinen@uga.edu) Audrey Calvird (Audrey.Calvird@uga.edu)
+Office hours of TAs (to be held via Zoom) will be posted on eLC
+
+Schedule. Shown is the schedule that would be maintained if the class was not online. It is recommended that students more or less retain this schedule with lectures, reading and homework to be prepared for the exams. What chapters will be covered on each exam is listed on the line for that exam.
+
+Day Class Date
+
+Th
+
+1
+
+Aug 20
+
+Tu
+
+2
+
+Aug 25
+
+Th
+
+3
+
+Aug 27
+
+Tu
+
+4
+
+Sept. 1
+
+Th
+
+5
+
+Sept 3
+
+Tu
+
+6
+
+Sept 8
+
+Th
+
+7
+
+Sept 10
+
+Th *** Sept. 10
+
+Topic (tentative) Course intro /Intro to Genetics; Chromosomes, mitosis (chaps. 1-2)
+Chromosomes, Mitosis, Meiosis (chap. 2) Mendel and heredity (chap. 3)
+Mendel/heredity (chap. 3); Sex determination. & sex-linked traits (chap. 4) Extensions of genetic principles (chap. 5)
+Extensions of genetic principles (chap. 5); Pedigree analysis (chap. 6) Linkage, gene mapping (chap. 7)
+*** Exam 1 (chapters 1-6) evening ***
+
+2
+
+Day Class
+
+Tu
+
+9
+
+Th 10
+
+Tu 10
+
+Th 11
+
+Tu 12
+
+Th 13
+
+Th ***
+
+Tu 14
+
+Th 15
+
+Tu 16
+
+Th 17
+
+Tu 18
+
+Th 19
+
+Th ***
+
+Tu 20
+
+Th 21
+
+Tu 22
+
+Th 23
+
+Tu 24
+
+Th 25
+
+Tu 26
+
+Th 27
+
+Th ***
+
+Tu 28
+
+Th
+
+Tu 29
+
+Th 30
+
+Tu ***
+
+Date Sept 15 Sept 17 Sept 22 Sept 24 Sept 29 Oct. 1 Oct. 1 Oct 6 Oct 8 Oct 13 Oct 15 Oct 20 Oct 22 Oct. 22 Oct 27 Oct 29 Nov 3 Nov 5 Nov 10 Nov 12 Nov 17 Nov 19 Nov 12 Nov 24 Nov 26 Dec. 1 Dec. 3 Dec 15
+
+GENE 3200 - Genetics Fall 2020
+Topic (tentative) Linkage, gene mapping, recombination (chap. 7)
+Chromosome variation (chap. 8) Chromosome variation (chap. 8); Bacterial genetics (chap. 9)
+Bacterial genetics (chap. 9) Bacterial genetics (chap. 9); DNA structure (chap. 10) DNA structure (chap. 10); Chromosome structure, organellar DNA (chap. 11)
+*** Exam 2 (chapters 7-10) evening *** Chromosome structure, organellar DNA (chap. 11);
+DNA replication (chap. 12) DNA replication (chap. 12); RNA transcription (chap. 13)
+RNA transcription and processing (chaps. 13 & 14) RNAs and RNA processing (chap. 14); Genetic code and translation (chap. 15)
+Genetic code and translation (chap. 15) *** Exam 3 (chapters 11-15) evening ***
+Prok. Gene expression (chap. 16) Prok./Euk Gene expression (chaps. 16 & 17) Euk Gene expression (chap. 17); Mutations and DNA repair (chap. 18)
+Mutations and DNA repair (chap. 18) Mutations and DNA repair (chap. 18) Molecular Genetic analysis and Biotechnology (chap. 19) Mol. Gen. analysis & Biotech. (chap. 19); Genomics and proteomics (chap. 20) Genomics and proteomics (chap. 20); Epigenetics (chap. 21) *** Exam 4 (chapters 16-19) evening *** Epigenetics (chap. 21); Cancer genetics (chap. 23)
+Thanksgiving Cancer genetics (chap. 23) Quantitative genetics (chap. 24); *** Exam 5 (Chapters 20-21, 23, 24) 12:00-3:00 pm ***
+
+NOTE: There will be no cumulative final. Exam 5 will instead be given in the final exam time slot. Also, note that Dr. McEachern's section of 3200 will have its own syllabus, requirements, and exam schedule that will be different from other GENE 3200 sections.
+
+Resources � Textbook: Genetics, a Conceptual Approach (7th edition) by Benjamin A. Pierce. Note: The
+previously used 6th edition can serve as an acceptable substitute.
+� Lectures, Powerpoints of lecture slides, problem sets (for Discussion sections), and other materials. These will be posted on eLC. It is your responsibility to make sure you have access to the eLC site. Please email Dr. McEachern if you need to be enrolled.
+� Sapling (www.saplinglearning.com/login) is a website that will be used for posting homework and review questions.
+
+Exams: The four exams, which will be conducted online via eLC, are noncumulative and each is worth 18% of your final grade. Exams will be open book. The first four exams will be held on Thursday evenings. Two hours will be available to complete each that can be begun and completed
+3
+
+GENE 3200 - Genetics Fall 2020
+anywhere within the window of 5pm to 12 midnight of the slated Thursdays. Exam scores cannot be dropped. Each exam will have 105 points; that is, there will be 5 extra points built into each one. For example, if a student scores 76/105, this will count as 76% (instead of the actual 72.4%). Approximate letter grade distributions will be provided for each exam.
+Missed exams: If you are unable to make an exam due to a time conflict or documented medical or personal emergency, contact the instructor as soon as possible to make alternate arrangements. It is the student's responsibility to provide relevant and detailed documentation. Contact the instructor as soon as possible if you will miss an exam. In most cases, contacting an instructor after the exam has started is too late to be allowed to take a makeup exam. An unexcused missed exam will count 0 points.
+Review Sessions: Review sessions will be held in class on the Tuesdays before each of the exams.
+Homework problems: Homework problems for each chapter will be assigned during the course using Sapling Plus. Each homework set will have its own due date. These problems will be graded and count 10% of your final grade. Additional practice problems will be available on Sapling. Other practice problems will be worked during the recitation sections and posted on the eLC site.
+Sapling: Access to Sapling is required. This online resource will be used for assigning homework. In addition, it has many resources that can be used to improve your understanding of the material, including tutorials, videos and quizzes. Sapling Plus can be accessed here: www.saplinglearning.com/login.
+Recitation sections: Please attend your assigned online recitation section. During each session, you will work through one or more practice problems with help from a teaching assistant. Please turn off cell phones during recitation sections.
+Course withdrawal: We will follow the University's course withdrawal policy, which can be found here: www.reg.uga.edu/policies/withdrawals. Withdrawal deadline is Monday, Oct. 21.
+Academic honesty: As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: www.uga.edu/honesty. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor. More detailed information about academic honesty can be found at: ovpi.uga.edu/academic-honesty/academic-honesty-policy.
+eLC: Your exam scores will be posted on eLC.
+Email: Please use email to instructors sparingly, and primarily for setting up appointments. Questions concerning your grades, your standing in the course, personal issues that are affecting your performance, and so on, should be handled in online live conversations, NOT by email.
+Course Grade: Your final grade will be an average of the 5 exams (18% each) plus your homework grade from Sapling Plus (10%). Final grades will be likely be based on a curve. However, any or all students meeting the standard grade distribution (A: 90-100, B: 80-89, C: 70-79 and D: 60-69, with appropriate cut-offs for +/-) will be guaranteed at least that grade.
+For example:
+4
+
+GENE 3200 - Genetics Fall 2020
+Exam grades of 76/105, 84/105, 72/105, 88/105 and 80/105 (mean=80/105) and a homework grade of 80% works out to an 80% course grade). Such a student would be guaranteed at least a Bgrade, whatever the class mean. Extra credit assessment: 2% extra credit will be awarded to students who complete both parts of a short exam mandated by UGA to assess learning. One part will be accessible for taking at the begin of the course and the second part will be accessible at the end of the course. Details will be provided in announcements on eLC. Technology: Use of tablets and laptops is allowed during lecture but ONLY for class-related purposes. Please make sure that your cell phone is OFF during class, exams and office hours. Disability Accommodations: Reasonable accommodations are available for students who have a disability through the Disability Resource Center in the Division of Student Affairs (https://drc.uga.edu/). Please notify the instructors of any accommodations needed for the course. Mental Health and Wellness Resources: If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-5427774 or visit https://sco.uga.edu. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.
+� UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies).
+� If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center.
+� Additional resources can be accessed through the UGA App.
+5
+
+

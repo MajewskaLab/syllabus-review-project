@@ -1,0 +1,339 @@
+Exported for Sarah Robinson on Thu, 06 Jan 2022 17:27:09 GMT
+Introductory Biochemistry & Molecular Biology CRN 57246
+Mondays, Wednesdays, Fridays 9:10-10:00 AM in Science Learning Center room 145 Fridays 11:30am-12:20pm in Science Learning Center room 145 This syllabus contains all of the information you need to know about the course goals, how you will be assessed, and how the course is organized. Please read through this carefully! There is an anonymous discussion question at the end for you to ask any questions you have about this syllabus.
+Instructor Contact
+I am here to help guide you through the process of learning biochemistry. Please do not be afraid or hesitate to ask questions!
+Dr. Sarah Robinson
+Email: srobinson@uga.edu Please don't hesitate to email me. I make it a priority to respond to student emails. Office: B118A Davison Life Sciences
+
+Office Hours:
+In person: Wednesdays 11-noon.
+On Zoom: by appointment, so you can choose a time in my schedule that works for you. I am mainly available on Tuesdays and Thursdays with more limited availability Mondays, Wednesdays, and Fridays. Please don't hesitate to schedule an appointment. I'm using Calendly to schedule appointments, links are below.
+To book a Zoom appointment for 15 minutes (If you have a few questions): https://calendly.com/drsarahrobinson/15-minute-meeting
+To book a Zoom appointment for 30 minutes (if you want to review an exam, review a study guide, or ask lots of questions): https://calendly.com/drsarahrobinson/30min
+Peer Learning Assistants (PLAs)
+Good news: this class is supported by PLAdawgs. PLAdawgs are students who successfully took this course in a previous semester and are returning this semester to support you and your learning. They have received
+
+special training on how people learn and how to be an effective resource for you. In addition, they will meet regularly with your instructor to understand how to best support your learning in this course. PLAdawgs are not here to reteach the material, nor to provide you with the answers, nor to evaluate your work. They do not grade assignments or exams and are not teaching assistants (TAs). PLAdawgs are here specifically to help you learn by enhancing discussions and activities in this class. They will help you get the most out of classroom activities by clarifying instructions and assisting you in finding the right questions to deepen your learning. So, get to know your PLAdawgs and take advantage of their training on your journey to academic success.
+Textbook:
+Biochemistry- A Short Course 4th Edition (Tymoczko, Berg & Stryer).
+You may use an older edition of the book, but it is your responsibility to do the appropriate readings. I will also provide links to content videos on the web, mainly AK Lectures and Khan Academy. See the helpful resources folder for each unit. I will not be requiring Sapling Plus.
+Top Hat:
+We will be using Top Hat Pro (www.tophat.com) for class participation. You will be able to submit answers to in-class questions using Apple or Android smartphones and tablets, laptops, or through text message. This course will also be using Top Hat for all course materials, assignments, quizzes, tests, in-class participation including video conferencing and course communications. You can visit the Top Hat Overview (https://success.tophat.com/s/article/Student-Getting-Started-with-Top-Hat) within the Top Hat Success Center which outlines how you will register for a Top Hat account, as well as provides a brief overview to get you up and running on the system.
+Get started with this 2 minute video walkthrough
+An invitation will be sent to you by email. If you do not receive this email, you can register by simply visiting our course website: https://app.tophat.com/e/301478 Note: our course Join Code is 301478
+
+Top Hat Pro may require a paid subscription, and a full breakdown of all subscription options available can be found here: www.tophat.com/pricing. The cost for UGA is $22. Top Hat Course Tour video:
+Video
+Please visit the textbook on a web or mobile device to view video content.
+
+Top Hat Community
+Top Hat Community is a free community platform that allows us to remotely communicate with everyone across our university, keeping our campus connected. We will be using Top Hat Community for course announcements and group work throughout the course. It is also a great way to ask questions of your classmates, PLAs, and Dr. Robinson.
+
+Each week, four students that post will be randomly selected and get to pick one of the following:
+24 hour late submission for one case study 24 hour late submission for one day's Top Hat questions (up to 5 questions) Feedback on 1 case study when it is not your turn Feedback on your study guide before an exam Coffee & chat with Dr. Robinson at the Creamery
+
+Top Hat Community App Logo
+
+In order to make sure that case feedback is shared with groups in a timely manner (by 8pm the day before the exam), you must share case feedback (when it is given to you) with your group before the exam. You must either copy/paste the feedback or share screen shots in your group's Top Hat Community channel. Failure to
+
+post case feedback in a timely manner will result in a deduction of 3 points from your highest exam in this course.
+How to join Top Hat Community: Before proceeding, make sure that you have created a Top Hat account and enrolled in our Top Hat course using the steps linked above.
+∑ Step 1: Go to https://login.tophatblue.com/, click "Login in with Top Hat," and input your Top Hat account credentials ∑ Step 2: Check your school email for a message from Top Hat Community to verify your email address ∑ Step 3: Once directed back to Slate, input your real name in the username field when prompted ∑ Step 4: Locate our course channel in the left-side menu
+You will be automatically added to our course channel upon entry to Top Hat Community. If you ever need to re-join our course channel manually, click the globe icon in the top-left menu and search the channel title "301478" in the channel directory.
+Full details on how to use Top Hat Community can be found here: https://success.tophat.com/s/article/Student-Top-Hat-Community
+Should you require assistance with Top Hat Pro or Top Hat Community at any time please contact their Support Team directly by way of email (support@tophat.com), the in-app support button, or by calling 1-888663-5491. Specific user information may be required by their technical support team when troubleshooting issues.
+Course Description and Objectives
+In this course, we will explore the chemistry of life.
+This course has been designed to facilitate your learning of the topics of biochemistry and molecular biology. During our semester together, we will work on case studies, which have been chosen not only for the material they will teach you but also to give you a chance to develop problem-solving skills and scientific reasoning. You will learn about biochemical concepts and principles such as the chemical properties of the cellular environment, the thermodynamics and kinetics of biochemical reactions, metabolic pathways and how they are regulated, and the structure and function of biomolecules. You will not be expected to memorize the twenty amino acids that make up the proteins in our bodies, nor will you be asked to write the Krebs cycle from memory. Rather, you should be able to use information about amino acids and metabolism to answer broader questions about biochemistry.
+
+By the end of this course, students should be able to.
+
+1. Combine concepts in enzymology and bioenergetics to describe the biological processes of protein folding and foundations for metabolism.
+2. Integrate your prior knowledge in biology and chemistry to explain the detailed structure and function of four macromolecules: proteins, carbohydrates, lipids, and nucleic acids.
+3. Integrate intermediary metabolism, which forms the basis of life for all organisms. We will specifically focus on glucose, fat and amino acid metabolism in humans.
+4. Utilize knowledge of nucleic acid structure, and the processes of transcription and translation to explain human diseases and cutting-edge molecular biology technologies.
+5. Demonstrate skills in scientific reasoning and problem solving by reading and analyzing primary literature.
+Assessment
+The best way to be successful is to complete ALL readings and assignments.
+
+I expect you to take charge of your learning in this class. There is not enough time for us to cover every detail of biochemistry during class; therefore, you will have to do some learning on your own. You should expect to keep up with the course schedule, work together with your group, and seek help when needed. Learning is not a spectator sport!
+
+Your final grade will be calculated in eLC, and will be updated at least after every exam. Your grade in Top Hat is not an accurate calculation of your current course grade, so check eLC.
+
+Pre-Assessment Quizzes (7%)
+
+There will be approximately one quiz per week associated with reading assignments. The quizzes must be completed BEFORE the case study
+
+http://clipartlibrary.com/clipart/1579878.htm
+
+begins. These are open book and are mainly multiple choice and graded for correctness. You may collaborate
+
+with your assigned group to answer the questions. Your lowest score will be dropped. Because the pre-
+
+assessments are open for at least 1 week, no late submissions or excusals will be given.
+
+Case Studies (7%)
+
+There will be approximately one case study per week, and there are no dropped grades for this category. Case studies are due 11:59PM on the day that we discuss the case during class. These assignments will require you
+
+to apply knowledge you have gained from the reading and class discussion to real-life scenarios. All case studies will be turned in on Top Hat, graded for completion and effort. Each student will be working in a group with 3-4 other students to complete the case study, though each student is still responsible for submitting their own assignment.
+
+Each case study, 1 of the group members will receive feedback on their case answers, which should be shared with the group. In order to make sure that case feedback is shared with groups in a timely manner, you must share case feedback (when it is given to you) with your group before the exam. You must either copy/paste the feedback or share screen shots in your group's Top Hat Community channel. Failure to post case feedback will result in a deduction of 3 points from your highest exam in this course.
+
+Participation (7%)
+
+https://gph.is/g/aQd1bjB
+
+A 90% or above in this category equals 100%. Participation includes answering Top Hat questions and completing any in-class activities, including practice exams. You must be present in class to receive these points. If you have an excused absence, send me documentation to be excused from that day's points. You will be most successful in this class if you attend class in person so please make every effort to attend. Do NOT come to class if you have a fever or experiencing any COVID-like symptoms. If you are unable to make it to class, you can still join in with your group to work on the case using Top Hat Community's video chat or other app.
+
+Exams (79%)
+
+There are 4 unit exams in this class, each weighted the same. Each of the 4 unit exams will consist of a take-home portion and an in-class portion. The weight of the in-class vs. the take-home may vary (but will be about 60% in-class/40% take-home).
+
+Take home exam: Given as an assignment in Top Hat. Available one week before the deadline and due at 11:59PM two days before the in-class exam, except for exam 2, when the deadline is 1 day after the exam (due to Spring Break). This gives you the opportunity to apply your understanding of biochemistry to novel problems. The format is mainly free response and may include drawing or graphing. Take home exams will have questions that you answer individually as well as questions to work on as a group.
+
+In-class exam: Closed book, these will include multiple-choice, click on target, fill in the blank questions. These will be in given in class, using Top Hat with live proctoring. All in-class exams will be taken individually.
+
+Your lowest exam from exams 1-3 will be dropped. As exam 4 is partially cumulative (with regard to metabolism), it will not be dropped.
+Re-grade requests must be submitted in writing within one week.
+Missed Exams
+If you are going to miss an in-class exam due to illness, authorized representation of the University, or extraordinary personal circumstances, you must notify me as soon as possible and you must provide documentation for your absence. Make-up options are to take the in-class portion with another one of my sections, or schedule a time to make-up the in-class exam in my office.
+Because the take-home exams are open for a week, extensions will be provided for extreme circumstances only (death of an immediate family member, severe illness that requires hospitalization).
+Missed Class
+I will not be offering a Zoom link to attend class. However, I will be posting review videos I have made as well as some previously recorded lectures. If a student is experiencing extreme circumstances and cannot attend in person for longer than 1 week, then alternative arrangements will be discussed. If you miss class, it is your responsibility to communicate that with me, get notes from your group, and schedule a meeting with me if needed to catch up on missed material.
+Extra Credit
+Extra credit will be offered for completion of the following:
+Completion of the final course evaluation will earn you 2 points of extra credit on exam 4.
+Tutoring
+The Division of Academic Enhancement (DAE) offers free peer tutoring in over 200 of UGA's most rigorous courses including writing tutoring. To engage with a Peer Tutor, download the Penji app, available on iOS and Android, and sign in through SSO using your MyID. Need help? Visit their website https://dae.uga.edu/services/tutoring/ for more information on how to engage with a Peer Tutor or email tutor@uga.edu. In addition to peer tutoring, the DAE also provides Academic Coaching, Student Success Workshops and more. The DAE is committed to the success of all students at the University of Georgia. For more on these and other resources, please visit dae.uga.edu.
+Final Course Grading Scale
+
+Below is the grading scale for this course. No further adjustments will be made to your final calculated grade.
+
+Letter Grade A AB+ B BC+ C D F
+
+Range 93-100 90-92 86-89 83-86 80-82 77-79 70-76 60-69 below 59
+
+Course Organization
+
+This class will adhere to current state and university policies regarding COVID-19.
+
+Mask wearing (covering your nose and mouth) is encouraged but not required.
+
+This course is divided into four units, each of which ends in an exam. The course calendar lists readings, assignment deadlines, and in-class activities on a day-by-day basis. You are responsible for completing all readings, quizzes, assignments, and exams as noted on the calendars. Deadlines will also be posted in the eLC calendar, for which you can set up notifications: https://help.elc.uga.edu/getting_started/setting_up_notifications/#Setting%20Up%20Notification%20Setting s
+
+Class time will be used to help you meet the learning goals specified and to achieve success on the assessments. For these reasons, class time will be a time for you to work with the material alone and in groups; to ask and respond to questions; and to write and reflect. I will lecture when necessary to explain concepts you are struggling with, but you will also be expected to work during class time.
+
+Breakout
+
+Breakout will be 50 minutes long and we will treat this just like another class period.
+
+Course Schedule See Course Schedule document, in the Getting Started folder, for details.
+
+Disability Statement
+UGA is committed to the success of all learners, and we strive to create an inclusive and accessible online environment. In collaboration with the Disability Resource Center (http://drc.uga.edu/), we work with students who have documented disabilities to access reasonable accommodations and academic supports. Contact them for details: 114 Clark Howell Hall 706-542-8791 voice 706-542-7719 fax 706-542-8778 TTY
+Academic Honesty Policy
+https://www.rcsdk12.org/domain/13060
+As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at www.uga.edu/honesty. Academic work includes, but is not limited to, course assignments, quizzes, discussion posts, exams, and course evaluations. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor. More specifically, the following examples are violations of the policy. You WILL NOT: 1. Post academic work or use academic work using text message, website (Course Hero, Quizlet, Koofers,
+etc.), electronic media, or physical space. 2. Copy someone else's academic work, or share your academic work with others. 3. Complete academic work for someone else. NOTE: You are allowed to share your personal course notes if you would like to.
+
+Students who violate this policy will be reported to the Office of the Vice President for disciplinary action, and are subject to severe disciplinary penalties including possible failure of the course and/or dismissal from the University.
+
+Communication Policy
+To comply with the Family Educational Rights and Privacy Act (FERPA), all communication that refers to individual students must be through a secure medium (UGAMail or eLC) or in person. Instructors are not allowed to respond to messages that refer to individual students or student in the course through non-UGA accounts, phone calls, or other types of electronic media.
+
+Nettiquette
+Netiquette is a way of defining professionalism through network communication. Students who violate proper Netiquette will be first given a warning, and if it occurs twice, will be administratively dropped by the instructor from the course.
+
+1. In all your interactions, remember that there is a person behind the
+
+written post, who has feelings and can be hurt by what and how you
+
+interact with him or her. 2. It is easier to say something online when you do not have to look the
+person in the eye, so never post anything that you would not say to
+
+https://www.rcsdk12.org/do main/13060
+
+the person face-to-face.
+
+3. Adhere to the same standards of behavior online that you follow in real life, which includes acting
+
+ethically and following rules and regulations. If you would not steal in real life, then you should not
+
+steal online by taking other people's ideas and using them as your own.
+
+4. Respect other people's time and bandwidth:
+
+1. Take time to understand the requirements of the discussion.
+
+2. Do not waste people's time by asking questions that are not relevant to the discussion or questions
+
+whose answers can be readily be found in the course with a little effort.
+
+3. Refrain from disagreements that lead to personal attacks.
+
+5. Make yourself look good online:
+
+1. Take time to check your spelling and grammar.
+
+2. Prepare for discussions prior to engaging in them.
+
+3. Refrain from inappropriate language and remarks.
+
+6. Share your knowledge by offering help to learners who have questions.
+
+7. Help keep flame wars under control by not posting flames and not responding to flames - keep
+
+discussions professional.
+
+Forgive other learners' mistakes and be patient and compassionate of all learners in the course.
+Example Policy is from Duquesne University's Netiquette for Online Learning: http://www.duq.edu/about/centers-and-institutes/center-for-teaching-excellence/teaching-andlearning/netiquette-for-online-learning
+Coronavirus information for students
+What do I do if I have symptoms?
+Students showing symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5 p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see https://www.uhs.uga.edu/info/emergencies.
+What do I do if I am notified that I have been exposed?
+Students who learn they have been directly exposed to COVID-19 but are not showing symptoms should selfquarantine for 14 days consistent with Department of Public Health (DPH) and Centers for Disease Control and Prevention (CDC) guidelines. Please correspond with your instructor via email, with a cc: to Student Care & Outreach at sco@uga.edu, to coordinate continuing your coursework while self-quarantined. If you develop symptoms, you should contact the University Health Center to make an appointment to be tested. You should continue to monitor your symptoms daily on DawgCheck.
+How do I get a test?
+Students who are demonstrating symptoms of COVID-19 should call the University Health Center. UHC is offering testing by appointment for students; appointments may be booked by calling 706-542-1162.
+UGA will also be recruiting asymptomatic students to participate in surveillance tests. Students living in residence halls, Greek housing and off-campus apartment complexes are encouraged to participate.
+What do I do if I test positive?
+Any student with a positive COVID-19 test is required to report the test in DawgCheck and should self-isolate immediately: https://dawgcheck.uga.edu/. Students should not attend classes in-person until the isolation period is completed (CDC has updated this to 5 days instead of 10). Once you report the positive test through DawgCheck, UGA Student Care and Outreach will follow up with you.
+Mental Health and Wellness Resources:
+
+If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services. UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies). If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center. Additional resources can be accessed through the UGA App.
+The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““““
+Syllabus Scavenger Hunt
+Based on this document as well as the Class Q & A document found in this folder.
+
+Question 1 I want to meet with Dr. Robinson, how do I do this?
+
+Show Correct Answer Show Responses
+
+A Attend scheduled in-person office hours B Dr. Robinson is only available by email C Use Calendly to make an appointment based on hers and yours schedules. D A and C
+
+Exported for Sarah Robinson on Tue, 18 Jan 2022 16:37:03 GMT
+Course Schedule
+Each case study will follow this schedule:
+
+1. Case study pre-assessment: read textbook/watch content videos and answer questions. These questions are worth 1 correctness point each. Pre-assessments are due before the class when we begin a case.
+2. Case study: answer the questions as a group, getting help from professor and PLA. These questions are worth 1 participation point each. Case studies are due at 11:59PM the day of the case discussion.
+3. In-class: Follow along live with powerpoint and answer questions. The questions asked during class are worth participation points.
+4. Exams: covers 3 cases at a time and involves a take-home part and in-class part.
+Below is the schedule for the semester. I will let you know if any changes need to be made.
+
+Mondays, Wednesdays, Fridays 9:10-10:00am
+
+Breakout is Friday 11:30am-12:20pm
+
+Pre-assessment quizzes are due before class starts on that day.
+
+Date M Jan 10 W Jan 12
+F Jan 14
+F Jan 14 M Jan 17 W Jan 19 F Jan 21 F Jan 21 M Jan 24 W Jan 26 F Jan 28 F Jan 28
+
+Topic First day of class Aquaporin case
+
+Activity/deadlines Book Chapters
+
+pre-assessment and syllabus quiz due
+
+Ch 2-2.3, 4, 12-12.3
+
+NO Class Insulin case
+
+case due 11:59 PM pre-assessment due
+
+Ch 2.4-2.5, 3
+
+Peptide gallery walk
+
+Carbonic anhydrase
+
+case due 11:59 PM pre-assessment due
+
+Ch 2.5, 6
+
+M Jan 31 W Feb 2 F Feb 4 F Feb 4 Sat Feb 5
+M Feb 7 W Feb 9 F Feb 11 F Feb 11 M Feb 14 W Feb 16
+F Feb 18
+F Feb 18 M Feb 21 W Feb 23
+F Feb 25
+M Feb 28 W Mar 2 F Mar 4 F Mar 4 M Mar 7-11 M Mar 14 T Mar 15
+W Mar 16
+F Mar 18
+F Mar 18 M Mar 21 W Mar 23
+
+case
+
+Exam review
+
+case due 11:59 PM
+
+Exam 1: take home due 11:59 PM
+
+Exam 1: in class Clue case
+
+pre-assessment due
+
+Ch 7-7.2, 8-8.2
+
+Glycolysis case
+
+case due 11:59 PM
+Glycolysis preassessment due
+
+Ch 15, 16
+
+NO class: watch recorded lecture
+
+case due 11: 59 PM Type I diabetes preassessment due
+
+Ch 17, 13.1,13.4
+
+exam review Spring Break Exam 2: in class Exam 2: take home Death on the Metabolic ward PDH complex deficiency
+
+case due 11:59 PM
+due 11:59 PM in-class case study pre-assessment due
+
+Ch 18, 19
+
+case due 11:59 PM
+
+F Mar 25 F Mar 25 M Mar 28 W Mar 30 F Apr 1 F Apr 1 Sat Apr 2 M Apr 4
+W Apr 6
+F Apr 8 F Apr 8 M Apr 11
+W Apr 13
+F Apr 15 F Apr 15 M Apr 18 W Apr 20 F Apr 22 F Apr 22 M Apr 25 W Apr 27 W Apr 27 F Apr 29 F Apr 29
+M May 2
+
+DNP case
+
+pre-assessment due Ch 20, 21
+
+review Exam 3: take home Exam 3: in class Lipid metabolism case
+
+case due 11:59 PM due 11:59 PM pre-assessment due
+
+Ch 11-11.2, 27-27.1, 27.3-27.4, 28.1
+
+Murder that never was case
+
+case due 11:59 PM pre-assessment due
+
+Ch 30
+
+MMA case
+
+case due 11:59 PM pre-assessment due
+
+mRNA therapy article
+
+Exam review Exam 4: take home Exam 4: in class Showcase Final review & reflection
+
+case due 11:59 PM due 11:59 PM
+
+Exported for Sarah Robinson on Tue, 18 Jan 2022 16:37:03 GMT
+
+

@@ -1,0 +1,454 @@
+MIBO 4300/6300 Fall 2021 Syllabus
+
+Genome Editing
+
+Overview:
+Learning objectives:
+Instructors: Instructor access: Principal course assignments: Specific course requirements for grading purposes: Participation policy: Required course material:
+
+Genome editing technology has exploded since the recent discovery of bacterial CRISPR systems. Our goal is to present the material while new applications are emerging every day, and before a textbook is written! Cutting edge knowledge will enable you to shape the future.
+Students who complete the course will be able to (a) understand CRISPR discovery; (b) use sequence search applications; (c) describe the basic mechanisms that underlie genome editing technology; (d) describe major ways in which the technology has been applied; (e) apply genome editing principles to new biomedical problems; (f) identify significant recent research reported in peerreviewed literature.
+Aaron Mitchell Aaron.Mitchell@uga.edu Jan Mrázek mrazek@uga.edu
+Please email the instructors with questions or to request an appointment.
+(a) Written homework assignments to be submitted online (b) An oral presentation of a research article to be presented to
+the class as a term project
+Written homework assignments = 170 points Oral research article presentation = 30 points Total points = 200
+This course will be synchronous. Class is held in Biological Sciences Room 217. All classes will also be accessible by Zoom live for remote participants.
+Reading material for the course will either be provided in eLC or available online. Students attending in-person classes are encouraged to bring their laptops to participate in computer labs and software demonstrations. Students will need a computer to participate in online sessions. Software that is required includes: A pdf reader for reading assignments; MS Office;
+
+MIBO 4300/6300 Fall 2021 Syllabus
+
+Genome Editing
+
+Zoom for participation in synchronous online sessions; An internet browser for online assignments.
+
+Exam and makeup policy:
+
+Homework may be submitted late, but 3 points per 24 hour period will be deducted from the point value. No points will be deducted for 48 hours if you have a documented medical issue.
+
+If a documented long-term medical issue prevents you from completing assignments, make-up assignments will be provided after November 1. It is your responsibility to request make-up assignments.
+
+Class meetings:
+
+Meetings will be held at locations indicated in the schedule below. The Zoom link is https://zoom.us/j/97844729115
+
+Academic honesty:
+
+All students are expected to follow the UGA Academic Honesty policy, which may be found here https://honesty.uga.edu/Academic-Honesty-Policy/
+
+We fully support and applaud the UGA Student Honor Code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others."
+
+A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found at www.uga.edu/ovpi
+
+MIBO 4300/6300 Fall 2021 Syllabus
+
+Genome Editing
+
+Coronavirus information:
+
+Face coverings: Following guidance from the University System of Georgia, face coverings are recommended for all individuals while inside campus facilities. How can I obtain the COVID-19 vaccine? University Health Center is scheduling appointments for students through the UHC Patient Portal (https://patientportal.uhs.uga.edu/login_dualauthentication.aspx). Learn more here - https://www.uhs.uga.edu/healthtopics/covidvaccine. The Georgia Department of Health, pharmacy chains and local providers also offer the COVID-19 vaccine at no cost to you. To find a COVID-19 vaccination location near you, please go to: https://georgia.gov/covid-vaccine. In addition, the University System of Georgia has made COVID-19 vaccines available at 15 campuses statewide and you can locate one here: https://www.usg.edu/vaccination What do I do if I have COVID-19 symptoms? Students showing COVID-19 symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5p.m.). Please DONOT walk-in. For emergencies and after-hours care, see, https://www.uhs.uga.edu/info/emergencies. What do I do if I test positive for COVID-19? If you test positive for COVID-19 at any time, you are required to report it through the DawgCheck Test Reporting Survey. We encourage you to stay at home if you become ill or until you have excluded COVID-19 as the cause of your symptoms. UGA adheres to current Georgia Department of Public Health (DPH) quarantine and isolation guidance and requires that it be followed. Follow the instructions provided to you when you report your positive test result in DawgCheck. Guidelines for COVID-19 Quarantine Period (As of 8/1/21; follow DawgCheck or see DPH website for most up-to-date recommendations) Students who are fully vaccinated do not need to quarantine upon exposure unless they have symptoms of COVID-19 themselves. All others should follow the Georgia Department of Public Health (DPH) recommendations: Students who are not fully vaccinated and have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 10 days. Those quarantining for 10 days must have been symptom-free throughout the monitoring period and continue self-monitoring for COVID-19 symptoms for a total of 14 days. You should report the need to quarantine on DawgCheck (https://dawgcheck.uga.edu/), and communicate
+
+MIBO 4300/6300 Fall 2021 Syllabus
+
+Genome Editing
+
+directly with your faculty to coordinate your coursework while in quarantine. If you need additional help, reach out to Student Care and Outreach (sco@uga.edu) for assistance. Students, faculty and staff who have been in close contact with someone who has COVID-19 are no longer required to quarantine if they have been fully vaccinated against the disease and show no symptoms.
+
+Mental health and wellness resources:
+
+· If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.
+· UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies).
+· If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center.
+· Additional resources can be accessed through the UGA App.
+
+Please note that the course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+
+MIBO 4300/6300 Fall 2021 Syllabus
+
+Genome Editing
+
+Date
+18-Aug 20-Aug 23-Aug 25-Aug 27-Aug 30-Aug
+1-Sep 3-Sep 6-Sep 8-Sep
+10-Sep 13-Sep 15-Sep 17-Sep 20-Sep 22-Sep 24-Sep 27-Sep 29-Sep 1-Oct 4-Oct 6-Oct 8-Oct 11-Oct 13-Oct 15-Oct 18-Oct 20-Oct
+
+Day Lecturer Topic
+
+Meeting structure
+
+HW Assignment
+
+points number due
+
+W Mitchell
+
+Syllabus/Introduction
+
+Lecture/Discussion
+
+F
+
+Mitchell
+
+Genome editing - societal impact Discussion
+
+10
+
+1
+
+M
+
+Mitchell
+
+CRISPR moving parts, mechanisms Lecture/Discussion
+
+W Mrazek
+
+CRISPR Discovery
+
+Lecture/Discussion
+
+F
+
+Mrazek
+
+CRISPR Discovery
+
+Discussion
+
+M
+
+Mrazek
+
+CRISPR Discovery
+
+Discussion & Computer
+
+lab
+
+W Mrazek
+
+CRISPR Discovery
+
+Computer lab
+
+F
+
+Mrazek
+
+CRISPR Discovery
+
+Computer lab
+
+M
+
+No class - Labor Day
+
+W Mitchell
+
+How to read a scientific research Lecture/Discussion
+
+paper
+
+F
+
+Mitchell
+
+CRISPR spacer function
+
+Paper discussion
+
+10
+
+2
+
+M
+
+Mitchell
+
+What happens at a DS break (1)? Lecture/Discussion
+
+W Mitchell
+
+Library assignment
+
+No class meeting
+
+5
+
+3
+
+F
+
+Mitchell
+
+Discussion of library assignment
+
+Discussion
+
+M
+
+Mitchell
+
+Genome editing concept
+
+Paper discussion
+
+10, 20 4, 5
+
+W Mitchell
+
+What happens at a DS break (2)? Lecture/Discussion
+
+F
+
+Mitchell
+
+Specificity
+
+Lecture/Discussion
+
+M
+
+Mitchell
+
+Specificity
+
+Lecture/Discussion
+
+W Mitchell
+
+Specificity Q&A
+
+Q&A/Discussion
+
+F
+
+Mitchell
+
+Specificity
+
+Paper discussion
+
+20
+
+6
+
+M
+
+Mitchell
+
+Specificity
+
+Paper discussion
+
+10
+
+7
+
+W Mitchell
+
+Gene regulator CRISPRs
+
+Lecture/Discussion
+
+F
+
+Mitchell
+
+Gene regulator CRISPRs Q&A
+
+Q&A/Discussion
+
+M
+
+Mitchell
+
+Gene regulator CRISPRs
+
+Paper discussion
+
+15
+
+8
+
+W Mitchell
+
+Work on presentation selection
+
+No class meeting
+
+F
+
+Mitchell
+
+Alternate technologies
+
+Lecture/Discussion
+
+M
+
+Mitchell
+
+Alternate technologies Q&A
+
+Q&A/Discussion
+
+W Mitchell
+
+Alternate technologies
+
+Paper discussion
+
+20
+
+9
+
+MIBO 4300/6300 Fall 2021 Syllabus
+
+Genome Editing
+
+Date
+22-Oct 25-Oct 27-Oct 29-Oct 1-Nov 3-Nov 5-Nov 8-Nov 10-Nov 12-Nov 15-Nov 17-Nov 19-Nov 22-Nov 24-Nov 26-Nov 29-Nov 1-Dec 3-Dec 6-Dec
+
+Day Lecturer Topic
+
+Meeting structure
+
+HW Assignment
+
+points number due
+
+F
+
+Mitchell
+
+Applications - cell screening
+
+Lecture/Discussion
+
+M
+
+Mitchell
+
+Applications - cell screening
+
+Lecture/Discussion
+
+W Mitchell
+
+Applications - cell screening Q&A Q&A/Discussion
+
+F
+
+No class - October break
+
+M
+
+Mitchell
+
+Applications - cell screening
+
+Paper discussion
+
+15
+
+10
+
+W Mitchell
+
+Paper selection discussion
+
+Discussion
+
+F
+
+Mitchell
+
+Applications - organism engineering Lecture/Discussion
+
+M
+
+Mrazek
+
+Guide RNA Design
+
+Lecture/Discussion
+
+W Mrazek
+
+Guide RNA Design
+
+Discussion
+
+F
+
+Mrazek
+
+Guide RNA Design
+
+Computer lab
+
+M
+
+Mitchell
+
+Genome editing Nobel Prize
+
+Discussion
+
+15
+
+11
+
+W Mitchell
+
+Preparation time for term project
+
+No class meeting
+
+F
+
+Mitchell
+
+Student presentations 2.5 per day Presentation/Discussion 30
+
+12
+
+M
+
+Mitchell
+
+Student presentations 2.5 per day Presentation/Discussion
+
+W No class - Thanksgiving
+
+F
+
+No class - Thanksgiving
+
+M
+
+Mitchell
+
+Student presentations 2.5 per day Presentation/Discussion 20
+
+13
+
+W Mitchell
+
+Student presentations 2.5 per day Presentation/Discussion
+
+F
+
+Mitchell
+
+Student presentations 2.5 per day Presentation/Discussion
+
+M
+
+Mitchell
+
+Student presentations 2.5 per day Presentation/Discussion
+
+

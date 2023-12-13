@@ -1,0 +1,268 @@
+ECOL/BIOL 4150L/6150L: Population Biology of Infectious Diseases
+Spring 2011
+Lecture: Tu Th 9:30-10:45 Lab: Mon or Wed 1:30-3:00 Place: auditorium (lecture); conference room/computer room (lab)
+Instructors: Dr. Vanessa Ezenwa (191 Ecology Bldg); Phone: 542-2288; vezenwa@uga.edu
+Dr. Andrew Park (126 Ecology Bldg.); Phone: 542-5373; awpark@uga.edu Teaching Assistant:
+Shan Huang (25 Ecology Bldg); Phone: 542-3971; shuang@uga.edu Office hours: By appt (or walk-in between 11:00am-12:00pm on TuTh)
+Description: This course provides an introduction to the field of infectious disease ecology, an area of study that has developed rapidly over the past three decades and addresses some of the most significant challenges to human health and conservation. Students will obtain an appreciation for the incredible diversity of parasitic organisms, arguably the most abundant life forms on the planet, and examine how parasites invade and spread through host populations. Throughout an emphasis will be placed on providing a quantitative understanding of infectious diseases dynamics at the population level. Students will gain a basic understanding of the population biology of micro- and macroparasites, mechanisms of transmission and causes and consequences of ecological and genetic heterogeneity. Specific topics include types of pathogens and their ecological properties, epidemiology and impacts on host populations, evolution of resistance and virulence, role of ecology and evolution in the emergence of new diseases, parasites in the context of ecological communities, within-host dynamics and the ecology of immunity, population-level consequences of control measures and the role of parasites in biodiversity and conservation.
+Class objectives: 1. Provide an understanding of the biology of parasites and infectious diseases,
+integrating basic concepts with real-world examples 2. Increase familiarity with quantitative approaches for studying infectious disease
+dynamics at the population and community level 3. Review historical development and current research in the field of infectious disease
+ecology 4. Enhance appreciation for the taxonomic and biological diversity of parasitic
+organisms and host responses to infection 5. Enhance appreciation for the importance of parasites in biodiversity conservation and
+management and human health 6. Consider the role of ecology and evolution in predicting disease emergence and
+responding to epidemics
+
+Format: The course format includes lecture, discussion of scientific papers, computer assignments and problem sets. Students are expected to attend lectures on a regular basis, complete regular assignments, and prepare for and participate in class discussions.
+Prerequisites: This course assumes familiarity with general ecology and biology, and past coursework in calculus, linear algebra and/or statistics.
+Attendance: Attendance and class participation are required. Students who miss a class should immediately contact fellow students for lecture notes and assignments, and will be expected to submit assignments at the regular set deadlines. More than 4 unexcused absences from lecture, and 4 unexcused absences from weekly labs/discussion sessions may result in an automatic lowering of the final score by one letter grade.
+Assignments: Students are responsible for completing assignments related to computer and data labs, as well as turning in reading summaries during weeks where discussion takes place (explained below) and occasional tasks assigned in lecture. Unless otherwise specified, homework assignments will be due by 5pm on the date specified. Students may turn assignments in during class or in the professor's mailbox in the Ecology building. Unless otherwise specified, all assignments will be due 1 week from the date they are undertaken/set in class. For weeks where a discussion is indicated, you should come to the discussion section with a short (1/2 page) summary of the assigned reading. Instructors reserve the right to penalize late assignments.
+Reading materials: Reading material for this course is based on journal articles and book chapters. Lectures will often refer to ideas and results from assigned readings, and exams will cover content from each of the readings. A full reading list is maintained at the end of the syllabus, and papers will be uploaded onto eLC prior to the assigned reading date.
+Exams: There will be a mid-term exam on March 10 and a second exam on Thursday April 28. There will also be three in class pop quizzes distributed throughout the semester. You will not be able to make up these quizzes if you miss class.
+Grade calculation: 30% Lab assignments and quizzes 30% Mid-term exam 30% Second exam 10% Participation and class discussions
+Enrollment in 6150: Students enrolled in the graduate course number will be expected to complete additional problems on assignments and exams that require synthesis of class and reading materials, and will also be expected to lead one discussion session during the spring semester. They will additionally write a 2-page research proposal in the NSF GRFP format and present their research ideas to the class in a short presentation during a class symposium.
+
+Accommodations: Please contact the instructor if you require special accommodations due to learning disabilities, religious practices, physical or medical needs, or for any other reason.
+General Notes: (i) All academic work must meet the standards contained in "A Culture of Honesty." Students are responsible for informing themselves about those standards before performing any academic work. The link to more detailed information about academic honesty can be found at: http://www.uga.edu/ovpi/honesty/acadhon.htm (ii) The course syllabus is a general plan for the course; deviations announced to the class by the instructors may be necessary.
+
+ECOL/BIOL 4150L/6150L Population Biology of Infectious Diseases 2011
+
+DATE
+
+TOPIC
+
+READINGS/NOTES
+
+Part 1: The basics
+
+17/19 Jan No lab (MLK)
+
+18 Jan
+
+Intro, card game and photo challenge
+
+"Disease Ecology" Nature Knowledge (www.nature.com.proxyremote.galib.uga.edu/scitable/ knowledge/library/diseaseecology-15947677)
+
+20 Jan
+
+Terminology & diversity of parasites
+
+Nunn & Altizer 2006 Ch. 2
+
+24/26 Jan No lab
+
+25 Jan
+
+Population biology of microparasites 1: epidemics & equilibria
+
+Lloyd-Smith et al. 2005
+
+27 Jan
+
+Population biology of microparasites 2: rinderpest in the serengeti, dead seals in the North Sea
+
+Nunn & Altizer 2006 Ch. 4 (pp. 98-114)
+
+31 Jan / 2 Feb
+
+Lab 1: Computer lab - PDV infection in seals and epidemic curve fitting
+
+1 Feb
+
+Population biology of microparasites 3: vaccination and herd immunity
+
+Park et al. 2009
+
+3 Feb
+
+Population biology of macroparasites 1:
+
+Nunn & Altizer 2006 Ch. 4
+
+aggregation and life cycles in a wormy world (pp. 102-104; pp 115-122)
+
+7/9 Feb
+
+Lab 2: Macroparasite brainstorming
+
+Morgan et al. 2004
+
+8 Feb
+
+Population biology of macroparasites 2: dynamics & stability
+
+Dobson & Hudson 1992
+
+10 Feb
+
+Population biology of macroparasites 3: cycles & host regulation
+
+Hudson et al. 1999
+
+14/16 Feb
+15 Feb 17 Feb 21/23 Feb
+22 Feb 24 Feb
+28 Feb / 2 Mar 1 Mar
+3 Mar
+7/9 Mar 8 Mar
+10 Mar 14-17 Mar
+21/23 Mar
+22 Mar
+24 Mar 28/30 Mar
+29 Mar
+31 Mar 4 /6Apr
+5 Apr 7 Apr
+
+Part 2: Transmission and Ecological Heterogeneity
+
+Lab 3: Discussion - parasites & host behavior
+
+Grear et al. 2009
+
+Parasites and host behavior
+
+Nunn & Altizer 2006 Ch. 6
+
+Birds, bees & STDs
+
+Ryder et al. 2005
+
+Lab 4: Heterogeneity in exposure - field work
+
+Key hosts & superspreaders
+
+Ferrari et al. 2004
+
+Spatial ecology of pathogens 1: waves, synchrony & spatial spread
+
+Viboud et al. 2006
+
+Lab 5: Analysis of previous field work
+
+Spatial ecology of pathogens 2: corridors, dispersal and metapopulations ecology
+
+Stapp et al. 2004
+
+Ecology of multi-host pathogens 1: Basic framework and apparent competition
+
+Holt et al 2003
+
+Lab 6: Review for midterm
+
+Ecology of multi-host pathogens 2: dilution Keesing et al 2006 effect, vectors & intermediate hosts
+
+Midterm exam
+
+Spring Break
+
+Part 3: Immunity and Genetic Heterogeneity
+
+Lab7: Discussion - Immunity and infectious Abu-Raddad et al. 2006
+
+disease
+
+Science
+
+Co-infection and competition between parasites
+
+Graham 2008
+
+Immune defenses: innate and adaptive
+
+Sompayrac 2003 Ch. 1
+
+Lab 8: Discussion - resistance and virulence Paul Ewald's ted.com lecture
+
+evolution
+
++ Herre 1993
+
+Evolution of resistance: tradeoffs and constraints
+
+Verhulst et al. 1999
+
+Evolution of pathogen virulence
+
+DeRoode et al. 2008
+
+Lab 9: Computer lab - tree building from viral sequence data (bat rabies)
+
+Molecular phylogeny of pathogens
+
+Biek et al. 2006
+
+Within host disease dynamics
+
+11/13 Apr
+12 Apr
+14 Apr 18/20 Apr 19 Apr 21 Apr 25/27 Apr 26 Apr 28 Apr 10 May 13 May
+
+Lab 10: Larry Brilliant's TED video (25 min) http://www.ted.com/talks/lang/
+
++ discussion
+
+eng/larry_brilliant_wants_to_
+
+stop_pandemics.html + Wall
+
+Street journal article
+
+Host-pathogen coevolution and the Red Queen
+
+Lively and Dybdahl 2000
+
+Part 4: Global Change and Disease
+
+Pandemics & Globalization
+
+Kilpatrick et al. 2006
+
+Lab 11: Computer lab - comparative analysis of host-parasite diversity
+
+Managing pathogen outbreaks in wildlife: culling & vaccination
+
+Donnelly et al. 2006
+
+Climate change & infectious diseases
+
+Lafferty 2009 Ecology
+
+Lab 12: Review for exam 2
+
+Parasites & species invasions
+
+Exam 2
+
+Research symposium: presentations by 6150 8-11am (Auditorium) students
+
+Grades due
+
+Readings:
+Abu-Raddad, L.J. Patnailk, P. and Kublin, J.G. 2006. Dual infection with HIV and malaria fuels the spread of both diseases in sub-Saharan Africa. Science, 314: 1603-1606.
+Biek, R., Drummond, A. and Poss, M. 2006. A virus reveals population structure and recent demographic history of its carnivore host. Science. 311: 538-541.
+De Roode, J.C., Yates, A.J. and Altizer, S. 2008. Virulence-transmission trade-offs and population divergence in virulence in a naturally-occurring butterfly parasite. PNAS. 105: 7489-7494
+Dobson, A.P. & Hudson, P.J. 1992. Regulation and stability of a free-living host-parasite system, Trichostrongylus tenuis in red grouse. II: Population models. Journal of Animal Ecology. 61, 487-498.
+Donnelly C.A. Woodroffe R;. Cox D.R. Bourne F.J. Cheeseman C.L. Clifton-Hadley R.S. Wei G. Gettinby G. Gilks P. Jenkins H. Johnston W.T. Le Fevre A.M. McInerney J.P. Morrison W.I. 2006. Positive and negative effects of widespread badger culling on tuberculosis in cattle. Nature, 439: 843-846.
+Ferrari, N. Cattadori, I.M. & Hudson, P.J. 2004. The role of host sex in parasite dynamics of the yellow necked mice Apodemus flavicollis. Ecology Letters 7 88-94.
+Graham, A.L. 2008. Ecological rules governing helminth-microparasite coinfection. PNAS, 105(2):567-570.
+
+Grear, D.A. Perkins, S.E. and Hudson, P.J. 2009. Does elevated testosterone result in increased exposure and transmission of parasites? Ecology Letters, 12: 528-537.
+Herre, E. A. 1993. Population Structure and the Evolution of Virulence in Nematode Parasites of Fig Wasps. Science, 259 1442-1445.
+Holt, D.R. Dobson, A.P. Begon, M. Bowers, R.G. and Schauber, E.M. 2003. Parasite establishment in host communities. Ecology Letters, 6: 837-842.
+Hudson, P.J., Dobson, A.P. & Newborn, D. 1999. Population cycles and parasitism. Science 286, 2425.
+Keesing, F. Holt, R.D. and Ostfeld, R.S. 2006. Effects of species diversity on disease risk. Ecology Letters, 9: 485-498.
+Kilpatrick, A. M., A. A. Chmura, et al. (2006). "Predicting the global spread of H5N1 avian influenza." Proceedings of the National Academy of Sciences 103(51): 19368-19373
+Lafferty, K. 2009. Calling for an ecological approach to studying climate change and infectious diseases. Ecology, In press.
+Lafferty, K.D. 2008. Effects of disease on community interactions and food web structure. In: Infectious Diseases Ecology: Effects of Ecosystems on Disease and of Disease on Ecosystems, edited by Ostfeld, R.S. Keesing, F. and Eviner, V.T. Princeton University Press.
+Lively, C.M., and Dybdahl, M.F. 2000. Parasite adaptation to locally common host genotypes. Nature 405: 679-681.
+Lloyd-Smith, J. O., P. C. Cross, C. J. Briggs, M. Daugherty, W. M. Getz, J. Latto, M. S. Sanchez, A. B. Smith, and A. Swei. 2005. Should we expect population thresholds for wildlife disease? Trends in Ecology & Evolution 20: 511-519
+Morgan, E.R. Milner-Gulland, E.J. Torgerson, P.R. and Medley, G.F. 2004. Ruminating on complexity: macroparasites of wildlife and lifestock. Trends in Ecology and Evolution, 19: 181-188.
+Nunn, CL and Altizer, SM. 2006. Infectious diseases in Primates: Behavior, Ecology and Evolution. Oxford University Press. Chapter 2, 4 and 6.
+Park, A. W., J. M. Daly, et al. 2009. Quantifying the Impact of Immune Escape on Transmission Dynamics of Influenza. Science. 326(5953): 726-728.
+Ryder, JJ, Webberley, KM, Boots, M, and Knell, RJ. 2005. Measuring the transmission dynamics of a sexually transmitted disease. PNAS. 42: 15140-15143
+Sompayrac, L. 2003. How the Immunity system works (2nd ed). Blackwell Publishing.
+Stapp, P, Antolin, M, and Ball, M. 2004. Patterns of extinction in prairie dog metapopulations: plague outbreaks follow El Niño events. Frontiers in Ecology and the Environment: Vol. 2, No. 5, pp. 235-240.
+Verhulst, S. Dieleman, S.J. and Parmentier, H.K. 1999. A tradeoff between immunocompetence and sexual ornamentation in domestic fowl. PNAS, 96: 4478-4481.
+Viboud, C., Bjornstad, O.N., Smith, D.L., Simonsen, L., Miller, M.A., & Grenfell, B.T. 2006. Synchrony, waves, and spatial hierarchies in the spread of influenza. Science 312, 447.
+
+

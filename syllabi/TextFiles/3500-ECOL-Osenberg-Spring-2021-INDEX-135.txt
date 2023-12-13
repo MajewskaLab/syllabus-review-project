@@ -1,0 +1,226 @@
+1 ECOLOGY (ECOL 3500), SPRING 2021
+
+COURSE SCHEDULE
+LECTURES: TR, 2:20 - 3:35PM, 085 SLC AND VIA ZOOM
+
+WEEK Week 1
+Jan 14 (Osenberg)
+Week 2 Jan 19 & 21 (Osenberg)
+Week 3 Jan 26 & 28 (Osenberg)
+Week 4 Feb 2 & 4 (Osenberg)
+Week 5 Feb 9 & 11 (Osenberg)
+
+Last Names: A - Ki can attend in person on Tuesdays Last Names: Kl - Z can attend in person on Thursdays
+
+LECTURE TOPIC
+WHAT IS ECOLOGY? · Introduction to ecology · The scientific method and
+experiments in ecology · Study design and statistics
+in ecology
+· Statistical tests and hypothesis testing POPULATIONS
+· Analyzing geographic distributions
+· Demography · Projection matrices · Population growth · Application: sea turtles · Population regulation;
+Intraspecific competition; density-dependence; equilibria · Application: fisheries management · Application: amphibian declines
+EXAM 1 (FEB 09) SPECIES INTERACTIONS · Intro to species interactions · Predation & herbivory
+
+REQUIRED AND SUPPLEMENTAL READINGS;
+ASSIGNMENTS
+Required: · Relyea & Ricklefs: Ch. 1
+Assignment: · HW1 (due: 19 Jan per Dr. I's email)
+Supplemental: · Mueller & Oppenheimer 2014. Psych Sci 25:1159-1168. (hand-written vs laptop notes)
+Required: · Relyea & Ricklefs: Ch. 11
+Assignment: · Sapling HW2 -- 1) read "Reading the literature", 2) read Klimes and Dolezal 2010; 3) do assessment (due Jan 26)
+Required: · Relyea & Ricklefs: Ch. 12
+Assignment: · Sapling HW3 - due Feb 2
+Required · Relyea & Ricklefs: Ch. 13
+Assignment: · Sapling HW4 -- 1) read Vonesh & de la Cruz 2002; 2) do assessment (due Feb 9)
+Other resources: · On-line review session for Exam 1: 3pm, Sunday, Feb 7th · Populus (free software that simulates population dynamics: http://cbs.umn.edu/populus/overview). · Simulations from Community Ecology
+Required: · Relyea & Ricklefs: Ch. 14
+Assignment: · Sapling HW5 (due Feb 16)
+
+2 ECOLOGY (ECOL 3500), SPRING 2021
+
+WEEK
+Week 6 Feb 16 & 18 (Osenberg)
+Week 7 Feb 23 & 25 (Osenberg)
+Week 8 Mar 2 & 4 (Osenberg)
+Week 9 Mar 9 & 11 (Injaian)
+Week 10 Mar 16 & 18 (Injaian)
+
+LECTURE TOPIC
+· Competition · Coexistence · Mutualism
+· Parasitism & Disease ecology
+COMMUNITIES · Intro to communities · Food webs · Indirect effects and higher
+order interactions EXAM 2 (MAR 04)
+· Int. Dist. Hyp. · Succession · Conservation of Global
+Biodiversity
+ECOSYSTEMS · Climate & Biomes · Primary production
+
+REQUIRED AND SUPPLEMENTAL READINGS;
+ASSIGNMENTS
+Required: · Relyea & Ricklefs: Ch. 16, 17
+Assignment: · Sapling HW6 (due Feb 23)
+Required: · Relyea & Ricklefs: Ch. 15, 18
+Assignment: · Sapling HW7 - 1) Read McKnight et al. 2010; 2) do assessment (due Mar 2).
+Required: · Relyea & Ricklefs: nothing new
+Assignment: · none
+Other resources: · On-line review session for Exam 2: 5pm, Tuesday, March 2nd
+Required: · Relyea & Ricklefs: Ch. 19 & 23
+Assignment: · SaplingPlus Homework Ch. 19 & 23
+Required: · Relyea & Ricklefs: Ch. 5 & 3
+Assignment: · SaplingPlus Homework Ch. 5 & 3
+
+Week 11 Mar 23 & 25 (Injaian)
+
+· Nutrient Cycling · Energy Cycling
+
+Required: · Relyea & Ricklefs: Ch. 20 & 21
+Assignment: · SaplingPlus Homework Ch. 20 & 21
+
+Week 12 Mar 30 & Apr 1 (Injaian)
+
+· Climate Change
+
+Week 13 Apr 06 (no class on the 8th - UGA holiday (Injaian)
+
+EXAM 3 (APR 06)
+
+Required: · TBD
+Assignment: · Climate Change reflection
+
+3 ECOLOGY (ECOL 3500), SPRING 2021
+
+WEEK
+Week 14 Apr 13 & 15 (Injaian)
+Week 15 Apr 20 & 22 (Injaian)
+Week 16 Apr 27 & 29 (Injaian)
+Finals week
+
+LECTURE TOPIC
+EVOLUTION AND ADAPTATION · Evolution · Natural selection · Adaptation in Variable
+Environments · Life histories
+· Reproductive strategies · Social behaviors
+EXAM 4 (FINAL): THURSDAY, MAY 6, 3:30 - 6:30PM
+
+REQUIRED AND SUPPLEMENTAL READINGS;
+ASSIGNMENTS
+Required: · Relyea & Ricklefs: Ch. 7
+Assignment: · SaplingPlus Homework Ch. 7
+Required: · Relyea & Ricklefs: Ch. 4 & 8
+Assignment: · SaplingPlus Homework Ch. 4 & 8
+Required: · Relyea & Ricklefs: Ch. 9 & 10
+Assignment: · SaplingPlus Homework Ch. 9 & 10
+None
+
+[Exam 4 will be longer than Exams 1-3, with a portion emphasizing the last quarter of the class and a portion being
+cumulative.]
+
+Syllabus Disclaimer The course syllabus is a general plan for the course; deviations may be necessary.
+
+4 ECOLOGY (ECOL 3500), SPRING 2021
+
+INSTRUCTORS
+
+Dr. Craig Osenberg Office: Odum School of Ecology, Rm 25 Email: osenberg@uga.edu Virtual Office Hours: By appointment
+Lecture Teaching Assistant: Emma Spiegel Email: emma.spiegel25@uga.edu
+
+Dr. Allison Injaian (pronounced In-jay-in, feel free to call me Dr. I) Office: Odum School of Ecology, Rm 134 Email: inja@uga.edu Virtual Office Hours: By appointment
+
+COURSE INFORMATION
+Prerequisites: [BIOL 1104, or BIOL 1108+L, or PBIO 1220+L] and [CHEM 1211+L or CHEM 1311H+L]
+Course Description: 4 Credits. Interactive lecture based on the textbook (see below) and recent scientific papers and laboratory section.
+Course Rationale: Understanding the interactions between organisms and the environment, as well as where we, as humans, fit into our ecosystems is crucial to understand the natural world. To gain this understanding, we will focus on concepts such as climate, adaptation, species interactions such as competition and predation, population and community structure, food webs, and nutrient cycling in ecosystems.
+Learning Outcomes As a result of participating in this course, students will be able to:
+1. Understand how organisms interact with their environment 2. Evaluate our role and impacts as humans in our surrounding ecosystems 3. Understand the scientific process and evaluate hypotheses, methods, and results 4. Read and interpret primary scientific literature
+
+REQUIRED MATERIALS AND SUBSCRIPTIONS
+Text: Ricklefs & Relyea: The Economy of Nature (8th edition). Additional readings will be made available on eLC.
+Online Exercises: SaplingPlus (see below for more details) In-class participation: iClicker Reef (see below for more details)
+
+5 ECOLOGY (ECOL 3500), SPRING 2021
+A bundle of the eBook, SaplingPlus and iClicker Reef can be purchased through the UGA bookstore, using this link ($93.75).
+Note: If you purchase this bundle through the bookstore, you will need to go in person to pick up a physical card that has your SaplingPlus access code on it. If you'd like to avoid going in person, you can also purchase the bundle through the publisher directly using the directions posted on eLC (see the `Links for Sapling and iCLicker Registration/Use' folder in the `Content' tab on eLC).
+COURSE FORMAT
+Lectures: 75-min with frequent in-class participation exercises and questions through iClickerReef. Lectures will cover content from primary Ricklefs chapters, plus special topics of environmental/social relevance.
+Lecture slides will be available on eLC after each lecture -- to supplement, but not replace, your own notes.
+Readings: Required readings should be done prior to lecture. Supplemental readings (and lecture source materials) are not required reading but provide an opportunity to familiarize yourself with the primary literature (rather than summaries from lecture and the textbook). Although these papers tend to be older, many are "classics" and they are more accessible to a beginning ecologist than some more recent (and more quantitatively sophisticated) studies.
+iClickerReef: We think it is important to offer opportunities for students to check their understanding of course material during class periods. We'll ask questions through iClickerReef during each lecture. Students will be able to input their answer to these questions through the iClicker App, and see if they (as well as their classmates) have a grasp of the material. We'll go over the answers together as a class after each iClicker question. No points will be assigned to these questions.
+You can find more information on how to download the app, create an account, redeem the access code for this course (54628D489FD5) and add this course here:
+https://macmillan.force.com/iclicker/s/article/How-to-Redeem-Your-iClicker-Reef-Access-Code
+- Note: all students will get a free 6-month subscription of iClickerReef if they purchase the required course materials (see link to course materials in the box above).
+GRADING
+Final scores will not be rounded (i.e., 89.99% is a B+ and 90.01% is an A-).
+Your grade will be based on your performance relative to the mean total score of the three highest undergraduate scores in the class.
+
+6 ECOLOGY (ECOL 3500), SPRING 2021
+
+For example, if the mean of the three highest scores in this class are an 86.6%, then an 86.6% would be the equivalent of a 100%. That means that a student that received 75.5% of the total points would receive a B+ (75.5/86.6 = 87.1%, B+). Functionally, this means that the final grades in this class will be curved.
+Our goal is for everyone to receive A's (i.e., master >93% of what the best students have achieved):
+A: >93% of X A-: >90% of X B+: >87% of X B: >83% of X B-: >80% of X C+: >77% of X C: >73% of X C-: >70% of X D+: >67% of X D: >60% of X F: <60% of X (The mean of the top three scores in the class is designated as "X in the breakdown above)
+Special Treatment: Please do not request individual special treatment regarding grading at the end of the semester; we do not adjust grades for individuals, even if you are within 0.01 points of a grade cutoff (B+/A-). We do this to keep things as fair as possible across all students. Plan to do well on all exams and other assessments from the beginning of the semester. If you have ongoing challenges with the material or stemming from health issues, please see the instructor as soon as possible, so that we can help you.
+Your grade in this course will be composed of the following items:
+
+Homework Assignments Ex. Active Learning, Populus, SaplingPlus, Climate Change Perspective
+
+20%
+
+Exams 30% from the highest 2 mid-term exams, 20% from the final exam (see below for details)
+Lab
+
+50% 30%
+
+Homework assignments - Due each week. Students can drop their one lowest homework assignment grades.
+
+7 ECOLOGY (ECOL 3500), SPRING 2021
+- Late submissions: Late assignments will not be accepted without justification (e.g. serious and documented illness).
+Exams - 3 mid-term exams, and a concise final exam covering new material and some cumulative material.
+o Mid-term and final exams will be multiple choice and administered online, through eLC. All exams will be `open book', meaning that students can use notes and the textbook for reference. On the day of schedule exams, all students will take the exam during our scheduled class period (2:20 - 3:35PM) unless accommodations have otherwise been made.
+o Questions will be written to assess your ability to synthesize material presented in class, including any videos and assigned readings. Like most biology-related courses, exams in this class will test you beyond memorization of terms. I want to ensure that you understand ecological principles and processes. Therefore, exams will have scenarios which you have never specifically learned about, but should be able to reason through based on the information we discussed in class.
+- The lowest mid-term exam score will be dropped. The final exam is mandatory, and students may not drop the score on the final exam.
+- Exam keys will not be released. However, if you'd like to discuss any exam questions, you can make an appointment with our teaching assistant to review your exam (Emma Spiegel, emma.spiegel25@uga.edu).
+- Regrades: If you feel that we have graded your exam incorrectly, you may submit a written request for a regrade. Deadlines for requests are 1 week after we return exams. Your request must be submitted 1) to one of the instructors (not your TA); 2) with a typed cover letter detailing why you think you should receive additional credit. Your entire exam will be regraded. We are primarily concerned with correcting fundamental oversights, not minor and debatable issues. Of course, we'll be happy to discuss any aspect of the exam with you during our office hours. Our primary goal is to help you master the material and understand the concepts.
+- Make-up Exams: Make-up exams will be allowed only in extreme cases and only if there is welldocumented absence due to acute illness, jury duty, and other exceptional circumstances that are clearly beyond your control. If a student misses a midterm exam due to a non-extreme case, this missed exam will count as the `dropped exam'. Exam absences must be documented in advance of the exam day, with the exception of emergencies that can be documented thereafter. No make-up exams will be given without prior permission or documentation. In case of illness, a letter from the student's primary care provider is required. This letter must state that the student was unable to complete the exam on the scheduled date (i.e., a letter stating only that the student was seen in a clinic is not sufficient). After proper documentation is submitted, the instructor will determine how to proceed: e.g., the student may be given a make-up exam (the format will be of the instructor's choosing), or the assignment may be replaced with an average grade from the student's other assignments.
+Labs - Your specific Graduate Teaching Assistant will communicate with your lab section about the lab
+syllabus, schedule, requirements, etc.
+
+8 ECOLOGY (ECOL 3500), SPRING 2021
+COURSE POLICIES
+Communication: We will use eLC and email to communicate class announcements. If you email us, please be sure to include "ECOL 3500" in the subject line of your emails. We do our best to respond to emails within 24 hours (during the week) - please email again if you haven't heard back.
+Use Office Hours: We encourage you to ask questions about course material, assignments, or just life. It's a great way for us to get to know each other better (which is one of the goals here!)
+Religious Observances: The University of Georgia recognizes students' rights to engage in religious practice. If you will miss class to observe religious activities, please contact me prior to the observance and make arrangements to complete missing assignments or assessments.
+Accommodations for Students with Disabilities: If you require a disability-required accommodation, it is essential that you register with the Disability Resource Center (Clark Howell Hall; https://drc.uga.edu; 706-542-8719 [voice]; 706-542-8778 [TTY]) and notify us of your eligibility for reasonable accommodations. We can then plan how best to coordinate your accommodations. Please note that accommodations cannot be provided retroactively.
+University Honor Code & Academic Honesty: As a University of Georgia student, you have agreed to abide by the UGA academic honesty policy. UGA Student Honor code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others". A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found at https://honesty.uga.edu/
+You are responsible for informing yourself about the university's standards before performing any academic work. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Please ask if you have questions related to course assignments and the academic honesty policy. Any form of possible academic dishonesty will be reported to the UGA Office of the Vice President for Instruction. FERPA Notice: The Federal Family Educational Rights and Privacy Act (FERPA) grants students certain information privacy rights. To comply with FERPA, all communication that refers to individual students must be through a secure medium (UGAMail or eLC) or in person. Instructors are not allowed to respond to messages that refer to individual students or student progress in the course through non-UGA accounts, phone calls, or other types of electronic media. For details, please visit https://apps.reg.uga.edu/FERPA.
+ADDITIONAL RESOURCES
+- Mental Health & Wellness Resources o If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.
+
+9 ECOLOGY (ECOL 3500), SPRING 2021
+o UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies).
+o If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center.
+o Additional resources can be accessed through the UGA App.
+- Academic Coaching: The Office of Academic Enhancement provides assistance with time management, test and performance anxiety, notetaking, motivation, text comprehension, test preparation, and other barriers to success at UGA.
+
+10 ECOLOGY (ECOL 3500), SPRING 2021
+ECOL 3500 Syllabus Modifications for Spring 2021 (COVID-19 adjustments)
+- Rotating groups for in-person instruction: Our classroom (085 SLC) can only hold 64 students at a time, given the need for students to be at least 6 ft apart. Therefore, our class will be divided into 2 groups, which will rotate for face-to-face class sessions:
+Last Names: A - Ki can attend in person on Tuesdays
+Last Names: Kl - Z can attend in person on Thursdays
+Only members of the assigned group can attend class in person on their assigned day. If your group is not assigned for face-to-face instruction, you will be able to attend class live through Zoom (see eLC for Zoom link), or participate remotely at a different time by watching a recording of the lecture, which will be posted to eLC as soon as possible after class time.
+- Attendance: We understand and respect the fact that not all students may feel comfortable with inperson instruction, given COVID-19. Therefore, there will be no grading penalty if you chose to not attend face-to-face class lectures, even on your scheduled in-person day. If you opt to not attend class(es) in person, you will be responsible for fulfilling class requirements online. Please do not put yourself or others at risk by coming to class if you are ill or have a known exposure to COVID-19.
+- Exams: All exams will be `open book' and taken online through eLC.
+- Face masks: Effective July 15, 2020, the University of Georgia--along with all University System of Georgia (USG) institutions--requires all faculty, staff, students and visitors to wear an appropriate face covering while inside campus facilities/buildings where six feet social distancing may not always be possible. Face covering use is in addition to and is not a substitute for social distancing. Anyone not using a face covering when required will be asked to wear one or must leave the area. Repeated refusal to comply with the requirement may result in discipline through the applicable conduct code for faculty, staff or students. Reasonable accommodations may be made for those who are unable to wear a face covering for documented health reasons. Students seeking an accommodation related to face coverings should contact Disability Services at https://drc.uga.edu/.
+- Technical issues: If you are having trouble viewing course content online for any reason, please do not hesitate to let us know. We will be happy to work with you to find a solution.
+- Late assignments and Make-up Policy: If a COVID-related reason, such as illness or a complication with international travel, causes you to:
+o Submit an assignment late, there will be no penalty. o Miss 2 or more mid-term exams, or miss the final exam, a makeup exam will be offered. The
+exact layout and timing of makeup exams will be determined on a case by case basis, to meet student needs and maintain equity in the classroom.
+Documentation will be required to excuse late assignments and allow for makeup exams to be taken.
+
+11 ECOLOGY (ECOL 3500), SPRING 2021
+General COVID information (not specific to ECOL 3500)
+- DawgCheck: Please perform a quick symptom check each weekday on DawgCheck--on the UGA app or website--whether you feel sick or not. It will help health providers monitor the health situation on campus: https://dawgcheck.uga.edu/
+- What do I do if I have symptoms?: Students showing symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5 p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see https://www.uhs.uga.edu/info/emergencies.
+- What do I do if I am notified that I have been exposed?: Students who learn they have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 14 days consistent with Department of Public Health (DPH) and Centers for Disease Control and Prevention (CDC) guidelines. Please correspond with your instructor via email, with a cc: to Student Care & Outreach at sco@uga.edu, to coordinate continuing your coursework while self-quarantined. If you develop symptoms, you should contact the University Health Center to make an appointment to be tested. You should continue to monitor your symptoms daily on DawgCheck.
+- How do I get a test?: Students who are demonstrating symptoms of COVID-19 should call the University Health Center. UHC is offering testing by appointment for students; appointments may be booked by calling 706-542-1162.
+UGA will also be recruiting asymptomatic students to participate in surveillance tests. Students living in residence halls, Greek housing and off-campus apartment complexes are encouraged to participate.
+- What do I do if I test positive?: Any student with a positive COVID-19 test is required to report the test in DawgCheck and should self-isolate immediately. Students should not attend classes inperson until the isolation period is completed. Once you report the positive test through DawgCheck, UGA Student Care and Outreach will follow up with you.
+
+

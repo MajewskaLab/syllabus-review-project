@@ -1,0 +1,67 @@
+MIBO 4090/6090 Prokaryotic Biology Fall 2011, MWF 11:15am -12:05pm Room 404D Biological Sciences
+
+Instructors: Dr. Vincent Starai 145 Riverbend Research South (706) 542-5755 vjstarai@uga.edu
+
+Dr. William Whitman whitman@uga.edu
+Dr. Eric Stabb estabb@uga.edu
+
+Office Hours: Talk to me, or send me an email, and we'll get something set up!
+
+Required Text: Prescott's Microbiology, 8th ed. by Willey et al., McGraw Hill College Publishing.
+
+Supplements: Information will be presented from outside the required text, and will be provided on eLC., either separately, or contained within the lecture slides.
+
+This course syllabus is a general plan for the course; deviations announced to the class by the instructor may (and probably will) be necessary.
+
+Academic Honesty: As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty", and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: www.uga.edu/honesty. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to the course assignments and the academic honesty policy should be directed to the instructor.
+
+A website for more detailed information about academic honesty can be found at: http://www.uga.edu/honesty/ahpd/ahpd.html
+
+Exams: There will be six 50 pt. exams for this class (250 total points), including the noncumulative final (Dec 12th, 2011 at noon). The lowest exam score will be dropped, and the remaining five exams will be averaged for your final grade. Due to this policy, no make-up exams will be scheduled. All exams will be weighted equally, and will consist of a mixture of short answer, fill-in-the-blank, picture-drawing (!), and multiple choice. Previous exams will not be passed out as study guides.
+Exam Re-grades: I am always willing to look at graded exams and adjust scores, if warranted. However, I will only re-grade exams for up to one week after being passed back. I will also ask the other instructors in the course to follow this rule. Do not come to me after finals with a stack of exams to re-grade!
+
+Grading scale:
+
+A = (4.0) = 93.0-100% A- = (3.7) = 90.0 - 92.9% B+ = (3.3) = 87.0 - 89.9% B = (3.0) = 83.0 - 86.9% B- = (2.7) = 80.0 - 82.9%
+
+C+ = (2.3) = 77.0 - 79.9% C = (2.0) = 70.0 - 76.9% D = (1.0) = 60.0 - 69.9% F = (0.0) = 59.9% or below
+
+Rounding will be done to the nearest 0.1%. For example, if you score an 82.95%, that will be rounded to 83.0% (B). If you score exactly 82.9%, that's a B-.
+
+Scientific Papers: This semester, we will be reading research papers from the primary literature. Two papers -- with topics relevant to the current classroom study -- will be assigned over the course of the semester. You will be asked to read the paper, and we will devote one classroom day identifying the hypotheses, deconstructing the figures, and analyzing the data. You will encounter exam questions that test your comprehension of the paper.
+
+"Extra credit:" Throughout the semester, the Microbiology Department hosts speakers from outside UGA to present a seminar on topics involving current microbiological research. These lectures are generally Thursday at 11 am, and I will announce the speaker and the topic on the Wednesday before the seminar. To obtain extra credit, you may attend up to three of these lectures, and write a one-page, single-spaced summary of this lecture, to be handed to me (directly or by email), no later than 5pm of the Monday following the lecture. In this summary, be sure to highlight the hypothesis and conclusions of the research, and discuss the techniques used to come to those conclusions. Each acceptable summary will be worth 1.5 pts, for a total of 4.5 extra points.
+
+Students registered for MIBO6090: In addition to following the above, graduate students enrolled in this course are required to write a 15-page review paper (not including references) on a topic encompassing some aspect of microbial physiology, and present a 20-min seminar on this topic at the end of the semester. The format will be similar to that presented for the Undergraduate Honors Option (separate file). This paper will be worth 60 points, the presentation will be worth 20 points, and 6090 students will have a total possible point total of 330.
+
+eLC use: Slides used for each lecture will try to be placed on eLC before each lecture. I will do my best to maintain communication in eLC, but if you submit a question to me via eLC, please email me directly - just to remind me. Supplemental notes and texts will be provided here, when necessary.
+
+Fall 2011 Outline
+
+DATE M 8-15
+
+Topic / Source Introduction, bacterial cell structure, Ch. 3
+
+W 8-17 F 8-19 M 8-22 W 8-24 F 8-26 M 8-29 W 8-31 F 9-2 M 9-5 W 9-7 F 9-9 M 9-12 W 9-14 F 9-16 M 9-19 W 9-21 F 9-23 M 9-26 W 9-28 F 9-30 M 10-3 W 10-5 F 10-7 M 10-10 W 10-12 F 10-14 M 10-17 W 10-19 F 10-21 M 10-24 W 10-26
+F 10-28 M 10-31 W 11-2 F 11-4 M 11-7 W 11-9 F 11-11 M 11-14 W 11-16 F 11-18 M 11-21 W 11-23
+
+Cell structure continued, Chs. 3 motility Chs. 3 and 13
+Transport mechanisms, cell cycle, Ch. 6 and 7 Cell cycle, environmental growth of microbes, Ch.7 Bacterial development, Chs. 3, 13, 20.1, and supplements
+Two-component regulators, Ch 13.2 Introduction to Metabolism, Ch. 9 Exam 1 NO CLASS: Labor Day
+Dr. Whitman: Bioenergetics, Ch. 10- glycolysis/TCA Dr. Whitman: Bioenergetics, Ch. 10- ETC/ox phos Dr. Whitman: Bioenergetics, Ch. 10 chemo/photolithotrophy Dr. Whitman: Ch. 10 anaerobic respiration/fermentation Dr. Whitman: CO2 fixation, Ch. 11 (supplement with nitrogen fixation) Dr. Whitman: sugar and amino acid synthesis, Ch. 11 Dr. Whitman: nucleotide and lipid biosynthesis, Ch. 11
+Exam 2, Dr. Whitman Central dogma, DNA replication, Ch. 12
+Transcription, Ch. 12 Gene regulation I, Ch. 13 Gene regulation II, Ch. 13 Protein synthesis, maturation, and secretion Ch. 12 translational regulation, Ch. 13 More translational regulation, paper I handout (2-hybrid)
+Paper I discussion Exam 3
+Dr. Stabb: Biogeochemical cycling, Ch. 26 (carbon, nitrogen cycles) Dr. Stabb: More cycling, Ch. 26 (iron, mercury, phosphorous) Dr. Stabb: Marine bacterial communities, Ch. 28 Dr. Stabb: Soil bacterial communities, Ch. 29
+Dr. Stabb: Microbial Interactions (supplement quorum sensing Ch 7), Ch. 30
+Fall "break" Dr. Stabb: Microbial interactions: part 2, Ch. 30
+Exam 4, Dr. Stabb Gene Regulation Review Bacteriophages, and intro to phage , Ch. 9 and supplementation Lambda lifecycle and lifecycle regulation, outside supplement More lambda lifecycle regulation, outside supplement
+Exam 5 Microbial diversity / Gram negative family: the proteobacteria, Ch. 20
+Gram negative family: nonproteobacteria, Ch. 19 NO CLASS: Thanksgiving NO CLASS: Thanksgiving
+
+F 11-25 M 11-28 W 11-30 F 12-2 M 12-5 Tu 12-6 M 12-12
+
+NO CLASS: Thanksgiving Gram positive family: Low G + C, Ch. 21 Gram positive family: High G + C, Ch. 22 Archaea, Ch 18, In-class presentations (honors)
+Archaea, Paper II handout LAST CLASS! Paper II discussion Exam 6: Final Exam (non-cumulative) 12:00 pm
+
+

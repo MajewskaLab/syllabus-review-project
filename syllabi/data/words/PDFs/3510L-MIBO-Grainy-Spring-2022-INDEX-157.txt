@@ -1,0 +1,269 @@
+Introduction to Microbiology Laboratory
+MIBO 3510L SPRING 2022 Pre-Lab Lecture Tuesdays 3:55-5:10 PM in Biological Sciences room 404B Labs: Room 329 Wednesdays and Fridays 8:00-9:55 (CRN 45012) or 10:20-12:15 (CRN 45015)
+
+Pre-requisite courses: MIBO3500 or MIBO3500E or MIBO3500H and MIBO3500L
+
+Credit hours: 3 hours. 75 minutes of lecture and 4 hours of lab per week
+
+Instructors:
+
+Dr. Julie Grainy Room 214B Biological Sciences jgrainy@uga.edu
+
+Dr. Elizabeth Ottesen 550 Biological Sciences ottesen@uga.edu
+
+Office hours: By appointment via Zoom. E-mail to schedule.
+
+Lecture TA: Lab TA:
+
+Coralis Rodriquez-Garcia Greg Whitaker
+
+coralis.rodriguez25@uga.edu Gregory.Whitaker@uga.edu
+
+Course description: Application of microbiological laboratory techniques in experimental microbiology with emphasis on biochemical analysis of bacteria enriched from environmental sources, antibiotic resistance in environmental bacterial isolates from local watershed, and spread of antibiotic resistance via genetic transfer.
+Course objectives: The course objective is to train students to apply basic skills practiced in a modern microbiology laboratory. Students who have successfully completed the course will have demonstrated their understanding of microbiology culture techniques to isolate novel environmental organisms and identify them using molecular methods, and will use selective and differential media to isolate and identify local aquatic pathogens. Additionally, students will evaluate antibiotic resistance in bacteria, determine the genetic basis of this antibiotic resistance, and observe and quantify the transfer of antibiotic resistance genes between bacteria. Finally, students will isolate novel bacteriophages from environmental sources and evaluate their host specificity. Information will be conveyed to the students through lectures, demonstrations, assigned readings, training exercises, and assigned projects. Students will be evaluated on the basis of in-class tests and quizzes, a final exam, laboratory practicals, and written reports.
+Course expectations: This will be a rigorous, standalone, 3-credit laboratory course during which you will apply the basic microbiology lab skills learned in MIBO3500L (Intro Microbiology Lab I). You should come to this class prepared to work hard and be challenged. However, it is also my hope that you will find the course both interesting and rewarding! You will receive a thorough grounding in current microbiology laboratory techniques, and I have selected laboratory activities that will allow you to isolate new "bugs" from diverse environments and try out techniques that see everyday use in medical, environmental, and genetic laboratories throughout the world. The unifying theme throughout the course will emphasize the impact human activity has on environmental microbes from a range of locally important sources such as soil, sewage, and water. As we work through this material together, I hope that you will gain a new perspective on microbiology and its importance to human health and to the world around us!
+Textbook: No required textbook. Reading materials will be provided online on a weekly basis. You will need to purchase a three ring binder with paper to record your experiments in.
+
+Last updated Jan 11, 2022 by Dr. Grainy
+
+Tuesday pre-lab lectures: The pre-lab lecture for all students is mandatory. The format will be a "flipped classroom" approach. Students will be provided with eLC content (lecture video, lab instructions, etc) to engage with prior to the class time (Tuesdays 3:55-5:10). Students will answer pre-lecture quiz questions on eLC to demonstrate that they engaged thoroughly with the content (due before the start of class time - 3:55). The in-person portion of the flipped classroom will include a face-to-face post-lab discussion to review what occurred in lab the week prior, a Q&A time for the upcoming lab experiments, and an in-class activity to master the content together as a class. In-person attendance is expected, and there will not be the option for zoom attendance or access to a recording of the in-person portion of the lecture.
+Wed/Fri Lab sessions: In addition to the weekly pre-lab lecture, all students are enrolled in one of the 3 lab sections that meets inperson Wednesdays and Fridays each week (times and rooms listed on page 1).
+Lab notebooks: Each student is expected to keep an up-to-date laboratory notebook. You should purchase a three ring binder with loose leaf lined paper to use as your notebook. Laboratory notebook entries will be checked at random points in the semester. Student lab notes that include background information, summarize what you will be doing, and what information should be recorded in your lab notebook will be available on eLC. Please print out a copy to include in your notebook. Failure to keep an up-to-date notebook will result in a 5 pt deduction from your laboratory notebook score per incident. In addition to having your notebook for every lab period, students are required to bring their lab notebooks to the Tuesday lecture to use during the post-lab discussion.
+Pre-lecture quizzes: Read the student lab notes and any supplemental materials assigned each week and watch the pre-class lecture video posted on eLC. You will be given weekly pre-lecture quizzes that will be worth 5 pts each. These quizzes must be completed on eLC no later than Tuesdays at 3:55 (the start of class time).
+Post-lab discussion: Each week you will complete post-lab questions to report on your progress on ongoing research projects (post-lab template found on eLC). Completed post-lab about W/F labs should be printed out and brought to class the following Tuesday at the start of class (3:55). During class you will review and discuss with your peers and write a summary paragraph about what your group discussed. You will turn in the printed post-lab with the handwritten discussion paragraph at the end of lecture for a completion grade of 5 pts each.
+In-class activity: Each week in the Tuesday class you will complete an in-class activity worth 10 pts each. You will have until Wednesday at noon to submit the activity to eLC for grading.
+Laboratory participation: All students are expected to participate face to face (F2F) in lab. Due to the nature of these labs, there will not be a remote attendance option. Laboratory participation grade category will be used to record laboratory attendance (see policy below) as well as safety/participation point deductions. Points can be deducted due to safety violations, tardiness, failure to participate, or other offenses at the discretion of your laboratory TA (2-5 pts per offense). First unexcused absence will be a 10 pt deduction. Second unexcused absence will be a 20 pt deduction from your final grade. Each additional absence will be a 5% deduction of the final grade.
+Laboratory Safety/Techniques: This laboratory course will require extensive BSL2 (biosafety level two) work. This means that we will work with organisms that are known to cause disease in healthy human adults. You will be given a set of lab safety rules that you are expected to read and follow. For the safety of yourself and others, these rules must be followed at all times! If you fail to follow these rules/ techniques during the semester, points will be deducted from your lab participation score. You will be notified at the time of the occurrence. Proper lab attire with long pants and closed toe shoes are strictly enforced for your safety, and students without proper attire will be sent home and the missed lab treated as an unexcused absence. Given that social distancing is difficult in a laboratory environment, masks will be supplied and are strongly recommended for the entire lab period.
+2
+
+Course Schedule: Week
+1 Jan 11 Jan 12 & 14
+2 Jan 18 Jan 19 & 21
+3 Jan 25 Jan 26 & 28
+4 Feb 1 Feb 2 & 4
+5 Feb 8 Feb 9 & 11
+6 Feb 15 Feb 16 & 18
+7 Feb 22 Feb 23 & 25
+8 Mar 1 Mar 2 & 4
+9 Mar 15 Mar 16 & 18
+10 Mar 22 Mar 23 & 25
+11 Mar 29 Mar 30&Apr 1
+12 Apr 5 Apr 6 & 8
+13 Apr 12 Apr 13 &15
+14 Apr 19 Apr 20 &22
+15 April 26 April 27&29
+16 May 3 Thur May 5
+
+Tuesday lecture topic (3:55-5:10 pm)
+
+Wednesday lab
+
+Friday lab
+
+Lecture: Intro, safety - Biological Sciences Building room 404B in person
+
+No lab
+
+No lab
+
+Lecture: Review aseptic technique, microscopy, and staining
+
+Aseptic technique, Streak and spread plate Microscopy
+
+Lecture: Selective enrichment
+
+Media design and selective enrichment from environmental sample Lecture: Phage & Dilution calculations
+
+Check selective enrichments Practice microscopy
+
+Pipetting practice
+
+Phage Day 2: dilutions
+
+Phage Day 1: Enrichment from sewage
+
+Lecture: Water quality testing
+
+Phage Day 3: Analysis
+
+Water Quality Day 2: Transfer
+
+Water Quality Day 1: Inoculate in LTB
+
+ESBL Day 2: Transfer to ChromAgar
+
+ESBL Day 1: Filter and pre-enrichment
+
+Lecture: ESBL producers
+
+Water Quality Day 3: Analyze
+
+ESBL Day 4: re-streak water isolate
+
+ESBL Day 3: Pick water isolate colonies Skills checks
+
+Lecture: Differential media and Antibiotic resistance
+
+EnteroPluri ID for water isolates
+
+Analysis on Wednesday's results
+
+Antimicrobial resistance of water isolates-
+
+Kirby Bauer and MIC determination
+
+Lecture: PCR and agarose gels
+
+Antimicrobial resistance of water isolates - Agarose gel to detect PCR results
+
+Colony PCR diagnosis
+
+SPRING BREAK March 7-11
+
+Midterm Exam Tuesday 3:55 in 404B
+
+Work on water lab reports
+
+TBD
+
+Lecture: Intro to 16S 16S identification - DNA extraction and PCR of 16S gene from selective enrichment isolate Lecture: Bacterial genetics 1 Bacterial genetics - Transformation day 1
+Lecture: 16S sequence analysis
+
+16S identification - Agarose gel and sample prep
+Bacterial genetics - Transformation day 2
+
+16S identification - sequence analysis Transformation day 3 Lecture: Bacterial genetics 2 Bacterial genetics - Conjugation and transposon mutagenesis day 1 Lecture: Oral project reports in class
+
+16S identification -work on project reports
+Bacterial genetics - Conjugation and transposon mutagenesis day 2
+
+Bacterial genetics - Conjugation and transposon mutagenesis day 3 Lecture: Oral project reports in class
+
+Bacterial genetics - Conjugation and transposon mutagenesis day 4
+
+Bacterial genetics - Conjugation and transposon mutagenesis day 5 Lecture: Oral project reports in class
+
+Lab practical
+
+Final exam Thursday May 5th 3:30-6:30
+
+3
+
+Grades
+Item Pre-lecture quiz Post-lab discussions In-class activities Lab participation Skills checks Project reports Lecture exams Lab practical exam
+
+Number Top 10 Top 10 Top 10
+
+Points each 5 5 10
+
+2
+
+5
+
+2
+
+60
+
+2
+
+100
+
+1
+
+50
+
+Grand total
+
+Total 50 50 100 20 10 120 200 50 600
+
+points
+
+Pre-lecture quizzes (~8% of final grade) Weekly quizzes on eLC prior to class (5 pt each, highest 10 for final grade): 50 pts
+
+Post-lab discussions (~8% of final grade) Weekly post-lab answers and in-class discussion paragraph (5 pt each, highest 10 for final grade): 50 pts
+
+In-class activity (~17% of final grade) Weekly in-class activity submission (10 pt each, highest 10 for final grade): 100 pts
+
+Lab participation (~3% of final grade) Everyone starts with 20 points. Deductions can be made throughout the semester due to absence, tardiness, safety violations, and other reasons up to the TA's discretion. Points can go negative if your offenses go beyond the 20 points.
+
+Skills checks (~2% of final grade) Two skills checks - aseptic technique and Gram staining (5 pt each): 10 pts total
+
+Project reports (20% of final grade) Two project reports, Water lab project and selective enrichment 16S project (60 pt each): 120 pts total
+
+Lecture Exams (~33% of final grade) Midterm Exam: 100 pts - Tuesday March 15th 3:55-5:10 pm Final Exam : 100 pts - Thursday May 5th 3:30-6:30 pm
+Lab Practical Exam (~8% of final grade) Lab Practical: 50 pt
+
+Letter Grade Scale:
+Percentage Letter Grade
+
+93-100%
+
+A
+
+90-92%
+
+A-
+
+88-89%
+
+B+
+
+83-87%
+
+B
+
+80-82%
+
+B-
+
+78-79%
+
+C+
+
+Percentage 73-77% 70-72% 68-69% 63-67% 60-62% <60%
+
+Letter Grade C CD+ D DF
+
+4
+
+Grading Issues: Regrade requests will be allowed for all assignments, and you are encouraged to look over your grades for each assignment as it is returned. If you feel you have a grading error, you have one week from the time the assignment is handed back to contest the grading. All re-grade requests must be made in writing (typed in an e-mail). You must clearly state why you think you deserve credit for your answer. Regrade requests for post-lab assignments, project reports, and practical exams should be submitted to your lab TA. Regrade requests for pre-lab assignments should be addressed to the lecture TA, Coralis Rodriquez-Garcia. If there are additional concerns after the re-grade from the TA, you may submit in writing to Dr. Grainy AND Dr. Ottesen your concern. They will re-grade the assignment/exam and the grade will be final. Lecture exam regrade requests should be sent directly to Dr. Grainy AND Dr. Ottesen for us to evaluate.
+Attendance Policies:
+Tuesday lecture attendance will be recorded by your completion of the pre-lab quiz, post-lab discussion, and in-person activity. In the event of a documented excused absence (see below), you will be provided with additional post-lab discussion questions to make up for the lack of in-class discussion participation, and you will be expected to arrange getting notes from a peer that was present in class in order to complete the missed activity within 1 week of returning from your absence. You are still expected to complete the in-class activity on eLC quizzes.
+Wednesday and Friday lab attendance is mandatory. Laboratory attendance will be recorded by your lab TA. In the event of a documented excused absence, you are responsible for obtaining laboratory notes from your lab partners, and using them to write original lab notebook entries within a week of your return to laboratory. To document your make-up, you are responsible for showing both the notes from your lab partner and your original lab notebook entries based on those results to your TA. Failure to prepare a detailed lab notebook entry within a week of the absence will result in a loss of 5-10 participation points per absence (10 pt deduction for failing to prepare a lab notebook entry, 5 pt deduction for turning in low-quality work).
+Excused absences for lecture and lab will include: 1. Medical/professional school interviews and University-sanctioned events - the relevant TA must be contacted a minimum of one week prior to the absence; absences for such interviews that are not cleared prior to the absence will not be considered as excused. 2. Illnesses of self or dependent child - requires documentation of physician's visit or proof of symptoms reported to DawgCheck 3. Isolation due to testing positive for COVID-19 - requires proof that you reported it to DawgCheck *note that isolation due to a positive COVID test is required even if you are vaccinated. Vaccinated individuals with known exposure should get a COVID test if symptomatic. 4. Quarantine due to confirmed exposure to COVID-19 - requires proof that you reported it to DawgCheck *note that quarantine due to exposure guidelines have changed, see details below in the "Coronavirus information for students" section 5. Other circumstances beyond those listed above may be considered as excused absences per Dr. Grainy approval - contact must be initiated with your TA and instructors as soon as you know of the conflict, and no later than 1 hr prior to class.
+Documenting your absence: If you do NOT provide a documented excused absence to your instructors and the TA- you will NOT receive credit for any missed assignments/attendance/exams. Please e-mail your documentation to jgrainy@uga.edu and Gregory.Whitaker@uga.edu to request an excused absence PRIOR to the absence. Requesting an excused absence after the absence has occurred will only be accepted in an emergency situation in which the student was unable to access e-mail due to the emergency.
+First unexcused absence will be a 10 pt deduction. Second unexcused absence will be a 20 pt deduction from your final grade. Each additional absence will be a deduction of 5% of final grade for each offense.
+5
+
+Make-up Exam Policy: If you are unable to attend an exam due to illness or other unforeseen circumstance, you must contact both Dr. Grainy and your TA as soon as you know you are unable to attend and no later than 1 hour prior to exam time. It is your responsibility to arrange a makeup exam time with your TA (practical exams) or Dr. Grainy (lecture exams). All documentation of absence must be submitted and a makeup time arranged within 24 hours of your absence. After this time, no make-up exams will be given and you will receive a zero for that exam.
+Plagiarism Policy: All assignments that are turned in individually (lecture activities, lab reports, lab notebooks, etc.) are to be your own work and in your own words. Unless specified otherwise, you are free to discuss assignments and lab activities with other members of the class. However, you will be expected to write everything down independently and in your own words. For examples of acceptable and unacceptable paraphrasing, please see http://writing.wisc.edu/Handbook/QPA_paraphrase.html. Under no circumstances may two students share documents and copy text verbatim between papers! This includes lab results and lab notebooks. If you miss a day of lab and need to get results from a labmate, you must copy all results down in your lab notebook by hand and in your own words, and write an original discussion based on those results.
+Academic Honesty Policy: All academic work must meet the standards contained in "A Culture of Honesty." Students are responsible for informing themselves about those standards before performing any academic work. Students are expected to be familiar with and abide by the University of Georgia's Academic Honesty Policy. The policy can be found at http://www.uga.edu/honesty/. If academic dishonesty is suspected, it will be reported. As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: https://ovpi.uga.edu/academic-honesty/academic-honesty-policy. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor.
+Mental Health and Wellness Resources: 텶f you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu/ . They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services. � UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga ) or crisis support (https://www.uhs.uga.edu/info/emergencies ). � If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga ) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center. � Additional resources can be accessed through the UGA App.
+Course accommodations for disability: If you plan to request accommodations for a disability, please register with the Disability Resource Center (DRC). The DRC can be reached by visiting Clark Howell Hall, by calling 706-542-8719 (voice) or 706-5428778 (TTY), or by visiting http://drc.uga.edu
+CORONAVIRUS INFORMATION FOR STUDENTS
+UGA adheres to guidance from the University System of Georgia and the recommendations from Georgia Department of Public Health (DPH) related to quarantine and isolation. Since this may be updated periodically, we encourage you to review the latest guidance here. The following information is based on guidance last updated on December 29, 2021.
+Face coverings: Following guidance from the University System of Georgia, face coverings are recommended for all individuals while inside campus facilities.
+6
+
+How can I obtain the COVID-19 vaccine? University Health Center is scheduling appointments for students through the UHC Patient Portal (https://patientportal.uhs.uga.edu/login_dualauthentication.aspx). Learn more here - https://www.uhs.uga.edu/healthtopics/covid-vaccine.
+The Georgia Department of Health, pharmacy chains and local providers also offer the COVID-19 vaccine at no cost to you. To find a COVID-19 vaccination location near you, please go to: https://georgia.gov/covid-vaccine.
+In addition, the University System of Georgia has made COVID-19 vaccines available at 15 campuses statewide and you can locate one here: https://www.usg.edu/vaccination
+What do I do if I have COVID-19 symptoms? Students showing COVID-19 symptoms should self-isolate and get tested. You can schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see https://www.uhs.uga.edu/info/emergencies.
+What do I do if I test positive for COVID-19? (Isolation guidance) If you test positive for COVID-19 at any time, either through a PCR test, an Antigen test, or a home test kit, you are required to report it through the DawgCheck Test Reporting Survey. Follow the instructions provided to you when you report your positive test result in DawgCheck.
+As of December 29, 2021, when an individual receive a positive COVID-19 test: Everyone, regardless of vaccination status, should:
+� Stay home for 5 days. � If you have no symptoms or your symptoms are resolving after 5 days, you can leave your house and
+return to class. � Continue to wear a mask around others for 5 additional days. � For this course, if you choose to voluntarily isolate for an additional 5 days, we will honor this as an
+excused absence
+What do I do if I have been exposed to COVID-19? (Quarantine guidance) If you have been exposed (within 6 feet for a cumulative total of 15 minutes or more over a 24-hour period - unmasked**) to someone with COVID-19 or to someone with a positive COVID-19 test and you are:
+� Boosted, or have become fully vaccinated within the last 6 months (Moderna or Pfizer vaccine) or within the last 2 months (J&J vaccine) o If you have no symptoms, you do not need to quarantine at home and may come to class. However, we will honor this as an excused absence for this class if you choose to voluntarily quarantine for 510 days. o You should wear a mask around others for 10 days. o If possible, get tested on day 5. o If you develop symptoms, get tested and isolate at home until test results are received, then proceed in accordance with the test results.
+� Unvaccinated, or became fully vaccinated more than 6 months ago (Moderna or Pfizer vaccine) or more than 2 months ago (J&J vaccine) and have not received a booster: o You must quarantine at home for 5 days. After that you may return to class but continue to wear a mask around others for 5 additional days. However, we will honor this as an excused absence for this class if you choose to voluntarily quarantine for and additional 5 days o If possible, get tested on day 5. o If you develop symptoms, get tested and isolate at home until test results are received, then proceed in accordance with the test results.
+You should report the need to quarantine on DawgCheck (https://dawgcheck.uga.edu/), and communicate directly with your faculty to coordinate your coursework while in quarantine. If you need additional help, reach out to Student Care and Outreach (sco@uga.edu) for assistance.
+7
+
+Well-being, mental health, and student support If you or someone you know needs assistance, you are encouraged to contact Student Care & Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu/. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services. UGA has several resources to support your well-being and mental health: https://well-being.uga.edu/ Counseling and Psychiatric Services (CAPS) is your go-to, on-campus resource for emotional, social and behavioral-health support: https://caps.uga.edu/, TAO Online Support (https://caps.uga.edu/tao/), 24/7 support at 706-542-2273. For crisis support: https://healthcenter.uga.edu/emergencies/. The University Health Center offers FREE workshops, classes, mentoring and health coaching led by licensed clinicians or health educators: https://healthcenter.uga.edu/bewelluga/ Monitoring conditions: Note that the guidance referenced in this syllabus is subject to change based on recommendations from the Georgia Department of Public Health, the University System of Georgia, or the Governor's Office. For the latest on UGA policy, you can visit coronavirus.uga.edu.
+The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+8
+
+Last updated Jan 11, 2022 by Dr. Grainy
+
+

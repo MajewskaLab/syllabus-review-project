@@ -1,0 +1,176 @@
+Entomology 4000/6000 General Entomology
+Fall 2022
+Lecture: Monday, Wednesday, Friday 10:20-11:10 AM Lab: Friday, 11:20-1:00 PM Instructor: Michael R. Strand 420 Biological Sciences, 583-8237, mrstrand@uga.edu Teaching Assistant: Roy Kucuk (Roy.Kucuk@uga.edu)
+Lecture Topics 1. Introduction, why study insects? 2. Arthropod classification 3. Hexapod diversity 4. Insect integument and organ systems 5. Insect development and reproduction 6. Insect communication 7. Insect environmental adaptations 8. Sociality 9. Plant-insect interactions 10. Entomophagous insects 11. Insect-microbial interactions 12. Insect-vertebrate interactions 13. Insects and agriculture
+Course objectives The educational goal of the course is to acquaint you with insects. We want you to become
+familiar with the insects that annoy you, eat your food, and transmit diseases. We also want you, as a consumer of agricultural products, to know what demands you are making on farmers, and how these demands influence the environment. But perhaps most importantly of all, we want you to gain an appreciation of the incredible diversity of the insect world. Many insects are pests that adversely affect man, but just as many others are beneficial or possess unique biological characteristics. If, ten years from now you can still tell the difference between a spider and an insect, have an understanding of the ever-present dangers of insect borne diseases, and understand the difficulties and problems associated with insect control, then I will have fulfilled my role in expanding your awareness of just how important insects are to humankind.
+Where can you find me, and what about reading material?
+My office is in 420 Biological Sciences. Regular office hours will be from 1:00-2:00 M-F. If this is not convenient, please do not hesitate to see me; we can always arrange another meeting time. There is no textbook for the course. Class notes will be supplemented with handouts, available on eLearning Commons (ELC).
+Laboratory The main purpose of the laboratory is to acquaint you with how to recognize the major orders and
+families of insects. In addition, some time will also be devoted to introducing you to insect morphology. Developing some basic taxonomic knowledge is essential to appreciating the wonderful diversity and biology of insects. It also is important that you be able to recognize key characteristics of the insect body plan and how it compares and contrasts to other major animal groups like vertebrates.
+Grades will be based on the following items: 1. Lecture Exams (3) 2. Paper reading and discussion (2-4) 3. Laboratory Exams (2) 4. Insect Collection (1) 5. Laboratory quizzes/worksheets (5)
+1
+
+Lecture Exams -----------------------------------------------------------------------There will be three lecture exams, each worth 100 points. Exams will be given in class and will test your knowledge of the material presented during the lecture portion of the class. The first two lecture exams will be given during the semester while the third will serve as the final exam for the course. Students registered for ENT 6000 will have additional take home questions on the first two exams. These questions will involve outside reading to develop an essay-type answer.
+
+Paper reading and discussion -----------------------------------------------------------------------Over the course of the semester, we will read and discuss papers that address different topics relevant to the course. Paper discussions will be graded on by participating in class discussions and the answers you provide on a summary sheet.
+
+Laboratory Exams -----------------------------------------------------------------------There will be two laboratory exams worth 50 points. These exams will test your knowledge of the material presented in the laboratory during the course of the semester.
+
+Insect Collection -----------------------------------------------------------------------You will be required to make an insect collection that will be turned in for grading at the end of the semester. This collection will be worth a total of 100 points. Details on collection requirements and grading will be presented in laboratory.
+
+Grading Policies -----------------------------------------------------------------------First, a review of point values for each required item in the course:
+
+ITEM
+
+Maximum Point Value
+
+Ent 4000
+
+Ent 6000
+
+Lecture Exam 1 Lecture Exam 2 Lecture Final (Exam 3) Paper Discussion Laboratory Exam 1 Laboratory Exam 2 Laboratory quizzes Insect Collection TOTAL
+
+100
+
+125
+
+100
+
+125
+
+100
+
+100
+
+80
+
+80
+
+50
+
+50
+
+50
+
+50
+
+50
+
+50
+
+100
+
+100
+
+630
+
+680
+
+Hypothetical Student's Scores
+
+ITEM
+
+Lecture Exam 1
+
+80
+
+Lecture Exam 2
+
+85
+
+Final Exam 3
+
+85
+
+Paper discussion
+
+60
+
+Laboratory Exam 1
+
+45
+
+Laboratory Exam 2
+
+48
+
+Laboratory quizzes
+
+40
+
+Insect Collection
+
+90
+
+TOTAL
+
+533
+
+Calculating a Grade
+
+2
+
+1. Add total points accumulated and divide by 600 (the maximum possible number of points) and convert to a percentage.
+
+2. Calculate grade, based on percentage distribution presented below In the example above, the student had 515/600 points, which is rounded to 85%. This is a "B"
+
+Table for Finals Grades
+
+Course Percentages (Approximate)
+
+A
+
+93-100%
+
+AB
+
+88--92
+
+B
+
+83-87%
+
+BC
+
+78-82
+
+C
+
+70-77%
+
+D
+
+60-69%
+
+F
+
+<60%
+
+Attendance
+
+Current UGA policy is that all classes return to in-person instruction without restrictions and with full classroom capacity for Fall 2021. Thus, at the current time you are expected to attend class.
+
+If you know you must be absent for a non-medical reason, please contact me ahead of time via email so that we can arrange for you to obtain or make up any material that you miss.
+
+If you are absent due to illness, you again should email me when you are able to let me know so that we can arrange for you to obtain or make up any material that you miss.
+
+If you miss an exam without consulting me ahead of time, you must explain the basis for your absence which I will assess on a case-to-case basis regarding whether or not I will allow you to make up the test.
+
+PDF files for each topic we cover will be available to all class members on ELC. All lectures will be recorded on Zoom and will be provided to individuals who must miss class due to illness or for other legitimate reasons via Google Docs.
+
+Covid-19
+
+Pursuant to state and University System of Georgia (USG) rules, I cannot ask you for proof of vaccination status, nor can I treat vaccinated and un-vaccinated individuals differently unless dictated by law or applicable guidance.
+
+Face coverings and social distancing: Following guidance from the University System of Georgia, face coverings are no longer required inside campus facilities, including classrooms. However, unvaccinated individuals are strongly encouraged to continue wearing face coverings while inside campus facilities and socially distancing from others when possible.
+How can you obtain the COVID-19 vaccine? University Health Center is scheduling appointments for students through the UHC Patient Portal (https://patientportal.uhs.uga.edu/login_ dualauthentication.aspx). Learn more here: https://www.uhs.uga.edu/healthtopics/covid-vaccine.
+What do you do if you have COVID-19 symptoms? Students showing COVID-19 symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see https://www.uhs.uga.edu/info/emergencies.
+What do you do if you test positive for COVID-19? If you test positive for COVID-19 at any time, you are required to report it through the DawgCheck Test Reporting Survey. We encourage you to stay at home if you become ill or until you have excluded
+
+3
+
+COVID-19 as the cause of your symptoms. UGA adheres to current CDC quarantine and isolation guidance and requires that it be followed. Guidelines for COVID-19 Quarantine Period (Revised 6/7/21) Students who are fully vaccinated do not need to quarantine upon exposure unless they have symptoms of COVID-19 themselves. All others must follow the following recommendations. Effective Jan. 4, 2021, students who are not fully vaccinated and have been directly exposed to COVID19 but are not showing symptoms should self-quarantine for 10 days. Those quarantining for 10 days must have been symptom-free throughout the monitoring period and continue self-monitoring for COVID19 symptoms for a total of 14 days. Please correspond with your instructor via email, with a cc: to Student Care & Outreach at sco@uga.edu, to coordinate continuing your coursework while self-quarantined. Students, faculty and staff who have been in close contact with someone who has COVID-19 are no longer required to quarantine if they have been fully vaccinated against the disease and show no symptoms. Monitoring conditions: Guidance referenced in this syllabus is subject to change based on recommendations from the Georgia Department of Public Health, Centers for Disease Control, Governor's Office or University System of Georgia. For the latest on UGA policy, you can visit coronavirus.uga.edu.
+4
+
+

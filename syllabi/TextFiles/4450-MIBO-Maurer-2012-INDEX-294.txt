@@ -1,0 +1,496 @@
+8/13/2012
+MIBO/IDIS/POPH 4450-4450L and 6450-6450L MICROBIAL GENETICS: 4 Credit Hours (Microbial Genetics and Genomics)
+Course Description: Molecular basis of gene regulation in microorganisms with emphasis on systems pertaining to pathogenesis, evolution, and ecology. Computer lab examines evolutionary relatedness, sequence comparisons, database searches and reconstruction of metabolic pathways.
+Expected Learning Outcomes: Students will develop an understanding of bacterial genetic systems and how they relate to important bacterial processes. Students will also develop an understanding for genomic and proteonomic approaches for studying diverse microbial species.
+Additional Requirements for Graduate Students: Students taking the course for graduate credit will be given additional assignments associated with the computer lab. Students must also give a classroom lecture pertaining to topic(s) covered in class.
+Lecture: Monday, Wednesday, Friday, 1:25-2:15pm, Biological Sciences Bldg., Rm. 216
+Computer Lab: Wednesday, 2:30-4:25 pm, Biological Sciences Bldg., Rm. 217. Required
+No excused absences from 1abs. Each missed lab results in loss of points from final grade, in accordance to points assigned for that lab(s). A printed lab report is due 2 weeks following each lab or lab module and it is to be turned in at the beginning of lab period. Lab module Identifying Virulence Genes (Lab 13/14) is due Dec. 3.
+Grades: A-F
+Honor Code and Academic Honesty Policy Students are expected to abide by the University Honor Code and Academic Honesty Policy as described in "A Culture of Honesty." For term papers, problem sets and exams, students are expected to work individually. In the computer lab, some modules may require working in groups but all students are expected to contribute equally to the work. The writing in all lab reports must be original responses from individuals. Any material from books or websites must be acknowledged and referenced.
+Prerequisites: Undergraduates- MIBO 3500; Graduate MIBO 3500 or permission of department.
+Textbook: Molecular Genetics of the Bacterial Cell 3rd Edition, ASM Press; Washington, D.C. (Required)
+Instructors John J. Maurer, Ph.D., Course Coordinator, e-mail: jmaurer@uga.edu, phone: 706-542-5071. Ellen L. Neidle, Ph.D., e-mail: eneidle@uga.edu; phone: 706-542-2852
+Office Hours: By appointment only.
+1
+
+8/13/2012
+
+Topical Outline:
+
+Aug. 13-16 Add/Drop Deadline for Undergraduates
+
+Aug. 13-20 Add/Drop Deadline for Graduate Students
+
+WEEK ONE
+
+MODULE I: INTRODUCTION TO BACTERIAL GENETICS
+
+Aug. 13
+
+Lecture 1: Genes and Mutations I
+
+MAURER
+
+Readings Chapters 3- p. 139-184
+
+Aug. 15
+
+Lecture 2: Genes and Mutations II
+
+MAURER
+
+Aug. 15
+
+Lab 1: Literature Search and Reading Papers
+
+MAURER
+
+Readings Chapter 11- p. 459-494
+
+Aug. 17
+
+Lecture 3: DNA Repair and Mutagenesis
+
+MAURER
+
+Readings Chapter 2- p. 71-125
+
+WEEK TWO
+
+Aug. 20
+
+Lecture 4: Gene Expression
+
+MAURER
+
+Readings Introduction- p. 1-5
+
+Aug. 22
+
+Lecture 5: Microbial Taxonomy
+
+MAURER
+
+Aug. 22
+
+Lab 2: Phylogeny
+
+MAURER
+
+Readings Chapter 1- p. 13-51
+
+Aug. 24
+
+Lecture 6: Cell Division I
+
+MAURER
+
+Readings Box 1.3
+
+WEEK THREE
+
+Aug. 27
+
+Lecture 7: Cell Division II
+
+MAURER
+
+Readings Chapter 2- p. 87-89
+
+MODULE II: METABOLISM AND METABOLOMES
+
+Aug. 29
+
+Lecture 8: Enzymes
+
+MAURER
+
+Aug. 29
+
+Lab 3: Metabolic Pathways I
+
+MAURER
+
+Aug. 31
+
+Lecture 9: Metabolism I
+
+MAURER
+
+WEEK FOUR
+
+Sept. 3
+
+Labor Day, No Classes
+
+Sept. 5
+
+Lecture 10: Metabolism II
+
+MAURER
+
+Sept. 5
+
+Lab 4: Metabolic Pathways II
+
+MAURER
+
+Sept. 7
+
+Lecture 11: Metabolism III
+
+MAURER
+
+WEEK FIVE
+
+Sept. 10
+
+Exam I (Lectures 1-11)
+
+MAURER
+
+MODULE III: GENOMES
+
+Sept. 12
+
+Lecture 12: Genes I
+
+NEIDLE
+
+Sept. 12
+
+Lab 5: DNA Sequence analysis
+
+NEIDLE
+
+Sept. 14
+
+Lecture 13: Genes II
+
+NEIDLE
+
+WEEK SIX
+
+Sept. 17
+
+Lecture 14: Genomes I
+
+NEIDLE
+
+Sept. 19
+
+Lecture 15: Genomes II
+
+NEIDLE
+
+Sept. 19
+
+Lab 6: Sequence Comparisons I
+
+NEIDLE
+
+Sept. 21
+
+Lecture 16: Genome Plasticity I
+
+NEIDLE
+
+WEEK SEVEN
+
+2
+
+8/13/2012
+
+Sept. 24
+
+Lecture 17: Genome Plasticity II
+
+Sept. 26
+
+Lecture 18: Genome Plasticity III
+
+Sept. 26
+
+Lab 7: Sequence Comparisons II
+
+Sept. 28
+
+Lecture 19: Sequence Analysis I
+
+WEEK EIGHT
+
+Oct. 1
+
+Lecture 20: Sequence Analysis II
+
+Oct. 3
+
+Lecture 21: Protein Structure I
+
+Oct. 3
+
+Lab 8: Structure Lab
+
+Oct. 5
+
+Lecture 22: Protein Structure II
+
+WEEK NINE
+
+Oct. 8
+
+Exam II (Lectures 12-22)
+
+Readings Chapter 1- p. 63; Chapter 4- p. 197-240; BOX 1.1
+
+MODULE IV: RECOMBINANT DNA TECHNOLOGY
+
+Oct. 10
+
+Lecture 23: PCR
+
+Oct. 10
+
+Lab 9: PCR
+
+Readings Chapter 5- p. 243-274
+
+Oct. 12
+
+Lecture 24: Plasmids & Conjugation
+
+Readings Chapter 9- p. 377-424
+
+WEEK TEN
+
+Oct. 15
+
+Lecture 25: Transposons
+
+Readings Chapter 1- p. 55-62; Chapter 6- p.289-290
+
+Oct. 17
+
+Lecture 26: Recombinant DNA I
+
+Oct. 17
+
+Lab 10: Cloning Strategies
+
+Readings Box 1.5; Box 10.3; Chapter 2 p. 186-190
+
+Oct. 18
+
+WITHDRAWAL DEADLINE
+
+Oct. 19
+
+Lecture 27: Recombinant DNA II
+
+Readings Chapter 12- p. 499-543
+
+WEEK ELEVEN
+
+MODULE V: REGULATION
+
+Oct. 22
+
+Lecture 28: Transcriptional Control I
+
+Oct. 24
+
+Lecture 29: Transcriptional Control II
+
+Oct. 24
+
+Lab 11: Regulation I
+
+Oct. 26
+
+Fall Break
+
+WEEK TWELVE
+
+Oct. 29
+
+Lecture 30: RNA Processing and Stability
+
+Oct. 31
+
+Lecture 31: Translational/Post Transcriptional Regulation
+
+Oct. 31
+
+Lab 12: Regulation II
+
+Nov. 2
+
+Lecture 32: Microarrays
+
+WEEK THIRTEEN
+
+Nov. 5
+
+Exam III (Lectures 23-32)
+
+NEIDLE NEIDLE NEIDLE NEIDLE
+NEIDLE NEIDLE NEIDLE NEIDLE
+NEIDLE
+MAURER MAURER
+MAURER
+MAURER
+MAURER MAURER
+MAURER
+NEIDLE NEIDLE NEIDLE
+NEIDLE NEIDLE NEIDLE NEIDLE
+MAURER/NEIDLE
+
+MODULE VI: RECOMBINATION
+
+Nov. 7
+
+Lecture 33: Recombination
+
+Nov. 7
+
+Lab 13: Identifying Virulence Genes
+
+Readings Chapter 8- p. 343-373
+
+Nov. 9
+
+Lecture 34: Phages
+
+MAURER MAURER
+MAURER
+
+3
+
+8/13/2012
+
+Readings Chapter 14- p. 614-632
+
+WEEK FOURTEEN
+
+MODULE VII: GENES AND BEHAVIOR
+
+Nov. 12
+
+Lecture 35: Protein Export
+
+MAURER
+
+Readings Box 4.1; Box 5.2; Box 8.1; Box 8.3; Chapter 9- p. 414-415; Chapter 13- p.587-
+
+593
+
+Nov. 14
+
+Lecture 36: Genetics of Bacterial Pathogenesis
+
+MAURER
+
+Nov. 14
+
+Lab 14: Identifying Virulence Genes II
+
+MAURER
+
+Readings Chapter 14- p. 635-652; Box 5.3, Box 14.1; Box 14.2
+
+Nov. 16
+
+Lecture 37: Microbial Development
+
+MAURER
+
+WEEK FIFTEEN
+
+Nov. 19-23 Thanksgiving
+
+WEEK SIXTEEN
+
+MODULE VIII: THE COMPEXITIES OF REGULATION
+
+Nov. 26
+
+Lecture 38: Protein Domains
+
+NEIDLE
+
+Nov. 28
+
+Student Presentations
+
+NEIDLE
+
+Nov. 28
+
+Student Presentation Continued (LAB PERIOD)
+
+NEIDLE
+
+Nov. 30
+
+Lecture 39: Complex Regulation I
+
+NEIDLE
+
+WEEK SEVENTEEN
+
+Dec. 3
+
+Lecture 40: Complex Regulation II
+
+NEIDLE
+
+Dec. 4
+
+Lecture 41: Complex Regulation III
+
+NEIDLE
+
+WEEK EIGHTEEN
+
+Dec. 7
+
+Final: 12:00- 3:00pm. Exam IV (Lectures 33-41) MAURER/NEIDLE
+
+Grades
+
+IDIS, MIBO or POPH 4450/4450 L. Undergraduate Only. There are 1,000 total possible pts. calculated into the grading for this course. Here is the following breakdown:
+ Exams: 100 pts. each; 4 exams; 400 pts., total.  Labs: 14 total lab sessions = 580 pts. Points are assigned to labs based on
+continuation/building upon of previous labs and overall difficulty.
+
+Students are required to read material/protocols before each lab period. Your preparation will affect the time necessary in completing the lab for the allotted time period. There is also an expectation by the instructors that students will need to do additional reading and work necessary in completing several of the lab assignments.
+
+ Attendance and class participation: 20 pts.
+
+Exams I-IV: 40% LAB/attendance and class participation: 60%
+
+IDIS, MIBO or POPH 6450/6450 L. Graduate Only. There are 1,200 total possible pts. calculated into the grading for this course. Here is the following breakdown:
+
+ Exams: 100 pts. each; 4 exams; 400 pts., total.
+
+4
+
+8/13/2012
+
+ Labs: 14 total lab sessions = 680 pts. Points are assigned to labs based on continuation/building upon of previous labs and overall difficulty. Graduate students will have extra questions/tasks on specific lab assignments.
+
+Students are required to read material/protocols before each lab period. Your preparation will affect the time necessary in completing the lab for the allotted time period. There is also an expectation by the instructors that students will need to do additional reading and work necessary in completing several of the lab assignments.
+
+ Student presentations: 100 pts.  Attendance and class participation: 20 pts.
+
+Exams I-IV: 33.33% LAB/Student Presentations/attendance and class participation: 66.66%
+
+Grade A AB+ B BC+ C CD F
+
+MIBO/IDIS/POPH 4450/4450L 940-1000 pts 900-939 pts 870-899 pts 840-869 pts 800-839 pts 770-799 pts 740-769 pts 700-739 pts 600-699 pts <599 pts
+
+MIBO/IDIS/POPH 6450/6450L 1128-1200 pts 1080-1127 pts 1044-1079 pts 1008-1043 pts 960-1007 pts 924-959 pts 888-923 pts 840-887 pts 720-839 pts <719 pts
+
+5
+
+

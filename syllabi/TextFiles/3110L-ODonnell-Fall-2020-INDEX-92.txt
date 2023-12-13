@@ -1,0 +1,154 @@
+BIOL3110L: Basic Skills in the Laboratory
+Course Syllabus
+
+Instructor: Jason O'Donnell, Ph.D.
+
+Instructor's office: 350 Science Learning Center
+
+Instructor's office Telephone: (706) 542-5017
+
+Instructor's office hours: Please email to schedule an appointment.
+
+Instructor's email: jko@uga.edu
+
+Classroom: 322 Science Learning Center
+
+Teaching Assistants ( To be announced)
+
+Prerequisites: [(BIOL 1107 and BIOL 1107L) or (BIOL 2107H and BIOL 2107L)] and [(CHEM 1212
+
+and CHEM 1212L) or (CHEM 1412 and CHEM 1412L)]
+
+Course Description in UGA Bulletin: An intensive laboratory course emphasizing acquisition of
+
+skills in common use in research laboratories. Techniques range from solution preparation to isolation and analysis of DNA and protein. Includes proper procedures for keeping a laboratory
+
+notebook, laboratory safety, and time management
+
+Course Meeting Times:
+
+CRN
+
+Days
+
+Time
+
+10239
+
+Mon & Wed
+
+9:10AM - 12:10PM
+
+10245
+
+Tues & Thurs
+
+9:35AM - 12:20PM
+
+10345
+
+Mon & Wed
+
+1:50PM - 4:50PM
+
+10346
+
+Tues & Thurs
+
+2:20PM - 5:05PM
+
+Course Overview
+Welcome to BIOL3110L! This course teaches many of the fundamental laboratory skills and techniques that are commonly used in biological research. Our curriculum topics range from specific technical skills to those that are broader and transferrable such as critical thinking and communication through oral presentation and scientific writing. Many of the concepts covered in this class build upon those learned in BIOL1107L/BIOL1108L including the use of microvolume pipets, enzymatic reactions, and bacterial transformation. These familiar concepts are learned throughout the semester while participating in project-based research through a collaboration with local faculty.
+
+1. To become a resourceful laboratory worker. Before any scientific discoveries can be made, or for that matter, before ANY data can be collected, experiments must be performed. Before an experiment is performed, a lot of time and effort is put into plan and setting it up. "How much of this reagent do I need?", and "What is the concentration of this reagent?", and "What should I use as a control?" are the types of questions commonly asked. While these types of questions are answered with relative ease by a seasoned researcher, they will paralyze a beginning researcher. Being resourceful in this situation is using available information/resources to answer your own questions. In this class, you will learn how to answer these questions (and many others) by being taught how to find the information needed to answer them. A student will learn how to find meaningful scientific literature that can help him or her at the lab bench or when communicating science.
+2. To learn the basic skills required to interpret a laboratory protocol and set up an experiment. Experiments are done by following strict protocols. All scientist, new and experienced often find themselves in the position of being tasked to "follow a protocol", which may be from a published scientific article or an in-house protocol book. Successfully following a protocol in this fashion requires not only the skill of understanding the scientific terminology and language but also the skills in reagent preparation, which is usually done from scratch or with stock solutions. In this class, you will learn the language commonly found in biology laboratory protocols, as well as the calculations necessary to prepare the reagents. Additionally, you will be learn what information is necessary to include when developing your own protocol.
+3. To learn and become well-practiced in technical skills. Successfully performing a technique such as the Polymerase Chain Reaction (PCR) requires many technical skills such as using microvolume pipets, handling small volumes, mixing solutions, etc. These skills must not only be learned but they must also be practiced, practiced, practiced. In this class, you will learn how to handle small volumes of liquid such as those used that when preparing an enzymatic reaction. Thee skills can be applied to numerous types of work and scientific fields.
+4. To be able to critically interpret your results. Students in this class learn about data/results interpretation by following the motto: What do you observe? What did you expect to see? Compare and contrast your observations and expectation. Students learn and practice this motto through the entire semester, which bridges biological theory and practice. In addition to learning what their results mean, students also learn how to troubleshoot poor quality results by making the connection with what they observe, what it means, and what could have gone wrong when following the protocol.
+5. To be able to effectively communicate your results through scientific writing and oral presentation. Scientist are often communicating their results to the public. Scientific communication is performed in diverse ways. It can be through, informal every day
+
+conversation or more formally through a magazine/journal article, Poster presentation, or PowerPoint presentation. Whatever the way in which this is done, the goal is for effective communication. In this class, students will be taught what it means to communicate effectively. Students will learn the key features that must be considered when maintaining a laboratory notebook and those that go into scientific communication whether it is through scientific writing or oral presentation. Students will learn how to use PowerPoint and Microsoft Word to create their own figures that can be used for a presentation or laboratory report.
+Experiential Learning
+
+Experiential Learning (EL) is learning through direct experience or doing real work and it is a natural and ageless process by which people learn. For undergraduate Biology students, engaging in hands-on research is a powerful experiential learning tool. Students who successfully pass this course receive credit for underdoing an experiential learning (EL) process. In this class, groups of students engage in hands-on research through an established collaboration with local faculty. The research project creates a classroom environment that strongly emphasizes experiential learning by placing a student in a relatively similar psychosocial environment as that which would be encountered through a traditional faculty mentored research apprenticeship outside the classroom. Students in this course will be: 1) learning, practicing, and applying skills to new situations, 2) gathering background information and then using it to make key decisions in the experimental design, 3) acquiring and analyzing different types of real data with relevance outside the classroom, 4) held accountable to successfully perform each project step in order to progress to the next stage, and 5) communicating their project and data in a manner that is suitable for scientific meetings (e.g. poster or PowerPoint presentation at conference).
+
+Research Project
+
+Our research project is made possible through a collaboration with local faculty member, Dr. Zachary Wood, an associate professor in the Department of Biochemistry and Molecular Biology. Dr. Wood studies Ketopantoate Reductase (KPR), an enzyme that plays a key role in bacterial energy production. Unlike humans and other mammals, Pathogenic microorganisms rely on KPR for energy production, making it a potential target for developing new anti-bacterial drugs. A deeper understanding of KPR's structure and function would facilitate such development. Students in this class help Dr. Wood's team learn more about KPR's structure and function by creating mutant forms of KPR through a process called Site Directed Mutagenesis (SDM).
+
+Figure 1) Ketopantoate Reducatase (light blue ribbon) with NADPH, and Pantoate. KPR uses NADPH and coverts Ketopantoate to Pantoate. An ongoing project is for students to mutate an amino acid such as ASN98
+
+Scientific Writing Writing Intensive Course. The course and its writing curriculum is accredited and sponsored by the Writing Intensive Program (WIP) to reflect the significant amount of time and effort dedicated to help students improve their scientific communication skills. The WIP program is aptly described by Charlotte Garing and Adam Milewski:
+The Writing Intensive Program (WIP) is designed to accomplish two main goals: (1) To provide experience for students to write in their discipline; and (2) To enhance the understanding of course material by `writing to learn.' WIP encourages prewriting, drafting, revision, editing (they're different) and other elements in the writing process that students often omit. WIP provides an opportunity for students to grow as writers, and more specifically, [scientific] writers.
+Figure 2) An overview of the major learning goals for our writing intensive course. A student will be exposed to the language and conventions used for communication in the Biological Sciences. Students will read scientific literature and practice writing, from which feedback will be received and then applied to downstream writing assignments. It is impossible to teach a student "how to write" in a single semester. our goal is to teach a few key elements of communication, which can be applied to future classes.
+While engaged in research, students learn about scientific writing as it relates to laboratory work, primary literature, and communicating results to the public. The writing curriculum and the various assignments that comprise it is described nicely by Lynne Seymour and Nicole Lazar
+One implication is that assignments and project reports will be graded not only on the quality of statistical analysis, but also on the quality of writing. We will also have special writing assignments in addition to the more content-oriented homework. Another implication is that we have a TA who has been specially trained in writing pedagogy. They will be very involved in the planning of the course and in improving your writing and communication skills.
+
+Class Format and communication
+In a typical (non-COVID19) semester, our class meets two times a week (3 hours each) for faceto-face (F2F) instruction in room 322 of the Science Learning Center (SLC). However, due to social distancing requirements, the Fall 2020 semester will employ a hybrid teaching mode (see figure below) of face-to-face (F2F) and asynchronous online learning. Asynchronous online learning is a type of online learning platform in which student is given flexibility on when he or she is able to access learning material, which may be PowerPoint presentations, worksheet activities, writing exercises, etc. In other words, with Asynchronous online learning, there is no specific time or online location (e.g. Zoom meeting) in which a student must be present. The general format of our hybrid class is shown in the figure below. Our class will alternative between face-to-face instruction and online learning. For example, in the first class period of a week, half of the students will come to the classroom laboratory for F2F instruction while the other half will have a virtual learning experience. For the second class of the week, the students will switch modes. In this hybrid teaching mode, the time spent in class is maximized for all students while maintaining the required 6 feet of distance. The online learning material for one week will be relevant to the in-class material. For example, an online exercise may be given in week 2 as the necessary preparatory work for the in-class work to be performed in week 3. In turn, the online work given in week 3 may be the necessary preparation work for the in-class work in week 4. Other times, the online work may be more broad concept/activity such as scientific writing, where the concepts learned will be applied in non-graded and graded assignments.
+Figure 3) The Hybrid teaching model for teaching in BIOL3110L: Class periods are twice a week for ~ 3hours each period. Students are sorted alphabetically according to last name. In the first class period of the week, the first half of the students come to the laboratory classroom for face-to-face instruction and the second half participate in virtual learning. In the second class period of the week, the students switch learning modes- All students who did not receive face-to-face instruction on day 1 come to the classroom laboratory.
+
+Communication
+
+Communication in this course is conducted by email and through e Learning Commons (eLC). Students can email the instructor or graduate teaching assistants at any time with questions, comments, or concerns about any topic. Office hours will be provided in a separate announcement.
+
+Use of eLC. The course is implemented entirely through e Learning Commons https://uga.view.usg.edu. eLC is used for the following:
+� communication through course-announcements and discussion boards � educational content including assignments and lectures � perform quizzes and exams. � submit assignments
+
+(eLC).
+
+Discussion boards have been set up through eLC to provide students another communication channel. These Discussion boards allow students an opportunity to speak to one another, post questions, provide answers to other students. There are many benefits for using eLC's Discussion board, one of which is that other students may benefit from receiving answers to another student's question.
+
+Announcements: All course announcements and assigned reading material will be posted on eLC. Students are encouraged to enable eLC notification to be made aware of when something is uploaded. Directions to enable notification through eLC are available online and also may be available to you by the instructor (see separate file Directions to enable notifications on eLC). Students are expected to arrive to class prepared and ready to participate.
+
+Business Items
+
+Communication and Privacy To comply with the Family Educational Rights and Privacy Act (FERPA), communication that refers to individual students must be through a secure medium (UGAMail) or in person. Instructors are not allowed to respond to messages that refer to individual students or student progress in the course through non-UGA accounts, phone calls, or other types of electronic media.
+Accommodations for Disability Resource Center (DRC): Students who need accommodations for a disability must register with the DRC https://drc.uga.edu/. Please schedule a time to meet with your instructor in a timely manner in order to best provide you with provisions.
+
+eLearning Commons (eLC): Class information will be posted on eLC. Your login is your myID. Contact the EITS Help Desk (542-3106) helpdesk@uga.edu if you experience difficulty Textbook(s) and other curriculum material: All of the course material is comprised of free educational resources such as online videos and textbooks, scientific articles, PowerPoint presentations, etc. Two online textbooks that we will use are OpenStax Chemistry and OpenStax Biology. All course material is made accessible through eLC and in-class handouts. Schedule: This course is intended to duplicate the experience of working in a research laboratory. Therefore, one cannot predict exactly when certain experiments will be performed or when one must deviate from the experimental outline in order to complete a procedure and produce accurate results. A tentative schedule will be available on eLC and updated accordingly. When it is updated, the older version will be replaced with a current version. The file of the schedule (excel file) will be renamed according to the date in which it was updated and the original will be removed. Please keep this in mind when using it. Grades: An estimated 400 points are available to you for your final grade (see image below). Your final grade is based on the number of points you earn out of the total available points, estimated to be 400. The percentage of points you earn will be your final grade on a 0-100 scale. For example, a student who earns 400pts. has a final score of 80% (400/500) X 100 = 80%. The total number of available points is comprised of the following items.
+Figure 4) Final Grade calculations. A student's final grade is a letter grade using a plus and minus system (e.g. B+, B, or B-) based on a percentage scale. The percentage scale is from 100 to 0% and is calculated at the end of the semester by adding the total points a student has earned and dividing this by the maximum number of points that could be earned. An estimated 400 points may be earned. The 400 points is an estimation because the predicted number of assignments and quizzes may vary from final.
+
+Principal Course Assignments/assessments
+� Examinations: There are currently three exams scheduled for this class. Each exam contributes 100 points to your final grade and the lowest grade will be dropped. This contributes 200 points to your final grade. For example, a student who scored a 70,80, and 90 on exams 1, 2, and 3 respectively has earned 170 points out of 200 possible points. A make-up examination may be scheduled at a mutually agreeable time for excused absences. Exam dates will be announced in advance and provided online through eLC.
+� Lab Notebook: Your lab notebook will be maintained in a Google Doc (The terms "lab Notebook" and "Google Doc" will be used intermittently) and it must be maintained throughout the semester after each lab period. The lab Notebook should not be viewed as something you must maintain in order to obtain a grade. Rather, it should be viewed as a helpful laboratory tool that serves an invaluable role of being a permanent record of laboratory activity. More information will be provided.
+� Quizzes: We will have multiple quizzes throughout the semester and each will be worth 4- 15 points. Quiz dates are announced at least 7 days in advance. Quiz question will be will be comprised of a combination of multiple choice, True/False, Fill in the blank, short answer, and essay style questions. All quiz grades contribute towards a student's final grade so in other words, no dropped quizzes. A student who misses a quizz due to an unexcused absence will receive a 0 and a "zero" notation on the grade item on eLC. A student who misses a quiz due to an excused absence will not receive a zero and that quiz will not count towards the student final grade. In this case, the student will not a grade for the quiz item on eLC.
+� Assignments: Students will be given many assignments throughout the semester for their F2F instruction as well as their online instruction. These assignments may be assigned a point value. A description of each assignment and the due dates will be made available. Some assignments will be grade based on participation (e.g. complete vs. incomplete) while others may be graded based on scientific accuracy. Whether or not an assignment is graded one way or the other will be indicated on the assignment instructions. As part of the experiential learning process, students must provide an ~20min oral presentation of their research project. Additionally, a student must provide a written summary of their research project. A final draft of the student's project is required at the end of the semester (see eLC for due date) and a rough draft ( of the entire summary or a portion) will be required at approximately the half-way point.
+Regrades and contested scores. Requests to contest an assignment score must be made in writing (hard copy or email) within one week of the date in which the score became available to the student. To be considered for a regrade, you must explain why your answer for a specific question should be considered correct. More information is available in the Course and Classroom Rules document
+
+Calculating a final grade. A student may calculate a final grade by summing up all of the points he or she has earned and divide this number by the total possible points. This answer will be your percentage/grade. If you have assignments that have not been graded, you can enter in "place holder" values for each assignment. This answer will be your final grade if you actual scored the place holder value.
+Attendance policy: Students are expected to arrive every class period and stay for the entire duration. Attendance and punctuality in this class are mandatory. Due to space limitations there are no in-person make-up laboratory activities offered. Of course, unexpected events may arise forcing a student to be absent such as professional school interviews, family emergency, illness, etc. A maximum of 3 absences are allowed (either excused, unexcused, or a combination thereof). No penalty will be applied for an excused absence however, an excused absence will. The first unexcused absence will result in a 1% penalty applied to a student's final grade. The second unexcused absence will result in a 2% penalty applied to a student's final grade. The third unexcused absence will result in a 3% penalty applied to a student's final grade. The 4th unexcused absence will result in an automatic fail for the course. Absences will be excused for the following:
+1) Illness and family emergencies: An absence will be excused for substantial medical reasons that prevent a student from coming in as well as family emergencies. Proof must be provided (e.g. doctors note with specific date of visit). Considering the complicated nature of a family emergency, documentation of proof is more flexible. See instructor for assistance if necessary.
+2) Mission Trips: These will be counted as excused so long as advanced notification and documentation (1- travel receipts and 2- note from mission trip leader or organizer) are provided to instructor ahead of time.
+3) Interviews and/or examinations for entry into professional schools: Interviews for jobs or professional school will be counted as excused so long as advanced notification and documentation (see below) from the respective organization are provided to instructor ahead of time.
+Documentation for an excused absence must be provided to instructor in a timely manner (either before or within a week of returning to class) by emailing a copy of the document to the instructor. This requirement exists for the student behalf and ensures an electronic trail is made available. Dates for the absence must be provided on the documentation.
+
+Coronavirus Information for Students
+Face Coverings:
+Effective July 15, 2020, the University of Georgia--along with all University System of Georgia (USG) institutions--requires all faculty, staff, students and visitors to wear an appropriate face covering while inside campus facilities/buildings where six feet social distancing may not always be possible. Face covering use is in addition to and is not a substitute for social distancing. Anyone not using a face covering when required will be asked to wear one or must leave the area. Reasonable accommodations may be made for those who are unable to wear a face covering for documented health reasons. Students seeking an accommodation related to face coverings should contact Disability Services at https://drc.uga.edu/.
+DawgCheck:
+Please perform a quick symptom check each weekday on DawgCheck--on the UGA app or website--whether you feel sick or not. It will help health providers monitor the health situation on campus: https://dawgcheck.uga.edu/
+What do I do if I have symptoms?
+Students showing symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5 p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see https://www.uhs.uga.edu/info/emergencies.
+What do I do if I am notified that I have been exposed?
+Students who learn they have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 14 days consistent with Department of Public Health (DPH) and Centers for Disease Control and Prevention (CDC) guidelines. Please correspond with your instructor via email, with a cc: to Student Care & Outreach at sco@uga.edu, to coordinate continuing your coursework while self-quarantined. If you develop symptoms, you should contact the University Health Center to make an appointment to be tested. You should continue to monitor your symptoms daily on DawgCheck.
+How do I get a test?
+Students who are demonstrating symptoms of COVID-19 should call the University Health Center. UHC is offering testing by appointment for students; appointments may be booked by calling 706-542-1162.
+
+UGA will also be recruiting asymptomatic students to participate in surveillance tests. Students living in residence halls, Greek housing and off-campus apartment complexes are encouraged to participate.
+What do I do if I test positive?
+Any student with a positive COVID-19 test is required to report the test in DawgCheck and should self-isolate immediately. Students should not attend classes in-person until the isolation period is completed. Once you report the positive test through DawgCheck, UGA Student Care and Outreach will follow up with you.
+Academic Honesty
+Students are expected to obey the UGA Student Honor Code:
+"I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others."
+With the exceptions of performing quizzes and exams, students are welcome to help each other understand curriculum content. However, the work submitted by a student (e.g. homework assignment, written grant proposal, etc.) should be performed individually by the student. A student is not allowed to copy another's work and will be found in violation of the honor code. Written work that requires the use of outside material (e.g. references) should be conducted in a student's own words. A student's work will be compared with outside material for plagiarism. A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found at www.uga.edu/ovpi.
+Common examples of honor code violation A common example of an honor code violation (e.g. plagiarism) during a writing assignment is when a student copies work from an outside source and changes a few words around. This will not be considered the students own words. Students should remember that the instructor is required to report any suspected cases of violation. Reported cases may be decided by a panel comprised by faculty and students. Therefore, a student may feel that he or she has paraphrased "enough" but the panel may decide differently. If a student has any doubt about what constitutes plagiarism, he/she should contact the instructor for assistance.
+Another common example occurs with laboratory notebooks. A student's laboratory notebook consists of a single Google Doc that can be accessed by typing in a specific web address. The laboratory notebook is a permanent record of laboratory activities including protocols followed
+
+and data analysis. A common honor code violation occurs when a student copies the work of another student. This is a violation because each student should use their own words for their lab notebook recordings. This policy applies to all aspects of the course, even when two students work together and collect one pieces of data. Here, while it is expected that the data will be identical (e.g. agarose gel image, calculations, graphs, etc.) the write-up should be done in the student's own accord, words.
+Mental Health and Wellness Resources:
+� If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.
+� UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies).
+� If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center.
+� Additional resources can be accessed through the UGA App.
+
+

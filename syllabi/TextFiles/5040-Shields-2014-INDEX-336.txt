@@ -1,0 +1,128 @@
+BIOL/CBIO 5040/7040 Electron Microscopy Lecture Room 216 Biological Science Bldg Dr. John Shields/Eric Formo Office: 152 Barrow Hall, jpshield@uga.edu
+The course is designed to give a theoretical and practical introduction to Electron Microscopy (EM) and techniques associated with EM. We will also briefly cover analogous instrumentation available on the UGA campus and that may be used in research. We will primarily cover the instrumentation and capabilities of scanning EM (SEM) and Transmission EM (TEM) and associated sample preparation techniques, digital imaging, image processing and some analysis techniques. We will also touch on other microscopical techniques (e.g. light and confocal). The purpose of the course is to make you aware of the variety of microscopic techniques that are available, understand the data and information created, and make you a critical reviewer of data and protocols in the scientific literature. This course is scheduled from 2:30-3:20pm MWF. There are three exams during the course and a final exam.
+Course Text: Electron Microscopy: Principles and Techniques for Biologists by John J. Bozzola, Lonnie D. Russell. (Available as an electronic Resource through UGA library). Should be available as a used book online if preferred. Reference books specific to your area of work are available at the Center and may be checked out at any time. Other resources are listed on the CAUR website.
+This class will conform to the Academic Honesty Policy set forth by the University as outlined at: http://www.uga.edu/honesty/ahpd/ACOH%20May%20'07.pdf
+
+Course Schedule
+
+8/18 Course Introduction/Laboratory Safety
+
+20 History of Electron Microscopy
+
+22 Ultrastructure of Cells
+
+25 Specimen Prep - fixation
+
+27 Specimen Prep - dehydration
+
+29 Sectioning/coating/films
+
+9/1 Labor Day
+
+3
+
+Staining/Post staining /EM Artifacts
+
+5
+
+Negative Staining
+
+8
+
+Exam 1
+
+10 Electron Guns
+
+12 Electron Optics
+
+15 Vacuum Systems
+
+17 TEM design
+
+19 SEM design
+
+22 Beam/specimen Interactions
+
+24 Electron Detectors - SEM
+
+26 Electron Detectors - TEM
+
+29 X-ray Detectors
+
+10/1 Exam 2
+
+3
+
+Materials Sample Preparation
+
+6
+
+Electron Diffraction
+
+8
+
+STEM and EELS
+
+10 MicroCT - Xray tomography
+
+13 Variable Pressure SEM
+
+15 Cryofixation for TEM and SEM
+
+17 Tomography - TEM
+
+20 Aqueous Samples in TEM
+
+22 X-ray Diffraction (XRD)
+
+24 Helium Ion Microscopes
+
+27 Focused Ion Beam systems
+
+29 Exam 3
+
+31 Fall Break!
+
+11/3 Imaging Devices
+
+5
+
+Image Processing
+
+7
+
+Image Analysis
+
+10 Labeling - overview of techniques
+
+12 Lectins and Enzymes
+
+14 Immunocytochemistry
+
+17 Autoradiography
+
+19 Corrosion Casting
+
+21 TBA
+
+Nov. 24-28 THANKSGIVING HOLIDAY
+
+12/1 Confocal Microscopy
+
+3
+
+Multiphoton Confocal
+
+5
+
+TIRF, FRAP, FRET
+
+8
+
+AFM
+
+9 (Friday Schedule on a Tuesday) Review Session
+
+12/11 Final Exam
+
+

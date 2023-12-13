@@ -1,0 +1,77 @@
+GENE4220L
+Bioinformatics and Modeling Laboratory Fall 2018
+Course description: A hands-on look at the role of bioinformatics in genetic and genomic analyses. This combination lecture/laboratory course will cover genomics and computational biology, and will introduce students to RNA expression, proteomics, metabolomic and regulatory modeling approaches to the understanding of genetics and disease.
+Class Time & Location: Monday and Wednesday, 9:05 AM to 12:05 PM, Life Sciences C128 with meetings every other Wednesday at iWall (see below) in Science Library (third floor Rm 382).
+Prerequisites: GENE3200
+Grading: This course is will be graded A-F with a total of 100 points. This is a laboratory class with ~1 hours of lecture/demonstration per week by the instructors and ~5 hours of "hands on" laboratory lessons and project development supervised by the course assistant, Kun-Lin Ho, and/or instructors. Grades will be based upon performance on lab reports (50%), oral presentations (10%), tests (15%) and capstone project writeup (25%).
+We expect you to spend two weeks on each lesson. Laboratory reports are due one week from their day of assignment (usually a Monday) on the following Monday. They are uploaded to ALICE as a word document. Late assignments will only be accepted if the delay or absence is cleared with the instructor prior to the occurrence except in cases of emergency. You will give an oral report on each lesson performed on the Wednesday after your written report is handed in. This report should be prepared as a pdf saved from a powerpoint presentation on the iWall in room 382 of the Science Library (third floor as you get off the elevator). As we get familiar with the iWall, you can do presentations in google docs as well.
+Attendance Policy:
+Students are expected to attend all lectures and labs. It is the responsibility of the student that he/she is up to date on course materials.
+Text Books: Voit, E. O. A First Course in Systems Biology, Garland Science, NY, NY, 2nd Edition.
+Fitzpatrick, J.M. and A. Ledeczi. Computer programming with MATLAB. iBook. $10.
+eLC: all course materials are in eLC. All assignments are turned in on a Monday.
+All required readings are in eLC. All lectures are in eLC.
+Instructors: Students may contact instructors at any time to schedule a meeting. Contact by email is preferred.
+
+Dr. Jonathan Arnold Life Sciences C308B 542-1449 arnold@uga.edu
+
+Mr. Kun-Lin Ho (research and teaching assistant) Insitute of Bioinformatics Kunlin.ho@uga.edu
+
+Topics
+
+Timeline in topic
+
+systems
+
+weeks
+
+1-2
+
+Transient
+
+qa gene cluster
+
+network
+
+2-4
+
+Network with toggle switch
+
+memory
+
+5-6
+
+Oscillating repressilator
+
+network
+
+7-8
+
+Identifying repressilator
+
+networks
+
+9-10
+
+Model-guided linear model
+
+discovery
+
+Remain
+
+Capstone
+
+Clock/NMR/malaria/modeling
+
+weeks
+
+experience
+
+Zhuofei - Monday - September 16
+
+Software Kinsolver GKIN Kinsolver+GKIN ens MINE MATLAB and tools above
+
+UNIVERSITY HONOR CODE AND ACADEMIC HONESTY POLICY
+UGA Student Honor Code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others." A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found at http://ovpi.uga.edu/academic-honesty.
+
+

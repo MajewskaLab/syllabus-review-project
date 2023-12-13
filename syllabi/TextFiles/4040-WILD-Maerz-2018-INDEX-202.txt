@@ -1,0 +1,311 @@
+HERPETOLOGY
+WILD 4040/6040; WILD 4040L/6040L SPRING 2018 Syllabus and Guidelines
+
+Co-Instructors:
+Dr. John Maerz, Josiah Meigs Distinguished Professor, Warnell School of Forestry and Natural Resources
+Mr. Adam Clause, Ph.D. Candidate, Warnell School of Forestry and Natural Resources
+Undergraduate Teaching Assistants: Ms. Colleen Piper, Wildlife Student, Warnell School of Forestry and Natural Resources
+Guest Instructors/Hosts: Mr. John Jensen, Nongame and Endangered Species Unit, Georgia DNR Dr. Stephen Divers, School of Veterinary Medicine, UGA Dr. J. Whitfield Gibbons, Professor Emeritus, Odum School and SREL
+
+Lectures: Tuesdays and Thursdays, 9:30-10:45, 1-107 Warnell School Lab: Tuesdays, 2:00-4:30, 1-107 Warnell School Office hours: Dr. Maerz, most Tuesdays, 11 AM - 12 PM, Rm. 3-323 Warnell.
+Adam Clause, TBD
+
+Field Trips:
+
+Tentatively March 1-3, Amphibians and Reptiles of the Longleaf Ecosystem April 13 or 14, Salamander Field Trip to north GA and western NC mountains April 26-29, Terrapin Sampling and Georgia Sea Turtle Center, Jekyll Island, GA
+
+Course wiki (for enrolled participants): https://sites.google.com/site/ugaherpetology/home
+Required materials: 1. Herpetology: An Introductory Biology of Amphibians and Reptiles. Fourth Edition. By Vitt and Caldwell *Note - this text is now available as an eBook. http://store.elsevier.com/Herpetology/Laurie-Vitt/isbn-9780123869197/
+
+2. Amphibians and Reptiles of Georgia. By Jensen et al. UGA Press.
+
+Course Goals: This is a professional level course primarily designed to serve two core constituencies: (1) wildlife and ecological sciences majors interested in professional careers that may include research or management of amphibians and reptiles, and (2) graduate students focused on wildlife or amphibian and reptile ecology and management. As such, students who take this course will develop a detailed understanding of amphibian and reptile biology, and will develop a greater understanding of science and the scientific process through the use of herpetology as a model field. A detailed understanding of herpetology includes knowledge of the ecological and evolutionary processes that regulate global and regional amphibian and reptile diversity, knowledge of the relationships between habitat and morphology, physiology, life history and natural history needed to study and manage amphibian and reptile populations, and an understanding of the cultural and environmental value of reptiles and amphibians. Developing an understanding of science includes a broader awareness of the use of amphibians and reptiles to address a diversity of theoretical and applied research questions, and understanding the process of scientific research as an incremental and interactive process.
+
+To accomplish these goals each student will ... 1. learn the biological features that characterize the classes Amphibia and Reptilia and that make them distinctive from other vertebrates and from each other.
+
+1
+
+2. learn the phylogenetic origins and relationships of major groups of herpetofauna. 3. use a variety of approaches including lectures, student-centered instructional labs, field trips,
+and autonomous field activities to learn the taxonomy, systematic relationships, ecology, and geographic distributions of herpetofauna globally and in Georgia. 4. use a variety of approaches including lectures, student-centered instructional labs, and field trips to evaluate patterns of convergent evolution among amphibians and reptiles, and learn morphological, physiological, life history, and behavioral traits associated with particular environments. 5. use labs, field trips, and autonomous field activities to practice standard field and laboratory techniques used in herpetology, including field collecting and monitoring techniques, classic and contemporary voucher techniques, and the regulations and guidelines associated with capturing, handling, and conducting research on reptiles and amphibians. 6. use lectures, case studies, and field trips to examine conservation issues related to herpetofauna on a regional, national, and global scale. 7. use stories to explore lines of herpetological research, the people engaged in that research, and the process of conducting scientific research. 8. engage the general public about the biology and importance of herpetofauna.
+OVERVIEW OF COURSE STRUCTURE "Learning is experience. Everything else is just information." - Albert Einstein
+I think it is helpful to understand my philosophy and approach to this course in order to understand the rational for organization and diversity of assignments. As you will come to learn, the treatment of amphibians and reptiles as a single taxonomic group is more an artifact of history than biology, and the diversity of both groups makes teaching them together in a single course a challenge. To address the breadth of diversity and issues related to herpetofauna and to provide detailed knowledge of regional fauna, the lecture and laboratory portions of this course are structured to address different objectives and demands. The lecture components focus on the ecological and evolutionary processes that regulate global and regional amphibian and reptile diversity and "key concepts" in herpetology including the relationships between habitat and morphology, physiology, life history, behavior, and the use of amphibians and reptiles in research questions to illustrate broader scientific theories and approaches. Time is also dedicated in lecture and laboratory periods to apply ecological knowledge to conservation and management case studies. The laboratory portion of the course focuses on practicing techniques to inventory, monitor, measure, and voucher herpetofauna, and knowledge about the natural history and key characteristics for the identification of species in Georgia. We use several approaches in lab to improve student mastery of the basic skills of taxonomic identification and literacy with regard to the natural history of Georgia's reptiles and amphibians. First, learning is all about practice, so I use reading quizzes and exams designed as a sequence of opportunities to practice and refine what you are learning. Second, I want you engaging in this content as a professional, so we have designed real projects where you implement techniques and knowledge you acquire in class in designing and executing projects including teaching labs and completing an inventory and monitoring project. Third, we are covering the biology of nearly 15,000 species. We can't cover every taxonomic group or essential concept in detail, so many of the assignments create a means for you to learn material we do not cover in class and to practice what you are learning. Fourth, I want you to become more autonomous in learning and managing projects. So, many of the activities we design require you to plan, organize and execute outside structured class time. That does not mean you are on your own. We scaffold all the assignments to make sure that you have the support you need to be successful, but only if you put the effort forward.
+Specific topics areas will include: 1. Introduction to herpetology 2. Evoltuion, cladistics, and amphibian and reptile phylogeography 3. Key concepts in amphibian and reptile ecology including: a. Amphibian and reptile anatomy and physiology
+2
+
+b. Amphibian evolution and ecology i. Temperature and water relationships to amphibian ecology ii. Associations between morphology and habitat iii. Evolution and ecology of complex life cycles
+iv. Social ecology, mating systems, reproduction, and parental care v. Feeding ecology vi. Antipredator adaptations c. Reptile evolution and ecology i. Temperature and water relationships to amphibian ecology ii. Associations between morphology and habitat iii. Evolution and ecology of complex life cycles iv. Social ecology, mating systems, reproduction, and parental care v. Feeding ecology vi. Antipredator adaptations 4. Herpetological inventories, monitoring, and population estimation 5. The effects of amphibians and reptiles on ecosystem processes 6. Amphibian and reptile declines: causes, consequences and solutions 7. Applications of amphibian and reptile ecology to conservation and management.
+Based on student evaluations and comments from the previous three years, students would characterize this course as moderately demanding yet highly stimulating; however, we have reduced the number of major assignments to reduce the expected workload. Students report their greatest challenge was the autonomous nature of many assignments, and that their grade in the course was most affected by their personal investment in the course assignments and time management of responsibilities. However, students also reported that it was the autonomous, student-centered activities including instructional labs and pond inventories that increased their learning and course value. Students commented that instructional labs were rewarding as an opportunity to learn by teaching, and that writing stories aided in personal engagement with the course and gave them experience relating wildlife biology and science to the general public. Students say the field trips and highly interactive nature of the course including the camaraderie with other students are course strengths. Over the past three years, ~50% of students who completed this course received an A/Awhile ~10% of students have failed the course.
+A major feature of this course is the use of a wiki and Facebook group to deliver content and facilitate a community of learning. The use of the wiki is required and all students are given the ability to post and modify content on the course wiki. The wiki moves away from bidirectional interaction between instructor an each student, and creates an interactive community that encourages students to utilize each other as resources. The wiki maintains a complete record of changes, so actions on the wiki are not anonymous. All course participants are expected to demonstrate respect for differences in opinion without intellectual or emotional judgment. Malicious or inappropriate activity will result in a participant's expulsion from the wiki and Facebook group.
+3
+
+GRADING GUIDELINES
+
+Core requirements
+Reading quizzes
+Exams Lecture Exams Exam 1 Exam 2 Exam 3 Lab exams Amphibian practical Reptile practical
+Group lab assignments Instructional lab 1 Instructional lab 2 Frog call challenge
+Whitehall Amphibian Inventory &
+Monitoring Project Draft Inventory Plan Amphibian frog call survey Final report
+Field Trip
+
+Pts Due date (assignments due by 5 PM unless noted) (30 ea.) = 90 Jan 30, Feb 20, Mar 27
+60 Mar 1, in lecture 100 Apr 5, in lab 2:00-4:30 PM 150 Apr 24, in lab 2:00-4:30 PM
+100 Feb 27, in lab 100 During final exam slot, May 3, 8-11AM
+100 assigned by instructors 100 assigned by instructors
+40 ~ weekly in lab
+20 Jan 19 20 Scheduled with your instructor 100 April 25 20 see calendar
+
+Core total =
+
+1000
+
+Graduate & Honors requirements
+Option 1 First draft First draft critique and revision plan Second draft with cover letter
+
+75 March 8 25 March 29 150 April 20
+
+Option 2 Sub-total grad/honors requirements = Total graduate/honors requirements =
+
+100 completed by April 20 300 1300
+
+Extra credit opportunities Professionalism Herp of the month or Seminar summaries Day on the Lawn Maximum allowable extra credit =
+
+up to 20 see Amphibian Inventory Project rubric 5 ea. up to 30 max. 2/month posted to wiki w/in 48 hrs.
+up to 15 April 19, 10 pts per hour up to max of 20 65
+
+4
+
+Point total grade breakdown:
+
+Grade
+
+WILD 4040/6040 Percent range
+
+A
+
+>93.4%
+
+A-
+
+89.5%-93.4%
+
+B+
+
+86.5%-89.4%
+
+B
+
+82.5%-86.4%
+
+B-
+
+79.5%-82.4%
+
+C+
+
+76.5%-79.4%
+
+C
+
+72.5%-76.4%
+
+C-
+
+69.5%-72.4%
+
+D
+
+59.5%-69.4%
+
+F
+
+<59.5%
+
+WILD 4040 Regular (1000
+PTS) >934 895-934 865-894 825-864 795-824 765-794 725-764 695-724 595-694 <595
+
+WILD 4040/6040 Grad/Honors (1300 PTS)
+>1215 1164-1215 1125-1163 1073-1124 1034-1072 995-1033 943-994 904-942 774-903
+<774
+
+EXPLANATIONS OF GRADED ASSIGNMENTS
+Reading quizzes and Exams: Reading quizzes: We rely on readings to complement rather than duplicate materials covered in lecture and lab; so, the reading quizzes were designed at the request and guidance of students from prior years as a means to strategically guide students through the required reading. In addition to receiving a grade for each reading quiz, we reward investment in the reading quizzes by taking the majority of short essay questions on the lecture exams directly from the reading quizzes. We do not provide feedback on reading quizzes; however, we encourage students to work collaboratively on reading quizzes, and to discuss your answers with peers. Reading quizzes must be hand written. We do not accept typed quizzes. Exams:I do not consider exams measures of what you know, but rather as opportunities to practice what you are learning, and progressive exams afford you the opportunity to revisit questions, correct, and reinforce what we have covered, which is demonstrated to improve retention and learning. The exams are also progressive in their value, which improves student performance in the course.
+Lab practicals: These laboratory exams cover material from lab, and emphasize taxonomy, morphology, and physiology. The first practical exam covers the units on amphibians, and the second exam covers the units on reptiles.
+Group Laboratory Assignments We take a community, student-centered learning model to the laboratory portion of the course; therefore, all laboratory assignments (with the exception of the lab practical exams) are group work with group grading that will be explained by your instructors. You will work in two different groups throughout the semester, affording you the opportunity to work with many of your peers in the course. Note, in all group work the product receives a single group grade; however, each individual's grade is the sum of the group grade plus a grade based on peer assessment and professional behavior.
+Instructional Labs - Twice over the term you will work as part of group and with course instructors to develop the specific laboratory instruction on a group of amphibians and reptiles. Groups will be assigned at random. Your group will design 4-5 stations (no more than 5 stations will be permitted). We will provide you with dichotomous keys to specific taxa, your group will develop 3 stations that will teach your peers how to identify species using the dichotomous key including instruction on key characters. In addition your group will develop 1 or 2 stations on a topic of your choosing (e.g., internal anatomy and physiology, behavior, feeding habits, capture and marking techniques, conservation, cultural importance). Each lab period will begin with an overview by the instructors about the taxonomic group and its key
+
+5
+
+identifying characteristics. Groups will be assigned dates and taxonomic groups at the beginning of the semester. Resources available to groups include museum specimens, preserved specimens for dissection, microscopes, dissection tools, and other standard laboratory supplies. Each group member must be involved with the design of the station and sufficiently literate to correctly instruct peers through each station.
+Frog call challenge - Frog call surveys are a common technique for monitoring anuran populations. NAAMP (North American Amphibian Monitoring Program) uses volunteer call surveys to track national patterns of amphibian distributions and abundances, and NAAMP requires a call proficiency of 60% accuracy among volunteers. You and the members of your Amphibian Inventory group will work together to correctly identify frog calls during a weekly lab quiz. Each week, if your group correctly identifies 60% of the calls presented, then each member of your group will receive 4 points, and if your group gets the highest percentage correct compared to other groups, you will receive an additional point. We provide digital copies of Georgia frog calls, and to encourage your mastery of these calls.
+Whitehall Amphibian & Reptile Inventory & Monitoring Project Biotic inventories and monitoring are an important component of research, and a common task for professional wildlife biologists. Increasingly, inventory and monitoring is also a means to engage citizens in science with the ultimate goal to transfer knowledge, change attitudes, and motivate people to act. You will be part of a group assigned to a specific pond or wetland and an associated upland in the Whitehall Forest. You will develop a draft inventory plan. During the semester, your group is expected to survey your pond minimally every 3 weeks, though you are encouraged to visit your pond as often as you can. You are also encouraged to survey your pond at different times, under different conditions] and use a range of techniques [e.g., listening for frog calls, hand searching, dip netting, trapping], to voucher what amphibian and reptile species occupy your site. Once over the term your group with your instructors will be required to complete a frog call monitoring survey among all the ponds. Throughout the project, your group must maintain an up-to-date species checklist, activity inventory activity log, specimen vouchers, and a specimen voucher log. By the end of the term, you must write a summary report of your inventory that is published on the page for your pond on the course website. Your instructors will provide more detailed guidelines and expectations, and you should review the project rubric carefully.
+Field Trip/Experience - A priority of the course is to maximize experience in the field as a means to reinforce what we learn in the classroom, practice locating and identifying species, and having fun. Each student is required to complete a field experience requirement during the course. We offer a minimum of two field trips during the term that meet this requirement. Students that cannot attend any of the scheduled field trips may arrange an alternate experience such as accompanying faculty or graduate students for field research or participating in field outings provided by other approved organizations. These alternate field experiences MUST BE APPROVED IN ADVANCE BY THE INSTRUCTOR if they are to count, and students may not use field trips for other courses to meet this requirement. Note, space for field trips may be limited depending on facilities.
+Graduate and Honors Student Requirements: The honors/graduate option of this course is intended to provide advanced experiences in teaching and public speaking. Each honors or graduate student must complete three of the options listed below:
+Option 1- Herpetology Popular Science Story This activity has three objectives. The primary objective is to practice communicating the importance of scientific research to the general public. Specifically, you will write a story about current research in herpetology that illustrates the philosophy of science, science as a human endeavor, and the research process to a general audience. So why a popular science story as opposed to a traditional research paper? Our awareness of the importance of stories in human culture has transferred to how we think about learning and communicating in the sciences. We are naturally accustomed to story format, which is why oral and written stories are so prevalent within all human cultures. Stories build understanding by building upon a sequence of events and the actors [protagonists] in those events. Telling and reading stories are a potentially more effective and engaging way to build an understanding of science as a process. I am sure you have read or watched a popular science story as a means to learn more or be
+6
+
+inspired about a topic. So, rather than write a traditional research paper, you will tell a story about a topic and the underlying science related to herpetology. You are allowed the option to write a story or produce a 3½ - 5 min digital story. You are free to choose any topic or system that interests you; however, we require that all stories include commentary or material stemming from interviews with researchers or professionals working in herpetology. Your ultimate goal is to write or produce a story that is could be published through a collaborating blog or our public YouTube channel.
+This is an autonomous activity that requires your attention throughout the semester; however, I will provide you structured guidance and support throughout the semester including clear milestones. Make sure that you review the rubric for the story. You should also review the example stories and videos provided on the course website.
+Options 2 (pick one) · Present a lecture to a science class other than herpetology on the general ecology of amphibians and/or
+reptiles, or on a specific group of amphibians or reptiles. or · Present a lecture to a non-science class on the general ecology of amphibians and/or reptiles and on
+issues related to their conservation status. or · Give a talk on the general ecology, cultural importance, and conservation issues of amphibians and/or
+reptiles to a local community group. or · Give a talk on the general ecology, cultural importance, and conservation issues of amphibians and/or
+reptiles to children at a school or other youth organization.
+Talks must be cleared with the instructor in advance so there is time to arrange an evaluator. As a participant in the course, you may use the live animals from the course for your talks.
+Convenient opportunities: 1. Each year we host the Boys Scouts of American Merit Badge Workshop in Herpetology. Students
+are welcome to work together running this event to meet their Option 2 requirement. Workshop materials and live animals are provided in advance and I will work you through the program in advance. This year's event is Saturday, February 25, 8AM - 3PM. 2. You could complete your outreach effort as part of your Sandy Creek Project by developing and training citizen scientists or leading a public outreach event. 3. You are also free to arrange your own talks or your instructors will assist you in scheduling a talk.
+Extra Credit: We provide a number of opportunities for students to earn extra credit over the course of the semester. This extra credit amounts to enough points to raise your final grade by more than half a letter grade! Extra credit is intended to reward extra effort. Please note - changes to marginal grades, even those <1% from the next highest grade, are only considered if the student maximized their own opportunities to make the higher grade including high attendance and completing extra credit opportunities.
+Professionalism - Each individual will receive up to 15 bonus points related to the professionalism they exhibit in the development, execution and reporting of their Pond Amphibian and Reptile Inventory Project.
+Herp of the Month/Seminar summaries You may earn a maximum of 30 bonus points using a combination of Herp of the Month and seminar summaries. You may do a maximum (combined) of two of these in any month.
+Herp of the month: Over the course of the semester (no more than twice in a given month), each student may upload to the wiki a photo of him or her with a reptile or amphibian. You may submit additional photos to show close up features of the animal (additional instructions on
+7
+
+uploading accounts is available on the course wiki). Animals must be live/wild caught specimens taken during the semester. You may bring herp of the month animals to lecture or lab; however, we ask that you limit live animals to common, local species that can be returned quickly and easily to their capture location. It is important to remember that Herp of the Month is a competition! That is, once a species has been reported, another member of class may not present it. We do count different life stages of amphibians as independent reports. In other words, if someone brings in a bullfrog tadpole, someone else can still bring in an adult bullfrog.
+Seminar summaries - You may report on up to two seminars per month of your choosing and attended outside of class during the semester. The seminar does not have to be about amphibians or reptiles, but you will be required to relate the seminar to herpetology (e.g., a seminar about bat conservation could be linked to conservation of other organisms including herpetofauna). For each seminar, download a seminar summary form from the course web site and take it with you. To receive credit you must post your seminar summary to the course wiki within 48 hours of the seminar. Different students may report on the same seminar.
+A Day on the Lawn - Towards the end of the semester we will hold an outreach event in conjunction with the Herpetological Society at the University of Georgia, the NRRT Society, the Savannah River Ecology Lab, and the Orianne Society to increase public awareness of reptiles and amphibians. The event takes place outside Warnell, and requires students to interact with passers-by and groups of school children, explaining important information about herpetofauna, dispelling myths, answering questions, and promoting a positive attitude about these animals. Students that volunteer and actively engage with the public may receive 10 bonus points per hour for two hours [of course we highly encourage you to be present for as much of the event as you can manage].
+Important Course Policies and Professional Expectations The course syllabus and guidelines are a general plan for the course; deviations announced to the class by the instructor may be necessary.
+All academic work must meet the standards contained in "A Culture of Honesty." Students are responsible for informing themselves about those standards (http://www.uga.edu/ovpi/honesty/culture_honesty.htm) before performing any academic work.
+If you have a disability and would like to request classroom accommodations please see me after class or make an appointment during office hours. If you plan to request accommodations for a disability, please register with the Disability Resource Center.
+The Safe, Humane and Ethical Use of Live Animals: The use of live animals in this course is approved by the University of Georgia's Institutional Animal Care and Use committee and permitted by the Georgia Department of Natural Resources. Use of animals requires that course participants treat animals humanely and according to recommendations established by the Society for the Study of Amphibians and Reptiles. Anyone treating animals in a non-standard or inhumane manner will be dismissed from the course with a grade of F. Participants are responsible for knowing state and federal laws and regulations regarding the collection handling, and use of reptiles and amphibians in Georgia. No live venomous snake or federal or state endangered or threatened species is to be intentionally captured or handled by any student in this course under penalty of an "F" in the course.
+Attendance and Tardiness: It is very difficult to do well in this course without very regular attendance. Attendance in lecture is not mandatory; however, quizzes and other assignments in lecture will only be accepted from those students present in class or with a valid excused absence. Arriving early and being ready to start on time is expected in a professional environment, so we expect the same of everyone in the course. Students who arrive late to lecture are asked to enter the room quietly and take the first available seat to minimize disruption. Students who arrive more than 10 minutes late to lecture may be excluded from class activity or asked to leave if disruptive. Lab attendance is required. Students will have 100 pts deducted from their final course point total for their first unexcused absence from lab. Students that have two or more unexcused absences from lab automatically fail the course.
+8
+
+Arriving more than 15 minutes late to lab or leaving lab before the instructor dismisses the class may, at the instructors' discretion, be counted as an absence and subject to the associated penalty for that absence. Late Assignment Policy: 10% of the total assignment value is deducted per day for any assignment turned in past the assigned due date. Lecture exams may be made up with a documented excuse, or you will be deducted 10% of the total exam points per day for each day until the exam is made up. You cannot make up lab exams, reading quizzes, instructional labs, or extra credit.
+9
+
+2018 Herpetology Tentative Course Calendar TuTh, 9:30-10:45 Lecture Periods
+
+Tuesday, 2-5PM, Labs
+
+Week 1 2 3 4 5 6 7 8 9
+10 11 12
+13
+
+Tu 3-Jan 9-Jan
+16-Jan
+
+no classes Ectothermy Tetrapod evolution
+
+23-Jan 30-Jan
+
+Amphibian phylogeography complex life cycles
+
+6-Feb 13-Feb 20-Feb 27-Feb
+
+Key concepts in amphibian ecology Key concepts in amphibian ecology Amphibian conservation No lecture
+
+1-3 Mar
+
+6-Mar Reptile evolution
+
+12-16 Mar
+
+20-Mar 27-Mar
+
+Divers - reptile anatomy and physiology Squamate phylogeography
+
+Th
+
+Lab
+
+4-Jan Course overview
+
+11-Jan Evolution and cladistics
+
+9-Jan instructors: field techniques
+
+18-Jan 25-Jan 1-Feb 8-Feb 15-Feb 22-Feb
+
+Amphibian phylogeography Amphibian phylogeography Key concepts in amphibian ecology Key concepts in amphibian ecology Key concepts in amphibian ecology Amphibian conservation
+
+1-Mar Exam 1
+
+16-Jan instructors: larval amphibians
+
+23-Jan 30-Jan
+
+instructors: salamanders 1 & detection of amphibians and reptiles peer 1: Salamanders 2
+
+6-Feb peer 2: Anurans 1
+
+13-Feb peer 3: Anurans 2
+
+20-Feb 27-Feb
+
+In class activity - managing species with complex life cycles Amphibian Lab Practical
+
+Amphibians and Reptiles of the LLP, site in south GA or north FL to be determined
+
+8-Mar Archosaur evolution and ecology
+No classes - Spring Break
+
+6-Mar instructors: Crocodilians and Chelonians part 1
+
+22-Mar Squamate phylogeography
+
+20-Mar peer 1: Chelonians part 2
+
+29-Mar Key concepts in squamate ecology
+
+27-Mar In class activity - Chelonian conservation and management
+
+14
+
+3-Apr Key concepts in
+
+5-Apr Key concepts in
+
+squamate ecology
+
+squamate ecology
+
+15
+
+10-Apr Gibbons: Venomous
+
+12-Apr Key concepts in
+
+snakes of GA
+
+squamate ecology
+
+16
+
+17-Apr Squamate conservation
+
+19-Apr Day on the Lawn
+
+3-Apr Exam 2 10-Apr peer 2: Squamates part 1 17-Apr peer 3: Squamates part 2
+
+13 or 14-Apr
+
+North GA-Western NC Mountains salamander trip
+
+17
+
+24-Apr No lecture
+
+26-29 - Apr
+
+26-Apr No classes Reading Day
+Jekyll Island terrapin and GSTC trip
+
+24-Apr Exam 3
+
+18
+
+3-May Reptile Lab Practical
+
+8-11 AM
+
+Assignments/Reminders Due: draft inventory plans, Jan 19 Due: reading quiz 1, Jan 30
+Due: reading quiz 2, Feb 20
+Due: HONS/GRAD story draft 1, Mar 8
+Due: reading quiz 3, Mar 27 Due: HONS/GRAD story critique, Mar 29
+Due: HONS/GRAD story draft 2, Apr 20
+
+10
+
+11
+
+

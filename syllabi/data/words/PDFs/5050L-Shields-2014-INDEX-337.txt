@@ -1,0 +1,103 @@
+BIOL/CBIO 5050L/7050L Electron Microscopy Laboratory
+Room 154 Barrow Hall Dr. John Shields
+Office: 152 Barrow Hall
+The course is designed to give a practical introduction to Electron Microscopic Techniques available on the UGA campus and that may be used in research. We will primarily cover electron microscopy and associated sample preparation techniques, digital imaging, image processing and some analysis techniques. We will also touch on other microscopical techniques (e.g. light and confocal). The purpose of the course is to make you aware of the variety of microscopic techniques that are available, able to perform microscopy and sample preparation techniques as well as to make you a critical reviewer of data and protocols in the scientific literature. This course is designed to be highly practical and hands-on and scheduled from 2-4:45pm on Tuesdays and Thursdays. The nature of the course will require work outside of the assigned class times.
+Suggested Text: Electron Microscopy: Principles and Techniques for Biologists by John J. Bozzola, Lonnie D. Russell. (Available as an electronic Resource through UGA library). Reference books specific to your area of work are available at the Center and may be checked out at any time. Other resources are listed on the CAUR website.
+Exams and project: Students will be required to do three projects: 1. TEM project with supplied tissue 2. SEM project of Eleagnus leaf 3. Personal project to be determined by the student and instructor which can be based on the student's research. This project should have both SEM and TEM components. The projects are to be written up as refereed journal submissions and will include a set of images (figures) documenting structures captured from the techniques covered in the course. These figures will be appropriate for submission to a journal in the student's area of study, with complete figure legends (captions describing the figures). You will also present your project as if given at a scientific meeting - 15 minutes, to provide experience in presentation of data.
+This class will conform to the Academic Honesty Policy set forth by the University as outlined at: http://www.uga.edu/honesty/ahpd/ACOH%20May%20'07.pdf
+
+Course Schedule
+
+8/19 Introduction to EM Facility/Laboratory Safety
+
+21 Specimen Fixation for SEM (Eleagnus leaf tissue)
+
+25 Specimen Fixation for TEM, dehydration,
+
+28 TEM Prep continued (infiltration and embedding). SEM prep continued (critical
+
+point drying, mounting and coating
+
+[INDIVIDUAL PROJECT PROPOSALS DUE] This is a concise one page abstract of
+
+your individual project to be done in lab. It should be a project that can be done in the
+
+course of the semester. (20 pts)
+
+9/2 Tour of Vet Pathology EM Lab and Histology
+
+4
+
+Introduction to Zeiss SEM
+
+9
+
+Introduction to Zeiss SEM Continued
+
+11 Digital image processing and figure creation using Photoshop
+
+16 Knife making and block trimming
+
+18 Work Day - SEM of Leaf Project
+
+23 Grid post-staining [SEM of Leaf Project Due]
+
+25 Basic operation of JEOL 1011 TEM
+
+30 Operation of JEOL 1011 Continued
+
+10/2 Support Films
+
+7
+
+JEOL 1011 TEM - Check out Examinations
+
+9
+
+Sectioning
+
+14 Negative staining (20 pts)
+
+16 Specimen Preparation for X-ray and carbon coating
+
+21 Backscatter and X-ray on SEM [SECTIONS ON GRIDS DUE] (20 pts)
+
+26 OPEN
+
+28 OPEN
+
+11/2 OPEN
+
+4
+
+Oxford X-ray System [TEM IMAGES DUE] (20 pts)
+
+9
+
+X-ray Projects (Graduate Students)
+
+11 Shadow casts and Replicas
+
+16 Electron Diffraction
+
+18 Electron Spectroscopic Imaging and EELS or High Pressure Freezing
+
+23 Cryo-preservation & Freeze fracture
+
+Nov. 24-28 THANKSGIVING HOLIDAY
+
+30 OPEN
+
+12/2 Confocal Demo
+
+7
+
+Project work day
+
+11 Presentations of Personal Projects (50 pts)
+
+15 ALL WRITTEN PROJECTS DUE. Includes X-ray portion for graduate
+
+students
+
+

@@ -1,0 +1,50 @@
+PBIO(BIOL)(BINF) 4550/6550, Bioinformatics Applications, Syllabus
+
+http://www.plantbio.uga.edu/courses/bioinformatics/syllabus.html
+
+This course syllabus is a general plan for the course. Deviations announced to the class by the instructor may be necessary.
+Current Instructors:
+Jim Leebens-Mack, Russell Malmberg
+Course Frequency:
+Fall semesters, every other year, odd numbered years
+Course Description:
+The applications and concepts of computational technologies for solving problems in molecular genetics. Current programs and the principles that underlie them will be discussed. Topics include: sequence and structure databases; sequencing; mapping; sequence alignments (dynamic programming); motifs and profiles; phylogeny reconstruction; probabilistic approaches.
+Required Prerequisites:
+Undergraduate: PBIO(BIOL) 3020 or BCMB 3600 or BCMB 3600H or GENE(BIOL) 3200 Graduate: BCMB 8140 or PBIO(CRSS)(BIOL) 4500/6500
+Course Objectives:
+This course is designed for students who wish to learn what computational technologies exist to solve molecular genetic and genomics problems. Students should learn what computer applications, including resources that exist on the internet, are available, and they should also learn some of the basic algorithms and programming concepts that underlie these problems. Upon completion of the course, students will know how to use these technologies to analyze their own experimental genetic and sequence data. Students will be able to understand what current research in bioinformatics is trying to accomplish, and will be able to read with comprehension some of the research literature of the area.
+Topical Outline:
+Introduction and Internet Basics; File Formats; NCBI and Other Databases; Alignment Algorithms; Multiple Sequence Alignments; Motifs and Profiles; Probabilistic Models; Phylogenetic Reconstruction; Mapping and Sequence Assembly; RNA and Protein Structure; Prediction; Microarray Analysis; Database Principles; Systems Biology
+Academic Honesty:
+All academic work must meet the standards contained in "A Culture of Honesty". All students
+are responsible to inform themselves about those standards before performing any academic
+
+1 of 2
+
+8/3/2012 4:05 PM
+
+PBIO(BIOL)(BINF) 4550/6550, Bioinformatics Applications, Syllabus
+
+http://www.plantbio.uga.edu/courses/bioinformatics/syllabus.html
+
+work.
+Principal Course Assignments:
+Readings in the textbook, and supplemental papers, will be assigned to accompany each lecture. Homework assignments will be given approximately once a week. One take home problem set will be due near the end of the first half of the semester; a second take home problem set will be due near the end of the semester. About 3/4 of the way through the semester, Graduate students will be required to turn in a report in the form of a web page, which will subsequently be demonstrated in class. Lecture Topics: Overview; Unix, Linux, Command-Line; Local UGA Resources; NCBI, Blast, and Other Databases; File Formats, HTML; XML, Ontologies, Databases; Sequence Alignments; Probabilities, Entropy; Motifs and Profiles; Sequence Assembly; Gene Prediction; Phylogenetic Trees; Scripting; RNA and Protein Structure Prediction; Microarrays; Systems Biology.
+Specific Course Requirements for Grading:
+90% = A; 80% = B; 70% = C; 60% = D
+Grading Policy:
+Student grades will be based on homework assignments and take home problem sets. Additionally, graduate students will be required to write a report in the form of a web page that will be demonstrated in class. The two take home problem sets will be worth 100 points each. The weekly homework assignments are worth 2 points each. The graduate student database report is worth 25 points. The final letter grade will be determined from the sum of these.
+Attendance Policy:
+Students are expected to attend lectures and labs. It is the responsibility of the student to ensure that he/she is up-to-date with course materials.
+Required Course Material Including Texts:
+The required materials include the textbook, and materials distributed through the course web site or in class.
+Makeup Exam Policy:
+Since all graded materials are take-home assignments, there will be no makeup exams.
+Course Web Site:
+http://www.plantbio.uga.edu/courses/bioinformatics/
+
+2 of 2
+
+8/3/2012 4:05 PM
+
+

@@ -1,0 +1,258 @@
+BIOL 1107 - Principles of Biology I Spring 2021
+Syllabus BIOL1107 - Principles of Biology I CRN: 20283 MWF 9:10 - 10:00 am, Science Learning Center, Room 285 Instructor Michael McEachern C324 Davison Life Sciences Email: mjm@uga.edu Office Hours: Tuesday 3:00-4:30 pm, Friday 3:00-4:30 pm or by appointment. Office hours will be conducted via Zoom. A link will be provided on eLC.
+Welcome to BIOL 1107 This course is designed to prepare you for more specialized coursework in the molecular and cellular life sciences. It is intended to complement BIOL 1108, Principles of Biology II, which is the second course in the introduction to biology sequence.
+COVID-19 adjustments: This course will be taught in a hybrid synchronous manner. Lectures will be given via Zoom and in class with space enough for social distancing. Instructions will be provided on which days particular students will be able to attend live classes in order to maintain adequate social distancing. Students wishing to attend any or all classes via Zoom will be able to do so. Lectures will also be recorded and made available on eLC.
+Mask wearing requirement: Masks should be worn at all times in face-to-face classes.
+UGA Coronavirus Information for Students
+Face Coverings: Effective July 15, 2020, the University of Georgia--along with all University System of Georgia (USG) institutions--requires all faculty, staff, students and visitors to wear an appropriate face covering while inside campus facilities/buildings where six feet social distancing may not always be possible. Face covering use is in addition to and is not a substitute for social distancing. Anyone not using a face covering when required will be asked to wear one or must leave the area. Reasonable accommodations may be made for those who are unable to wear a face covering for documented health reasons. Students seeking an accommodation related to face coverings should contact Disability Services at https://drc.uga.edu/.
+DawgCheck: Please perform a quick symptom check each weekday on DawgCheck--on the UGA app or website--whether you feel sick or not. It will help health providers monitor the health situation on campus: https://dawgcheck.uga.edu/
+What do I do if I have symptoms? Students showing symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5 p.m.). Please DO
+1
+
+NOT walk-in. For emergencies and after-hours care, see https://www.uhs.uga.edu/info/emergencies.
+
+BIOL 1107 - Principles of Biology I Spring 2021
+
+What do I do if I am notified that I have been exposed? Students who learn they have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 14 days consistent with Department of Public Health (DPH) and Centers for Disease Control and Prevention (CDC) guidelines. Please correspond with your instructor via email, with a cc: to Student Care & Outreach at sco@uga.edu, to coordinate continuing your coursework while self-quarantined. If you develop symptoms, you should contact the University Health Center to make an appointment to be tested. You should continue to monitor your symptoms daily on DawgCheck.
+
+How do I get a test? Students who are demonstrating symptoms of COVID-19 should call the University Health Center. UHC is offering testing by appointment for students; appointments may be booked by calling 706-542-1162.
+
+UGA will also be recruiting asymptomatic students to participate in surveillance tests. Students living in residence halls, Greek housing and off-campus apartment complexes are encouraged to participate.
+What do I do if I test positive? Any student with a positive COVID-19 test is required to report the test in DawgCheck and should self-isolate immediately. Students should not attend classes in-person until the isolation period is completed. Once you report the positive test through DawgCheck, UGA Student Care and Outreach will follow up with you.
+
+Schedule:
+Day Class W 1 F 2 M W 3 F 4 M 5 W 6 F 7 M 8 W 9 F 10 M 11 W 12 F 13 M 14 W
+
+Date Jan 13 Jan 15 Jan 18 Jan 20 Jan 22 Jan 25 Jan 27 Jan 29 Feb 1 Feb 3 Feb 5 Feb 8 Feb 10 Feb 12 Feb 15 Feb 17
+
+Topic (tentative) Intro. What is Life? Scientific method
+Chemical Bonds No Class: Martin Luther King Day
+Chemical Bonds Water and Carbon
+Carbohydrates, Lipids & Nucleic acids Proteins and enzymes
+Cells Membranes Review for Exam 1
+Exam 1 Cell Compartments
+Energy Metabolism No Class: Instructional Break
+2
+
+Reading Chapter 1 Chapter 2
+Chapter 2 Chapter 2 Chapter 3 Chapter 3 Chapter 3 + Chapter 6.5 Chapter 4 Chapter 4; Ch. 5
+Chapter 4 Chapter 6 Chapter 6
+
+BIOL 1107 - Principles of Biology I Spring 2021
+
+Day Class Date
+
+Topic (tentative)
+
+Reading
+
+F 15 Feb 19
+
+DNA and chromosomes
+
+Chapter 14
+
+M 16 Feb 22
+
+Chromosomes and genomes
+
+Chapter 14
+
+W 17 Feb 24
+
+Cell division/Mitosis
+
+Chapter 10
+
+F 18 Feb 26
+
+DNA replication
+
+Chapter 14
+
+M 19 Mar 1
+
+DNA replication and PCR
+
+Chapter 14
+
+W 20 Mar 3
+
+Mutations and DNA repair
+
+Chapter 14
+
+F 21 Mar 5
+
+Exam 2 review
+
+M 22 Mar 8
+
+Exam 2
+
+W 23 Mar 10
+
+Genetic code/Prokaryotic transcription
+
+Chapter 15
+
+F
+
+Mar 12
+
+No Class: Instructional Break
+
+M 24 Mar 15
+
+Eukaryotic transcription/RNA splicing
+
+Chapter 15
+
+W 25 Mar 17
+
+Ribosomes/protein translation
+
+Chapter 15
+
+F 26 Mar 19
+
+Viruses, transposons & plasmids
+
+M 27 Mar 22
+
+Genetic exchange
+
+W 28 Mar 24
+
+Meiosis
+
+Chapter 11
+
+F 29 Mar 26
+
+Genetics I
+
+Chapters 12 & 13
+
+M 30 Mar 29
+
+Genetics II
+
+Chapters 12 & 13
+
+W 31 Mar 31
+
+Genetics III
+
+Chapters 12 & 13
+
+F 32 Apr 2
+
+Exam 3 review
+
+M 33 Apr 5
+
+Exam 3
+
+W 34 Apr 7
+
+Genetics IV
+
+Chapters 12 & 13
+
+F 35 Apr 9
+
+Genetics V
+
+Chapters 12 & 13
+
+M 36 Apr 12
+
+Epigenetics
+
+Chapter 16.3
+
+W 37 Apr 14
+
+Biotechnology
+
+Chapter 17
+
+F 38 Apr 16
+
+Biotechnology
+
+Chapter 17
+
+M 39 Apr 19
+
+Evolution and the origin of species
+
+Chapter 18
+
+W 40 Apr 21
+
+Evolution and the origin of species
+
+Chapter 18
+
+F 41 Apr 23
+
+Evolution of populations
+
+Chapter 19
+
+M 42 Apr 26
+
+Evolution of populations
+
+Chapter 19
+
+W 43 Apr 28
+
+Phylogenies and the history of life
+
+Chapter 20
+
+F 44 Apr 30
+
+Phylogenies and the history of life
+
+Chapter 20
+
+M 45 May 3
+
+Exam 4 review
+
+TBA
+
+Exam 4
+
+Resources
+
+· Textbook: OpenStax Biology, a free, online textbook published by Rice University. Please note that this is "Biology 2e" not "Concepts Biology". Links to the required parts of the textbook, including homework questions, are available through the Top Hat system for this course. If you would prefer a hard copy text, you can download and print a pdf from OpenStax or you can order one from Amazon.com.
+
+· Powerpoints, syllabus, exam keys, etc... These will be posted on eLC. It is your responsibility to make sure you have access to the eLC site.
+
+· Top Hat (tophat.com) is a wifi- and text-enabled classroom response and homework system. You will use this tool to do homework online. The join code for this section of 1107 will be provided. You will receive an email invitation to register during the first week of classes - please sign up by the end of add / drop (January 20).
+
+3
+
+BIOL 1107 - Principles of Biology I Spring 2021
+Course enrollment: Participation in this course requires concurrent enrollment in both 1107 and 1107L classes. Students not in 1107L will be dropped from 1107 unless they have received permission from the Biology Division.
+Exams: The four exams are noncumulative and each is worth 18% of your final grade. They will be conducted online during class time. Exam scores cannot be dropped.
+Missed exams: Makeup exams will be given in the case of a documented medical or extreme personal emergency. It is the student's responsibility to provide relevant and detailed documentation. Contact Dr. McEachern as soon as possible if you will miss an exam. In most cases, contacting an instructor after the exam has started is too late to be allowed to take a makeup exam. An unexcused missed exam will count 0 points.
+Attendance: Attendance in class or via Zoom is recommended. Lectures will be recorded and made available on eLC.
+Homework: Homework will be assigned regularly through the course. All homework that will be assigned is to be done using Top Hat and will be graded automatically. Full credit will be given for scores 5 percent less than the total points assigned. For example, if there are homework 150 points total in the course, scoring 143.5 will count as 100%. There will be no further types of extra credit work in the course.
+Course withdrawal: We will follow the University's course withdrawal policy, which can be found here: www.reg.uga.edu/policies/withdrawals. Withdrawal deadline is March 23th.
+Academic honesty: As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: www.uga.edu/honesty. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor. More detailed information about academic honesty can be found at: ovpi.uga.edu/academic-honesty/academic-honesty-policy.
+Email: Please use email to the instructor sparingly, and primarily for setting up Zoom appointments.
+Course Grade: Your final grade will be assigned as follows: Homework: 28 % Exams: 18 % each Grades are expected to be based on curves. However, grades for exams or homework will not be lower than a standard grade distribution: (A: 90-100, B: 80-89, C: 70-79 and D: 60-69, with appropriate cut-offs for +/-).
+Technology: Use of tablets and laptops is allowed during lecture but ONLY for class-related purposes. Please make sure that your cell phone is OFF during class, exams and office hours.
+4
+
+BIOL 1107 - Principles of Biology I Spring 2021
+Disability Accommodations: Reasonable accommodations are available for students who have a disability through the Disability Resource Center in the Division of Student Affairs (https://drc.uga.edu/). Please notify the instructors of any accommodations needed for the course.
+5
+
+

@@ -1,0 +1,92 @@
+MARS 4810/6810 Global Biogeochemical Cycles
+Spring 2021
+12:45-2:00, Tuesday/Thursday Meile lectures - Zoom or Marine Sciences Room 239 Ohnemus lectures - Zoom or SkIO OSIC Classroom 1
+See ELC for information on how to connect online
+COVID-19: Due to the ongoing pandemic, this class is being taught as a Face-to-faceOnline-Remote Hybrid course. All classes will be streamed through Zoom during the scheduled class time, supplemented by additional online content to help minimize health risks for all participants. Masks are required for all in-person interactions.
+To further enhance your learning experience, we encourage you to engage in discussions using the GBC DISCORD server (see below).
+Instructors: Christof Meile (cmeile@uga.edu) Dan Ohnemus (dan@uga.edu, 912-598 2414, SkIO)
+Overview: Elemental turnover processes are important in modifying the earth's lithosphere, hydrosphere, atmosphere, and biosphere. The objective of this course is to gain working knowledge of global biogeochemical cycles, focusing on the role of the ocean. The class covers both fundamental principles as well as a quantitative analysis, including box models. Contemporary cycling of C, N, P, S as well as other nutrients will be discussed in both a qualitative and quantitative context, and the interactions between these cycles will be highlighted. Emphasis is on modern day conditions, but glacialinterglacial changes and effects of global change and anthropogenic impacts are included.
+"The biogeochemical cycles of carbon, oxygen, nitrogen, sulphur and phosphorus constitute the lifesupporting system for our planet since their dynamics determine the composition of the atmosphere as well as the fertility of land and water. Disturbances in these cycles may have global, regional and local implications which can only be assessed against the background of integrated, interdisciplinary knowledge of the budgets and the flows of the cycle components and of the mechanisms mediating their conversions and transport". V. Kovda and J.W.M. la Riviere. co-chairmen SCOPE (Scientific Committee on Problems of the Environment) project on Biogeochemical Cycles. SCOPE 7, 1976 (emphases added)
+Recommended Textbook: Schlesinger, W.H. and Bernhardt, E. 2013. Biogeochemistry. An Analysis of Global Change. 3rd edition. Academic Press 688p. eBook ISBN: 9780123858757, Paperback ISBN: 9780123858740, Online at https://www.sciencedirect.com/book/9780123858740/biogeochemistry
+
+Grades: Grades will result from your performance on homework exercises, leading presentations & active discussions, exams, and written (term paper, for MARS6810) assignments. Major contributions (homework, leading and actively participating in discussions etc.) during the semester are approx. 225pts, mid and final exams are about 100 pts each and the term paper (MARS 6810 only) is about 150 pts. These relative weights are approximate. Grades will be assigned using: A: >93, A-: 90-93, B+: 87-90, B: 83-87, B-: 80-83, C+: 77-80, C: 73-77, C-: 70-73, D: 60-70, F: <60
+Homework: Homework (except if designated differently in the case of in-class paper discussions) is due at the beginning of class. If your homework is late (i.e., if you turn it in after the beginning of class), 5% will be deducted from your overall grade. An additional 5% will be deducted for each day the assignment is late.
+Exams: There are two exams: a mid-term and a final. Term Papers (MARS6810 only!): Term papers will describe and model a biogeochemical cycle. Your term paper topic must be approved by Feb 9. You are encouraged turn in a rough draft of your term paper, which will be evaluated and returned to you within about a week. Doing this is optional but it can significantly alter (improve) your grade on your term paper. Term papers are due on April 30 at the beginning of class. Details regarding the formatting of the Term Papers will be made available in class or on ELC.
+Participation. Given the situation with COVID-19, physical presence in the classroom is not required. However, it is expected that you attend all classes and actively engage in the class so that you have the materials and information you need to do well.
+Term Paper The paper can be on a topic of your choice but needs to be approved by the instructors. It can be related to your research. For example, it can be an attempt to put your own research into a larger context. The paper needs to be original and go beyond an assemblage of literature studies in that it needs to contain a synthesis. For example - but by no means necessary - this can be achieved and demonstrated by formulating a box model that integrates studies you find in the literature.
+Length: 10 pages 1.5 spaced minimum, not including figures and reference list. At least 10 references from the peer-reviewed literature.
+Structure: we strongly suggest you follow the structure of a research paper: Abstract, introduction, results, discussion (can be combined with results if necessary), conclusion, list of references.
+You can turn in a draft, which we intend to return with comments within a week. Please read the notes on plagiarism on the syllabus.
+
+Online engagement through DISCORD server Aside from regular course interactions, we will use DISCORD (https://discord.com/) as a platform to engage with the instructors and other students in the class. The goal is to provide the opportunity for an active engagement when face-to-face interactions are limited to help enhance learning outcomes. Note the following: 1. Engagement through DISCORD is voluntary. You are NOT required to sign up for this.
+It is an optional venue to ask questions and discuss course content during lectures and beyond. 2. Your level of engagement is NOT considered in your course grade. 3. You do NOT need to provide identifying information for your engagement with other students or (public) interactions with the instructors on the DISCORD server (i.e. you can use nicknames that protect your privacy; instructors may ask you to identify yourself, e.g. to check enrollment in the class) 4. Unprofessional behavior on the DISCORD server set up for this class will not be tolerated. Inappropriate language or behavior that the instructors deem to undermine the learning experience of other participants may result in getting banned from the server. This is at the sole discretion of the instructors.
+We will be posting the invitation to join the GBC Discord server at the beginning of the semester on ELC. This is for students enrolled in the class only. Do not share this invitation with others.
+Tentative Course Outline
+PART 1: INTRODUCTION AND ORIGINS Introduction Origin of elements
+PART 2: - SPHERES Atmosphere Lithosphere Biosphere: Terrestrial and Marine
+PART 3: CONTEMPORARY CYCLES Water cycle C cycle
+Pools&fluxes Methane cycle Wetlands Soil Warming P cycle Pools&fluxes Oceans
+
+Land connection. O-C-P linkages: Coupling and feedbacks N cycle S and Hg cycle Wetlands, oxic-anoxic interfaces Atmospheric stuff, acid rain Fe cycle Vents
+
+PART 4: CYCLES OVER TIME Evolution of cycles over time
+Geologic times Glacial-interglacial Human impact Past & Present Urban systems linkage between social and natural sciences UGA's Academic Calendar can be found at https://reg.uga.edu/general-information/calendars/academic-calendars/
+
+First and last regular class: Anticipated Exam dates: Midterm: Final: Important Dates: Jan 13-20 Jan 18 Feb 17, Mar 3 & 12, Apr 8: Mar 23:
+
+Jan 14 and April 30
+March 4, during regular class time May 11, 12-3pm
+Drop/Add MLK Day Single-Day Instructional Breaks (no classes) Withdrawal Deadline
+
+Academic Honesty: As a University of Georgia student, you have agreed to abide by the University's academic honesty policy, "A Culture of Honesty," and the Student Honor Code. All academic work must meet the standards described in "A Culture of Honesty" found at: https://honesty.uga.edu/Academic-Honesty-Policy/. Lack of knowledge of the academic honesty policy is not a reasonable explanation for a violation. Questions related to course assignments and the academic honesty policy should be directed to the instructor. Plagiarism ("to take ideas, writings, etc. from another and pass them off as one's own", Webster's New World Dictionary) will not be tolerated. There are several forms of plagiarism, ranging from outsourcing your work to somebody else, to slight rewording of a published text or summarizing a text without citing it. If you are in doubt consult with the instructor before you hand something in.
+
+Changes to the Course Syllabus: The course syllabus is a general plan for the course; deviations announced to the class by the instructors may be necessary. Failure to regularly attend class may result in your being uninformed about changes in the course content or timing of assignments. Students who miss class are responsible for all announcements and assignments given in lecture.
+Access Statement: The University of Georgia is committed to providing access for all people with disabilities and will provide accommodations if notified prior to the start of the semester. Please contact the Disability Resource Center if you will need a sign language interpreter, assisted listening device, or other classroom accommodations. If you would like to discuss classroom and/or testing accommodations, please discuss your needs with the instructors of record as soon as possible.
+Resources for Student-Parents: If you or someone you know is in a phase of life that involves parenting (or the expectation of parenting), there are resources available to assist you. Student Care and Outreach within the Office of the Dean of Students is available to you and can provide you with important information and resources; you can contact them at 706-542-7774. Additionally, the student group UP at UGA works to provide peer support and resources to students who are pregnant or parenting; you can find out more about their work at https://uga.campuslabs.com/engage/organization/unplanneduga, or contact them directly at upliftingparents.uga@gmail.com.
+
+Mental Health and Wellness Resources:
+
+� If you or someone you know needs assistance, you are encouraged to contact Student
+
+Care and Outreach in the Division of Student Affairs at 706-542-7774 or visit
+
+https://sco.uga.edu. They will help you navigate any difficult circumstances you may
+
+be facing by connecting you with the appropriate resources or services.
+
+� UGA has several resources for a student seeking mental health services
+
+(https://www.uhs.uga.edu/bewelluga/bewelluga)
+
+or
+
+crisis
+
+support
+
+(https://www.uhs.uga.edu/info/emergencies).
+
+� If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA
+
+(https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops,
+
+classes, mentoring, and health coaching led by licensed clinicians and health
+
+educators in the University Health Center.
+
+� Additional resources can be accessed through the UGA App.
+
+Coronavirus Information for Students Face Coverings: As a reminder, the University of Georgia--along with all University System of Georgia (USG) institutions--requires all faculty, staff, students, and visitors to wear an appropriate face covering while inside campus facilities/buildings where six feet social distancing may not always be possible. Anyone not using a face covering when required will be asked to wear one or must leave the area. Reasonable accommodations may be made for those who are unable to wear a face covering for documented health
+
+reasons. Students seeking an accommodation related to face coverings should contact Disability Services at https://drc.uga.edu/.
+DawgCheck: Please perform a quick symptom check each weekday on DawgCheck--on the UGA app or website--whether you feel sick or not. It will help health providers monitor the health situation on campus: https://dawgcheck.uga.edu/
+What do I do if I have symptoms? Students showing symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5 p.m.). Please DO NOT walk-in. For emergencies and afterhours care, see https://www.uhs.uga.edu/info/emergencies.
+What do I do if I test positive? Any student with a positive COVID-19 test is required to report the test in DawgCheck and should self-isolate immediately. Students should not attend classes in-person until the isolation period is completed. Once you report the positive test through DawgCheck, UGA Student Care and Outreach will follow up with you.
+What do I do if I am notified that I have been exposed? Revised Guidelines for COVID-19 Quarantine Period Effective Jan. 4, 2021, students who learn they have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 10 days (consistent with updated Department of Public Health (DPH) and Centers for Disease Control and Prevention (CDC) guidelines). Those quarantining for 10 days must have been symptomfree throughout the monitoring period. Please correspond with your instructor via email, with a cc: to Student Care & Outreach at sco@uga.edu, to coordinate continuing your coursework while self-quarantined.
+We strongly encourage students to voluntarily take a COVID-19 test within 48 hours of the end of the 10-day quarantine period (test to be administered between days 8 and 10). Students may obtain these tests at Legion Field (https://clia.vetview.vet.uga.edu/) or at the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5 p.m.). Please DO NOT walk-in the University Health Center without an appointment. For emergencies and after-hours care, see https://www.uhs.uga.edu/info/emergencies
+If the test is negative, the individual may return to campus, but MUST continue to closely monitor for any new COVID-19 symptoms through 14 days. DawgCheck is the best method for monitoring these symptoms. If new symptoms occur, the individual must not come to campus and must seek further testing/evaluation. If the test is positive at the end of the 10-day period, the individual must begin a 10-day isolation period from the date of the test.
+How do I participate in surveillance testing if I have NO symptoms? We strongly encourage you to take advantage of the expanded surveillance testing that is being offered from January 4 - 22: up to 1,500 free tests per day at Legion Field and pop-up locations. Testing at Legion Field can be scheduled at https://clia.vetview.vet.uga.edu/. Walk-up appointments can usually be accommodated at Legion Field, and pop-up saliva
+
+testing does not require pre-registration. For planning purposes, precise sites and schedules for the pop-up clinics are published on the UHC's website and its social media as they are secured: https://www.uhs.uga.edu/healthtopics/covid-surveillance-testing.
+
+

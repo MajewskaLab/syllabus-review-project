@@ -1,0 +1,260 @@
+Syllabus for PBIO 3650 - Plant Ecology -- Fall, 2021
+
+*SEE PAGES 5 & 6 OF THIS SYLLABUS FOR CORONAVIRUS INFORMATION*
+
+Instructor: TAs:
+
+Dr. Chris Peterson, 2615 Plant Sciences, 542-3754; chris@plantbio.uga.edu Mr. Hunter Scully sscully@uga.edu Mr. Austin Menzmer menzmer@uga.edu Ms. Justine Valadez Justine.rojas@uga.edu (grading) Ms. Jacqueline Pena jacquelinepena@uga.edu
+
+Course Format: This course will be organized as a "flipped" classroom, in which you view short lecture
+videos, and read assigned items (e.g. textbook chapters) on your own time, and in-class time is used for:
+1) Explain/clarify things that were unclear in the readings 2) Have discussions of relevant issues and topics 3) Quizzes 4) Class activities and exercises that will illustrate and familiarize you with topics.
+
+Lecture videos will be short, usually 25-30 minutes, and will correspond to each class meeting time, so you will usually view two videos per week. Lecture videos are already posted on eLC and will be available beginning one week prior to when they are discussed.
+
+We will have two classroom periods (everyone attends), and six lab periods (you only attend one lab) per week. Lectures will be for two 75 minute class periods. If you are in 27016, your lectures are Tues & Thur 12:45 pm - 1:45 pm; if you are in 46589, your lectures are Tues & Thur 9:35 - 10:45; all meetings for the lectures will be in room 345 of the Science Learning Center. Lab sections will meet in Miller Plant Science Building room 2604. Our course textbook will be Ecology of Plants, by Gurevitch, Scheiner & Fox, published by Sinauer Associates publishers or Oxford University Press. We will use the 3rd edition, which is new as of July 2020! Readings will also come from other sources. You are responsible for all lecture material (such as the videos) even if it is not in the assigned readings, so we recommend paying attention to the video lectures in addition to reading the textbook chapters.
+
+Grading will be based on a total of 500 possible points. Most class meeting times (except for the first and last days, and the day of the midterm) will begin with a quiz, worth 3 points, for a total of 3 x 25 = 75 points. Quizzes are intended to see if you understand the topic of the assigned reading, and to identify any poorly-understood areas. Quizzes will be done on paper at the beginning of class; please be on time. In past years, we used Tophat for electronic quizzes, but there was too much cheating. There will be a midterm and a final exam during the semester, each worth 75 points. Various in-class activities, exercises and discussions will be worth a total of 75 points. In total, the "lecture" portion of the class will be worth 300 points.
+
+Labs: The labs be indoors for the first 3 weeks then outdoors for the next 4 weeks, and later will be back indorrs in our standard classroom. We will have lab exercises and assignments that are worth a total of 200 of the 500 total points.
+
+Our labs will be extensive hands-on work, primarily at the newly-established UGA Forest Dynamics Plot on the grounds of the State Botanical Garden, just outside of Athens to the south. The FDP is a 12-hectare (about 25 acres) area in which every tree and sapling has been tagged, measured for diameter, identified, and mapped. Our lab activities will exploit this rich resource, and collect supporting data that will be utilized in the future by researchers conducting real research in the FDP.
+
+Objectives: The goals of this course include the student becoming familiar with the major factors determining the distribution and abundance of plant species, as well as processes that operate at the population, community and ecosystem levels to drive composition, structure, diversity and productivity.
+
+Academic Honesty: All academic work must meet the standards contained in "A Culture of Honesty." Students are responsible for informing themselves about those standards before performing any academic work. See: http://www.uga.edu/ovpi/honesty/acadhon.htm
+
+In the schedule below we use these abbreviations: Mac 1 = Beginner's Guide to Excel for Mac (youtube tutorial) Mac 2 = Excel for Mac Intermediate (youtube tutorial) Win 1 = Excel quick and simple charts (youtube tutorial) Win 2 = Advanced Excel using charts and functions (youtube tutorial)
+
+Schedule:
+
+Aug. 19: Introductions; what is science? What is not science?
+
+Read for Aug 26: text, ch. 1
+
+Videos for Aug. 26: Nature of Sci.;
+
+Ways of Doing Sci.
+
+Guest interview - Robert Kuzoff
+
+Guest interview - Audrey Plotkin
+
+Aug. 24: No class - Peterson out of town
+
+Aug. 26: Ways of doing science -- Critique of example journal articles
+
+Read for Aug 31: text, ch. 1
+
+Video for Aug. 31: What is special about plants?
+
+Guest interview - Peter Alpert
+
+Aug. 31: What's special about plants? - Web app: advantages of being clonal
+
+Read for Sept. 2: none
+
+Video for Sept. 2: Mac 1, Win 1
+
+Sep. 2: Excel, part I, live tutorial
+
+Read for Sept.7: none
+
+Video for Sept. 7: Mac 2, Win 2
+
+Sep. 7: Excel, part II, live tutorial
+
+Read for Sept. 9: text Ch. 2
+
+Video for Sept. 9: Photosynthesis
+
+** Labor Day is Monday, Sept. 6**
+
+Sep. 9: Physiological ecology - Web app: photosynthesis
+
+Read for Sept. 14: text, ch. 3
+
+Video for Sept.14: Plants & water; transport
+
+Guest interview - Dan Johnson
+
+Section I - Environment and resources
+
+Sep. 14: Physiological ecology - Web app: water relations
+
+Read for Sept. 16: text ch. 4
+
+Video for Sept. 16: Soils & plant nutrients
+
+Sep. 16: Physiological ecology - Web app: soils & mineral nutrition
+
+Read for Sept. 21: text ch. 6
+
+Video for Sept. 21: growth & reprod.; dispersal
+
+Guest interview - Andy Jones
+
+Sep. 21: Reproduction - NCCST: plant/pollinator interactions
+
+Read for Sept. 23: text ch. 6
+
+Video for Sept. 23: none
+
+Section II -- Individuals
+
+Sep. 23: Regeneration -- Tionesta regrowth exercise
+
+Read for Sept. 28: text ch. 7
+
+Video for Sept. 28: life histories
+
+Sep. 28: Life histories - Web app: life histories
+
+Read for Sept. 30: text ch. 8
+
+Video for Sept. 30: Pop. Struct. & Life cycle graphs
+
+Sep. 30: Density independent population growth -- Populus
+
+Read for Oct. 5: text ch. 8
+
+Video for Oct.5: density depend. Pop dynamics
+
+Section III -- Populations
+
+Oct. 5: Density dependent population growth -- Populus
+
+Read for Oct. 7: none
+
+Video for Oct. 7: population spatial patterns
+
+Oct. 7: Spatial structure - LCBS mapped plot exercise
+
+Read for Oct. 12: none - review Video for Oct. 12: none - review
+
+Oct. 12: Mid-term exam
+
+Read for Oct. 14: Lotka-Volterra reading Video for Oct. 14: Intersp. Comp. Pt 1
+
+& read text ch 10 (first part)
+
+Section IV - Communities
+
+Oct. 14: Interspecific competition - Lotka-Volterra - Populus
+
+Read for Oct. 19: text ch. 10
+
+Video for Oct. 19: Intersp. Comp. Pt 2
+
+& read text ch. 10 (second part)
+
+Oct. 19: Interspecific competition R* resource competition -- Populus
+
+Read for Oct. 21: text ch. 10
+
+Video for Oct. 21: Intersp. Comp. Pt 2
+
+& R* reading
+
+Oct. 21: Interspecific competition R* resource competition -- Populus
+
+Read for Oct. 26: text ch. 11
+
+Video for Oct. 26: herbivory
+
+Oct. 26: Herbivory - TIEE Exercise: Bison effects on tallgrass prairie
+
+Read for Oct. 28: text ch. 13
+
+Video for Oct. 28: disturbance & succession
+
+Oct. 28: Disturbance & succession: Web app
+
+Read for Nov. 2: text ch. 12
+
+Video for Nov. 2: community properties
+
+** Fall Break is Friday October 29 **
+
+Nov. 2: Community properties - Web app
+
+Read for Nov. 4: text ch. 12
+
+Video for Nov. 2: community properties
+
+Nov. 4: Community properties - convergence in Costa Rica fields and forest
+
+Read for Nov. 9: text ch. 5
+
+Video for Nov. 9: ecosystems part 1
+
+Nov. 9: Ecosystem ecology -- TIEE exercise: streamflow and deforestation
+
+Read for Nov. 11: text ch. 5
+
+Video for Nov. 11: ecosystems part 2
+
+Nov. 11: Ecosystem ecology - Forest disturbance & carbon cycling
+
+Read for Nov. 16: text ch. 15
+
+Video for Nov. 16: landscape ecology
+
+Section V - Ecosystems
+
+Nov. 16: Landscape ecology: Biogeography online simulation
+
+Read for Nov. 18: text ch. 16
+
+Video for Nov. 18: climate change
+
+Nov. 18: Climate change - NCCST: climate change & mast seeding
+
+Read for Nov. 23: text ch. 16
+
+Video for Nov. 23: climate change
+
+Section VI - Landscapes, Biomes & Global topics Nov. 23: Climate change lecture
+Read for Nov. 30: other readings Video for Nov. 30: misinformation
+
+Nov. 25: NO CLASS -- THANKSGIVING HOLIDAY
+
+Nov. 30: Climate change: dealing with misinformation
+
+Read for Dec. 2: xxxxx
+
+Video for Dec. 2: xxxxx
+
+Dec. 2: Overflow
+
+Read for Dec. 7: none
+
+Video for Dec. 7: none
+
+Dec. 7: No class - this day has a Friday schedule
+
+**Last day of classes is Tue. Dec. 7, reading day is Dec. 8** Final exam: for 9:30-10:45 section is Tue. Dec 14 at 8:00 am, in SLC 345. Final exam: for 12:30-1:45 section is Tue. Dec 14 at 12:00 noon, in SLC 345.
+
+Mental Health Statement UGA Student Honor Code: "I will be academically honest in all of my academic work and will not tolerate academic dishonesty of others." A Culture of Honesty, the University's policy and procedures for handling cases of suspected dishonesty, can be found at www.uga.edu/ovpi. Every course syllabus should include the instructor's expectations related to academic honesty.
+The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+Mental Health and Wellness Resources: - If you or someone you know needs assistance, you are encouraged to contact Student Care and Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services. - UGA has several resources for a student seeking mental health services (https://www.uhs.uga.edu/bewelluga/bewelluga) or crisis support (https://www.uhs.uga.edu/info/emergencies). - If you need help managing stress anxiety, relationships, etc., please visit BeWellUGA (https://www.uhs.uga.edu/bewelluga/bewelluga) for a list of FREE workshops, classes, mentoring, and health coaching led by licensed clinicians and health educators in the University Health Center. - Additional resources can be accessed through the UGA App.
+
+CORONAVIRUS INFORMATION FOR STUDENTS FOR FALL 2021 CLASSES
+Face coverings: Following guidance from the University System of Georgia, face coverings are recommended for all individuals while inside campus facilities.
+How can I obtain the COVID-19 vaccine? University Health Center is scheduling appointments for students through the UHC Patient Portal (https://patientportal.uhs.uga.edu/login_dualauthentication.aspx). Learn more here - https://www.uhs.uga.edu/healthtopics/covid-vaccine.
+The Georgia Department of Health, pharmacy chains and local providers also offer the COVID19 vaccine at no cost to you. To find a COVID-19 vaccination location near you, please go to: https://georgia.gov/covid-vaccine.
+In addition, the University System of Georgia has made COVID-19 vaccines available at 15 campuses statewide and you can locate one here: https://www.usg.edu/vaccination
+What do I do if I have COVID-19 symptoms? Students showing COVID-19 symptoms should self-isolate and schedule an appointment with the University Health Center by calling 706-542-1162 (Monday-Friday, 8 a.m.-5p.m.). Please DO NOT walk-in. For emergencies and after-hours care, see, https://www.uhs.uga.edu/info/emergencies.
+What do I do if I test positive for COVID-19? If you test positive for COVID-19 at any time, you are required to report it through the DawgCheck Test Reporting Survey. We encourage you to stay at home if you become ill or until you have excluded COVID-19 as the cause of your symptoms. UGA adheres to current Georgia Department of Public Health (DPH) quarantine and isolation guidance and requires that it be followed. Follow the instructions provided to you when you report your positive test result in DawgCheck.
+Guidelines for COVID-19 Quarantine Period (As of 8/1/21; follow DawgCheck or see DPH website for most up-to-date recommendations) Students who are fully vaccinated do not need to quarantine upon exposure unless they have symptoms of COVID-19 themselves. All others should follow the Georgia Department of Public Health (DPH) recommendations:
+Students who are not fully vaccinated and have been directly exposed to COVID-19 but are not showing symptoms should self-quarantine for 10 days. Those quarantining for 10 days must have been symptom-free throughout the monitoring period and continue self-monitoring for COVID-19 symptoms for a total of 14 days. You should report the need to quarantine on DawgCheck (https://dawgcheck.uga.edu/), and communicate directly with your faculty to
+
+coordinate your coursework while in quarantine. If you need additional help, reach out to Student Care and Outreach (sco@uga.edu) for assistance.
+Students, faculty and staff who have been in close contact with someone who has COVID-19 are no longer required to quarantine if they have been fully vaccinated against the disease and show no symptoms.
+Well-being, Mental Health, and Student Support If you or someone you know needs assistance, you are encouraged to contact Student Care & Outreach in the Division of Student Affairs at 706-542-7774 or visit https://sco.uga.edu/. They will help you navigate any difficult circumstances you may be facing by connecting you with the appropriate resources or services.
+UGA has several resources to support your well-being and mental health: https://wellbeing.uga.edu/
+Counseling and Psychiatric Services (CAPS) is your go-to, on-campus resource for emotional, social and behavioral-health support: https://caps.uga.edu/, TAO Online Support (https://caps.uga.edu/tao/), 24/7 support at 706-542-2273. For crisis support: https://healthcenter.uga.edu/emergencies/.
+The University Health Center offers FREE workshops, classes, mentoring and health coaching led by licensed clinicians or health educators: https://healthcenter.uga.edu/bewelluga/
+Monitoring conditions: Note that the guidance referenced in this syllabus is subject to change based on recommendations from the Georgia Department of Public Health, the University System of Georgia, or the Governor's Office or. For the latest on UGA policy, you can visit coronavirus.uga.edu.
+
+
