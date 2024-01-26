@@ -1,45 +1,223 @@
 Index,Department_Code,Course_Number,Division,Course_Number_Suffix,Year,Semester,Lead_Instructor,Other_Instructors,Learning_Outcomes_Present,Learning_Outcome_File,DEI_Statement_Present,DEI_Statement_File,Exam_Grade_Prop,Quiz_Grade_Prop,Participation_Grade_Prop,Project/Assignment_Grade_Prop,Other_Grade_Prop,Other_Grade_Description,Grading_Present,Grading_File,Attend_Present,Attend_File,Notes,GradeTone1,GradeTone1scale,GradeTone2,GradeTone2scale,AttendTone1,AttendTone1scale,AttendTone2,AttendTone2scale
-1,BIOL,1103,lower,,2011,Spring,Armstrong,NA,Yes,1-LO.txt,No,NA,0.6,0,0.06,0.34,0,,Yes,1-Grading.txt,Yes,1-Attend.txt,,informative,5,encouraging,4,informative,5,friendly,4
-2,BIOL,1103,lower,,2013,Fall,Barstow,NA,Yes,2-LO.txt,No,NA,1,0,0,0,0,,Yes,2-Grading.txt,Yes,2-Attend.txt,,formal,5,NA,NA,informative,5,formal,4
+20,BIOL,1107,lower,,2021,Fall,Dees,NA,No,NA,No,NA,0.7,0,0,0.3,0,,Yes,20-Grading.txt,No,NA,,assertive,5,NA,NA,NA,NA,NA,NA
+228,PSYC,4120,upper,,2019,Spring,Hammond,NA,No,NA,No,NA,0.85,0,0.15,0,0,,Yes,228-Grading.txt,Yes,228-Attend.txt,,assertive,5,informative,4,direct,5,NA,NA
+17,BIOL,1104,lower,,2022,Spring,Meyers,NA,Yes,17-LO.txt,Yes,17-DEI.txt,0.4,0.1,0.1,0.4,0,,Yes,17-Grading.txt,Yes,17-Attend.txt,,confident,3,formal,3,informative,5,skeptical,4
+38,BIOL,1990,lower,,2021,Spring,Farmer,NA,No,NA,No,NA,0,0,0.5,0.5,0,,Yes,38-Grading.txt,Yes,38-Attend.txt,Both lead to a S/U? ,confident,5,direct,5,confident ,5,direct,3
+39,ENTO,2010,lower,,2022,Spring,Burke,NA,Yes,39-LO.txt,No,NA,0.52,0.19,0.19,0.1,0,,Yes,39-Grading.txt,No,NA,,confident,5,friendly,4,NA,NA,NA,NA
+138,MIBO,3500,upper,,2014,Fall,Benoit,"Walker, Hennigan",No,NA,No,NA,0.697,0.139,0,0.162,0,,Yes,138-Grading.txt,Yes,138-Attend.txt,,confident,3,direct,3,informative,5,confident,5
+179,CBIO,3710,upper,,2018,Fall,Massey,NA,No,NA,No,NA,0.8,0.1,0,0.1,0,,Yes,179-Grading.txt,Yes,179-Attend.txt,,confident,2,formal,2,informative,3,confident,3
+221,BCMB,4110,upper,,2021,Fall,Barb,Orlando,No,NA,No,NA,0.8,0,0,0.2,0,,Yes,221-Grading.txt,No,NA,,confident,2,formal,2,NA,NA,NA,NA
+265,ANTH,4210,upper,L,2020,Fall,Birch,Veres,Yes,265-LO.txt,No,NA,0.46,0.23,0,0.31,0,,Yes,265-Grading.txt,No,NA,,confident,5,informative,4,NA,NA,NA,NA
+292,HORT,4430,upper,,NA,Fall,Malladi,NA,No,NA,No,NA,1,0,0,0,0,,Yes,292-Grading.txt,No,NA,,confident,5,informative,5,NA,NA,NA,NA
+345,PSYC,5850,upper,,2017,Fall,Smith,NA,Yes,345-LO.txt,No,NA,0.75,0.07,0,0.18,0,,Yes,345-Grading.txt,Yes,345-Attend.txt,,cooperative,5,NA,NA,cooperative ,4,informative ,4
 3,BIOL,1103,lower,,NA,Fall,Beyette,NA,Yes,3-LO.txt,No,NA,0.35,0.1,0.15,0.15,0,,Yes,3-Grading.txt,Yes,3-Attend.txt,,direct,5,cooperative,5,informative,5,NA,NA
-4,BIOL,1103,lower,,2021,Spring,Brickman,Lewis,Yes,4-LO.txt,Yes,4-DEI.txt,0.48,0,0.1,0.42,0,,No,NA,Yes,4-Attend.txt,,NA,NA,NA,NA,direct,5,confindent,4
+9,BIOL,1103,lower,L,2021,,Martin,NA,Maybe,9-LO.txt,No,NA,0,0,0,1,0,,Yes,9-Grading.txt,Yes,9-Attend.txt,,direct,5,formal,4,informative,5,NA,NA
+15,BIOL,1104,lower,L,2021,Spring,Martin,NA,Maybe,15-LO.txt,No,NA,0,0,0,1,0,,Yes,15-Grading.txt,Yes,15-Attend.txt,,direct,3,informative,2,informative,5,NA,NA
+23,BIOL,1107,lower,L,2021,Spring,Martin,NA,Yes,23-LO.txt,No,NA,0,0,0,1,0,,Yes,23-Grading.txt,Yes,23-Attend.txt,,direct,5,NA,NA,informative,5,confident,2
+70,PATH,3010,upper,,2021,Spring,Brewer,NA,No,NA,No,NA,0.8,0.1,0.1,0,0,,Yes,70-Grading.txt,Yes,70-Attend.txt,,direct,3,informative,3,informative,5,confident,3
+81,BCMB,3100,upper,,2022,Spring,Xu,Weiss,No,NA,No,NA,0,1,0,0,0,,Yes,81-Grading.txt,Yes,81-Attend.txt,,direct,4,informative,3,formal,5,NA,NA
+82,BCMB,3100,upper,,2021,Summer,Wood,Lanzilotta,No,NA,No,NA,0,1,0,0,0,,Yes,82-Grading.txt,Yes,82-Attend.txt,,direct,4,informative,3,formal,5,confident,2
+94,BIOL,3110,upper,L,2013,Spring,Winternitz,McKnight,No,NA,No,NA,0.455,0.09,0,0.4544,0,,Yes,94-Grading.txt,Yes,94-Attend.txt,,direct,5,confident,3,formal,5,NA,NA
+102,GENE,3200,upper,,2020,Fall,McEachern,NA,No,NA,No,NA,0.9,0,0,0.1,0,,Yes,102-Grading.txt,No,NA,,direct,5,informative,1,NA,NA,NA,NA
+119,CBIO,3400,upper,,2021,Spring,Stanton,Etheridge,No,NA,No,NA,0.765,0,0.147,0.088,0,,Yes,119-Grading.txt,No,NA,,direct,4,informative,3,NA,NA,NA,NA
+124,MARS,3450,upper,,2019,Fall,Binder,NA,Yes,124-LO.txt,No,NA,0.88,0,0,0.12,0,,Yes,124-Grading.txt,Yes,124-Attend.txt,,direct,5,informative,4,NA,NA,NA,NA
+125,MARS,3450,upper,,2021,Spring,Hopkinson,NA,No,NA,No,NA,0.8,0,0.2,0,0,,Yes,125-Grading.txt,Yes,125-Attend.txt,,direct,5,informative,4,informative,5,NA,NA
+145,MIBO,3500,upper,,2010,Summer,Shearer,NA,No,NA,No,NA,1,0,0,0,0,,Yes,145-Grading.txt,Yes,145-Attend.txt,,direct,5,NA,NA,informative,5,NA,NA
+146,MIBO,3500,upper,,2020,Spring,Swift,NA,No,NA,No,NA,0.727272727,0,0,0.272727273,0,,Yes,146-Grading.txt,Yes,146-Attend.txt,,direct,5,informal,4,informative,5,NA,NA
+148,MIBO,3500,upper,E,2021,Spring,Scott,NA,No,NA,No,NA,0.707692308,0.061538462,0.076923077,0.246153846,0,,Yes,148-Grading.txt,No,NA,,direct,3,informative,3,NA,NA,NA,NA
+168,ECOL,3580,upper,,2022,Spring,Castleberry,NA,Yes,168-LO.txt,No,NA,0.7,0.1,0,0.2,0,,Yes,168-Grading.txt,Yes,168-Attend.txt,,direct,3,confident,3,informative,3,NA,NA
+213,MIBO,4090,upper,,2021,Fall,Hoover,Walker,No,NA,No,NA,0.3,0,0.2,0.5,0,,Yes,213-Grading.txt,Yes,213-Attend.txt,,direct,3,informative,3,direct,5,NA,NA
+214,MIBO,4090,upper,,2010,Spring,Whitman,Stabb,No,NA,No,NA,1,0,0,0,0,,Yes,214-Grading.txt,Yes,NA,,direct,5,NA,NA,NA,NA,NA,NA
+243,PSYC,4140,upper,,2018,Fall,Haas,NA,No,NA,No,NA,0.4,0,0.1,0.5,0,,Yes,243-Grading.txt,Yes,243-Attend.txt,,direct,5,informative,3,direct,5,NA,NA
+298,ECOL,4500,upper,,2013,Spring,Shefferson,NA,No,NA,No,NA,0.4,0,0.1,0.5,0,,Yes,298-Grading.txt,Yes,298-Attend.txt,,direct,5,informative,4,confident,5,skeptical,5
+299,FISH,4500,upper,,2018,Fall,Fox,NA,Yes,299-LO.txt,No,NA,0.35,0,0.1,0.3,0.25,Lab,Yes,299-Grading.txt,Yes,299-Attend.txt,,direct,5,NA,NA,neutral,5,NA,NA
+301,GENE,4500,upper,,2017,Spring,Bedell,NA,Yes,301-LO.txt,No,NA,0.75,0.2,0.05,0,0,,Yes,301-Grading.txt,Yes,301-Attend.txt,,direct,5,NA,NA,informative,5,NA,NA
+305,ECOL,4540,upper,,2021,Fall,Injaian,NA,Yes,305-LO.txt,No,NA,0.4,0,0,0.6,0,,Yes,305-Grading.txt,No,NA,,direct,4,formal,3,NA,NA,NA,NA
+309,ECOL,4590,upper,,2021,Fall,Cabrera,Malladi,Yes,309-LO.txt,No,NA,0.7,0.1,0,0.2,0,,Yes,309-Grading.txt,Yes,309-Attend.txt,,direct,5,NA,NA,NA,NA,NA,NA
+317,PBIO,4650,upper,,2015,Spring,Zomlefer ,NA,Yes,317-LO.txt,No,NA,0.417,0.083,0,0.5,0,,Yes,317-Grading.txt,Yes,317-Attend.txt,,direct,5,NA,NA,informative,4,formal,4
+318,MIBO,4650,upper,,2021,Fall,Garcia,Brindley,No,NA,No,NA,0.75,0,0.1,0.15,0,,Yes,318-Grading.txt,No,NA,,direct,5,NA,NA,NA,NA,NA,NA
+319,MIBO,4650,upper,,2014,Fall,Garcia,He,No,NA,No,NA,0.8,0,0.05,0.15,0,,Yes,319-Grading.txt,No,NA,,direct,5,NA,NA,NA,NA,NA,NA
+320,MIBO,4650,upper,,2021,Fall,Brindley,Garcia,No,NA,No,NA,0.75,0,0.1,0.15,0,,Yes,320-Grading.txt,No,NA,,direct,5,NA,NA,NA,NA,NA,NA
+321,MIBO,4650,upper,,2010,Fall,He,Garcia,No,NA,No,NA,0.8,0,0.05,0.15,0,,Yes,321-Grading.txt,No,NA,,direct,5,NA,NA,NA,NA,NA,NA
+322,MIBO,4650,upper,,NA,Fall,Karls,Garcia,No,NA,No,NA,0.8,0,0.05,0.15,0,,Yes,322-Grading.txt,No,NA,,direct,5,NA,NA,NA,NA,NA,NA
+325,KINS,4690,upper,L,2022,Fall,Cribb,NA,Yes,325-LO.txt,No,NA,0,0.2,0.5,0.3,0,,Yes,325-Grading.txt,Yes,325-Attend.txt,,direct,5,confident,4,formal,5,NA,NA
+330,ANTH,4790,upper,,2017,Fall,Tanner,NA,Yes,330-LO.txt,No,NA,0.4,0,0.15,0.45,0,,Yes,330-Grading.txt,Yes,330-Attend.txt,,direct,5,confident,5,neutral ,5,NA,NA
+331,MARS,4810,upper,,2021,Spring,Meile,Ohnemus,No,NA,No,NA,0.47,0,0,0.529,0,,Yes,331-Grading.txt,Yes,331-Attend.txt,,direct,5,confident,4,formal,5,admiring,4
+332,MARS,4810,upper,,2021,Spring,Ohnemus,Meile,No,NA,No,NA,0.47,0,0,0.529,0,,Yes,332-Grading.txt,Yes,332-Attend.txt,,direct,5,confident,4,formal,5,admiring,4
+346,MIBO,3500,upper,H,2022,Spring,Scott,NA,No,NA,No,NA,0.513,0.05,0.064,0.372,0,,Yes,346-Grading.txt,Yes,346-Attend.txt,,direct,5,confident,4,confident,5,direct ,4
+28,BIOL,1108,lower,,2022,Fall,Farmer,Trapnell,Yes,28-LO.txt,No,NA,0.64,0,0,0.35,0.01,Professionalism,Yes,28-Grading,Yes,28-Attend.txt,,direct ,5,confindent,5,informative,5,direct,2
+73,BCMB,3100,upper,,2022,Fall,Lee,NA,No,NA,No,NA,0.635,0.076,0.063,0.22,0.005,Course Eval,Yes,73-Grading.txt,Yes,73-Attend.txt,,direct ,5,formal ,3,confident,5,informative,2
+78,BCMB,3100,upper,,2022,Spring,Robinson,NA,Yes,78-LO.txt,No,NA,0.79,0.07,0.07,0.07,0,,Yes,78-Grading.txt,Yes,78-Attend.txt,,direct ,3,formal,3,informative,5,friendly ,4
+133,ECOL,3500,upper,,2022,Fall,Injaian,Richards,Yes,133-LO.txt,No,NA,0.63,0.12,0,0.25,0,,Yes,133-Grading.txt,Yes,133-Attend.txt,,direct ,4,informative,3,skeptical,4,formal,3
+2,BIOL,1103,lower,,2013,Fall,Barstow,NA,Yes,2-LO.txt,No,NA,1,0,0,0,0,,Yes,2-Grading.txt,Yes,2-Attend.txt,,formal,5,NA,NA,informative,5,formal,4
+31,BIOL,1108,lower,L,2021,Spring,Martin,NA,Yes,31-LO.txt,No,NA,0,0,0,1,0,,Yes,31-Grading.txt,Yes,31-Attend.txt,,formal,5,informative,1,informative,3,formal,2
+55,CBIO,3000,upper,,2010,Fall,Hesse,Holliday,Yes,55-LO.txt,No,NA,0,0.8,0,0.2,0,,Yes,55-Grading.txt,Yes,55-Attend.txt,Lecture and Lab ,formal,4,informative,2,informative,2,NA,NA
+58,CBIO,3000,upper,,2015,Spring,Williams,Holliday,Yes,58-LO.txt,No,NA,0.69,0.05,0.05,0,0.3,Lab,Yes,58-Grading.txt,Yes,58-Attend.txt,Lecture and Lab ,formal,5,NA,NA,neutral,5,NA,NA
+65,GENE,3000,upper,,2009,Fall,Promislow,Moeller,Yes,65-LO.txt,No,NA,1,0,0,0,0,,Yes,65-Grading.txt,No,NA,,formal,5,skeptical,5,NA,NA,NA,NA
+66,GENE,3000,upper,,2012,NA,Promislow,Wares,Yes,66-LO.txt,No,NA,1,0,0,0,0,,Yes,66-Grading.txt,No,Na,No semster provided,formal,5,skeptical,5,NA,NA,NA,NA
+67,GENE,3000,upper,,2011,Fall,Promislow,Wares,Yes,67-LO.txt,No,NA,1,0,0,0,0,,Yes,67-Grading.txt,No,Na,,formal,5,skeptical,5,NA,NA,NA,NA
+71,BCMB,3100,upper,,2014,Spring,Anong,NA,No,NA,No,NA,0.756,0.0756,0,0.168,0,,Yes,71-Grading.txt,Yes,71-Attend.txt,,formal,5,informative,5,formal,5,inspirational,3
+76,BCMB,3100,upper,,2022,Fall,Paz,NA,No,NA,No,NA,0.9286,0.0457,0,0.0257,0,,Yes,76-Grading.txt,Yes,76-Attend.txt,,formal,4,informative,4,confident,5,informative,2
+88,VPHY,3100,upper,,2021,Fall,Wells,Li,No,NA,No,NA,1,0,0,0,0,,Yes,88-Grading.txt,No,NA,,formal,4,informative,4,NA,NA,NA,NA
+89,VPHY,3100,upper,,2009,Fall,McGraw,Wells,No,NA,No,NA,1,0,0,0,0,,Yes,89-Grading.txt,No,NA,,formal,5,informative,5,NA,NA,NA,NA
+90,VPHY,3100,upper,,2010,Fall,McGraw,Wells,No,NA,No,NA,1,0,0,0,0,,Yes,90-Grading.txt,No,NA,,formal,5,informative,5,NA,NA,NA,NA
+93,BIOL,3110,upper,L,2022,Fall,Paz,NA,No,NA,No,NA,0.545,0.136,0,0.316,0,,Yes,93-Grading.txt,Yes,93-Attend.txt,,formal,5,informal,5,formal,5,NA,NA
+111,CBIO,3400,upper,,2012,Fall,Fechheimer,Lechtreck,No,NA,No,NA,0,1,0,0,0,,Yes,111-Grading.txt,No,NA,,formal,3,direct,2,NA,NA,NA,NA
+113,CBIO,3400,upper,,2016,Spring,Kipreos,Shen,No,NA,No,NA,1,0,0,0,0,,Yes,113-Grading.txt,No,NA,,formal,4,direct,2,NA,NA,NA,NA
+114,CBIO,3400,upper,,2017,Spring,Lukowitz,Muralidharan,Yes,114-LO.txt,No,NA,0,0.781,0.0625,0.156,0,,Yes,114-Grading.txt,No,NA,,formal,3,direct,3,NA,NA,NA,NA
+120,CBIO,3410,upper,L,2016,Fall,Cai,Gaertig,No,NA,No,NA,0.3,0.2,0,0.5,0,,Yes,120-Grading.txt,Yes,120-Attend.txt,,formal,5,inspirational,4,formal,5,NA,NA
+121,CBIO,3410,upper,L,2018,Fall,Gaertig,Cai,No,NA,No,NA,0.3,0.2,0,0.5,0,,Yes,121-Grading.txt,Yes,121-Attend.txt,,formal,5,inspirational,4,formal,5,NA,NA
+123,MARS,3450,upper,,2022,Fall,Bik,Saunders,Yes,123-LO.txt,No,NA,0.5,0.3,0.2,0,0,,Yes,123-Grading.txt,No,NA,,formal,3,informative,3,NA,NA,NA,NA
+127,ECOL,3500,upper,,2011,Spring,Barrett,NA,No,NA,No,NA,0.7,0,0,0,0.3,Lab,Yes,127-Grading.txt,Yes,127-Attend.txt,Lecture and Lab ,formal,5,friendly,5,formal,5,NA,NA
+131,ECOL,3500,upper,,2018,Fall,Crumsey,Ballantyne,Yes,131-LO.txt,No,NA,0.4,0.2,0.1,0,0.3,Lab,Yes,131-Grading.txt,No,NA,Lecture and Lab ,formal,4,informative,2,NA,NA,NA,NA
+132,ECOL,3500,upper,,2022,Spring,Holdo,Schmidt,Yes,132-LO.txt,No,NA,0.69,0.18,0,0.13,0,,Yes,132-Grading.txt,Yes,132-Attend.txt,,formal,4,direct,1,informative,5,NA,NA
+134,ECOL,3500,upper,,2017,Fall,King,Keogh,Yes,134-LO.txt,No,NA,0.6,0,0.1,0,0.3,Lab,Yes,134-Grading.txt,Yes,134-Attend.txt,Lecture and Lab ,formal,5,NA,NA,confident,5,inspirational,5
+140,MIBO,3500,upper,,2013,Spring,Dustman,NA,No,NA,No,NA,0.769230769,0.128205128,0.033898305,0,0,,Yes,140-Grading.txt,Yes,140-Attend.txt,,formal,5,NA,NA,informative,5,NA,NA
+150,ECOL,3503,upper,H,2013,Spring,Barrett,NA,No,NA,No,NA,0.6,0,0,0.15,0.25,Lab,Yes,150-Grading.txt,No,NA,,formal,5,friendly,5,NA,NA,NA,NA
+151,ECOL,3503,upper,H,2021,Fall,Byers,Injaian,Yes,151-LO.txt,No,NA,0.54,0,0,0.46,0,,Yes,151-Grading.txt,Yes,151-Attend.txt,Lecture and Lab,formal,5,friendly,5,NA,NA,NA,NA
+162,ECOL,3530,upper,,2022,Fall,Connelly,Hall,Yes,162-LO.txt,No,NA,0.3,0,0.2,0.5,0,,Yes,162-Grading.txt,Yes,162-Attend.txt,,formal,5,NA,,formal,5,informative,5
+163,ECOL,3530,upper,,2021,Fall,Hall,Schmidt,Yes,163-LO.txt,No,NA,0.3,0,0.2,0.5,0,,Yes,163-Grading.txt,Yes,163-Attend.txt,,formal,5,NA,NA,formal,4,informative,4
+164,ECOL,3530,upper,,2020,Fall,Pringle,Hall,Yes,164-LO.txt,No,NA,0.3,0,0.2,0.5,0,,Yes,164-Grading.txt,Yes,164-Attend.txt,,formal,5,NA,NA,formal,5,informative,4
+165,ECOL,3500,upper,,2020,Fall,Schmidt,NA,Yes,165-LO.txt,No,NA,0.5,0,0.1,0.4,0,,Yes,165-Grading.txt,Yes,165-Attend.txt,,formal,5,NA,NA,confident ,5,NA,NA
+167,ECOL,3580,upper,,2013,Fall,Beasley,Atkins,Yes,167-LO.txt,No,NA,0.7,0.1,0.1,0.1,0,,Yes,167-Grading.txt,Yes,167-Attend.txt,,formal,3,direct,2,informative,5,NA,NA
+173,ECOL,3600,upper,,2021,Spring,Connelly,NA,Yes,173-LO.txt,No,NA,0.7,0,0,0.3,0,,Yes,173-Grading.txt,Yes,173-Attend.txt,,formal,4,direct,2,confident,3,assertive,3
+174,ENTO,3645,upper,,2022,Spring,Champagne,Batzer,Yes,174-LO.txt,No,NA,0.1,0,0,0,0,,Yes,174-Grading.txt,Yes,174-Attend.txt,,formal,5,informative,3,informative,5,NA,NA
+178,BIOL,3700,upper,W,2022,Fall,Maerz,NA,No,NA,No,NA,NA,NA,NA,NA,NA,,Yes,178-Grading.txt,Yes,178-Attend.txt,,formal,4,informative,4,informative,5,formal,4
+222,MIBO,4110,upper,,2020,Fall,Paz,NA,No,NA,No,NA,0.86,0.086,0,0.05,0,,Yes,222-Grading.txt,Yes,222-Attend.txt,,formal,5,informative,4,informative,5,NA,NA
+241,PSYC,4130,upper,,2013,Spring,Suplita,NA,No,NA,No,NA,1,0,0,0,0,,Yes,241-Grading.txt,Yes,241-Attend.txt,,formal,3,informative,3,informative,5,formal,5
+242,PSYC,4130,upper,,2012,Summer,Wong,NA,Yes,242-LO.txt,No,NA,0.714,0,0,0.286,0,,Yes,242-Grading.txt,Yes,242-Attend.txt,,formal,5,NA,NA,informative,5,appreciative,5
+244,PSYC,4140,upper,,2018,Fall,Clementz,Edge,No,NA,No,NA,1,0,0,0,0,,Yes,244-Grading.txt,Yes,244-Attend.txt,,formal,5,direct,3,cooperative,5,joyful,4
+248,ECOL,4150,upper,L,2018,Spring,Murdock,Altizer,Yes,248-LO.txt,No,NA,0.5,0.1,0.1,0.3,0,,Yes,248-Grading.txt,Yes,248-Attend.txt,,formal,5,NA,NA,formal,5,NA,NA
+250,ECOL,4150,upper,L,2022,Spring,Park,Strauss,Yes,250-LO.txt,No,NA,0.5,0.1,0.1,0.3,0,,Yes,250-Grading.txt,Yes,250-Attend.txt,,formal,5,direct,2,formal,5,NA,NA
+251,ECOL,4150,upper,L,2022,Spring,Strauss,Park,Yes,251-LO.txt,No,NA,0.5,0.1,0.1,0.3,0,,Yes,251-Grading.txt,Yes,251-Attend.txt,,formal,5,direct,2,formal,5,NA,NA
+252,PSYC,4150,upper,,2021,Spring,Buffington,NA,Yes,252-LO.txt,No,NA,1,0,0,0,0,,Yes,252-Grading.txt,Yes,252-Attend.txt,,formal,5,informative,5,informative,5,NA,NA
+255,BCMB,4190,upper,,2018,Fall,Urbauer,NA,No,NA,No,NA,0.75,0,0,0,0.25,Lab Notebook,Yes,255-Grading.txt,Yes,255-Attend.txt,,formal,4,informative,3,informative,2,NA,NA
+258,GENE,4200,upper,,2020,Fall,Goll,Ivanova,Yes,258-LO.txt,No,NA,0.39,0,0,0.61,0,,Yes,258-Grading.txt,Yes,258-Attend.txt,,formal,5,assertive,4,confident,5,inspirational,4
+267,GENE,4210,upper,L,2018,Fall,Arnold,NA,No,NA,No,NA,0.15,0,0,0.35,0.5,Lab Reports,Yes,267-Grading.txt,Yes,267-Attend.txt,,formal,5,NA,NA,NA,NA,NA,NA
+268,GENE,4220,upper,L,2013,Fall,Arnold,Bennetzen,No,NA,No,NA,0.25,0,0.1,0.65,0,,Yes,268-Grading.txt,No,NA,,formal,5,cooperative,3,NA,NA,NA,NA
+269,GENE,4220,upper,L,2010,Spring,Kissinger,Arnold,No,NA,No,NA,0,0.1,0.1,0.8,0,,Yes,269-Grading.txt,No,NA,,formal,5,cooperative,3,NA,NA,NA,NA
+272,MIBO,4220,upper,,NA,NA,Maurer,Karls,No,NA,No,NA,0.8,0.2,0,0,0,,Yes,272-Grading.txt,No,NA,,formal,4,informative,2,NA,NA,NA,NA
+274,GENE,4230,upper,L,2013,Spring,Dyer,Sweigart,No,NA,No,NA,NA,NA,NA,NA,NA,,Yes,274-Grading.txt,Yes,274-Attend.txt,,formal,3,direct,3,NA,NA,NA,NA
+275,GENE,4230,upper,L,2020,Spring,Sweigart,Eggenschwiler,No,NA,No,NA,NA,NA,NA,NA,NA,,Yes,275-Grading.txt,Yes,275-Attend.txt,,formal,3,direct,3,informative,4,friendly,4
+276,GENE,4230,upper,L,2011,Spring,Dyer,Wares,No,NA,No,NA,NA,NA,NA,NA,NA,,Yes,276-Grading.txt,Yes,276-Attend.txt,,formal,3,direct,3,NA,NA,NA,NA
+280,ECOL,4290,upper,,2014,Spring,Reitz,NA,Yes,280-LO.txt,No,NA,0.7,0,0,0.3,0,,Yes,280-Grading.txt,Yes,280-Attend.txt,,formal,4,direct,2,formal,5,NA,NA
+283,MIBO,4300,upper,,2021,Fall,Mitchell,Mrázek ,No,NA,No,NA,0,0,0,1,0,,Yes,283-Grading.txt,No,NA,,formal,3,informative,3,NA,NA,NA,NA
+286,ECOL,4310,upper,L,2020,Fall,Rosemond,Covich,Yes,286-LO.txt,Yes,286-DEI.txt,0.45,0.3,0,0.25,0,,Yes,286-Grading.txt,Yes,286-Attend.txt,,formal,5,informative,5,NA,NA,NA,NA
+288,MIBO,4310,upper,,2021,Spring,Lipp,Norfolk,No,NA,No,NA,0.656,0,0.016,0.328,0,,Yes,288-Grading.txt,Yes,288-Attend.txt,,formal,5,informative,5,informative,5,confident,4
+290,CBIO,4340,upper,,2010,Spring,Willis,NA,Yes,290-LO.txt,No,NA,0.65,0,0,0.35,0,,Yes,290-Grading.txt,No,NA,,formal,5,direct,2,NA,NA,NA,NA
+303,MIBO,4500,upper,,2018,Spring,Stabb,NA,No,NA,No,NA,0.8,0,0,0.2,0,,Yes,303-Grading.txt,Yes,303-Attend.txt,,formal,5,friendly,3,formal,4,informative,2
+306,ECOL,4550,upper,,2018,Spring,Bringolf,Shelton,Yes,306-LO.txt,No,NA,0.35,0,0.05,0.25,0.35,Lab,Yes,306-Grading.txt,Yes,306-Attend.txt,,formal,5,NA,NA,neutral,5,NA,NA
+315,MIBO,4600,upper,L,NA,Fall,Hoover,Shimkets,Yes,315-LO.txt,No,NA,0.45,0,0,0.55,0,,Yes,315-Grading.txt,Yes,315-Attend.txt,,formal,5,informative,4,NA,NA,NA,NA
+316,MIBO,4610,upper,,2022,Fall,Habteselassie,NA,No,NA,No,NA,0.65,0,0.05,0.3,0,,Yes,316-Grading.txt,Yes,316-Attend.txt,,formal,5,NA,NA,NA,NA,NA,NA
+323,KINS,4690,upper,,2017,Fall,Call,NA,Yes,323-LO.txt,No,NA,0.45,0.35,0,0.2,0,,Yes,323-Grading.txt,Yes,323-Attend.txt,,formal,5,informative,3,cooperative ,5,formal,3
+338,KINS,5690,upper,,2018,Spring,Call,NA,No,NA,No,NA,0.25,0.25,0.3,0.2,0,,Yes,338-Grading.txt,Yes,338-Attend.txt,,formal,4,direct,2,direct,4,confident,4
+347,ECOL,3500,upper,L,2021,Spring,Farrell,NA,No,NA,No,NA,0,0.5,0.083,0.417,0,,Yes,347-Grading.txt,Yes,347-Attend.txt,,formal,3,disheartening,2,formal,5,informative ,4
+348,MIBO,3500,upper,L,2022,Spring,Scott,NA,No,NA,No,NA,0.5,0,0,0.5,0,,Yes,348-Grading.txt,Yes,348-Attend.txt,,formal,5,informative,4,formal,5,NA,NA
+1,BIOL,1103,lower,,2011,Spring,Armstrong,NA,Yes,1-LO.txt,No,NA,0.6,0,0.06,0.34,0,,Yes,1-Grading.txt,Yes,1-Attend.txt,,informative,5,encouraging,4,informative,5,friendly,4
 5,BIOL,1103,lower,E,NA,NA,Richards,NA,Yes,5-LO.txt,No,NA,0,0.25,0.25,0.5,0,,Yes,5-Grading.txt,Yes,5-Attend.txt,,informative,5,NA,NA,informative,5,NA,NA
 6,BIOL,1103,lower,L,2010,NA,Armstrong,Miller,No,NA,No,NA,0,0,0,1,0,,Yes,6-Grading.txt,Yes,6-Attend.txt,,informative,5,NA,NA,informative,5,neutral ,5
 7,BIOL,1103,lower,L,2009,NA,Barstow,Miller,No,NA,No,NA,0,0,0,1,0,,Yes,7-Grading.txt,Yes,7-Attend.txt,,informative,5,NA,NA,informative,5,neutral ,5
 8,BIOL,1103,lower,,2013,Spring,Lewis,Kukday,Yes,8-LO.txt,No,NA,0.4,0,0,0.6,0,,Yes,8-Grading.txt,No,NA,,informative,5,formal,5,NA,NA,NA,NA
-9,BIOL,1103,lower,L,2021,,Martin,NA,Maybe,9-LO.txt,No,NA,0,0,0,1,0,,Yes,9-Grading.txt,Yes,9-Attend.txt,,direct,5,formal,4,informative,5,NA,NA
 10,BIOL,1103,lower,L,2013,,Miller,NA,No,NA,No,NA,0,0,0,1,0,,Yes,10-Grading.txt,Yes,10-Attend.txt,,informative,5,NA,NA,informative,5,NA,NA
 11,BIOL,1103,lower,,2011,Summer,Said,NA,Yes,11-LO.txt,No,NA,0.9,0,0.1,0,0,,Yes,11-Grading.txt,Yes,11-Attend.txt,,informative,5,formal,4,informative,5,NA,NA
 12,BIOL,1104,lower,,2017,Spring,Andrews,Auerbach,No,NA,No,NA,0.525,0.075,0.075,0.325,0,,Yes,12-Grading.txt,Yes,12-Attend.txt,,informative,5,formal,5,informative,5,cooperative,3
 13,BIOL,1104,lower,,2011,Spring,Lemons,NA,Yes,13-LO.txt,No,NA,0.72,0.03,0.12,0.13,0,,Yes,13-Grading.txt,Yes,13-Attend.txt,,informative,5,NA,NA,neutral,5,NA,NA
 14,BIOL,1104,lower,L,2010,,Lemons,Miller,No,NA,No,NA,0,0,0,1,0,,Yes,14-Grading.txt,Yes,14-Attend.txt,,informative,5,NA,NA,informative,5,formal,5
-15,BIOL,1104,lower,L,2021,Spring,Martin,NA,Maybe,15-LO.txt,No,NA,0,0,0,1,0,,Yes,15-Grading.txt,Yes,15-Attend.txt,,direct,3,informative,2,informative,5,NA,NA
 16,BIOL,1104,lower,L,2013,Spring,Miller,NA,No,NA,No,NA,0,0.35,0,0.65,0,,Yes,16-Grading.txt,Yes,16-Attend.txt,,informative,5,NA,NA,informative,5,formal,5
-17,BIOL,1104,lower,,2022,Spring,Meyers,NA,Yes,17-LO.txt,Yes,17-DEI.txt,0.4,0.1,0.1,0.4,0,,Yes,17-Grading.txt,Yes,17-Attend.txt,,confident,3,formal,3,informative,5,skeptical,4
 18,BIOL,1107,lower,,2021,Fall,Armstrong,NA,No,NA,No ,NA,0.7,0.1,0.1,0.1,0,,Yes,18-Grading.txt,No,NA,,informative,5,NA,NA,NA,NA,NA,NA
-19,BIOL,1107,lower,,2010,Spring,Barstow,DerVartanian,No,NA,No,NA,0.7,0,0,0.3,0,,Yes,NA,Yes,19-Attend.txt,,NA,NA,NA,NA,formal,4,informative,4
-20,BIOL,1107,lower,,2021,Fall,Dees,NA,No,NA,No,NA,0.7,0,0,0.3,0,,Yes,20-Grading.txt,No,NA,,assertive,5,NA,NA,NA,NA,NA,NA
-21,BIOL,1107,lower,,2021,Spring,McEachern,NA,No,NA,No,NA,0.72,0,0,0.28,0,,Yes,21-Grading.txt,Yes,21-Attend.txt,,NA,,NA,NA,NA,NA,NA,NA
 22,BIOL,1107,lower,,2021,Spring,Moore,NA,Yes,22-LO.txt,No,NA,0,0.6,0,0.4,0,,Yes,22-Grading.txt,Yes,22-Attend.txt,,informative,4,assertive,,encouraging,2,cooperative,2
-23,BIOL,1107,lower,L,2021,Spring,Martin,NA,Yes,23-LO.txt,No,NA,0,0,0,1,0,,Yes,23-Grading.txt,Yes,23-Attend.txt,,direct,5,NA,NA,informative,5,confident,2
 24,BIOL,1107,lower,L,2011,Fall,Miller,NA,No,NA,No,NA,0,0,0,1,0,,Yes,24-Grading.txt,Yes,24-Attend.txt,,informative,5,NA,NA,informative,5,formal,4
-25,BIOL,1107,lower,L,2013,Spring,Miller,NA,No,NA,No,NA,0,0,0,1,0,,No,NA,Yes,25-Attend.txt,,NA,NA,NA,NA,informative,5,formal,2
 26,BIOL,1108,lower,,2021,Spring,Barb,NA,No,NA,No,NA,0.517,0.258,0,0.224,0,,Yes,26-Grading.txt,No,NA,,informative,4,confident,4,NA,NA,NA,NA
-27,BIOL,1108,lower,,2022,Spring,Dolan,NA,Yes,27-LO.txt,No,NA,0.7,0.1,0.1,0.1,0,,No,NA,Yes,27-Attend.txt,,NA,NA,NA,NA,informative,5,admiring,2
-28,BIOL,1108,lower,,2022,Fall,Farmer,Trapnell,Yes,28-LO.txt,No,NA,0.64,0,0,0.35,0.01,Professionalism,Yes,28-Grading,Yes,28-Attend.txt,,direct ,5,confindent,5,informative,5,direct,2
 29,BIOL ,1108,lower,,2022,Summer,ÃŠMeyersÃŠ,NA,Yes,29-LO.txt,No,NA,0.6,0.09,0.09,0.21,0,,Yes,29-Grading.txt,Yes,29-Attend.txt,,informative,4,joyful,3,informative,5,optimistic,1
 30,BIOL,1108,lower,,2016,Fall,Dye,NA,Yes,30-LO.txt,No,NA,0.6,0.1,0,0.3,0,,Yes,30-Grading.txt,No,NA,,informative,4,formal,2,NA,NA,NA,NA
-31,BIOL,1108,lower,L,2021,Spring,Martin,NA,Yes,31-LO.txt,No,NA,0,0,0,1,0,,Yes,31-Grading.txt,Yes,31-Attend.txt,,formal,5,informative,1,informative,3,formal,2
 32,BIOL,1108,lower,,2020,Fall,Pucko,NA,Yes,32-LO.txt,No,NA,0.5,0.17,0,0.305,0,,Yes,32-Grading.txt,No,NA,,informative,5,direct,4,NA,NA,NA,NA
-33,BIOL,1108,lower,,2012,Fall,Moore,Stanger-Hall,Yes,33-LO.txt,No,NA,0.714285714,0,0.085714286,0.2,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 34,BIOL,1108,lower,,2018,Fall,Trapnell,Farmer,Yes,34-LO.txt,No,NA,0.605,0,0.061111111,0.415,0.006349206,Professionalism,Yes,34-Grading.txt,Yes,34-Attend.txt,,informative,5,formal,5,direct,2,NA,NA
 35,BIOL,1108,lower,L,2011,Fall,Miller,NA,No,NA,No,NA,0,0.303030303,0,0.590909091,0.106060606,Peer/GLA evaluation,Yes,35-Grading.txt,Yes,35-Attend.txt,,informative,5,confident,2,NA,NA,NA,NA
 36,BIOL,1108,lower,L,2012,Spring,Miller,NA,No,NA,No,NA,0,0.303030303,0,0.590909091,0.106060606,Peer/GLA evaluation,Yes,36-Grading.txt,Yes,36-Attend.txt,,informative,5,confident,2,NA,NA,NA,NA
 37,BIOL,1108,lower,L,2013,Spring,Miller,NA,No,NA,No,NA,0,0.303030303,0,0.590909091,0.106060606,Peer/GLA evaluation,Yes,37-Grading.txt,Yes,37-Attend.txt,,informative,5,confident,2,NA,NA,NA,NA
-38,BIOL,1990,lower,,2021,Spring,Farmer,NA,No,NA,No,NA,0,0,0.5,0.5,0,,Yes,38-Grading.txt,Yes,38-Attend.txt,Both lead to a S/U? ,confident,5,direct,5,confident ,5,direct,3
-39,ENTO,2010,lower,,2022,Spring,Burke,NA,Yes,39-LO.txt,No,NA,0.52,0.19,0.19,0.1,0,,Yes,39-Grading.txt,No,NA,,confident,5,friendly,4,NA,NA,NA,NA
-40,ENTO,2010,lower,,2022,Fall,Guillebeau,NA,No,NA,No,NA,0.8,0,0,0,0.2,Mandatory orders,No,NA,Yes,40-Attend.txt,,NA,NA,NA,NA,informative,2,formal,2
 41,HONS,2070,lower,H,2010,Fall,Dore,NA,Yes,41-LO.txt,No,NA,0.25,0.5,0,0.25,0,,Yes,41-Grading.txt,No,NA,,informative,3,formal,2,NA,NA,NA,NA
+50,BIOL,2108,lower,H,2017,Fall,Binder,Hopkinson,Yes,50-LO.txt,No,NA,0.8,0,0.05,0.15,0,,Yes,50-Grading.txt,No,NA,,informative,5,formal,3,NA,NA,NA,NA
+51,BIOL,2108,lower,H,2011,Spring,Lemons,NA,Yes,51-LO.txt,No,NA,0.56,0.03,0.11,0.3,0,,Yes,51-Grading.txt,Yes,51-Attend.txt,,informative,5,NA,NA,neutral,5,NA,NA
+52,BIOL,2108,lower,H,2020,Fall,Lukowitz,Peterson,Yes,52-LO.txt,No,NA,0.692307692,0,0,0.307692308,0,,Yes,52-Grading.txt,No,NA,,informative,5,NA,NA,NA,NA,NA,NA
+53,BIOL,2108,lower,H,2020,Fall,Wyatt,NA,Yes,53-LO.txt,No,NA,0.8,0.2,0,0,0,,Yes,53-Grading.txt,No,NA,,informative,5,friendly,3,NA,NA,NA,NA
+56,CBIO,3000,upper,,2018,Fall,Safer,NA,Yes,56-LO.txt,No,NA,1,0,0,0,0,,Yes,56-Grading.txt,Yes,56-Attend.txt,Lecture and Lab ,informative,4,formal,2,NA,,NA,
+57,CBIO,3000,upper,,2012,Fall,Said,NA,No,NA,No,NA,0,0.55,0.07,0.08,0.3,Lab,Yes,57-Grading.txt,No,NA,Lecture and Lab ,informative,5,NA,NA,NA,NA,NA,NA
+60,GENE,3000,upper,,2017,Fall,Andrews,NA,Yes,60-LO.txt,No,NA,0.7,0.07,0,0.205,0.025,Evaluations,Yes,60-Grading.txt,Yes,60-Attend.txt,,informative,5,NA,NA,neutral,5,NA,NA
+74,BCMB,3100,upper,,2020,Fall,Lemons,NA,No,NA,Yes,74-DEI.txt,0,0.7583,0.2167,0.025,0,,Yes,74-Grading.txt,Yes,74-Attend.txt,,informative,4,disheartening,1,joyful,5,confident,3
+75,BCMB,3100,upper,,2022,Fall,Mohnen,Yin,No,NA,No,NA,0.5,0.375,0.05,0.0625,0.0125,Course Eval,Yes,75-Grading.txt,Yes,75-Attend.txt,,informative,4,direct,2,informative,4,confident,2
+77,BCMB,3100,upper,,2022,Spring,Rose,Przybyla,No,NA,No,NA,0.98,0,0.02,0,0,,Yes,77-Grading.txt,Yes,77-Attend.txt,,informative,5,confindent,2,formal,5,confident,3
+79,BCMB,3100,upper,,2021,Spring,Schmidt,Garfinkel,Yes,79-LO.txt,No,NA,0.8,0.2,0,0,0,,Yes,79-Grading.txt,Yes,79-Attend.txt,,informative,4,direct,2,informative,4,confident,4
+80,BCMB,3100,upper,,2021,Fall,Dolan,Urbanowicz,Yes,80-LO.txt,No,NA,0,0.875,0,0.125,0,,Yes,80-Grading.txt,No,NA,,informative,5,NA,NA,NA,NA,NA,NA
+92,BIOL,3110,upper,L,2020,Fall,O’Donnell,NA,No,NA,No,NA,0.5,0.125,0,0.375,0,,Yes,92-Grading.txt,Yes,92-Attend.txt,,informative,4,formal,2,confident,2,informative,2
+96,GENE,3200,upper,,2018,Spring,Armstrong,Dyer,No,NA,No,NA,0.9,0,0,0.1,0,,Yes,96-Grading.txt,No,NA,,informative,5,friendly,2,NA,NA,NA,NA
+97,GENE,3200,upper,,2020,Fall,Bedell,NA,Yes,97-LO.txt,No,NA,0.769,0.1385,0.015,0.0769,0,,Yes,97-Grading.txt,No,NA,,informative,5,NA,NA,NA,NA,NA,NA
+99,GENE,3200,upper,,2014,Spring,Hall,Armstrong,No,NA,No,NA,1,0,0,0,0,,Yes,99-Grading.txt,No,NA,,informative,5,admiring,3,NA,NA,NA,NA
+103,GENE,3200,upper,,2019,Fall,Bedell,NA,No,103-LO.txt,No,NA,0.757,0.132,0.106,0,0.0045,Course Eval,Yes,103-Grading.txt,Yes,103-Attend.txt,,informative,5,NA,NA,NA,NA,NA,NA
+115,CBIO,3400,upper,,2021,Spring,Paz,NA,No,NA,No,NA,0.847,0.0769,0.0769,0,0,,Yes,115-Grading.txt,Yes,115-Attend.txt,,informative,5,formal,5,informative,5,formal,4
+118,CBIO,3400,upper,,2021,Spring,Schulz,Kamiyama,Yes,118-LO.txt,No,NA,0.85,0,0.106,0.0425,0,,Yes,118-Grading.txt,No,NA,,informative,5,confident,2,NA,NA,NA,NA
+128,ECOL,3500,upper,,2012,Spring,Byers,Covich,Yes,128-LO.txt,No,NA,0.6,0,0,0.4,0,,Yes,128-Grading.txt,Yes,128-Attend.txt,,informative,5,NA,NA,NA,NA,NA,NA
+129,ECOL,3500,upper,,2022,Spring,Connelly,Byers,Yes,129-LO.txt,No,NA,0.857,0,0,0.143,0,,Yes,129-Grading.txt,Yes,129-Attend.txt,,informative,4,disapproving,3,encouraging ,5,joyful,4
+130,ECOL,3500,upper,,2010,Spring,Covich,Byers,Yes,130-LO.txt,No,NA,0.6,0,0,0,0.4,Lab,Yes,130-Grading.txt,Yes,130-Attend.txt,Lecture and Lab ,informative,5,NA,NA,NA,NA,NA,NA
+137,ECOL,3500,upper,,2022,Fall,Rugenski,Zemaitis,Yes,137-LO.txt,Yes,137-DEI.txt,0.5,0.1,0.1,0.3,0,,Yes,137-Grading.txt,Yes,137-Attend.txt,,informative,4,cooperative,4,informative,5,friendly ,3
+139,MIBO,3500,upper,E,2017,Summer,Walker,NA,No,NA,No,NA,0.703,0.141,0,0.1563,0,,Yes,139-Grading.txt,No,NA,,informative,3,confident,2,NA,NA,NA,NA
+141,MIBO,3500,upper,,2020,Fall,Karls,NA,Yes,141-LO.txt,No,NA,0.57,0,0.1,0.33,0,,Yes,141-Grading.txt,NA,NA,,informative,5,NA,NA,NA,NA,NA,NA
+143,MIBO,3500,upper,,2021,Spring,Paz,NA,No,NA,No,NA,0.8,0.1,0,0.1,0,,Yes,143-Grading.txt,Yes,143-Attend.txt,,informative,5,NA,NA,informative,5,NA,NA
+144,MIBO,3500,upper,,2019,Fall,Scott,NA,No,NA,No,NA,0.5,0.166666667,0,0.333333333,0,,Yes,144-Grading.txt,Yes,144-Attend.txt,,informative,5,direct,5,formal,5,NA,NA
+147,MIBO,3500,upper,,2021,Fall,Walker,NA,Yes,147-LO.txt,No,NA,0.4,0,0,0.6,0,,Yes,147-Grading.txt,,147-Attend.txt,,informative,5,NA,NA,formal,5,NA,NA
+149,ECOL,3505,upper,,2010,Spring,Richardson,NA,No,NA,No,NA,0.3,0,0.1,0.267,0.33,Lab,Yes,149-Grading.txt,Yes,149-Attend.txt,,informative,4,admiring,3,formal,5,inspirational,4
+152,ECOL,3505,upper,L,2021,Fall,Farrell,NA,Yes,152-LO.txt,No,NA,0,0.61,0.073,0.317,0,,Yes,152-Grading.txt,Yes,152-Attend.txt,Lecture and Lab,informative,5,NA,NA,formal,5,informative,5
+154,ECOL,3510,upper,L,2021,Summer,Farrell,NA,Yes,154-LO.txt,No,NA,0,0,0.24,0.76,0,,Yes,154-Grading.txt,Yes,154-Attend.txt,,informative,3,formal,2,confident,5,direct,4
+156,MIBO,3510,upper,L,2012,Spring,Dustman,NA,No,NA,No,NA,0.526,0.263,0,0.211,0,,Yes,156-Grading.txt,Yes,156-Attend.txt,,informative,5,NA,NA,informative,3,formal,2
+157,MIBO,3510,upper,L,2022,Spring,Grainy,Ottesen,Yes,157-LO.txt,No,NA,0.41,0.18,0.03,0.37,0,,Yes,157-Grading.txt,Yes,157-Attend.txt,,informative,5,formal,2,formal,5,informative,5
+158,MIBO,3510,upper,L,2021,Spring,Ottesen,Grainy,Yes,158-LO.txt,No,NA,0.41,0,3,0.55,0,,Yes,158-Grading.txt,Yes,158-Attend.txt,,informative,5,formal,2,formal,3,confident,3
+159,MIBO,3510,upper,L,2021,Spring,Paz ,NA,No,NA,No,NA,0.556,0.111,0,0.333,0,,Yes,159-Grading.txt,Yes,159-Attend.txt,,informative,5,formal,3,formal,4,appreciative ,4
+160,MIBO,3510,upper,L,2010,Summer,Samuels,NA,No,NA,No,NA,0.667,0.167,0,0.167,0,,Yes,160-Grading.txt,Yes,160-Attend.txt,,informative,3,formal,3,informative,3,formal,3
+172,CBIO,3600,upper,,2020,Fall,Dougan,NA,Yes,172-LO.txt,No,NA,0.4,0.14,0.08,0.38,0,,Yes,172-Grading.txt,Yes,172-Attend.txt,,informative,5,NA,NA,informative,5,formal,5
+181,BIOL,3720,upper,L,2021,Spring,Gannon,NA,Yes,181-LO.txt,No,NA,0.15,0,0.1,0.75,0,,Yes,181-Grading.txt,Yes,181-Attend.txt,,informative,4,formal,4,informative,5,confident,5
+182,CBIO,3800,upper,,2021,Spring,Lauderdale,Zeltner,No,NA,No,NA,0.8,0.2,0,0,0,,Yes,182-Grading.txt,Yes,182-Attend.txt,,informative,5,NA,NA,formal,5,inspirational,5
+183,CBIO,3800,upper,,2021,Spring,Zeltner,Lauderdale,No,NA,No,NA,0.8,0.2,0,0,0,,Yes,183-Grading.txt,Yes,183-Attend.txt,,informative,5,NA,NA,formal,5,inspirational,5
+211,MIBO,4090,upper,,2011,Fall,Starai,Whittman,No,NA,No,NA,1,0,0,0,0,,Yes,211-Grading.txt,No,NA,,informative,5,inspirational,4,NA,NA,NA,NA
+212,MIBO,4090,upper,,2021,Fall,Starai,Mills,No,NA,No,NA,1,0,0,0,0,,Yes,212-Grading.txt,No,212-Attend.txt,,informative,5,accusatory,4,informative,4,direct,2
+224,PSYC,4120,upper,,2011,Spring,Bovier,NA,No,NA,No,NA,0.6,0,0,0.4,0,,Yes,224-Grading.txt,No,NA,,informative,5,NA,NA,NA,NA,NA,NA
+225,PSYC,4120,upper,,2021,Fall,Brown,NA,No,NA,No,NA,0.8,0,0.5,0.15,0,,Yes,225-Grading.txt,Yes,225-Attend.txt,,informative,4,direct,2,direct,5,confident,3
+226,PSYC,4120,upper,,2014,Fall,Fletcher,NA,No,NA,No,NA,0.6,0,0,0.4,0,,Yes,226-Grading.txt,No,NA,,informative,5,direct,2,NA,NA,NA,NA
+227,PSYC,4120,upper,,2017,Spring,Hale,NA,Yes,227-LO.txt,No,NA,0.8,0,0.2,0,0,,Yes,227-Grading.txt,Yes,227-Attend.txt,,informative,3,direct,2,informative,5,NA,NA
+229,PSYC,4120,upper,,2018,Fall,Howard,NA,No,NA,No,NA,0.727,0,0.09,0.18,0,,Yes,229-Grading.txt,Yes,229-Attend.txt,,informative,5,appreciative,3,formal,4,informative,3
+230,PSYC,4120,upper,,2012,Fall,O'Brien,NA,No,NA,Yes,230-DEI.txt,1,0,0,0,0,,Yes,230-Grading.txt,Yes,230-Attend.txt,,informative,5,NA,NA,formal,5,joyful,5
+231,PSYC,4120,upper,,2010,Fall,Renzi,Bovier,No,NA,No,NA,0.85,0,0.15,0,0,,Yes,231-Grading.txt,Yes,231-Attend.txt,,informative,5,formal,5,confident,3,informative,2
+233,PSYC,4120,upper,,2018,Spring,Vratanina-Smoot,NA,Yes,233-LO.txt,No,NA,0.75,0,0,0.25,0,,Yes,233-Grading.txt,Yes,233-Attend.txt,,informative,5,formal,4,formal,5,NA,NA
+238,PSYC,4130,upper,,2019,Spring,Howard,NA,No,NA,No,NA,0.74,0,0.185,0.074,0,,Yes,238-Grading.txt,Yes,238-Attend.txt,,informative,4,appreciative,2,formal,5,NA,NA
+239,PSYC,4130,upper,,2020,Spring,McMains,NA,Yes,239-LO.txt,No,NA,0.714,0,0,0.286,0,,Yes,239-Grading.txt,Yes,239-Attend.txt,,informative,5,friendly,3,informative,5,friendly,3
+240,PSYC,4130,upper,,2011,Summer,Renzi,O’Brien,No,NA,No,NA,0.85,0,0.15,0,0,,Yes,240-Grading.txt,Yes,240-Attend.txt,,informative,4,formal,2,informative,5,NA,NA
+253,PSYC,4150,upper,,2021,Spring,Hammond,NA,Yes,253-LO.txt,No,NA,0.9,0,0,0.1,0,,Yes,253-Grading.txt,Yes,253-Attend.txt,,informative,5,assertive,4,confident,5,direct,3
+254,ECOL,4160,upper,,2022,Summer,Cummins,Tomczyk,Yes,254-LO.txt,No,NA,0.4,0,0.07,0.29,0.24,Lab Notebook,Yes,254-Grading.txt,No,NA,,informative,5,NA,NA,NA,NA,NA,NA
+270,MIBO,4220,upper,,2019,Spring,Karls,Szymanski,Yes,270-LO.txt,No,NA,0.7,0.05,0.05,0.2,0,0,Yes,270-Grading.txt,No,NA,,informative,3,assertive,3,NA,NA,NA,NA
+271,MIBO,4220,upper,,2011,Fall,Maier,Karls,No,NA,No,NA,0.8,0,0,0.2,0,,Yes,271-Grading.txt,No,NA,,informative,5,direct,1,NA,NA,NA,NA
+273,MIBO,4220,upper,S,2016,Spring,Karls,Maurer,Yes,273-LO.txt,No,NA,0.65,0.05,0.05,0.25,0,,Yes,273-Grading.txt,No,NA,,informative,5,assertive,2,NA,NA,NA,NA
+281,ECOL,4300,upper,,2021,Spring,Fox,Hazelton,Yes,281-LO.txt,No,NA,0.645,0.177,0.016,0.161,0,,Yes,281-Grading.txt,Yes,281-Attend.txt,,informative,5,optimistic,2,NA,NA,NA,NA
+287,ECOL,4310,upper,L,2021,Fall,Strauss ,Rosemond,Yes,287-LO.txt,Yes,287-DEI.txt,0.45,0.25,0,0.3,0,,Yes,287-Grading.txt,Yes,287-Attend.txt,,informative,5,optimistic,5,friendly,5,informative,5
+297,ECOL,4500,upper,,2021,Spring,Anderson,Sasaki,No,NA,Yes,297-DEI.txt,0.5,0,0.06,0.44,0,,Yes,297-Grading.txt,,297-Attend.txt,,informative,3,formal,2,NA,NA,NA,NA
+300,FISH,4500,upper,,2022,Fall,Fox,Kleinhans,Yes,300-LO.txt,No,NA,0.469,0.172,0.03,0.329,0,,Yes,300-Grading.txt,Yes,300-Attend.txt,,informative,5,friendly,5,confident,5,informative,5
+304,BIOL,4500,upper,,2021,Fall,Bar-Peled,NA,No,NA,No,NA,0.286,0,0.286,0.429,0,,Yes,304-Grading.txt,No,NA,,informative,5,NA,NA,NA,NA,NA,NA
+312,MIBO,4600,upper,L,2018,Spring,Neidle,Hoover,Yes,312-LO.txt,No,NA,0.42,0,0.06,0.52,0,,Yes,312-Grading.txt,Yes,312-Attend.txt,,informative,5,NA,NA,informative,5,NA,NA
+313,MIBO,4600,upper,L,2014,Fall,Neidle,Karls,Yes,313-LO.txt,No,NA,0.5,0.1,0.05,0.35,0,,Yes,313-Grading.txt,Yes,313-Attend.txt,,informative,5,NA,NA,informative,5,NA,NA
+314,MIBO,4600,upper,L,2019,Fall,Neidle,Hoover,Yes,314-LO.txt,No,NA,0.36,0,0.06,0.58,0,,Yes,314-Grading.txt,Yes,314-Attend.txt,,informative,5,NA,NA,informative,5,NA,NA
+328,CBIO,4230,upper,,NA,NA,Hesse,NA,Yes,328-LO.txt,No,NA,0,0.8,0,0.2,0,,Yes,328-Grading.txt,Yes,328-Attend.txt,,informative,5,joyful,3,NA,NA,NA,NA
+329,CBIO,4730,upper,,2014,Spring,Said,NA,No,NA,No,NA,0,0.85,0.1,0.05,0,,Yes,329-Grading.txt,Yes,329-Attend.txt,,informative,5,NA,NA,NA,NA,NA,NA
+339,KINS,5690,upper,L,2019,Spring,Nichenko,NA,No,NA,No,NA,0,0.6,0.4,0,0,,Yes,339-Grading.txt,Yes,339-Attend.txt,,informative,4,NA,NA,informative,5,formal,4
+340,KINS,5690,upper,L,2019,Spring,Schifino,NA,No,NA,No,NA,0,0.6,0.4,0,0,,Yes,340-Grading.txt,Yes,340-Attend.txt,,informative,4,NA,NA,informative,5,formal,4
+343,PSYC,5850,upper,,2021,Fall,Buffington,NA,Yes,343-LO.txt,No,NA,0.7,0,0,0.3,0,,Yes,343-Grading.txt,Yes,343-Attend.txt,,informative,5,formal,2,informative,5,NA,NA
+351,PSYC,4130,upper,,2013,Spring,Sharpe,NA,Yes,351-LO.txt,No,NA,0.83,0.17,0,0,0,,Yes,351-Grading.txt,Yes,351-Attend.txt,,informative,5,appreciative,5,appreciative,4,formal,4
+352,PSYC,4140,upper,,2011,Fall,Faraco,NA,No,NA,No,NA,0.7,0,0.15,0.15,0,,Yes,352-Grading.txt,Yes,352-Attend.txt,,informative,5,NA,NA,formal,5,optimistic,4
+112,CBIO,3400,upper,,2018,Fall,Gaertig,Przybyla,No,NA,No,NA,0.8,0.1,0,0.1,0,,Yes,112-Grading.txt,Yes,112-Attend.txt,,inspirational,4,NA,NA,cooperative,4,NA,NA
+135,ECOL,3500,upper,,2021,Spring,Osenberg,Injaian,Yes,135-LO.txt,No,NA,0.5,0,0,0.2,0.3,Lab,Yes,135-Grading.txt,Yes,135-Attend.txt,Lecture and Lab ,loving,4,NA,NA,formal,4,informative,4
+4,BIOL,1103,lower,,2021,Spring,Brickman,Lewis,Yes,4-LO.txt,Yes,4-DEI.txt,0.48,0,0.1,0.42,0,,No,NA,Yes,4-Attend.txt,,NA,NA,NA,NA,direct,5,confindent,4
+19,BIOL,1107,lower,,2010,Spring,Barstow,DerVartanian,No,NA,No,NA,0.7,0,0,0.3,0,,Yes,NA,Yes,19-Attend.txt,,NA,NA,NA,NA,formal,4,informative,4
+21,BIOL,1107,lower,,2021,Spring,McEachern,NA,No,NA,No,NA,0.72,0,0,0.28,0,,Yes,21-Grading.txt,Yes,21-Attend.txt,,NA,,NA,NA,NA,NA,NA,NA
+25,BIOL,1107,lower,L,2013,Spring,Miller,NA,No,NA,No,NA,0,0,0,1,0,,No,NA,Yes,25-Attend.txt,,NA,NA,NA,NA,informative,5,formal,2
+27,BIOL,1108,lower,,2022,Spring,Dolan,NA,Yes,27-LO.txt,No,NA,0.7,0.1,0.1,0.1,0,,No,NA,Yes,27-Attend.txt,,NA,NA,NA,NA,informative,5,admiring,2
+33,BIOL,1108,lower,,2012,Fall,Moore,Stanger-Hall,Yes,33-LO.txt,No,NA,0.714285714,0,0.085714286,0.2,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
+40,ENTO,2010,lower,,2022,Fall,Guillebeau,NA,No,NA,No,NA,0.8,0,0,0,0.2,Mandatory orders,No,NA,Yes,40-Attend.txt,,NA,NA,NA,NA,informative,2,formal,2
 42,HONS,2080,lower,H,2013,Spring,Freeman-Lynde,NA,No,NA,No,NA,0.555555556,0.222222222,0,0.222222222,0,,No,NA,Yes,42-Attend.txt,,NA,NA,NA,NA,formal,5,cooperative,5
 43,BIOL,2103,lower,H,2021,Spring,Beyette,NA,Yes,43-LO.txt,No,NA,0.4,0.1,0,0.45,0.05,Service Learning Outreach,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 44,BIOL,2103,lower,H,NA,Fall,Brickman,NA,No,NA,No,NA,0.35,0.15,0,0.45,0.05,Service Learning Outreach,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
@@ -48,60 +226,25 @@ Index,Department_Code,Course_Number,Division,Course_Number_Suffix,Year,Semester,
 47,BIOL,2107,lower,H,2017,Fall,Darvil,Burke,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 48,BIOL,2107,lower,H,2019,Fall,Darvil,Burke,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 49,BIOL,2180,lower,H,2020,Spring,Andrews,NA,Yes,49-LO.txt,No,NA,0.75,0.1,0,0.15,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-50,BIOL,2108,lower,H,2017,Fall,Binder,Hopkinson,Yes,50-LO.txt,No,NA,0.8,0,0.05,0.15,0,,Yes,50-Grading.txt,No,NA,,informative,5,formal,3,NA,NA,NA,NA
-51,BIOL,2108,lower,H,2011,Spring,Lemons,NA,Yes,51-LO.txt,No,NA,0.56,0.03,0.11,0.3,0,,Yes,51-Grading.txt,Yes,51-Attend.txt,,informative,5,NA,NA,neutral,5,NA,NA
-52,BIOL,2108,lower,H,2020,Fall,Lukowitz,Peterson,Yes,52-LO.txt,No,NA,0.692307692,0,0,0.307692308,0,,Yes,52-Grading.txt,No,NA,,informative,5,NA,NA,NA,NA,NA,NA
-53,BIOL,2108,lower,H,2020,Fall,Wyatt,NA,Yes,53-LO.txt,No,NA,0.8,0.2,0,0,0,,Yes,53-Grading.txt,No,NA,,informative,5,friendly,3,NA,NA,NA,NA
 54,BIOL,2900,lower,,NA,NA,Langford,Eisner,No,NA,No,NA,0,0,0,1,0,,No,NA,Yes,54-Attend.txt,No year or semester provided.,NA,NA,NA,NA,formal,4,informative,2
-55,CBIO,3000,upper,,2010,Fall,Hesse,Holliday,Yes,55-LO.txt,No,NA,0,0.8,0,0.2,0,,Yes,55-Grading.txt,Yes,55-Attend.txt,Lecture and Lab ,formal,4,informative,2,informative,2,NA,NA
-56,CBIO,3000,upper,,2018,Fall,Safer,NA,Yes,56-LO.txt,No,NA,1,0,0,0,0,,Yes,56-Grading.txt,Yes,56-Attend.txt,Lecture and Lab ,informative,4,formal,2,NA,,NA,
-57,CBIO,3000,upper,,2012,Fall,Said,NA,No,NA,No,NA,0,0.55,0.07,0.08,0.3,Lab,Yes,57-Grading.txt,No,NA,Lecture and Lab ,informative,5,NA,NA,NA,NA,NA,NA
-58,CBIO,3000,upper,,2015,Spring,Williams,Holliday,Yes,58-LO.txt,No,NA,0.69,0.05,0.05,0,0.3,Lab,Yes,58-Grading.txt,Yes,58-Attend.txt,Lecture and Lab ,formal,5,NA,NA,neutral,5,NA,NA
 59,GENE,3000,upper,,2010,Fall,Anderson,Promislow,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-60,GENE,3000,upper,,2017,Fall,Andrews,NA,Yes,60-LO.txt,No,NA,0.7,0.07,0,0.205,0.025,Evaluations,Yes,60-Grading.txt,Yes,60-Attend.txt,,informative,5,NA,NA,neutral,5,NA,NA
 61,GENE,3000,upper,,2011,Spring,Hamrick,Arnold,No,NA,No,NA,0.75,0.25,0,0,0,,No,NA,Yes,61-Attend.txt,,NA,NA,NA,NA,NA,NA,NA,NA
 62,GENE,3000,upper,,2012,Summer,Hall,NA,No,NA,No,NA,0.9,0,0.1,0,0,,No,NA,Yes,62-Attend.txt,,NA,NA,NA,NA,confident,5,direct,5
 63,GENE,3000,upper,,2021,Spring,Hunt,NA,Yes,63-LO.txt,No,NA,0.7,0,0.15,0.15,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 64,GENE,3000,upper,,2020,Fall,Mauricio,NA,Yes,64-LO.txt,No,NA,0.22,0.49,0.1,0.19,0,,No,NA,Yes,64-Attend.txt,,NA,NA,NA,NA,informative,5,NA,
-65,GENE,3000,upper,,2009,Fall,Promislow,Moeller,Yes,65-LO.txt,No,NA,1,0,0,0,0,,Yes,65-Grading.txt,No,NA,,formal,5,skeptical,5,NA,NA,NA,NA
-66,GENE,3000,upper,,2012,NA,Promislow,Wares,Yes,66-LO.txt,No,NA,1,0,0,0,0,,Yes,66-Grading.txt,No,Na,No semster provided,formal,5,skeptical,5,NA,NA,NA,NA
-67,GENE,3000,upper,,2011,Fall,Promislow,Wares,Yes,67-LO.txt,No,NA,1,0,0,0,0,,Yes,67-Grading.txt,No,Na,,formal,5,skeptical,5,NA,NA,NA,NA
 68,PMCY,3000,upper,,2022,Fall,Momany,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,Yes,68-Attend.txt,,NA,NA,NA,NA,formal,5,NA,NA
 69,CBIO,3010,upper,,2018,Fall,Nichols,NA,No,69-LO.txt,No,NA,0.55,0.15,0,0,0.3,Lab Practical Average,,NA,Yes,NA,Lecture and Lab ,NA,NA,NA,NA,NA,NA,NA,NA
-70,PATH,3010,upper,,2021,Spring,Brewer,NA,No,NA,No,NA,0.8,0.1,0.1,0,0,,Yes,70-Grading.txt,Yes,70-Attend.txt,,direct,3,informative,3,informative,5,confident,3
-71,BCMB,3100,upper,,2014,Spring,Anong,NA,No,NA,No,NA,0.756,0.0756,0,0.168,0,,Yes,71-Grading.txt,Yes,71-Attend.txt,,formal,5,informative,5,formal,5,inspirational,3
 72,BCMB,3100,upper,,2021,Fall,Dolan,Urbanowicz,Yes,72-LO.txt,No,NA,0,0.875,0,0.125,0,,Yes,72-Grading.txt,Yes,72-Attend.txt,,NA,NA,NA,NA,informative,5,confident,3
-73,BCMB,3100,upper,,2022,Fall,Lee,NA,No,NA,No,NA,0.635,0.076,0.063,0.22,0.005,Course Eval,Yes,73-Grading.txt,Yes,73-Attend.txt,,direct ,5,formal ,3,confident,5,informative,2
-74,BCMB,3100,upper,,2020,Fall,Lemons,NA,No,NA,Yes,74-DEI.txt,0,0.7583,0.2167,0.025,0,,Yes,74-Grading.txt,Yes,74-Attend.txt,,informative,4,disheartening,1,joyful,5,confident,3
-75,BCMB,3100,upper,,2022,Fall,Mohnen,Yin,No,NA,No,NA,0.5,0.375,0.05,0.0625,0.0125,Course Eval,Yes,75-Grading.txt,Yes,75-Attend.txt,,informative,4,direct,2,informative,4,confident,2
-76,BCMB,3100,upper,,2022,Fall,Paz,NA,No,NA,No,NA,0.9286,0.0457,0,0.0257,0,,Yes,76-Grading.txt,Yes,76-Attend.txt,,formal,4,informative,4,confident,5,informative,2
-77,BCMB,3100,upper,,2022,Spring,Rose,Przybyla,No,NA,No,NA,0.98,0,0.02,0,0,,Yes,77-Grading.txt,Yes,77-Attend.txt,,informative,5,confindent,2,formal,5,confident,3
-78,BCMB,3100,upper,,2022,Spring,Robinson,NA,Yes,78-LO.txt,No,NA,0.79,0.07,0.07,0.07,0,,Yes,78-Grading.txt,Yes,78-Attend.txt,,direct ,3,formal,3,informative,5,friendly ,4
-79,BCMB,3100,upper,,2021,Spring,Schmidt,Garfinkel,Yes,79-LO.txt,No,NA,0.8,0.2,0,0,0,,Yes,79-Grading.txt,Yes,79-Attend.txt,,informative,4,direct,2,informative,4,confident,4
-80,BCMB,3100,upper,,2021,Fall,Dolan,Urbanowicz,Yes,80-LO.txt,No,NA,0,0.875,0,0.125,0,,Yes,80-Grading.txt,No,NA,,informative,5,NA,NA,NA,NA,NA,NA
-81,BCMB,3100,upper,,2022,Spring,Xu,Weiss,No,NA,No,NA,0,1,0,0,0,,Yes,81-Grading.txt,Yes,81-Attend.txt,,direct,4,informative,3,formal,5,NA,NA
-82,BCMB,3100,upper,,2021,Summer,Wood,Lanzilotta,No,NA,No,NA,0,1,0,0,0,,Yes,82-Grading.txt,Yes,82-Attend.txt,,direct,4,informative,3,formal,5,confident,2
 83,ECOL,3100,upper,,2018,Summer,Connelly,NA,Yes,83-LO.txt,No,NA,0.3,0,0.15,0.3,0.25,Practical,No,NA,Yes,83-Attend.txt,Lecture and Lab ,NA,NA,NA,NA,formal,5,NA,NA
 84,ECOL,3100,upper,,2009,Fall,Lieberman,NA,Yes,84-LO.txt,No,NA,0.55,0,0.2,0.25,0,,No,NA,No,NA,Lecture and Lab ,NA,NA,NA,NA,NA,NA,NA,NA
 85,VPAT,3100,upper,H,2019,Spring,Carmichael,Meigs,Yes,85-LO.txt,No,NA,1,0,0,0,0,,Yes,85-Grading.txt,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 86,IDIS,3100,upper,,NA,NA,Garg,NA,No,NA,No,NA,NA,NA,NA,NA,NA,,No,NA,No,NA,"Did not have semester, year, grading breakdown, etc",NA,NA,NA,NA,NA,NA,NA,NA
 87,IDIS,3100,upper,H,2015,Spring,Moore,NA,No,NA,No,NA,0.3,0,0.5,0.2,0,,Yes,87-Grading.txt,Yes,87-Attend.txt,,NA,NA,NA,NA,formal,5,informative,5
-88,VPHY,3100,upper,,2021,Fall,Wells,Li,No,NA,No,NA,1,0,0,0,0,,Yes,88-Grading.txt,No,NA,,formal,4,informative,4,NA,NA,NA,NA
-89,VPHY,3100,upper,,2009,Fall,McGraw,Wells,No,NA,No,NA,1,0,0,0,0,,Yes,89-Grading.txt,No,NA,,formal,5,informative,5,NA,NA,NA,NA
-90,VPHY,3100,upper,,2010,Fall,McGraw,Wells,No,NA,No,NA,1,0,0,0,0,,Yes,90-Grading.txt,No,NA,,formal,5,informative,5,NA,NA,NA,NA
 91,BIOL,3110,upper,L,2011,Spring,Eisner,NA,No,NA,No,NA,0.45,,0.09,0.45,0,,Yes,91-Grading.txt,Yes,91-Attend.txt,,NA,NA,NA,NA,formal,5,NA,NA
-92,BIOL,3110,upper,L,2020,Fall,O’Donnell,NA,No,NA,No,NA,0.5,0.125,0,0.375,0,,Yes,92-Grading.txt,Yes,92-Attend.txt,,informative,4,formal,2,confident,2,informative,2
-93,BIOL,3110,upper,L,2022,Fall,Paz,NA,No,NA,No,NA,0.545,0.136,0,0.316,0,,Yes,93-Grading.txt,Yes,93-Attend.txt,,formal,5,informal,5,formal,5,NA,NA
-94,BIOL,3110,upper,L,2013,Spring,Winternitz,McKnight,No,NA,No,NA,0.455,0.09,0,0.4544,0,,Yes,94-Grading.txt,Yes,94-Attend.txt,,direct,5,confident,3,formal,5,NA,NA
 95,ENTO,3140,upper,L,2022,Fall,Ross,Hettesheimer,No,NA,No,NA,0.6,0.15,0,0.25,0,,No,NA,Yes,95-Attend.txt,,NA,NA,NA,NA,confident,4,informative,2
-96,GENE,3200,upper,,2018,Spring,Armstrong,Dyer,No,NA,No,NA,0.9,0,0,0.1,0,,Yes,96-Grading.txt,No,NA,,informative,5,friendly,2,NA,NA,NA,NA
-97,GENE,3200,upper,,2020,Fall,Bedell,NA,Yes,97-LO.txt,No,NA,0.769,0.1385,0.015,0.0769,0,,Yes,97-Grading.txt,No,NA,,informative,5,NA,NA,NA,NA,NA,NA
 98,GENE,3200,upper,,2010,Spring,Benetzen,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,Yes,98-Attend.txt,,NA,NA,NA,NA,formal,5,NA,NA
-99,GENE,3200,upper,,2014,Spring,Hall,Armstrong,No,NA,No,NA,1,0,0,0,0,,Yes,99-Grading.txt,No,NA,,informative,5,admiring,3,NA,NA,NA,NA
 100,GENE,3200,upper,,2022,Fall,Hunt,NA,Yes,100-LO.txt,No,NA,0.55,,0.15,0.27,0.03,Course Eval,No,NA,Yes,100-Attend.txt,,NA,NA,NA,NA,informative,5,friendly,5
 101,GENE,3200,upper,,2012,Fall,Jenkins ,Wrenn,Yes,101-LO.txt,No,NA,0.75,0.25,0,0,0,,No,NA,Yes,101-Attend.txt,,NA,NA,NA,NA,NA,NA,NA,NA
-102,GENE,3200,upper,,2020,Fall,McEachern,NA,No,NA,No,NA,0.9,0,0,0.1,0,,Yes,102-Grading.txt,No,NA,,direct,5,informative,1,NA,NA,NA,NA
-103,GENE,3200,upper,,2019,Fall,Bedell,NA,No,103-LO.txt,No,NA,0.757,0.132,0.106,0,0.0045,Course Eval,Yes,103-Grading.txt,Yes,103-Attend.txt,,informative,5,NA,NA,NA,NA,NA,NA
 104,CBIO,3200,upper,,2012,Summer,Said,NA,No,NA,No,NA,0.5,0,0,0,0.5,Dissection,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 105,GENE,3210,upper,,2019,Fall,Kushner,NA,No,NA,No,NA,0.286,0,0,0.57,0.143,Lab Technique,No,NA,Yes,105-Attend.txt,,NA,NA,NA,NA,informative,5,NA,NA
 106,GENE,3210,upper,,2009,Fall,Dawe,NA,No,NA,No,NA,0.35,0,0.25,0.4,0,,No,NA,Yes,106-Attend.txt,,NA,NA,NA,NA,NA,NA,NA,NA
@@ -109,79 +252,21 @@ Index,Department_Code,Course_Number,Division,Course_Number_Suffix,Year,Semester,
 108,PBIO,3270,upper,,2021,Spring,Chang,Perez-Udell,No,NA,No,NA,0,0.424,0.038,0.538,0,,Yes,108-Grading.txt,Yes,108-Attend.txt,,NA,NA,NA,NA,confident,5,informative,2
 109,CBIO,3300,upper,,2014,Spring,Cai,NA,Yes,109-LO.txt,No,NA,0.85,0.15,0,0,0,,No,NA,Yes,109-Attend.txt,,NA,NA,NA,NA,direct,5,skeptical,3
 110,CBIO,3300,upper,,2014,Spring,Schulz,NA,Yes,110-LO.txt,No,NA,1,0,0,0,0,,No,NA,Yes,110-Attend.txt,,NA,NA,NA,NA,direct,5,friendly,3
-111,CBIO,3400,upper,,2012,Fall,Fechheimer,Lechtreck,No,NA,No,NA,0,1,0,0,0,,Yes,111-Grading.txt,No,NA,,formal,3,direct,2,NA,NA,NA,NA
-112,CBIO,3400,upper,,2018,Fall,Gaertig,Przybyla,No,NA,No,NA,0.8,0.1,0,0.1,0,,Yes,112-Grading.txt,Yes,112-Attend.txt,,inspirational,4,NA,NA,cooperative,4,NA,NA
-113,CBIO,3400,upper,,2016,Spring,Kipreos,Shen,No,NA,No,NA,1,0,0,0,0,,Yes,113-Grading.txt,No,NA,,formal,4,direct,2,NA,NA,NA,NA
-114,CBIO,3400,upper,,2017,Spring,Lukowitz,Muralidharan,Yes,114-LO.txt,No,NA,0,0.781,0.0625,0.156,0,,Yes,114-Grading.txt,No,NA,,formal,3,direct,3,NA,NA,NA,NA
-115,CBIO,3400,upper,,2021,Spring,Paz,NA,No,NA,No,NA,0.847,0.0769,0.0769,0,0,,Yes,115-Grading.txt,Yes,115-Attend.txt,,informative,5,formal,5,informative,5,formal,4
 116,CBIO,3400,upper,,2011,Spring,Rumfelt,NA,No,NA,No,NA,0.75,0.15,0,0.1,0,,Yes,116-Grading.txt,Yes,116-Attend.txt,,NA,NA,NA,NA,confident,4,informative,2
 117,CBIO,3400,upper,,2008,Spring,Kipreos,Shen,No,NA,No,NA,1,0,0,0,0,,Yes,117-Grading.txt,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-118,CBIO,3400,upper,,2021,Spring,Schulz,Kamiyama,Yes,118-LO.txt,No,NA,0.85,0,0.106,0.0425,0,,Yes,118-Grading.txt,No,NA,,informative,5,confident,2,NA,NA,NA,NA
-119,CBIO,3400,upper,,2021,Spring,Stanton,Etheridge,No,NA,No,NA,0.765,0,0.147,0.088,0,,Yes,119-Grading.txt,No,NA,,direct,4,informative,3,NA,NA,NA,NA
-120,CBIO,3410,upper,L,2016,Fall,Cai,Gaertig,No,NA,No,NA,0.3,0.2,0,0.5,0,,Yes,120-Grading.txt,Yes,120-Attend.txt,,formal,5,inspirational,4,formal,5,NA,NA
-121,CBIO,3410,upper,L,2018,Fall,Gaertig,Cai,No,NA,No,NA,0.3,0.2,0,0.5,0,,Yes,121-Grading.txt,Yes,121-Attend.txt,,formal,5,inspirational,4,formal,5,NA,NA
 122,BCMB,3433,upper,,2010,Summer,Anderson,NA,No,NA,No,NA,0.333,0,0.333,0.333,0,,No,NA,Yes,122-Attend.txt,,NA,NA,NA,NA,formal,5,NA,NA
-123,MARS,3450,upper,,2022,Fall,Bik,Saunders,Yes,123-LO.txt,No,NA,0.5,0.3,0.2,0,0,,Yes,123-Grading.txt,No,NA,,formal,3,informative,3,NA,NA,NA,NA
-124,MARS,3450,upper,,2019,Fall,Binder,NA,Yes,124-LO.txt,No,NA,0.88,0,0,0.12,0,,Yes,124-Grading.txt,Yes,124-Attend.txt,,direct,5,informative,4,NA,NA,NA,NA
-125,MARS,3450,upper,,2021,Spring,Hopkinson,NA,No,NA,No,NA,0.8,0,0.2,0,0,,Yes,125-Grading.txt,Yes,125-Attend.txt,,direct,5,informative,4,informative,5,NA,NA
 126,MARS,3450,upper,,2021,Spring,Moran,NA,Yes,126-LO.txt,No,NA,0.92,0,0,0.8,0,,No,NA,Yes,126-Attend.txt,,NA,NA,NA,NA,NA,NA,NA,NA
-127,ECOL,3500,upper,,2011,Spring,Barrett,NA,No,NA,No,NA,0.7,0,0,0,0.3,Lab,Yes,127-Grading.txt,Yes,127-Attend.txt,Lecture and Lab ,formal,5,friendly,5,formal,5,NA,NA
-128,ECOL,3500,upper,,2012,Spring,Byers,Covich,Yes,128-LO.txt,No,NA,0.6,0,0,0.4,0,,Yes,128-Grading.txt,Yes,128-Attend.txt,,informative,5,NA,NA,NA,NA,NA,NA
-129,ECOL,3500,upper,,2022,Spring,Connelly,Byers,Yes,129-LO.txt,No,NA,0.857,0,0,0.143,0,,Yes,129-Grading.txt,Yes,129-Attend.txt,,informative,4,disapproving,3,encouraging ,5,joyful,4
-130,ECOL,3500,upper,,2010,Spring,Covich,Byers,Yes,130-LO.txt,No,NA,0.6,0,0,0,0.4,Lab,Yes,130-Grading.txt,Yes,130-Attend.txt,Lecture and Lab ,informative,5,NA,NA,NA,NA,NA,NA
-131,ECOL,3500,upper,,2018,Fall,Crumsey,Ballantyne,Yes,131-LO.txt,No,NA,0.4,0.2,0.1,0,0.3,Lab,Yes,131-Grading.txt,No,NA,Lecture and Lab ,formal,4,informative,2,NA,NA,NA,NA
-132,ECOL,3500,upper,,2022,Spring,Holdo,Schmidt,Yes,132-LO.txt,No,NA,0.69,0.18,0,0.13,0,,Yes,132-Grading.txt,Yes,132-Attend.txt,,formal,4,direct,1,informative,5,NA,NA
-133,ECOL,3500,upper,,2022,Fall,Injaian,Richards,Yes,133-LO.txt,No,NA,0.63,0.12,0,0.25,0,,Yes,133-Grading.txt,Yes,133-Attend.txt,,direct ,4,informative,3,skeptical,4,formal,3
-134,ECOL,3500,upper,,2017,Fall,King,Keogh,Yes,134-LO.txt,No,NA,0.6,0,0.1,0,0.3,Lab,Yes,134-Grading.txt,Yes,134-Attend.txt,Lecture and Lab ,formal,5,NA,NA,confident,5,inspirational,5
-135,ECOL,3500,upper,,2021,Spring,Osenberg,Injaian,Yes,135-LO.txt,No,NA,0.5,0,0,0.2,0.3,Lab,Yes,135-Grading.txt,Yes,135-Attend.txt,Lecture and Lab ,loving,4,NA,NA,formal,4,informative,4
 136,ECOL,3500,upper,,2009,Fall,Richardson,NA,No,NA,No,NA,0.27,0.39,0,0,0.33,Lab,No,NA,No,NA,Lecture and Lab ,NA,NA,NA,NA,NA,NA,NA,NA
-137,ECOL,3500,upper,,2022,Fall,Rugenski,Zemaitis,Yes,137-LO.txt,Yes,137-DEI.txt,0.5,0.1,0.1,0.3,0,,Yes,137-Grading.txt,Yes,137-Attend.txt,,informative,4,cooperative,4,informative,5,friendly ,3
-138,MIBO,3500,upper,,2014,Fall,Benoit,"Walker, Hennigan",No,NA,No,NA,0.697,0.139,0,0.162,0,,Yes,138-Grading.txt,Yes,138-Attend.txt,,confident,3,direct,3,informative,5,confident,5
-139,MIBO,3500,upper,E,2017,Summer,Walker,NA,No,NA,No,NA,0.703,0.141,0,0.1563,0,,Yes,139-Grading.txt,No,NA,,informative,3,confident,2,NA,NA,NA,NA
-140,MIBO,3500,upper,,2013,Spring,Dustman,NA,No,NA,No,NA,0.769230769,0.128205128,0.033898305,0,0,,Yes,140-Grading.txt,Yes,140-Attend.txt,,formal,5,NA,NA,informative,5,NA,NA
-141,MIBO,3500,upper,,2020,Fall,Karls,NA,Yes,141-LO.txt,No,NA,0.57,0,0.1,0.33,0,,Yes,141-Grading.txt,NA,NA,,informative,5,NA,NA,NA,NA,NA,NA
 142,MIBO,3500,upper,,2017,Fall,Krause,NA,No,NA,No,NA,0.75,0.25,0,0,0,,No,NA,Yes,142-Attend.txt,,NA,NA,NA,NA,direct,5,assertive,5
-143,MIBO,3500,upper,,2021,Spring,Paz,NA,No,NA,No,NA,0.8,0.1,0,0.1,0,,Yes,143-Grading.txt,Yes,143-Attend.txt,,informative,5,NA,NA,informative,5,NA,NA
-144,MIBO,3500,upper,,2019,Fall,Scott,NA,No,NA,No,NA,0.5,0.166666667,0,0.333333333,0,,Yes,144-Grading.txt,Yes,144-Attend.txt,,informative,5,direct,5,formal,5,NA,NA
-145,MIBO,3500,upper,,2010,Summer,Shearer,NA,No,NA,No,NA,1,0,0,0,0,,Yes,145-Grading.txt,Yes,145-Attend.txt,,direct,5,NA,NA,informative,5,NA,NA
-146,MIBO,3500,upper,,2020,Spring,Swift,NA,No,NA,No,NA,0.727272727,0,0,0.272727273,0,,Yes,146-Grading.txt,Yes,146-Attend.txt,,direct,5,informal,4,informative,5,NA,NA
-147,MIBO,3500,upper,,2021,Fall,Walker,NA,Yes,147-LO.txt,No,NA,0.4,0,0,0.6,0,,Yes,147-Grading.txt,,147-Attend.txt,,informative,5,NA,NA,formal,5,NA,NA
-148,MIBO,3500,upper,E,2021,Spring,Scott,NA,No,NA,No,NA,0.707692308,0.061538462,0.076923077,0.246153846,0,,Yes,148-Grading.txt,No,NA,,direct,3,informative,3,NA,NA,NA,NA
-149,ECOL,3505,upper,,2010,Spring,Richardson,NA,No,NA,No,NA,0.3,0,0.1,0.267,0.33,Lab,Yes,149-Grading.txt,Yes,149-Attend.txt,,informative,4,admiring,3,formal,5,inspirational,4
-150,ECOL,3503,upper,H,2013,Spring,Barrett,NA,No,NA,No,NA,0.6,0,0,0.15,0.25,Lab,Yes,150-Grading.txt,No,NA,,formal,5,friendly,5,NA,NA,NA,NA
-151,ECOL,3503,upper,H,2021,Fall,Byers,Injaian,Yes,151-LO.txt,No,NA,0.54,0,0,0.46,0,,Yes,151-Grading.txt,Yes,151-Attend.txt,Lecture and Lab,formal,5,friendly,5,NA,NA,NA,NA
-152,ECOL,3505,upper,L,2021,Fall,Farrell,NA,Yes,152-LO.txt,No,NA,0,0.61,0.073,0.317,0,,Yes,152-Grading.txt,Yes,152-Attend.txt,Lecture and Lab,informative,5,NA,NA,formal,5,informative,5
-153,ECOL,3510,upper,L,2018,Summer,Connelly,NA,Yes,153-LO.txt,No,NA,0.15,0,0.25,0.6,0,,Yes,153-Grading.txt,No,NA,,objective,5,NA,NA,NA,NA,NA,NA
-154,ECOL,3510,upper,L,2021,Summer,Farrell,NA,Yes,154-LO.txt,No,NA,0,0,0.24,0.76,0,,Yes,154-Grading.txt,Yes,154-Attend.txt,,informative,3,formal,2,confident,5,direct,4
 155,ECOL,3510,upper,L,2009,Fall,Lieberman,NA,Yes,155-LO.txt,No,NA,0.35,0,0.15,0.5,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-156,MIBO,3510,upper,L,2012,Spring,Dustman,NA,No,NA,No,NA,0.526,0.263,0,0.211,0,,Yes,156-Grading.txt,Yes,156-Attend.txt,,informative,5,NA,NA,informative,3,formal,2
-157,MIBO,3510,upper,L,2022,Spring,Grainy,Ottesen,Yes,157-LO.txt,No,NA,0.41,0.18,0.03,0.37,0,,Yes,157-Grading.txt,Yes,157-Attend.txt,,informative,5,formal,2,formal,5,informative,5
-158,MIBO,3510,upper,L,2021,Spring,Ottesen,Grainy,Yes,158-LO.txt,No,NA,0.41,0,3,0.55,0,,Yes,158-Grading.txt,Yes,158-Attend.txt,,informative,5,formal,2,formal,3,confident,3
-159,MIBO,3510,upper,L,2021,Spring,Paz ,NA,No,NA,No,NA,0.556,0.111,0,0.333,0,,Yes,159-Grading.txt,Yes,159-Attend.txt,,informative,5,formal,3,formal,4,appreciative ,4
-160,MIBO,3510,upper,L,2010,Summer,Samuels,NA,No,NA,No,NA,0.667,0.167,0,0.167,0,,Yes,160-Grading.txt,Yes,160-Attend.txt,,informative,3,formal,3,informative,3,formal,3
 161,ECOL,3530,upper,,2009,Fall,Carroll,Pringle,No,NA,No,NA,0.55,0.15,0,0.3,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-162,ECOL,3530,upper,,2022,Fall,Connelly,Hall,Yes,162-LO.txt,No,NA,0.3,0,0.2,0.5,0,,Yes,162-Grading.txt,Yes,162-Attend.txt,,formal,5,NA,,formal,5,informative,5
-163,ECOL,3530,upper,,2021,Fall,Hall,Schmidt,Yes,163-LO.txt,No,NA,0.3,0,0.2,0.5,0,,Yes,163-Grading.txt,Yes,163-Attend.txt,,formal,5,NA,NA,formal,4,informative,4
-164,ECOL,3530,upper,,2020,Fall,Pringle,Hall,Yes,164-LO.txt,No,NA,0.3,0,0.2,0.5,0,,Yes,164-Grading.txt,Yes,164-Attend.txt,,formal,5,NA,NA,formal,5,informative,4
-165,ECOL,3500,upper,,2020,Fall,Schmidt,NA,Yes,165-LO.txt,No,NA,0.5,0,0.1,0.4,0,,Yes,165-Grading.txt,Yes,165-Attend.txt,,formal,5,NA,NA,confident ,5,NA,NA
 166,MARS,3550,upper,,2021,Fall,Burd,NA,Yes,166-LO.txt,No,NA,0,0,0.3,0.7,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-167,ECOL,3580,upper,,2013,Fall,Beasley,Atkins,Yes,167-LO.txt,No,NA,0.7,0.1,0.1,0.1,0,,Yes,167-Grading.txt,Yes,167-Attend.txt,,formal,3,direct,2,informative,5,NA,NA
-168,ECOL,3580,upper,,2022,Spring,Castleberry,NA,Yes,168-LO.txt,No,NA,0.7,0.1,0,0.2,0,,Yes,168-Grading.txt,Yes,168-Attend.txt,,direct,3,confident,3,informative,3,NA,NA
 169,BCMB,3600,upper,H,2022,Spring,Adams,Kannan,No,NA,No,NA,0.333,0,0,0.667,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 170,BCMB,3600,upper,H,2022,Spring,Kannan,Adams,No,NA,No,NA,0.333,0,0,0.667,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 171,BCMB,3600,upper,H,2022,Spring,Terns,Adams,No,NA,No,NA,0.333,0,0,0.667,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-172,CBIO,3600,upper,,2020,Fall,Dougan,NA,Yes,172-LO.txt,No,NA,0.4,0.14,0.08,0.38,0,,Yes,172-Grading.txt,Yes,172-Attend.txt,,informative,5,NA,NA,informative,5,formal,5
-173,ECOL,3600,upper,,2021,Spring,Connelly,NA,Yes,173-LO.txt,No,NA,0.7,0,0,0.3,0,,Yes,173-Grading.txt,Yes,173-Attend.txt,,formal,4,direct,2,confident,3,assertive,3
-174,ENTO,3645,upper,,2022,Spring,Champagne,Batzer,Yes,174-LO.txt,No,NA,0.1,0,0,0,0,,Yes,174-Grading.txt,Yes,174-Attend.txt,,formal,5,informative,3,informative,5,NA,NA
 175,PBIO,3650,upper,,2021,Fall,Peterson,NA,No,NA,No,NA,0.3,0.15,0,0.15,0.4,Lab,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 176,PBIO,3660,upper,L,2021,Fall,Lukowitz,NA,No,NA,No,NA,0,0,0.4,0.6,0,,No,NA,Yes,176-Attend.txt,,NA,NA,NA,NA,formal,5,informative,4
-177,PBIO,3660,upper,L,2019,Fall,Ye,NA,Yes,177-LO.txt,No,NA,0,0,0,0.1,0,,Yes,177-Grading.txt,Yes,177-Attend.txt,Lecture and Lab,neutral,5,NA,,formal,3,informative,2
-178,BIOL,3700,upper,W,2022,Fall,Maerz,NA,No,NA,No,NA,NA,NA,NA,NA,NA,,Yes,178-Grading.txt,Yes,178-Attend.txt,,formal,4,informative,4,informative,5,formal,4
-179,CBIO,3710,upper,,2018,Fall,Massey,NA,No,NA,No,NA,0.8,0.1,0,0.1,0,,Yes,179-Grading.txt,Yes,179-Attend.txt,,confident,2,formal,2,informative,3,confident,3
 180,BIOL,3720,upper,L,2018,Fall,Andrews,NA,No,180-LO.txt,No,NA,0.15,0.2,0.1,0.55,0,,Yes,180-Grading.txt,No,NA,Students pick what grade they believe they should receive (see 178-grading),NA,NA,NA,NA,NA,NA,NA,NA
-181,BIOL,3720,upper,L,2021,Spring,Gannon,NA,Yes,181-LO.txt,No,NA,0.15,0,0.1,0.75,0,,Yes,181-Grading.txt,Yes,181-Attend.txt,,informative,4,formal,4,informative,5,confident,5
-182,CBIO,3800,upper,,2021,Spring,Lauderdale,Zeltner,No,NA,No,NA,0.8,0.2,0,0,0,,Yes,182-Grading.txt,Yes,182-Attend.txt,,informative,5,NA,NA,formal,5,inspirational,5
-183,CBIO,3800,upper,,2021,Spring,Zeltner,Lauderdale,No,NA,No,NA,0.8,0.2,0,0,0,,Yes,183-Grading.txt,Yes,183-Attend.txt,,informative,5,NA,NA,formal,5,inspirational,5
 184,ECOL,3880,upper,H,2021,Spring,Byers,Mohan,Yes,184-LO.txt,No,NA,1,0,0,0,0,,No,NA,Yes,184-Attend.txt,,NA,NA,NA,NA,NA,NA,NA,NA
 185,BIOL,3990,upper,,NA,NA,Langford,Eisner,No,NA,No,NA,0,0,0,1,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 186,BTEC,4000,upper,L,2022,Spring,Champagne,Hua,No,NA,No,NA,0.6,0.2,0,0.2,0,,No,NA,Yes,186-Attend.txt,,NA,NA,NA,NA,formal,4,appreciative,4
@@ -209,149 +294,64 @@ Index,Department_Code,Course_Number,Division,Course_Number_Suffix,Year,Semester,
 208,WILD,4060,upper,,2022,Spring,Rushing,Hernandez,No,NA,No,NA,0.833333333,0,0,0.083333333,0.166666667,Paper,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 209,ECOL,4070,upper,,2013,Spring,Fitt,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 210,MIBO,4090,upper,,2022,Spring,Hoover,Walker,No,210-LO.txt,No,NA,0.8,0.2,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-211,MIBO,4090,upper,,2011,Fall,Starai,Whittman,No,NA,No,NA,1,0,0,0,0,,Yes,211-Grading.txt,No,NA,,informative,5,inspirational,4,NA,NA,NA,NA
-212,MIBO,4090,upper,,2021,Fall,Starai,Mills,No,NA,No,NA,1,0,0,0,0,,Yes,212-Grading.txt,No,212-Attend.txt,,informative,5,accusatory,4,informative,4,direct,2
-213,MIBO,4090,upper,,2021,Fall,Hoover,Walker,No,NA,No,NA,0.3,0,0.2,0.5,0,,Yes,213-Grading.txt,Yes,213-Attend.txt,,direct,3,informative,3,direct,5,NA,NA
-214,MIBO,4090,upper,,2010,Spring,Whitman,Stabb,No,NA,No,NA,1,0,0,0,0,,Yes,214-Grading.txt,Yes,NA,,direct,5,NA,NA,NA,NA,NA,NA
 215,CBIO,4100,upper,,2011,Fall,Colley,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 216,CBIO,4100,upper,,2011,Spring,Klonowski,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 217,CBIO,4100,upper,,2016,Spring,Klonowski,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 218,CBIO,4100,upper,,2022,Fall,Kurup,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 219,CBIO,4100,upper,,2009,Fall,Tarleton,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 220,MIBO,3500,upper,,2022,Spring,Downs,Walker ,No,NA,No,NA,0.869565217,0.130434783,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-221,BCMB,4110,upper,,2021,Fall,Barb,Orlando,No,NA,No,NA,0.8,0,0,0.2,0,,Yes,221-Grading.txt,No,NA,,confident,2,formal,2,NA,NA,NA,NA
-222,MIBO,4110,upper,,2020,Fall,Paz,NA,No,NA,No,NA,0.86,0.086,0,0.05,0,,Yes,222-Grading.txt,Yes,222-Attend.txt,,formal,5,informative,4,informative,5,NA,NA
 223,MIBO,4120,upper,,2021,Fall,Mishra,NA,Yes,223-LO.txt,No,NA,0.3,0.5,0.05,0.15,0,,No,NA,Yes,223-Attend.txt,,NA,NA,NA,NA,confident,5,NA,NA
-224,PSYC,4120,upper,,2011,Spring,Bovier,NA,No,NA,No,NA,0.6,0,0,0.4,0,,Yes,224-Grading.txt,No,NA,,informative,5,NA,NA,NA,NA,NA,NA
-225,PSYC,4120,upper,,2021,Fall,Brown,NA,No,NA,No,NA,0.8,0,0.5,0.15,0,,Yes,225-Grading.txt,Yes,225-Attend.txt,,informative,4,direct,2,direct,5,confident,3
-226,PSYC,4120,upper,,2014,Fall,Fletcher,NA,No,NA,No,NA,0.6,0,0,0.4,0,,Yes,226-Grading.txt,No,NA,,informative,5,direct,2,NA,NA,NA,NA
-227,PSYC,4120,upper,,2017,Spring,Hale,NA,Yes,227-LO.txt,No,NA,0.8,0,0.2,0,0,,Yes,227-Grading.txt,Yes,227-Attend.txt,,informative,3,direct,2,informative,5,NA,NA
-228,PSYC,4120,upper,,2019,Spring,Hammond,NA,No,NA,No,NA,0.85,0,0.15,0,0,,Yes,228-Grading.txt,Yes,228-Attend.txt,,assertive,5,informative,4,direct,5,NA,NA
-229,PSYC,4120,upper,,2018,Fall,Howard,NA,No,NA,No,NA,0.727,0,0.09,0.18,0,,Yes,229-Grading.txt,Yes,229-Attend.txt,,informative,5,appreciative,3,formal,4,informative,3
-230,PSYC,4120,upper,,2012,Fall,O'Brien,NA,No,NA,Yes,230-DEI.txt,1,0,0,0,0,,Yes,230-Grading.txt,Yes,230-Attend.txt,,informative,5,NA,NA,formal,5,joyful,5
-231,PSYC,4120,upper,,2010,Fall,Renzi,Bovier,No,NA,No,NA,0.85,0,0.15,0,0,,Yes,231-Grading.txt,Yes,231-Attend.txt,,informative,5,formal,5,confident,3,informative,2
 232,PSYC,4120,upper,,2014,Spring,Springham,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-233,PSYC,4120,upper,,2018,Spring,Vratanina-Smoot,NA,Yes,233-LO.txt,No,NA,0.75,0,0,0.25,0,,Yes,233-Grading.txt,Yes,233-Attend.txt,,informative,5,formal,4,formal,5,NA,NA
 234,BCMB ,4130,upper,,2022,Spring,Haltiwanger,NA,No,NA,No,NA,0.8,0,0,0.2,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 235,PSYC,4130,upper,,2014,Spring,Eshchar,Stringham,No,NA,No,NA,0.8,0,0,0.2,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-236,PSYC,4130,upper,,2014,Spring,Groves-Chapman,NA,Yes,236-LO.txt,No,NA,0,0.4,0.3,0.3,0,,No,236-Grading.txt,Yes,236-Attend.txt,,optimistic,3,informative,3,formal,5,NA,NA
 237,PSYC,4130,upper,,2017,Fall,Holmes,Burton,Yes,237-LO.txt,No,NA,1,0,0,0,0,,No,NA,Yes,237-Attend.txt,,NA,NA,NA,NA,confident,5,inspirational,3
-238,PSYC,4130,upper,,2019,Spring,Howard,NA,No,NA,No,NA,0.74,0,0.185,0.074,0,,Yes,238-Grading.txt,Yes,238-Attend.txt,,informative,4,appreciative,2,formal,5,NA,NA
-239,PSYC,4130,upper,,2020,Spring,McMains,NA,Yes,239-LO.txt,No,NA,0.714,0,0,0.286,0,,Yes,239-Grading.txt,Yes,239-Attend.txt,,informative,5,friendly,3,informative,5,friendly,3
-240,PSYC,4130,upper,,2011,Summer,Renzi,O’Brien,No,NA,No,NA,0.85,0,0.15,0,0,,Yes,240-Grading.txt,Yes,240-Attend.txt,,informative,4,formal,2,informative,5,NA,NA
-241,PSYC,4130,upper,,2013,Spring,Suplita,NA,No,NA,No,NA,1,0,0,0,0,,Yes,241-Grading.txt,Yes,241-Attend.txt,,formal,3,informative,3,informative,5,formal,5
-242,PSYC,4130,upper,,2012,Summer,Wong,NA,Yes,242-LO.txt,No,NA,0.714,0,0,0.286,0,,Yes,242-Grading.txt,Yes,242-Attend.txt,,formal,5,NA,NA,informative,5,appreciative,5
-243,PSYC,4140,upper,,2018,Fall,Haas,NA,No,NA,No,NA,0.4,0,0.1,0.5,0,,Yes,243-Grading.txt,Yes,243-Attend.txt,,direct,5,informative,3,direct,5,NA,NA
-244,PSYC,4140,upper,,2018,Fall,Clementz,Edge,No,NA,No,NA,1,0,0,0,0,,Yes,244-Grading.txt,Yes,244-Attend.txt,,formal,5,direct,3,cooperative,5,joyful,4
-245,PSYC,4140,upper,,2018,Spring,Hallowell,NA,No,NA,No,NA,0.7,0,0.15,0.15,0,,Yes,245-Grading.txt,Yes,245-Attend.txt,,neutral ,5,NA,NA,formal,5,friendly,4
-246,PSYC,4140,upper,,2017,Fall,Mewborn,Hallowel,No,NA,No,NA,0.7,0,0.15,0.15,0,,Yes,246-Grading.txt,Yes,246-Attend.txt,,neutral,5,NA,NA,formal,5,friendly,3
 247,PSYC,4140,upper,,2011,Spring,Suplita,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,Yes,247-Attend.txt,,NA,NA,NA,NA,informative,4,formal,2
-248,ECOL,4150,upper,L,2018,Spring,Murdock,Altizer,Yes,248-LO.txt,No,NA,0.5,0.1,0.1,0.3,0,,Yes,248-Grading.txt,Yes,248-Attend.txt,,formal,5,NA,NA,formal,5,NA,NA
 249,ECOL,4150,upper,L,2011,Spring,Park,Ezenwa,Yes,249-LO.txt,No,NA,0.6,0,0.2,0.3,0,,Yes,249-Grading.txt,Yes,249-Attend.txt,,NA,NA,NA,NA,neutral,5,NA,NA
-250,ECOL,4150,upper,L,2022,Spring,Park,Strauss,Yes,250-LO.txt,No,NA,0.5,0.1,0.1,0.3,0,,Yes,250-Grading.txt,Yes,250-Attend.txt,,formal,5,direct,2,formal,5,NA,NA
-251,ECOL,4150,upper,L,2022,Spring,Strauss,Park,Yes,251-LO.txt,No,NA,0.5,0.1,0.1,0.3,0,,Yes,251-Grading.txt,Yes,251-Attend.txt,,formal,5,direct,2,formal,5,NA,NA
-252,PSYC,4150,upper,,2021,Spring,Buffington,NA,Yes,252-LO.txt,No,NA,1,0,0,0,0,,Yes,252-Grading.txt,Yes,252-Attend.txt,,formal,5,informative,5,informative,5,NA,NA
-253,PSYC,4150,upper,,2021,Spring,Hammond,NA,Yes,253-LO.txt,No,NA,0.9,0,0,0.1,0,,Yes,253-Grading.txt,Yes,253-Attend.txt,,informative,5,assertive,4,confident,5,direct,3
-254,ECOL,4160,upper,,2022,Summer,Cummins,Tomczyk,Yes,254-LO.txt,No,NA,0.4,0,0.07,0.29,0.24,Lab Notebook,Yes,254-Grading.txt,No,NA,,informative,5,NA,NA,NA,NA,NA,NA
-255,BCMB,4190,upper,,2018,Fall,Urbauer,NA,No,NA,No,NA,0.75,0,0,0,0.25,Lab Notebook,Yes,255-Grading.txt,Yes,255-Attend.txt,,formal,4,informative,3,informative,2,NA,NA
 256,BCMB,4200,upper,,2022,Spring,Adang,Pierce,No,NA,No,NA,0.9,0,0,0.1,0,,No,NA,Yes,256-Attend.txt,,NA,NA,NA,NA,formal,5,NA,NA
 257,CBIO,4200,upper,,2019,Fall,Docampo,NA,No,NA,No,NA,0.75,0,0,0.25,0,,No,NA,Yes,257-Attend.txt,,NA,NA,NA,NA,NA,NA,NA,NA
-258,GENE,4200,upper,,2020,Fall,Goll,Ivanova,Yes,258-LO.txt,No,NA,0.39,0,0,0.61,0,,Yes,258-Grading.txt,Yes,258-Attend.txt,,formal,5,assertive,4,confident,5,inspirational,4
 259,GENE,4200,upper,,2011,Fall,Manley,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 260,MARS,2200,upper,,2021,Fall,Yager,Ohnemus,No,NA,No,NA,0.45,0,0.1,0.45,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 261,PBIO,4200,upper,,2022,Fall,Brewer,NA,No,NA,No,NA,0.6,0,0,0.3,0.1,Lab,Yes,261-Grading.txt,Yes,261-Attend.txt,,NA,NA,NA,NA,NA,NA,NA,NA
 262,BIOL,4200,upper,W,2021,Fall,Gallagher,NA,Yes,262-LO.txt,No,NA,0,0,0.05,0.95,0,,No,NA,Yes,262-Attend.txt,,NA,NA,NA,NA,formal,5,NA,NA
 263,ECOL,4210,upper,,2014,Spring,Reitz,NA,Yes,263-LO.txt,No,NA,0.6,0,0.1,0.3,0,,No,NA,Yes,263-Attend.txt,,NA,NA,NA,NA,formal,5,confident,1
 264,GENE,4210,upper,L,2011,Spring,McEachern,Menke,No,NA,No,NA,0.3,0,0.075,0.625,0,,No,NA,Yes,264-Attend.txt,,NA,NA,NA,NA,neutral,5,NA,NA
-265,ANTH,4210,upper,L,2020,Fall,Birch,Veres,Yes,265-LO.txt,No,NA,0.46,0.23,0,0.31,0,,Yes,265-Grading.txt,No,NA,,confident,5,informative,4,NA,NA,NA,NA
 266,ANTH,4210,upper,,2010,Fall,Colaninno-Meeks,NA,Yes,266-LO.txt,No,NA,0.3,0,0.1,0.6,0,,No,NA,Yes,266-Attend.txt,,NA,NA,NA,NA,neutral,5,NA,NA
-267,GENE,4210,upper,L,2018,Fall,Arnold,NA,No,NA,No,NA,0.15,0,0,0.35,0.5,Lab Reports,Yes,267-Grading.txt,Yes,267-Attend.txt,,formal,5,NA,NA,NA,NA,NA,NA
-268,GENE,4220,upper,L,2013,Fall,Arnold,Bennetzen,No,NA,No,NA,0.25,0,0.1,0.65,0,,Yes,268-Grading.txt,No,NA,,formal,5,cooperative,3,NA,NA,NA,NA
-269,GENE,4220,upper,L,2010,Spring,Kissinger,Arnold,No,NA,No,NA,0,0.1,0.1,0.8,0,,Yes,269-Grading.txt,No,NA,,formal,5,cooperative,3,NA,NA,NA,NA
-270,MIBO,4220,upper,,2019,Spring,Karls,Szymanski,Yes,270-LO.txt,No,NA,0.7,0.05,0.05,0.2,0,0,Yes,270-Grading.txt,No,NA,,informative,3,assertive,3,NA,NA,NA,NA
-271,MIBO,4220,upper,,2011,Fall,Maier,Karls,No,NA,No,NA,0.8,0,0,0.2,0,,Yes,271-Grading.txt,No,NA,,informative,5,direct,1,NA,NA,NA,NA
-272,MIBO,4220,upper,,NA,NA,Maurer,Karls,No,NA,No,NA,0.8,0.2,0,0,0,,Yes,272-Grading.txt,No,NA,,formal,4,informative,2,NA,NA,NA,NA
-273,MIBO,4220,upper,S,2016,Spring,Karls,Maurer,Yes,273-LO.txt,No,NA,0.65,0.05,0.05,0.25,0,,Yes,273-Grading.txt,No,NA,,informative,5,assertive,2,NA,NA,NA,NA
-274,GENE,4230,upper,L,2013,Spring,Dyer,Sweigart,No,NA,No,NA,NA,NA,NA,NA,NA,,Yes,274-Grading.txt,Yes,274-Attend.txt,,formal,3,direct,3,NA,NA,NA,NA
-275,GENE,4230,upper,L,2020,Spring,Sweigart,Eggenschwiler,No,NA,No,NA,NA,NA,NA,NA,NA,,Yes,275-Grading.txt,Yes,275-Attend.txt,,formal,3,direct,3,informative,4,friendly,4
-276,GENE,4230,upper,L,2011,Spring,Dyer,Wares,No,NA,No,NA,NA,NA,NA,NA,NA,,Yes,276-Grading.txt,Yes,276-Attend.txt,,formal,3,direct,3,NA,NA,NA,NA
 277,ECOL,4240,upper,,2020,Fall,Davis,NA,No,NA,No,NA,0.6,0.1,0.1,0.2,0,,No,NA,Yes,277-Attend.txt,,NA,NA,NA,NA,informative,5,assertive,3
 278,PBIO,4240,upper,,2011,Fall,Box,NA,No,NA,No,NA,NA,NA,NA,NA,NA,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 279,ECOL,4290,upper,,2018,Fall,Birch,Napora,No,NA,No,NA,0.286,0,0.286,0.429,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-280,ECOL,4290,upper,,2014,Spring,Reitz,NA,Yes,280-LO.txt,No,NA,0.7,0,0,0.3,0,,Yes,280-Grading.txt,Yes,280-Attend.txt,,formal,4,direct,2,formal,5,NA,NA
-281,ECOL,4300,upper,,2021,Spring,Fox,Hazelton,Yes,281-LO.txt,No,NA,0.645,0.177,0.016,0.161,0,,Yes,281-Grading.txt,Yes,281-Attend.txt,,informative,5,optimistic,2,NA,NA,NA,NA
 282,ECOL,4300,upper,,2018,Spring,Peterson,Pelletier,Yes,282-LO.txt,No,NA,1,0,0,0,0,,No,NA,Yes,282-Attend.txt,,NA,NA,NA,NA,formal,5,NA,NA
-283,MIBO,4300,upper,,2021,Fall,Mitchell,Mrázek ,No,NA,No,NA,0,0,0,1,0,,Yes,283-Grading.txt,No,NA,,formal,3,informative,3,NA,NA,NA,NA
 284,MIBO,4300,upper,,NA,Fall,Whitman,NA,No,NA,No,NA,0,0.2,0.2,0.6,0,,No,NA,Yes,284-Attend.txt,,NA,NA,NA,NA,informative,5,NA,NA
 285,BIOL,4300,upper,W,2021,Fall,Gallagher,NA,Yes,285-LO.txt,No,NA,0,0,0.05,0.95,0,,No,NA,Yes,285-Attend.txt,,NA,NA,NA,NA,formal,5,NA,NA
-286,ECOL,4310,upper,L,2020,Fall,Rosemond,Covich,Yes,286-LO.txt,Yes,286-DEI.txt,0.45,0.3,0,0.25,0,,Yes,286-Grading.txt,Yes,286-Attend.txt,,formal,5,informative,5,NA,NA,NA,NA
-287,ECOL,4310,upper,L,2021,Fall,Strauss ,Rosemond,Yes,287-LO.txt,Yes,287-DEI.txt,0.45,0.25,0,0.3,0,,Yes,287-Grading.txt,Yes,287-Attend.txt,,informative,5,optimistic,5,friendly,5,informative,5
-288,MIBO,4310,upper,,2021,Spring,Lipp,Norfolk,No,NA,No,NA,0.656,0,0.016,0.328,0,,Yes,288-Grading.txt,Yes,288-Attend.txt,,formal,5,informative,5,informative,5,confident,4
 289,GENE,4310,upper,,2020,Fall,Eggenschwiler,NA,Yes,289-LO.txt,No,NA,0.6,0,0.2,0.2,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-290,CBIO,4340,upper,,2010,Spring,Willis,NA,Yes,290-LO.txt,No,NA,0.65,0,0,0.35,0,,Yes,290-Grading.txt,No,NA,,formal,5,direct,2,NA,NA,NA,NA
 291,GENE,4400,upper,,2015,Spring,McEachern ,Meagher,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-292,HORT,4430,upper,,NA,Fall,Malladi,NA,No,NA,No,NA,1,0,0,0,0,,Yes,292-Grading.txt,No,NA,,confident,5,informative,5,NA,NA,NA,NA
 293,ENTO,4450,upper,,2021,Spring,Moore,NA,Yes,293-LO.txt,No,NA,0.4,0,0.15,0.45,0,,No,NA,Yes,293-Attend.txt,,NA,NA,NA,NA,informative,5,friendly,1
 294,MIBO,4450,upper,,2012,Fall,Maurer,NA,Yes,294-LO.txt,No,NA,0.4,0,0.02,0.58,0,,No,NA,Yes,294-Attend.txt,Lab and Lecture,NA,NA,NA,NA,NA,NA,NA,NA
 295,MIBO,4450,upper,,2006,Fall,Schell,NA,Yes,295-LO.txt,No,NA,0.4,0,0,0.6,0,,Yes,295-Grading.txt,Yes,295-Attend.txt,Lab and Lecture,NA,NA,NA,NA,NA,NA,NA,NA
 296,CBIO,4500,upper,,2018,Fall,Morino,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-297,ECOL,4500,upper,,2021,Spring,Anderson,Sasaki,No,NA,Yes,297-DEI.txt,0.5,0,0.06,0.44,0,,Yes,297-Grading.txt,,297-Attend.txt,,informative,3,formal,2,NA,NA,NA,NA
-298,ECOL,4500,upper,,2013,Spring,Shefferson,NA,No,NA,No,NA,0.4,0,0.1,0.5,0,,Yes,298-Grading.txt,Yes,298-Attend.txt,,direct,5,informative,4,confident,5,skeptical,5
-299,FISH,4500,upper,,2018,Fall,Fox,NA,Yes,299-LO.txt,No,NA,0.35,0,0.1,0.3,0.25,Lab,Yes,299-Grading.txt,Yes,299-Attend.txt,,direct,5,NA,NA,neutral,5,NA,NA
-300,FISH,4500,upper,,2022,Fall,Fox,Kleinhans,Yes,300-LO.txt,No,NA,0.469,0.172,0.03,0.329,0,,Yes,300-Grading.txt,Yes,300-Attend.txt,,informative,5,friendly,5,confident,5,informative,5
-301,GENE,4500,upper,,2017,Spring,Bedell,NA,Yes,301-LO.txt,No,NA,0.75,0.2,0.05,0,0,,Yes,301-Grading.txt,Yes,301-Attend.txt,,direct,5,NA,NA,informative,5,NA,NA
 302,MARS,4500,upper,,2022,Fall,Cohen,NA,Yes,302-LO.txt,Yes,302-DEI.txt,0.4,0,0,0.6,0,,No,NA,Yes,302-Attend.txt,,NA,NA,NA,NA,NA,NA,NA,NA
-303,MIBO,4500,upper,,2018,Spring,Stabb,NA,No,NA,No,NA,0.8,0,0,0.2,0,,Yes,303-Grading.txt,Yes,303-Attend.txt,,formal,5,friendly,3,formal,4,informative,2
-304,BIOL,4500,upper,,2021,Fall,Bar-Peled,NA,No,NA,No,NA,0.286,0,0.286,0.429,0,,Yes,304-Grading.txt,No,NA,,informative,5,NA,NA,NA,NA,NA,NA
-305,ECOL,4540,upper,,2021,Fall,Injaian,NA,Yes,305-LO.txt,No,NA,0.4,0,0,0.6,0,,Yes,305-Grading.txt,No,NA,,direct,4,formal,3,NA,NA,NA,NA
-306,ECOL,4550,upper,,2018,Spring,Bringolf,Shelton,Yes,306-LO.txt,No,NA,0.35,0,0.05,0.25,0.35,Lab,Yes,306-Grading.txt,Yes,306-Attend.txt,,formal,5,NA,NA,neutral,5,NA,NA
 307,GENE,4550,upper,,2019,Fall,White,Menke,No,NA,No,NA,0.8,0,0,0.2,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 308,PBIO,4550,upper,,2012,Fall,Leebens-Mack,Malmberg,Yes,308-LO.txt,No,NA,0,0,0,1,0,,Yes,308-Grading.txt,Yes,308-Attend.txt,,NA,NA,NA,NA,formal,5,NA,NA
-309,ECOL,4590,upper,,2021,Fall,Cabrera,Malladi,Yes,309-LO.txt,No,NA,0.7,0.1,0,0.2,0,,Yes,309-Grading.txt,Yes,309-Attend.txt,,direct,5,NA,NA,NA,NA,NA,NA
-310,ECOL,4590,upper,L,2021,Fall,Cabrera,Rema,Yes,310-LO.txt,No,NA,0,0.35,0,0.65,0,,Yes,310-Grading.txt,No,NA,,neutral,5,NA,NA,NA,NA,NA,NA
 311,CBIO,4600,upper,,2022,Spring,Farmer,NA,No,NA,No,NA,0.404,0.242,0,0.353,0,,Yes,311-Grading.txt,Yes,311-Attend.txt,,NA,NA,NA,NA,informative,5,NA,NA
-312,MIBO,4600,upper,L,2018,Spring,Neidle,Hoover,Yes,312-LO.txt,No,NA,0.42,0,0.06,0.52,0,,Yes,312-Grading.txt,Yes,312-Attend.txt,,informative,5,NA,NA,informative,5,NA,NA
-313,MIBO,4600,upper,L,2014,Fall,Neidle,Karls,Yes,313-LO.txt,No,NA,0.5,0.1,0.05,0.35,0,,Yes,313-Grading.txt,Yes,313-Attend.txt,,informative,5,NA,NA,informative,5,NA,NA
-314,MIBO,4600,upper,L,2019,Fall,Neidle,Hoover,Yes,314-LO.txt,No,NA,0.36,0,0.06,0.58,0,,Yes,314-Grading.txt,Yes,314-Attend.txt,,informative,5,NA,NA,informative,5,NA,NA
-315,MIBO,4600,upper,L,NA,Fall,Hoover,Shimkets,Yes,315-LO.txt,No,NA,0.45,0,0,0.55,0,,Yes,315-Grading.txt,Yes,315-Attend.txt,,formal,5,informative,4,NA,NA,NA,NA
-316,MIBO,4610,upper,,2022,Fall,Habteselassie,NA,No,NA,No,NA,0.65,0,0.05,0.3,0,,Yes,316-Grading.txt,Yes,316-Attend.txt,,formal,5,NA,NA,NA,NA,NA,NA
-317,PBIO,4650,upper,,2015,Spring,Zomlefer ,NA,Yes,317-LO.txt,No,NA,0.417,0.083,0,0.5,0,,Yes,317-Grading.txt,Yes,317-Attend.txt,,direct,5,NA,NA,informative,4,formal,4
-318,MIBO,4650,upper,,2021,Fall,Garcia,Brindley,No,NA,No,NA,0.75,0,0.1,0.15,0,,Yes,318-Grading.txt,No,NA,,direct,5,NA,NA,NA,NA,NA,NA
-319,MIBO,4650,upper,,2014,Fall,Garcia,He,No,NA,No,NA,0.8,0,0.05,0.15,0,,Yes,319-Grading.txt,No,NA,,direct,5,NA,NA,NA,NA,NA,NA
-320,MIBO,4650,upper,,2021,Fall,Brindley,Garcia,No,NA,No,NA,0.75,0,0.1,0.15,0,,Yes,320-Grading.txt,No,NA,,direct,5,NA,NA,NA,NA,NA,NA
-321,MIBO,4650,upper,,2010,Fall,He,Garcia,No,NA,No,NA,0.8,0,0.05,0.15,0,,Yes,321-Grading.txt,No,NA,,direct,5,NA,NA,NA,NA,NA,NA
-322,MIBO,4650,upper,,NA,Fall,Karls,Garcia,No,NA,No,NA,0.8,0,0.05,0.15,0,,Yes,322-Grading.txt,No,NA,,direct,5,NA,NA,NA,NA,NA,NA
-323,KINS,4690,upper,,2017,Fall,Call,NA,Yes,323-LO.txt,No,NA,0.45,0.35,0,0.2,0,,Yes,323-Grading.txt,Yes,323-Attend.txt,,formal,5,informative,3,cooperative ,5,formal,3
 324,KINS,4690,upper,,2022,Fall,Khan,NA,No,NA,No,NA,0,0.4,0.2,0.4,0,,No,NA,Yes,324-Attend.txt,,NA,NA,NA,NA,informative,5,cooperative,4
-325,KINS,4690,upper,L,2022,Fall,Cribb,NA,Yes,325-LO.txt,No,NA,0,0.2,0.5,0.3,0,,Yes,325-Grading.txt,Yes,325-Attend.txt,,direct,5,confident,4,formal,5,NA,NA
 326,KINS,4690,upper,L,2014,Spring,Reynolds,NA,No,NA,No,NA,0,0.25,0,0.75,0,,No,NA,Yes,326-Attend.txt,,NA,NA,NA,NA,informative,5,NA,NA
 327,MIBO,4700,upper,,2014,Fall,Langford,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,Yes,327-Attend.txt,,NA,NA,NA,NA,neutral ,5,NA,NA
-328,CBIO,4230,upper,,NA,NA,Hesse,NA,Yes,328-LO.txt,No,NA,0,0.8,0,0.2,0,,Yes,328-Grading.txt,Yes,328-Attend.txt,,informative,5,joyful,3,NA,NA,NA,NA
-329,CBIO,4730,upper,,2014,Spring,Said,NA,No,NA,No,NA,0,0.85,0.1,0.05,0,,Yes,329-Grading.txt,Yes,329-Attend.txt,,informative,5,NA,NA,NA,NA,NA,NA
-330,ANTH,4790,upper,,2017,Fall,Tanner,NA,Yes,330-LO.txt,No,NA,0.4,0,0.15,0.45,0,,Yes,330-Grading.txt,Yes,330-Attend.txt,,direct,5,confident,5,neutral ,5,NA,NA
-331,MARS,4810,upper,,2021,Spring,Meile,Ohnemus,No,NA,No,NA,0.47,0,0,0.529,0,,Yes,331-Grading.txt,Yes,331-Attend.txt,,direct,5,confident,4,formal,5,admiring,4
-332,MARS,4810,upper,,2021,Spring,Ohnemus,Meile,No,NA,No,NA,0.47,0,0,0.529,0,,Yes,332-Grading.txt,Yes,332-Attend.txt,,direct,5,confident,4,formal,5,admiring,4
 333,BIOL,4910,upper,,NA,Fall,Mrázek,NA,No,NA,No,NA,0,0,0.4,0.6,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 334,BIOL,4960,upper,,NA,Spring,Lewis,NA,Yes,334-LO.txt,No,NA,0,0,0.6,0.4,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 335,KINS,4960,upper,L,2019,Spring,Schifino,NA,Yes,335-LO.txt,No,NA,0,0.7,0,0.3,0,,Yes,335-Grading.txt,Yes,335-Attend.txt,,NA,NA,NA,NA,informative,5,NA,NA
 336,BIOL,5040,upper,,2014,Fall,Shields,Formo,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 337,BIOL,5050,upper,L,2014,Fall,Shields,NA,No,NA,No,NA,0,0,0,1,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-338,KINS,5690,upper,,2018,Spring,Call,NA,No,NA,No,NA,0.25,0.25,0.3,0.2,0,,Yes,338-Grading.txt,Yes,338-Attend.txt,,formal,4,direct,2,direct,4,confident,4
-339,KINS,5690,upper,L,2019,Spring,Nichenko,NA,No,NA,No,NA,0,0.6,0.4,0,0,,Yes,339-Grading.txt,Yes,339-Attend.txt,,informative,4,NA,NA,informative,5,formal,4
-340,KINS,5690,upper,L,2019,Spring,Schifino,NA,No,NA,No,NA,0,0.6,0.4,0,0,,Yes,340-Grading.txt,Yes,340-Attend.txt,,informative,4,NA,NA,informative,5,formal,4
 341,PSYC,5750,upper,,2010,Fall,Bernstein,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 342,PSYC,5770,upper,,2013,Spring,Bernstein,NA,No,NA,No,NA,NA,NA,NA,NA,NA,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
-343,PSYC,5850,upper,,2021,Fall,Buffington,NA,Yes,343-LO.txt,No,NA,0.7,0,0,0.3,0,,Yes,343-Grading.txt,Yes,343-Attend.txt,,informative,5,formal,2,informative,5,NA,NA
 344,PSYC,5850,upper,,2021,Fall,Holmes,NA,Yes,344-LO.txt,No,NA,0.8,0,0,0.2,0,,No,NA,Yes,344-Attend.txt,,NA,NA,NA,NA,formal,5,confident,4
-345,PSYC,5850,upper,,2017,Fall,Smith,NA,Yes,345-LO.txt,No,NA,0.75,0.07,0,0.18,0,,Yes,345-Grading.txt,Yes,345-Attend.txt,,cooperative,5,NA,NA,cooperative ,4,informative ,4
-346,MIBO,3500,upper,H,2022,Spring,Scott,NA,No,NA,No,NA,0.513,0.05,0.064,0.372,0,,Yes,346-Grading.txt,Yes,346-Attend.txt,,direct,5,confident,4,confident,5,direct ,4
-347,ECOL,3500,upper,L,2021,Spring,Farrell,NA,No,NA,No,NA,0,0.5,0.083,0.417,0,,Yes,347-Grading.txt,Yes,347-Attend.txt,,formal,3,disheartening,2,formal,5,informative ,4
-348,MIBO,3500,upper,L,2022,Spring,Scott,NA,No,NA,No,NA,0.5,0,0,0.5,0,,Yes,348-Grading.txt,Yes,348-Attend.txt,,formal,5,informative,4,formal,5,NA,NA
 349,PSYC,4130,upper,,2013,Fall,Stringham,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 350,PSYC,4130,upper,,2013,Spring,McDowell,NA,No,NA,No,NA,0.8,0,0.05,0.15,0,,Yes,350-Grading.txt,Yes,350-Attend.txt,,NA,NA,NA,NA,informative,5,NA,NA
-351,PSYC,4130,upper,,2013,Spring,Sharpe,NA,Yes,351-LO.txt,No,NA,0.83,0.17,0,0,0,,Yes,351-Grading.txt,Yes,351-Attend.txt,,informative,5,appreciative,5,appreciative,4,formal,4
-352,PSYC,4140,upper,,2011,Fall,Faraco,NA,No,NA,No,NA,0.7,0,0.15,0.15,0,,Yes,352-Grading.txt,Yes,352-Attend.txt,,informative,5,NA,NA,formal,5,optimistic,4
 353,PSYC,4140,upper,,2019,Spring,Sabatinelli,NA,No,NA,No,NA,0.73,0,0.1,0.17,0,,No,NA,Yes,353-Attend.txt,,NA,NA,NA,NA,confident,5,informative ,3
 354,CBIO,4500,upper,,2012,Spring,Striepen,Moreno,No,NA,No,NA,1,0,0,0,0,,No,NA,Yes,354-Attend.txt,,NA,NA,NA,NA,NA,NA,NA,NA
 355,CBIO,4600,upper,,2016,Spring,Darley,Farmer,No,NA,No,NA,0.5,0.25,0.05,0.2,0,,Yes,355-Grading.txt,No,NA,,NA,NA,NA,NA,NA,NA,NA,NA
 356,PSYC,4850,upper,,2014,Summer,Suplita,NA,No,NA,No,NA,1,0,0,0,0,,No,NA,Yes,356-Attend.txt,,NA,NA,NA,NA,confident,4,disapproving,4
+177,PBIO,3660,upper,L,2019,Fall,Ye,NA,Yes,177-LO.txt,No,NA,0,0,0,0.1,0,,Yes,177-Grading.txt,Yes,177-Attend.txt,Lecture and Lab,neutral,5,NA,,formal,3,informative,2
+246,PSYC,4140,upper,,2017,Fall,Mewborn,Hallowel,No,NA,No,NA,0.7,0,0.15,0.15,0,,Yes,246-Grading.txt,Yes,246-Attend.txt,,neutral,5,NA,NA,formal,5,friendly,3
+310,ECOL,4590,upper,L,2021,Fall,Cabrera,Rema,Yes,310-LO.txt,No,NA,0,0.35,0,0.65,0,,Yes,310-Grading.txt,No,NA,,neutral,5,NA,NA,NA,NA,NA,NA
+245,PSYC,4140,upper,,2018,Spring,Hallowell,NA,No,NA,No,NA,0.7,0,0.15,0.15,0,,Yes,245-Grading.txt,Yes,245-Attend.txt,,neutral ,5,NA,NA,formal,5,friendly,4
+153,ECOL,3510,upper,L,2018,Summer,Connelly,NA,Yes,153-LO.txt,No,NA,0.15,0,0.25,0.6,0,,Yes,153-Grading.txt,No,NA,,objective,5,NA,NA,NA,NA,NA,NA
+236,PSYC,4130,upper,,2014,Spring,Groves-Chapman,NA,Yes,236-LO.txt,No,NA,0,0.4,0.3,0.3,0,,No,236-Grading.txt,Yes,236-Attend.txt,,optimistic,3,informative,3,formal,5,NA,NA
