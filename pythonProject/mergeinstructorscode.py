@@ -5,15 +5,13 @@ uga_salaries = pd.read_csv(r'C:\Users\areeb\PycharmProjects\pythonProject3\UGA_S
 syllabus_data = pd.read_csv(r'C:\Syllabus review project 2-5-2024\syllabus-review-project\syllabus-data.csv', encoding='latin-1')
 
 # Merge the two DataFrames based on 'Last Name' and 'Year' columns
-merged_data = pd.merge(uga_salaries, syllabus_data, on=['Last Name', 'Year'], how='inner')
+merged_data = pd.merge(uga_salaries[['Last Name', 'Year', 'Title']], syllabus_data, on=['Last Name', 'Year'], how='inner')
 
-# Create a new DataFrame with only 'Last Name' and 'Year' columns
-result_df = merged_data[['Last Name', 'Year']]
+# Export the merged data to a new CSV file
+merged_data.to_csv('matched_instructors.csv', index=False, encoding='latin-1')
 
-# Export the result DataFrame to a new CSV file
-result_df.to_csv('updatematched_instructors.csv', index=False, encoding='latin-1')
+print("Merged data saved to 'newinstructorsmatched.csv'")
 
-print("Merged data saved to 'updatematched_instructors.csv'")
 
 
 
