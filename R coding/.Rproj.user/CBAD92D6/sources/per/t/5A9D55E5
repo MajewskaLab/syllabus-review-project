@@ -1,27 +1,27 @@
 {
-    "id": "9B70E2FE",
-    "path": "~/GitHub/syllabus-review-project/R coding/03_text convert.R",
-    "project_path": "03_text convert.R",
+    "id": "5A9D55E5",
+    "path": "~/GitHub/syllabus-review-project/R coding/06_mergeAll.R",
+    "project_path": "06_mergeAll.R",
     "type": "r_source",
-    "hash": "2398920965",
+    "hash": "1911469301",
     "contents": "",
     "dirty": false,
-    "created": 1702483842844.0,
+    "created": 1707759265349.0,
     "source_on_save": false,
-    "relative_order": 1,
+    "relative_order": 4,
     "properties": {
         "tempName": "Untitled1",
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "8,0",
-        "scrollLine": "0"
+        "cursorPosition": "42,0",
+        "scrollLine": "17"
     },
     "folds": "",
-    "lastKnownWriteTime": 1702488887,
+    "lastKnownWriteTime": 1707763446,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1702488887375,
+    "last_content_update": 1707763446157,
     "read_only": false,
     "read_only_alternatives": []
 }

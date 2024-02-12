@@ -2,8 +2,8 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": true
+            "ascending": false
         }
     ],
-    "path": "~/GitHub/syllabus-review-project/R coding"
+    "path": "~/GitHub/syllabus-review-project/R coding/data"
 }
