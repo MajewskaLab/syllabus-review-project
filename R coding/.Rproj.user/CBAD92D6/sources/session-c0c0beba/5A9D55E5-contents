@@ -27,10 +27,12 @@ colnames(a_LIWC) <- paste("Attend_", colnames((a_LIWC)), sep = "")
 #a_wordcount <- read_csv("data/updated_attendance_wordcount.csv")
 
 rank <- read_csv("data/rank.csv") %>% 
-  select(c(Index, Lead_Instructor, Lead_Rank, Other_Rank))
+  select(c(Index, Lead_Instructor, Lead_Rank,Lead_Track, Other_Rank, Other_Track))
 
 enroll <- read_csv("data/enrollment.csv") %>% 
-  select(c(Index, `Class Size`))
+  select(c(Index, `Class Size`)) %>% 
+  rename("Class_Size" = `Class Size`)
+
 
 ########## merges #
 
@@ -39,6 +41,11 @@ syl2 <- left_join(syl, rank, by = c("Index")) %>%
   left_join(a_SA, by = c("Attend_File" = "File")) %>% 
   left_join(g_SA, by = c("Grading_File" = "File")) %>% 
   left_join(g_LIWC, by = c("Grading_File" = "Grade_Filename")) %>% 
-  left_join(a_LIWC, by = c("Attend_File" = "Attend_Filename"))  
+  left_join(a_LIWC, by = c("Attend_File" = "Attend_Filename")) %>% 
+  mutate(Class_Size_Cat = case_when(Class_Size > 100 ~ "large", 
+                                    between(Class_Size, 31, 99)  ~ "medium",
+                                    between(Class_Size, 1, 30)  ~ "small",
+                                    TRUE ~ "NA")) %>% 
+  rename("Last_Name" = `Last Name`)
 
 write.csv(syl2, "data/masterDF.csv")

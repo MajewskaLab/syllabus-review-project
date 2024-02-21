@@ -90,7 +90,7 @@ Index,Department_Code,Course_Number,Division,Course_Number_Suffix,Year,Semester,
 89,VPHY,3100,upper,,2009,Fall,McGraw,PROFESSOR,tenure,Wells,LECTURER,non-tenure
 90,VPHY,3100,upper,,2010,Fall,McGraw,PROFESSOR,tenure,Wells,LECTURER,non-tenure
 91,BIOL,3110,upper,L,2011,Spring,Eisner,LECTURER,non-tenure,NA,,
-92,BIOL,3110,upper,L,2020,Fall,OÕDonnell,LECTURER,non-tenure,NA,,
+92,BIOL,3110,upper,L,2020,Fall,O?Donnell,LECTURER,non-tenure,NA,,
 93,BIOL,3110,upper,L,2022,Fall,Paz,LECTURER,non-tenure,NA,,
 94,BIOL,3110,upper,L,2013,Spring,Winternitz,PART TIME INSTRUCTOR     ,non-tenure,McKnight,GRADUATE TEACHING ASSISTANT,non-tenure
 95,ENTO,3140,upper,L,2022,Fall,Ross,PROFESSOR,tenure,Hettesheimer,TEMPORARY HOURLY PROFESSIONAL,non-tenure
@@ -238,7 +238,7 @@ Index,Department_Code,Course_Number,Division,Course_Number_Suffix,Year,Semester,
 237,PSYC,4130,upper,,2017,Fall,Holmes,PROFESSOR,tenure,Burton,GRADUATE TEACHING ASSISTANT,non-tenure
 238,PSYC,4130,upper,,2019,Spring,Howard,LECTURER,non-tenure,NA,,
 239,PSYC,4130,upper,,2020,Spring,McMains,GRADUATE TEACHING ASSISTANT,non-tenure,NA,,
-240,PSYC,4130,upper,,2011,Summer,Renzi,ASSISTANT PROFESSOR,tenure,OÕBrien,,
+240,PSYC,4130,upper,,2011,Summer,Renzi,ASSISTANT PROFESSOR,tenure,O?Brien,,
 241,PSYC,4130,upper,,2013,Spring,Suplita,LECTURER,non-tenure,NA,,
 242,PSYC,4130,upper,,2012,Summer,Wong,,,NA,,
 243,PSYC,4140,upper,,2018,Fall,Haas,ASSOCIATE PROFESSOR,tenure,NA,,
@@ -281,7 +281,7 @@ Index,Department_Code,Course_Number,Division,Course_Number_Suffix,Year,Semester,
 280,ECOL,4290,upper,,2014,Spring,Reitz,PROFESSOR,tenure,NA,,
 281,ECOL,4300,upper,,2021,Spring,Fox,RESEARCHER,non-tenure,Hazelton,ASSISTANT PROFESSOR,tenure
 282,ECOL,4300,upper,,2018,Spring,Peterson,PROFESSOR     ,tenure,Pelletier,GRADUATE TEACHING ASSISTANT,non-tenure
-283,MIBO,4300,upper,,2021,Fall,Mitchell,DEPT CHAIR/HEAD AC,tenure,Mr‡zek ,ASSOCIATE PROFESSOR,tenure
+283,MIBO,4300,upper,,2021,Fall,Mitchell,DEPT CHAIR/HEAD AC,tenure,Mr?zek ,ASSOCIATE PROFESSOR,tenure
 284,MIBO,4300,upper,,NA,Fall,Whitman,,tenure,NA,,
 285,BIOL,4300,upper,W,2021,Fall,Gallagher,LECTURER,non-tenure,NA,,
 286,ECOL,4310,upper,L,2020,Fall,Rosemond,PROFESSOR,tenure,Covich,PROFESSOR,tenure
@@ -331,7 +331,7 @@ Index,Department_Code,Course_Number,Division,Course_Number_Suffix,Year,Semester,
 330,ANTH,4790,upper,,2017,Fall,Tanner,ASSOCIATE PROFESSOR,tenure,NA,,
 331,MARS,4810,upper,,2021,Spring,Meile,PROFESSOR,tenure,Ohnemus,ASSISTANT PROFESSOR,tenure
 332,MARS,4810,upper,,2021,Spring,Ohnemus,ASSISTANT PROFESSOR,tenure,Meile,PROFESSOR,tenure
-333,BIOL,4910,upper,,NA,Fall,Mr‡zek,,,NA,,
+333,BIOL,4910,upper,,NA,Fall,Mr?zek,,,NA,,
 334,BIOL,4960,upper,,NA,Spring,Lewis,,tenure,NA,,
 335,KINS,4960,upper,L,2019,Spring,Schifino,GRADUATE TEACHING ASSISTANT,non-tenure,NA,,
 336,BIOL,5040,upper,,2014,Fall,Shields,ACADEMIC PROFESSIONAL,non-tenure,Formo,LABORATORY PROFESSIONAL,non-tenure
