@@ -41,4 +41,4 @@ syl2 <- left_join(syl, rank, by = c("Index")) %>%
   left_join(g_LIWC, by = c("Grading_File" = "Grade_Filename")) %>% 
   left_join(a_LIWC, by = c("Attend_File" = "Attend_Filename"))  
 
-
+write.csv(syl2, "data/masterDF.csv")
