@@ -3,7 +3,7 @@ Index,Department_Code,Course_Number,Division,Course_Number_Suffix,Year,Semester,
 2,BIOL,1103,lower,,2013,Fall,Barstow,NA,Yes,2-LO.txt,No,NA,1,0,0,0,0,,Yes,2-Grading.txt,Yes,2-Attend.txt,,formal,5,NA,NA,informative,5,formal,4
 3,BIOL,1103,lower,,NA,Fall,Beyette,NA,Yes,3-LO.txt,No,NA,0.35,0.1,0.15,0.15,0,,Yes,3-Grading.txt,Yes,3-Attend.txt,,direct,5,cooperative,5,informative,5,NA,NA
 4,BIOL,1103,lower,,2021,Spring,Brickman,Lewis,Yes,4-LO.txt,Yes,4-DEI.txt,0.48,0,0.1,0.42,0,,No,NA,Yes,4-Attend.txt,,NA,NA,NA,NA,direct,5,confindent,4
-5,BIOL,1103,lower,E,NA,NA,Richards,NA,Yes,5-LO.txt,No,NA,0,0.25,0.25,0.5,0,,Yes,5-Grading.txt,Yes,5-Attend.txt,,informative,5,NA,NA,informative,5,NA,NA
+5,BIOL,1103,lower,E,2021,Fall,Richards,NA,Yes,5-LO.txt,No,NA,0,0.25,0.25,0.5,0,,Yes,5-Grading.txt,Yes,5-Attend.txt,,informative,5,NA,NA,informative,5,NA,NA
 6,BIOL,1103,lower,L,2010,NA,Armstrong,Miller,No,NA,No,NA,0,0,0,1,0,,Yes,6-Grading.txt,Yes,6-Attend.txt,,informative,5,NA,NA,informative,5,neutral ,5
 7,BIOL,1103,lower,L,2009,NA,Barstow,Miller,No,NA,No,NA,0,0,0,1,0,,Yes,7-Grading.txt,Yes,7-Attend.txt,,informative,5,NA,NA,informative,5,neutral ,5
 8,BIOL,1103,lower,,2013,Spring,Lewis,Kukday,Yes,8-LO.txt,No,NA,0.4,0,0,0.6,0,,Yes,8-Grading.txt,No,NA,,informative,5,formal,5,NA,NA,NA,NA
