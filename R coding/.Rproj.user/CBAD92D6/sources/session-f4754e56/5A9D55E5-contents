@@ -27,7 +27,7 @@ colnames(a_LIWC) <- paste("Attend_", colnames((a_LIWC)), sep = "")
 #a_wordcount <- read_csv("data/updated_attendance_wordcount.csv")
 
 rank <- read_csv("data/rank.csv") %>% 
-  select(c(Index, Lead_Instructor, Lead_Rank,Lead_Track, Other_Rank, Other_Track))
+  select(c(Index, Lead_Instructor, Lead_Rank2,Lead_Track, Other_Rank2, Other_Track))
 
 enroll <- read_csv("data/enrollment.csv") %>% 
   select(c(Index, `Class Size`)) %>% 
