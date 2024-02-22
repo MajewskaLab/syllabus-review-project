@@ -29,6 +29,8 @@ ggplot(aes(y=GradeTone1, x=Lead_Rank2, size = n)) +
   geom_text(aes(label = n), size = 4) +
 theme_minimal(base_size = 5 * .pt)
  
+#summary(glm(GradeTone1 ~ Lead_Rank2, data = syl))
+
 df2<-syl %>% 
   group_by(Lead_Track, GradeTone1) %>% 
   count(total=n()) %>% 
@@ -357,12 +359,12 @@ syl %>%
 syl %>%  
   #filter(!is.na(Year)) %>% 
   #  filter(AttendWordCount<300) %>% 
-  # filter(Department_Code=="BIOL") %>% 
-  ggplot(aes(x = Attend_WC, y = Class_Size,color = Division)) +
+   filter(Course_Number_Suffix =="L") %>% 
+  ggplot(aes(y = Attend_WC, x = Class_Size,color = Division)) +
   geom_point()+
   geom_smooth(method = "lm",se = F)+
   theme_classic()+
-  labs(y = "Class Size", x = "Attendance Policy Word Count")+
+  labs(x = "Class Size", y = "Attendance Policy Word Count")+
   theme(axis.text=element_text(size=12),
         axis.title.x = element_text(size=12),
         axis.title.y = element_text(size = 12),
