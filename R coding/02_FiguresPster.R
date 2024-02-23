@@ -357,7 +357,7 @@ syl %>%
 syl %>%  
   #filter(!is.na(Year)) %>% 
   #  filter(AttendWordCount<300) %>% 
-   filter(Course_Number_Suffix =="L") %>% 
+  # filter(Course_Number_Suffix =="L") %>% 
   ggplot(aes(y = Attend_WC, x = Class_Size,color = Division)) +
   geom_point()+
   geom_smooth(method = "lm",se = F)+
@@ -405,6 +405,8 @@ syl %>%
         axis.text.y = element_text(size=12),
         legend.text = element_text(size=12),
         legend.title = element_text(size=12))
+
+# word count and ranking 
 
 
 #tiff("Fig3_pol_wordattend.tiff",width=7,height=3,units="in",res=300)
