@@ -3,7 +3,7 @@
     "path": "~/GitHub/syllabus-review-project/R coding/02_FiguresPster.R",
     "project_path": "02_FiguresPster.R",
     "type": "r_source",
-    "hash": "233229934",
+    "hash": "4230362195",
     "contents": "",
     "dirty": false,
     "created": 1707759531823.0,
@@ -12,15 +12,15 @@
     "properties": {
         "source_window_id": "",
         "Source": "Source",
-        "cursorPosition": "365,18",
-        "scrollLine": "357"
+        "cursorPosition": "0,0",
+        "scrollLine": "0"
     },
     "folds": "",
-    "lastKnownWriteTime": 1708624456,
+    "lastKnownWriteTime": 1708722532,
     "encoding": "UTF-8",
     "collab_server": "",
     "source_window": "",
-    "last_content_update": 1708624456110,
+    "last_content_update": 1708722532494,
     "read_only": false,
     "read_only_alternatives": []
 }

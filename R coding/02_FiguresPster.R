@@ -1,6 +1,4 @@
 ###
-
-
 ###clear all work space
 rm(list=ls()) 
 graphics.off()
@@ -546,3 +544,14 @@ df8 %>%
   scale_y_continuous(expand = c(0,0))+
   scale_fill_manual(values = c("black","gray",'#a6cee3','#1f78b4','#e31a1c','#fdbf6f','#cab2d6','#ff7f00', "yellow"))
 dev.off()
+
+
+
+
+
+library(PerformanceAnalytics)
+
+chart.Correlation(Data.num,
+                  method="spearman",
+                  histogram=TRUE,
+                  pch=16)
