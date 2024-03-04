@@ -1,1 +1,233 @@
-
+
+
+Syllabus &Schedule Spring 2012:
+
+The first part of this class will briefly introduce basic concepts and terminology to discuss parasites, vectors, and the (human) host and their relationship to each other. We will then explore a number of important diseases and the diverse set of helminths and protozoa causing them. We will highlight critical aspects of the biology of parasitism and parasitic disease as we go along. The lectures aim to span the entire field ranging from the molecular biology of the parasite to the implementation of control programs in the field. We will upload lectures in pdf and ppt format after each session.
+
+The class will be held on a Tuesday/Thursday schedule from 9:30-10:45 a.m. in room 175 of the Coverdell Center. Grading for this class is A-F. There will be two written exams and a cummulative final. All academic work must meet the standards contained in "A Culture of Honesty." Students are responsible for informing themselves about those standards before performing any academic work. More detailed information about academic honesty can be found at: http://www.uga.edu/ovpi/honesty/acadhon.htm Attendance will be taken each class, and students may not miss more than three classes. The course syllabus is a general plan for the course; deviations announced to the class by the instructor may be necessary.
+
+Contacts: Dr. Boris Striepen, striepen@cb.uga.edu; Dr. Silvia Moreno, smoreno@cb.uga.edu
+
+Check out the "Global Health: Voices from the Vanguard" lecture series.
+
+
+
+
+Lecture
+Introduction to this class (Schedule, Grading etc). Basic concepts in Parasitology. (Striepen)
+Vector Biology 101. General biology and diversity of arthropods. Introduction into key groups of medical
+interest. (Striepen)
+
+Notes
+pdf & ppt
+
+Resources
+CDC Division of Parasitic Diseses (Images, disease info, diagnostics)
+WHO-TOR Media (Images, Video clips etc.)
+
+
+Movie of tick feeding (courtesy of Dr. Glen Needham, OHSU)
+
+The diversity of spider and insect anatomy according to CB4500
+
+
+
+
+
+Immunity to infection -- a crash course (Tarleton)
+Fundamental concepts in Public Health and
+
+
+
+
+Jan 24, Tu
+
+
+
+
+
+Jan 26, Th
+
+
+
+
+Jan 31 , Tu
+Feb 2, Th
+
+
+
+Feb 7, Tu
+
+
+
+
+
+
+Feb 9, Th
+
+
+
+
+Feb 14, Tu
+Feb 16, Th
+
+
+Feb21 , Tu
+Feb 23, Th
+
+
+
+Feb 28, Tu
+
+Tropical Medicine (Colley)
+Trematodes or flukes. Introduction into platyhelminth biology, life cycles , human lung and liver fluke disease. (Striepen)
+Schistosomiasis (Moreno)
+
+
+
+
+Biology of cestodes or tape worms. (Moreno)
+Introduction into the biology of Nematodes (Striepen)
+
+
+Important human diseases caused by nematodes II, GI nematodes, immunity & hygiene hypothesis. (Striepen)
+
+Filariasis, Pathogenesis of river blindness and lympahtic filariasis, control programs (Striepen)
+
+Exam 1
+
+
+Introduction into Protozoa & Entamoeba histolytica and human ameobiasis (Striepen)
+Giardia & Trichomonas (Moreno)
+American Trypanosomes, Chagas disease a chronic
+infection. (Moreno)
+Leishmania and the identification of molecular factors governing host parasite interaction (Striepen)
+
+
+
+
+Watch the Leucochloridium movie
+
+
+
+
+
+
+Watch the schistosomiasis TV production Dr. Moreno showed in class
+
+Schistosoma life cycle animation at the Wellcome Trust web site.
+
+
+
+
+
+
+Find extensive information on the biology, epidemiology and history of trichinellosis at Trichinella.org
+Hookworm infection
+
+lmmunemodulation by worms and hygiene hypothesis
+
+Don't try this at home but wait for science to settle the effectiveness and risks: Attempts of self cure by worm infection
+Watch video productions on onchocerciasis & lymphatic filariasis and the community centered control programs at this WHO site
+
+
+
+
+
+
+Entamoeba movies showing contact dependent killing from the Petri lab
+
+
+
+
+
+
+CDC Chagas fact sheet. Chagas Foundation with links to news and recent scientific publication on Chagas.
+
+
+
+Leishmania movie at the WHO/TOR site.
+
+One World Health program on paramomycin and visceral leishmaniasis. Learn more about the program and the not-for-profit drug company concept.
+
+Mar 1 ,	 African Trypansomes I, Th	biology of parasite and tse-tse vector, sleeping
+sickness & Nagana (Moreno)
+Mar6,	African Trypansomes 11,
+Tu		antigenic variation and control of gene expression (Striepen)
+Mar 8,	 Trypanosomes 111 Th	(Moreno)
+Spring Break
+Mar 20,	Toxoplasma I, Biology of Tu	 the parasite and
+development of disease. (Moreno)
+Mar 22,	Toxoplasma 11, The cell Th	 biology of host cell
+invasion. (Striepen)
+Mar 27,	 Malaria I, Parasite Tu	biology, disease &
+treatment (Moreno)
+Ma 29,	Malaria II, Pathogenesis Th	 and drug treatment &
+          resistance (Striepen) Apr 3, Tu Exam II
+
+Apr 05,	 Pirosplasm, parasites Th	and cancer (Striepen)
+Apr 10,	 Cryptosporidium & other Tu	opportunistic infections
+associated with AlDS(Moreno)
+Apr 12,	 Chemotherapy of Th	parasitic diseases
+(Docampo)
+Apr 17,	Vaccines (Moreno) Tu
+Apr 19,	Developing Vaccines for Th	 Schistosomiasis (Harn)
+Apr 24,	 Vector control, new Tu	approaches (Moreno)
+Apr 26,	Review
+Th
+
+Eliminating Human African Trypanosomiasis: Where Do We Stand and What Comes Next? a PLoS Medicine review
+
+
+
+Short review paper summarizing the basic concepts of allelic exclusion (one and only one gene is expressed at a time) in trypanosomes.
+
+
+
+
+
+
+
+Review article on toxoplasmosis in Lancet.
+
+
+
+
+Good review article on apicomplexan invasion. To see movies again go to Dr. Ward's webstite. View animations of invasion and the gliding machine.
+Recent news articles on malaria treatment and the discussion on bed nets
+
+Check out animations of the malaria life cycle from WEHI & HHMI (note there are two parts)
+
+Questions will include Thursday's lecture on malaria pathogenesis.
+Check out the Border Cowboys. Animation of host cell invasion by the Theileria sporozoite.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Please also note that you can rate and comment on this class at the UGA - ELC site.
+
+
+
+
+
+
+
+
+
+
+
