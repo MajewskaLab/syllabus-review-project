@@ -1,6 +1,4 @@
 ###
-
-
 ###clear all work space
 rm(list=ls()) 
 graphics.off()
@@ -10,35 +8,87 @@ require(tidyverse)
 
 #import data
 syl <- read_csv("data/masterDF.csv") %>% 
-  filter(Department_Code != "PSYC") 
+  mutate(lab = case_when(Course_Number_Suffix == "L" ~ "yes",
+                         .default = "no"))
 
 syl$Class_Size_Cat<-factor(syl$Class_Size_Cat, levels = c("small", "medium", "large"), labels = c("small", "medium", "large"))
 
 df<-syl %>% 
   group_by(Lead_Rank2, GradeTone1) %>% 
-  count(total=n()) %>% 
+  summarise(n = n()) %>%
+  mutate(freq = n / sum(n)) %>%  
   filter(!is.na(GradeTone1)) %>% 
   filter(Lead_Rank2 %in% c("ASSISTANT PROFESSOR","ASSOCIATE PROFESSOR","PROFESSOR", "Dean Chair Director","LECTURER"))
 
 df$Lead_Rank2<-factor(df$Lead_Rank2, levels = c("ASSISTANT PROFESSOR","ASSOCIATE PROFESSOR","PROFESSOR","Dean Chair Director","LECTURER"), labels = c("Asst. Professor", "Assoc. Professor", "Full Professor", "Dean Chair Director","Lecturer"))
 
 df %>% 
-ggplot(aes(y=GradeTone1, x=Lead_Rank2, size = n)) +
+ggplot(aes(y=GradeTone1, x=Lead_Rank2, size = freq)) +
   geom_point(alpha=0.5) +
-  scale_size_continuous("Count", range = c(1, 20)) +
+  scale_size_continuous("Freq", range = c(1, 20)) +
   geom_text(aes(label = n), size = 4) +
 theme_minimal(base_size = 5 * .pt)
  
-#summary(glm(GradeTone1 ~ Lead_Rank2, data = syl))
+syl$GradeTone1<- as.factor(syl$GradeTone1)
+
+syl$Lead_Rank2<- as.factor(syl$Lead_Rank2)
+
+syl2<-syl %>% 
+  filter(Lead_Rank2 %in% c("ASSISTANT PROFESSOR","ASSOCIATE PROFESSOR","PROFESSOR", "Dean Chair Director","LECTURER"))
+
+  
+summary(lm(Exam_Grade_Prop ~ Year, data = syl))
+
+#summary(lm(Exam_Grade_Prop ~ Year, data = syl))
+
+summary(lm(Exam_Grade_Prop ~ Department_Code, data = syl))
+
+summary(lm(Exam_Grade_Prop ~ Lead_Rank2, data = syl2))
+
+summary(lm(All_WC ~ Year, data = syl2))
+
+summary(lm(Grade_WC ~ Year , data = syl))
+
+summary(lm(Attend_WC ~ Year, data = syl))
+
+summary(lm(All_you ~ Division + Class_Size_Cat, data = syl))
+
+summary(lm(All_i ~  Division, data = syl))
+
+
+summary(lm(Attend_WC ~ Lead_Rank2, data = syl2))
+
+summary(lm(Grade_WC ~ Lead_Rank2, data = syl2))
+
+summary(lm(All_WC ~ Lead_Rank2, data = syl2))
+
+
+summary(lm(Attend_WC ~ Lead_Track, data = syl))
+
+summary(lm(Grade_WC ~ Lead_Track, data = syl))
+
+summary(lm(All_WC ~ Lead_Track, data = syl))
+
+summary(lm(Exam_Grade_Prop ~ Lead_Track, data = syl))
+
+summary(lm(All_tone_neg ~ Lead_Track, data = syl))
+
+#multinomial logistic regression
+
+require(nnet)
+summary(multinom(GradeTone1~Lead_Track, data = syl2))
+
+summary(mlogit(GradeTone1~Lead_Track, syl))
 
 df2<-syl %>% 
   group_by(Lead_Track, GradeTone1) %>% 
-  count(total=n()) %>% 
+  summarise(n = n()) %>%
+  mutate(freq = n / sum(n)) %>% 
   filter(!is.na(GradeTone1)) %>% 
   filter(!is.na(Lead_Track))
   
 df2 %>% 
-  ggplot(aes(y=GradeTone1, x=Lead_Track, size = n )) +
+  ggplot(aes(y=GradeTone1, x=Lead_Track, size = freq )) +
   geom_point(alpha=0.5) +
   scale_size_continuous("Count", range = c(1, 20)) +
   geom_text(aes(label = n), size = 4) +
@@ -47,10 +97,11 @@ df2 %>%
 
 syl %>% 
   group_by(Class_Size_Cat, GradeTone1) %>% 
-  count(total=n()) %>% 
+  summarise(n = n()) %>%
+  mutate(freq = n / sum(n)) %>% 
   filter(!is.na(GradeTone1)) %>% 
   filter(!is.na(Class_Size_Cat)) %>% 
-ggplot(aes(y=GradeTone1, x=Class_Size_Cat, size = n)) +
+ggplot(aes(y=GradeTone1, x=Class_Size_Cat, size = freq)) +
   geom_point(alpha=0.5) +
   scale_size_continuous("Count", range = c(1, 20)) +
   geom_text(aes(label = n), size = 4) +
@@ -63,57 +114,71 @@ ggplot(aes(y=GradeTone1, x=Class_Size_Cat, size = n)) +
 
 df1<-syl %>% 
   group_by(Lead_Rank2, AttendTone1) %>% 
-  count(total=n()) %>% 
+  summarise(n = n()) %>%
+  mutate(freq = n / sum(n)) %>% 
   filter(!is.na(AttendTone1)) %>% 
   filter(Lead_Rank2 %in% c("ASSISTANT PROFESSOR","ASSOCIATE PROFESSOR","PROFESSOR", "Dean Chair Director","LECTURER"))
 
 df1$Lead_Rank2<-factor(df1$Lead_Rank2, levels = c("ASSISTANT PROFESSOR","ASSOCIATE PROFESSOR","PROFESSOR","Dean Chair Director","LECTURER"), labels = c("Asst. Professor", "Assoc. Professor", "Full Professor", "Dean Chair Director","Lecturer"))
 
 df1 %>% 
-  ggplot(aes(y=AttendTone1, x=Lead_Rank2, size = n)) +
+  ggplot(aes(y=AttendTone1, x=Lead_Rank2, size = freq)) +
   geom_point(alpha=0.5) +
-  scale_size_continuous("Count", range = c(1, 20)) +
+  scale_size_continuous("Freq", range = c(1, 20)) +
   geom_text(aes(label = n), size = 4) +
   theme_minimal(base_size = 5 * .pt)
 
 df3<-syl %>% 
   group_by(Lead_Track, AttendTone1) %>% 
-  count(total=n()) %>% 
+  summarise(n = n()) %>%
+  mutate(freq = n / sum(n)) %>% 
   filter(!is.na(AttendTone1)) %>% 
   filter(!is.na(Lead_Track))
 
 df3 %>% 
-  ggplot(aes(y=AttendTone1, x=Lead_Track, size = n )) +
+  ggplot(aes(y=AttendTone1, x=Lead_Track, size = freq )) +
   geom_point(alpha=0.5) +
-  scale_size_continuous("Count", range = c(1, 20)) +
+  scale_size_continuous("Freq", range = c(1, 20)) +
   geom_text(aes(label = n), size = 4) +
   theme_minimal(base_size = 5 * .pt)
 
 
 syl %>% 
   group_by(Class_Size_Cat, AttendTone1) %>% 
-  count(total=n()) %>% 
+  summarise(n = n()) %>%
+  mutate(freq = n / sum(n)) %>% 
   filter(!is.na(AttendTone1)) %>% 
   filter(!is.na(Class_Size_Cat)) %>% 
-  ggplot(aes(y=AttendTone1, x=Class_Size_Cat, size = n)) +
+  ggplot(aes(y=AttendTone1, x=Class_Size_Cat, size = freq)) +
   geom_point(alpha=0.5) +
-  scale_size_continuous("Count", range = c(1, 20)) +
+  scale_size_continuous("Freq", range = c(1, 20)) +
   geom_text(aes(label = n), size = 4) +
   theme_minimal(base_size = 5 * .pt)
 
+syl %>% 
+  group_by(Class_Size_Cat, GradeTone1) %>% 
+  summarise(n = n()) %>%
+  mutate(freq = n / sum(n)) %>% 
+  filter(!is.na(GradeTone1)) %>% 
+  filter(!is.na(Class_Size_Cat)) %>% 
+  ggplot(aes(y=GradeTone1, x=Class_Size_Cat, size = freq)) +
+  geom_point(alpha=0.5) +
+  scale_size_continuous("Freq", range = c(1, 20)) +
+  geom_text(aes(label = n), size = 4) +
+  theme_minimal(base_size = 5 * .pt)
+
+############################
 
 
 
-####################################################################
-
-
-
+############################
 
 syl %>% 
   filter(!is.na(Year)) %>% 
   group_by(Year) %>% 
-  summarize(count = n()) %>% 
-  ggplot(aes(x = factor(Year), y = count)) +
+  summarise(n = n()) %>%
+  mutate(freq = n / sum(n)) %>% 
+  ggplot(aes(x = factor(Year), y = freq)) +
   geom_bar(stat="identity")+
   theme_classic()+
   labs(y = "Count of syllabi", x = "Year")+
@@ -130,9 +195,10 @@ syl %>%
 syl %>% 
   filter(!is.na(Year)) %>%  
   group_by(Year, Learning_Outcomes_Present) %>% 
-  count(total = n()) %>% 
+  summarise(n = n()) %>%
+  mutate(freq = n / sum(n)) %>% 
   filter(Learning_Outcomes_Present=="Yes") %>% 
-  ggplot(aes(x = factor(Year), y = n)) +
+  ggplot(aes(x = factor(Year), y = freq)) +
   geom_bar(stat="identity")+
   theme_classic()+
   labs(y = "Syllabi with LOs", x = "Year")+
@@ -317,9 +383,6 @@ df4 %>%
         legend.text = element_text(size=12),
         legend.title = element_text(size=12))
 
-
-
-
 df4 %>% 
   filter(!is.na(Year)) %>% 
   filter(Department_Code=="BIOL") %>% 
@@ -336,6 +399,26 @@ ggplot(aes(x = factor(Year), y = Polarity)) +
         axis.text.y = element_text(size=12),
         legend.text = element_text(size=12),
         legend.title = element_text(size=12))
+
+
+
+syl %>% 
+  filter(!is.na(Year)) %>% 
+  #  filter(AttendWordCount<300) %>% 
+  # filter(Department_Code=="BIOL") %>% 
+  ggplot(aes(x = All_i, y = Class_Size, color = Division)) +
+  geom_point()+
+  geom_smooth(method = "lm",se = F)+
+  theme_classic()+
+  labs(y = "Class Size", x = "I")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+
 
 
 ####
@@ -356,10 +439,66 @@ syl %>%
         legend.text = element_text(size=12),
         legend.title = element_text(size=12))
 
+
+####
+syl %>% 
+  filter(!is.na(Year)) %>% 
+  #  filter(AttendWordCount<300) %>% 
+  # filter(Department_Code=="BIOL") %>% 
+  ggplot(aes(y = All_you, x = Division)) +
+  geom_boxplot()+
+ # geom_smooth(method = "lm",se = F)+
+  theme_classic()+
+  labs(y = "Class Size", x = "you")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+
+syl %>% 
+  filter(!is.na(Year)) %>% 
+  #  filter(AttendWordCount<300) %>% 
+   filter(lab=="no") %>% 
+  ggplot(aes(y = Exam_Grade_Prop, x = Division)) +
+  geom_boxplot()+
+  # geom_smooth(method = "lm",se = F)+
+  theme_classic()+
+  labs(y = "Class Size", x = "you")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+
+#read between class size 20 and 30
 syl %>%  
   #filter(!is.na(Year)) %>% 
   #  filter(AttendWordCount<300) %>% 
-  # filter(Course_Number_Suffix =="L") %>% 
+   filter(lab == "no") %>% 
+ # filter(Class_Size>40) %>% 
+  ggplot(aes(y = Attend_WC, x = Class_Size,color = Division)) +
+  geom_point()+
+  geom_smooth(method = "lm",se = F)+
+  theme_classic()+
+  labs(x = "Class Size", y = "Attendance Policy Word Count")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+
+syl %>%  
+  #filter(!is.na(Year)) %>% 
+  #  filter(AttendWordCount<300) %>% 
+  filter(lab == "yes") %>% 
+  # filter(Class_Size>40) %>% 
   ggplot(aes(y = Attend_WC, x = Class_Size,color = Division)) +
   geom_point()+
   geom_smooth(method = "lm",se = F)+
@@ -377,11 +516,11 @@ syl %>%
   #filter(!is.na(Year)) %>% 
  # filter(GradingWordCount<400) %>% 
   # filter(Department_Code=="BIOL") %>% 
-  ggplot(aes(x = Grade_WC, y = Class_Size, color = Division)) +
+  ggplot(aes(y = Grade_WC, x = Class_Size, color = Division)) +
   geom_point()+
   geom_smooth(method = "lm", se = F)+
   theme_classic()+
-  labs(y = "Class Size", x = "Grading Policy Word Count")+
+  labs(x = "Class Size", y = "Grading Policy Word Count")+
   theme(axis.text=element_text(size=12),
         axis.title.x = element_text(size=12),
         axis.title.y = element_text(size = 12),
@@ -548,3 +687,14 @@ df8 %>%
   scale_y_continuous(expand = c(0,0))+
   scale_fill_manual(values = c("black","gray",'#a6cee3','#1f78b4','#e31a1c','#fdbf6f','#cab2d6','#ff7f00', "yellow"))
 dev.off()
+
+
+
+
+
+library(PerformanceAnalytics)
+
+chart.Correlation(Data.num,
+                  method="spearman",
+                  histogram=TRUE,
+                  pch=16)
