@@ -330,78 +330,78 @@ syl %>%
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-df4 %>% 
-  filter(!is.na(Year)) %>% 
-  #filter(Department_Code=="BIOL") %>% 
-  ggplot(aes(x = factor(Year), y = Subjectivity)) +
-  geom_boxplot(fill = "#ffffb2")+
-  geom_point()+
-  theme_classic()+
-  labs(y = "Subjectivity", x = "")+
-  theme(axis.text=element_text(size=12),
-        axis.title.x = element_text(size=12),
-        axis.title.y = element_text(size = 12),
-        axis.text.x = element_text(size=10),
-        axis.text.y = element_text(size=12),
-        legend.text = element_text(size=12),
-        legend.title = element_text(size=12))
-
-####
-
-
-df4 %>% 
-  filter(!is.na(Year)) %>% 
-  filter(Department_Code=="BIOL") %>% 
-  ggplot(aes(x = factor(Year), y = Polarity)) +
-  geom_boxplot(fill = "#bdd7e7")+
-  geom_point()+
-  theme_classic()+
-  labs(y = "Polarity", x = "")+
-  theme(axis.text=element_text(size=12),
-        axis.title.x = element_text(size=12),
-        axis.title.y = element_text(size = 12),
-        axis.text.x = element_text(size=10),
-        axis.text.y = element_text(size=12),
-        legend.text = element_text(size=12),
-        legend.title = element_text(size=12))
-
-
-
-df4 %>% 
-  filter(!is.na(Year)) %>% 
-  filter(Department_Code=="BIOL") %>% 
-  ggplot(aes(x = factor(Year), y = Subjectivity)) +
-  geom_boxplot(fill = "#ffffb2")+
-  geom_point()+
-  theme_classic()+
-  labs(y = "Subjectivity", x = "")+
-  theme(axis.text=element_text(size=12),
-        axis.title.x = element_text(size=12),
-        axis.title.y = element_text(size = 12),
-        axis.text.x = element_text(size=10),
-        axis.text.y = element_text(size=12),
-        legend.text = element_text(size=12),
-        legend.title = element_text(size=12))
-
-df4 %>% 
-  filter(!is.na(Year)) %>% 
-  filter(Department_Code=="BIOL") %>% 
-  filter()
-ggplot(aes(x = factor(Year), y = Polarity)) +
-  geom_boxplot(fill = "#bdd7e7")+
-  geom_point()+
-  theme_classic()+
-  labs(y = "Polarity", x = "")+
-  theme(axis.text=element_text(size=12),
-        axis.title.x = element_text(size=12),
-        axis.title.y = element_text(size = 12),
-        axis.text.x = element_text(size=10),
-        axis.text.y = element_text(size=12),
-        legend.text = element_text(size=12),
-        legend.title = element_text(size=12))
-
-
-
+# syl %>% 
+#   filter(!is.na(Year)) %>% 
+#   #filter(Department_Code=="BIOL") %>% 
+#   ggplot(aes(x = factor(Year), y = Subjectivity)) +
+#   geom_boxplot(fill = "#ffffb2")+
+#   geom_point()+
+#   theme_classic()+
+#   labs(y = "Subjectivity", x = "")+
+#   theme(axis.text=element_text(size=12),
+#         axis.title.x = element_text(size=12),
+#         axis.title.y = element_text(size = 12),
+#         axis.text.x = element_text(size=10),
+#         axis.text.y = element_text(size=12),
+#         legend.text = element_text(size=12),
+#         legend.title = element_text(size=12))
+# 
+# ####
+# 
+# 
+# df4 %>% 
+#   filter(!is.na(Year)) %>% 
+#   filter(Department_Code=="BIOL") %>% 
+#   ggplot(aes(x = factor(Year), y = Polarity)) +
+#   geom_boxplot(fill = "#bdd7e7")+
+#   geom_point()+
+#   theme_classic()+
+#   labs(y = "Polarity", x = "")+
+#   theme(axis.text=element_text(size=12),
+#         axis.title.x = element_text(size=12),
+#         axis.title.y = element_text(size = 12),
+#         axis.text.x = element_text(size=10),
+#         axis.text.y = element_text(size=12),
+#         legend.text = element_text(size=12),
+#         legend.title = element_text(size=12))
+# 
+# 
+# 
+# df4 %>% 
+#   filter(!is.na(Year)) %>% 
+#   filter(Department_Code=="BIOL") %>% 
+#   ggplot(aes(x = factor(Year), y = Subjectivity)) +
+#   geom_boxplot(fill = "#ffffb2")+
+#   geom_point()+
+#   theme_classic()+
+#   labs(y = "Subjectivity", x = "")+
+#   theme(axis.text=element_text(size=12),
+#         axis.title.x = element_text(size=12),
+#         axis.title.y = element_text(size = 12),
+#         axis.text.x = element_text(size=10),
+#         axis.text.y = element_text(size=12),
+#         legend.text = element_text(size=12),
+#         legend.title = element_text(size=12))
+# 
+# df4 %>% 
+#   filter(!is.na(Year)) %>% 
+#   filter(Department_Code=="BIOL") %>% 
+#   filter()
+# ggplot(aes(x = factor(Year), y = Polarity)) +
+#   geom_boxplot(fill = "#bdd7e7")+
+#   geom_point()+
+#   theme_classic()+
+#   labs(y = "Polarity", x = "")+
+#   theme(axis.text=element_text(size=12),
+#         axis.title.x = element_text(size=12),
+#         axis.title.y = element_text(size = 12),
+#         axis.text.x = element_text(size=10),
+#         axis.text.y = element_text(size=12),
+#         legend.text = element_text(size=12),
+#         legend.title = element_text(size=12))
+# 
+# 
+# 
 syl %>% 
   filter(!is.na(Year)) %>% 
   #  filter(AttendWordCount<300) %>% 
@@ -449,7 +449,7 @@ syl %>%
   geom_boxplot()+
  # geom_smooth(method = "lm",se = F)+
   theme_classic()+
-  labs(y = "Class Size", x = "you")+
+  labs(y = "All you", x = "Division")+
   theme(axis.text=element_text(size=12),
         axis.title.x = element_text(size=12),
         axis.title.y = element_text(size = 12),
@@ -511,6 +511,14 @@ syl %>%
         axis.text.y = element_text(size=12),
         legend.text = element_text(size=12),
         legend.title = element_text(size=12))
+check<-
+syl %>%  
+  #filter(!is.na(Year)) %>% 
+  #  filter(AttendWordCount<300) %>% 
+   filter(lab == "yes") %>% 
+    filter(Class_Size<31 & Class_Size>19)
+
+write.csv(check, "checkAttenText.csv")
 
 syl %>% 
   #filter(!is.na(Year)) %>% 
@@ -587,7 +595,7 @@ syl %>%
         axis.text.y = element_text(size=12),
         legend.text = element_text(size=12),
         legend.title = element_text(size=12))
-dev.off()
+#dev.off()
 
 df5<-df4 %>% 
   filter(!is.na(AttendTone1)) %>% 
