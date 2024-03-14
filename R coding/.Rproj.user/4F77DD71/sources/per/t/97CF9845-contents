@@ -443,13 +443,32 @@ syl %>%
 ####
 syl %>% 
   filter(!is.na(Year)) %>% 
+  filter(lab=="no") %>% 
   #  filter(AttendWordCount<300) %>% 
   # filter(Department_Code=="BIOL") %>% 
   ggplot(aes(y = All_you, x = Division)) +
   geom_boxplot()+
  # geom_smooth(method = "lm",se = F)+
   theme_classic()+
-  labs(y = "Class Size", x = "you")+
+  labs(x = "division", y = "you")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+
+syl %>% 
+  filter(!is.na(Year)) %>% 
+  filter(lab=="no") %>% 
+  #  filter(AttendWordCount<300) %>% 
+  # filter(Department_Code=="BIOL") %>% 
+  ggplot(aes(y = All_Social, x = Division)) +
+  geom_boxplot()+
+  # geom_smooth(method = "lm",se = F)+
+  theme_classic()+
+  labs(x = "division", y = "social")+
   theme(axis.text=element_text(size=12),
         axis.title.x = element_text(size=12),
         axis.title.y = element_text(size = 12),
@@ -475,12 +494,47 @@ syl %>%
         legend.text = element_text(size=12),
         legend.title = element_text(size=12))
 
+syl %>% 
+  filter(!is.na(Year)) %>% 
+  #  filter(AttendWordCount<300) %>% 
+  filter(lab!="no") %>% 
+  ggplot(aes(y = Exam_Grade_Prop, x = Division)) +
+  geom_boxplot()+
+  # geom_smooth(method = "lm",se = F)+
+  theme_classic()+
+  labs(y = "Class Size", x = "you")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+
 #read between class size 20 and 30
 syl %>%  
   #filter(!is.na(Year)) %>% 
   #  filter(AttendWordCount<300) %>% 
    filter(lab == "no") %>% 
  # filter(Class_Size>40) %>% 
+  ggplot(aes(y = Attend_WC, x = Class_Size,color = Division)) +
+  geom_point()+
+  geom_smooth(method = "lm",se = F)+
+  theme_classic()+
+  labs(x = "Class Size", y = "Attendance Policy Word Count")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=10),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+
+syl %>%  
+  #filter(!is.na(Year)) %>% 
+  #  filter(AttendWordCount<300) %>% 
+  filter(lab != "no") %>% 
+  # filter(Class_Size>40) %>% 
   ggplot(aes(y = Attend_WC, x = Class_Size,color = Division)) +
   geom_point()+
   geom_smooth(method = "lm",se = F)+
