@@ -13,7 +13,14 @@ syl <- read_csv("data/masterDF.csv") %>%
 
 syl$Class_Size_Cat<-factor(syl$Class_Size_Cat, levels = c("small", "medium", "large"), labels = c("small", "medium", "large"))
 
-df<-syl %>% 
+dups<-read.csv("data/duplicates.csv") %>% 
+  select(c("duplicate", "remove", "Index"))
+
+syl<-left_join(dups, syl, by = "Index")%>% 
+  filter(remove =="no")
+
+
+df<-syl  %>% 
   group_by(Lead_Rank2, GradeTone1) %>% 
   summarise(n = n()) %>%
   mutate(freq = n / sum(n)) %>%  
@@ -86,14 +93,23 @@ df2<-syl %>%
   mutate(freq = n / sum(n)) %>% 
   filter(!is.na(GradeTone1)) %>% 
   filter(!is.na(Lead_Track))
-  
+ 
+tiff("Fig_facultygradetone.tiff",width=6,height=5.5,units="in",res=300) 
 df2 %>% 
   ggplot(aes(y=GradeTone1, x=Lead_Track, size = freq )) +
   geom_point(alpha=0.5) +
-  scale_size_continuous("Count", range = c(1, 20)) +
-  geom_text(aes(label = n), size = 4) +
-  theme_minimal(base_size = 5 * .pt)
-
+  scale_size_continuous("Proportion", range = c(1, 20)) +
+  geom_text(aes(label = n), size = 3) +
+ theme_classic()+
+  labs(x = "Faculty track", y = "Tone of grading policy")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=14),
+        axis.title.y = element_text(size = 14),
+        axis.text.x = element_text(size=12),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))
+dev.off()
 
 syl %>% 
   group_by(Class_Size_Cat, GradeTone1) %>% 
@@ -143,6 +159,8 @@ df3 %>%
   theme_minimal(base_size = 5 * .pt)
 
 
+
+
 syl %>% 
   group_by(Class_Size_Cat, AttendTone1) %>% 
   summarise(n = n()) %>%
@@ -169,7 +187,12 @@ syl %>%
 
 ############################
 
-
+df3 %>% 
+  ggplot(aes(y=GradeTone1, x=Lead_Track, size = freq )) +
+  geom_point(alpha=0.5) +
+  scale_size_continuous("Freq", range = c(1, 20)) +
+  geom_text(aes(label = n), size = 4) +
+  theme_minimal(base_size = 5 * .pt)
 
 ############################
 
@@ -515,6 +538,8 @@ syl %>%
         legend.text = element_text(size=12),
         legend.title = element_text(size=12))
 
+
+tiff("Fig4_attendwcclassdiv.tiff",width=5,height=4,units="in",res=300)
 #read between class size 20 and 30
 syl %>%  
   #filter(!is.na(Year)) %>% 
@@ -529,10 +554,37 @@ syl %>%
   theme(axis.text=element_text(size=12),
         axis.title.x = element_text(size=12),
         axis.title.y = element_text(size = 12),
-        axis.text.x = element_text(size=10),
+        axis.text.x = element_text(size=12),
         axis.text.y = element_text(size=12),
         legend.text = element_text(size=12),
-        legend.title = element_text(size=12))
+        legend.title = element_text(size=12))+
+  scale_color_manual(values = c("black",'#1f78b4'))
+dev.off()
+
+
+
+
+tiff("Fig4_gradedwcclassdiv.tiff",width=5,height=4,units="in",res=300)
+#read between class size 20 and 30
+syl %>%  
+  #filter(!is.na(Year)) %>% 
+  #  filter(AttendWordCount<300) %>% 
+  filter(lab == "no") %>% 
+  # filter(Class_Size>40) %>% 
+  ggplot(aes(y = Grade_WC, x = Class_Size,color = Division)) +
+  geom_point()+
+  geom_smooth(method = "lm",se = F)+
+  theme_classic()+
+  labs(x = "Class Size", y = "Grading Policy Word Count")+
+  theme(axis.text=element_text(size=12),
+        axis.title.x = element_text(size=12),
+        axis.title.y = element_text(size = 12),
+        axis.text.x = element_text(size=12),
+        axis.text.y = element_text(size=12),
+        legend.text = element_text(size=12),
+        legend.title = element_text(size=12))+
+  scale_color_manual(values = c("gray",'#a6cee3'))
+dev.off()
 
 syl %>%  
   #filter(!is.na(Year)) %>% 
