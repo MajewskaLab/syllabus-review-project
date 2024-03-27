@@ -1,0 +1,48 @@
+import os
+from collections import Counter
+import string
+
+
+def read_and_clean_text(filepath):
+    try:
+        with open(filepath, 'r', encoding='utf-8') as file:
+            text = file.read().lower()
+    except UnicodeDecodeError:
+        # If UTF-8 fails, try reading with ISO-8859-1 encoding
+        with open(filepath, 'r', encoding='ISO-8859-1') as file:
+            text = file.read().lower()
+    # Remove punctuation
+    text = text.translate(str.maketrans('', '', string.punctuation))
+    return text
+
+
+def compare_texts(text1, text2):
+    words1 = Counter(text1.split())
+    words2 = Counter(text2.split())
+    # Find the intersection of words between two texts
+    common_words = words1 & words2
+    # Calculate the percentage of common words in the smaller text
+    smaller_text_word_count = min(sum(words1.values()), sum(words2.values()))
+    return sum(common_words.values()) / smaller_text_word_count * 100
+
+
+def find_similar_texts(directory):
+    files = [os.path.join(directory, f) for f in os.listdir(directory) if f.endswith('.txt')]
+    texts = []
+    for filepath in files:
+        texts.append((filepath, read_and_clean_text(filepath)))
+
+    similar_files = []
+    for i in range(len(texts)):
+        for j in range(i + 1, len(texts)):
+            percentage = compare_texts(texts[i][1], texts[j][1])
+            if percentage >= 75:
+                similar_files.append((texts[i][0], texts[j][0], percentage))
+
+    return similar_files
+
+
+directory = r'C:\syllabus project 2-11\syllabus-review-project\syllabi\TextFiles'  # Change this to the path of your folder
+similar_texts = find_similar_texts(directory)
+for files in similar_texts:
+    print(f"Files '{files[0]}' and '{files[1]}' have {files[2]:.2f}% of the same words.")
